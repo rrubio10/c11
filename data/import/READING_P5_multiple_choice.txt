@@ -1,0 +1,1294 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=Are humans and animals really so different?
+source_pdf_pages=4
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 4 ---
+Test 7
+
+le about anthropomorphism ~ attributing human characteristics
+choose the answer (A, B, C or D) which you think fits best accord aio, 5
+S tothe
+te,
+
+parate answer sheet.
+
+Yotrare going to read an artic
+'animals. For questions 31-36;
+Mark your answers on the se,
+
+Are humans and animals really so different
+
+Science correspondent Martha Hamlin looks at whether enthropomorphism = attributing ;,
+characteristics or behavior to animals —is necessarily a bad thing 29 Puman
+
+The advent of behaviorism in the
+with its emphasis on conditioning att Sentury,
+reward and punishment, shifted public through
+animal intelligence. For most of the Mews of
+century, thetwo dominant schools of thought
+animals as either stimulus-response Machin, ee
+tobots endowed with useful instincts, [tis = oe
+no accident that this shift occurred during pee ae
+century that saw humans tearing down aoe
+
+One night not long-ago, an octopus named Inky
+hauled himself out of his tank at New Zealand's
+National Aquarium, heaved himself across the
+floor and: squeezed into a narrow drain leading to
+the Pacific Ocean. It was a Story fit for a children's
+film, /and was widely shared online. Part of the fun of
+the 'story and other such tales of 'escape, involving
+Creatures as diverse as rats and llamas, is indulging
+in a bit of knowing anthropomorphism: animals,
+T just like us! In the case of octopuses, this
+pleasure is especially pronounced, because the
+Sreatures' great intelligence comes Packaged in
+bodies so vastly dissimilar to our own. How is it
+that éight-tentacled sea creatures can open jars,
+recognize faces, usé coconut shells as portabie
+armor and even exhibit sophisticated play behavior?
+
+Anthropomorphism is often thought of as
+Unscientific, but Dr. Frans de Waal, who studies
+Primates such as gorillas and chimpanzees,
+argues that it is not in fact anthropomorphizing,
+but its Opposite — an unwillingness to recognize
+the humandike traits of animals, or what he terms
+anthropodenia! — that has too often characterized
+our attitudes toward other species. Analysing
+decades. of animal-cognition research, he shows
+that, with the exception of fully-developed language,
+animals have been observed exhibiting many of
+the key behaviors that were thought to distinguish
+Humans from animals: the ability to consider the
+past and the future, to demonstrate empathy and
+selfawareness, and to anticipate the motives of
+others: Animals, in other words, are far smarter than
+We've been giving them Credit for.
+
+-Anthropodenial, in de Waal's opinion, is a relatively
+modern phenomenon. In medieval and early
+
+mod ie, the animal mind was considered
+eee that animals could be
+
+far wn trial for crimes. And 3 ay =) He
+uineteenth century, many naturalists sought out the
+ee hitnan and animal intelligence.
+'The difference d between man and the higher
+animals, great as it is, certainly is one of degree and
+not of kind,' one nineteenth-century naturalist wrote.
+And this was no radical supporter of animal rights;
+jt was Charles Darwin, whose theory of evolution
+
+'changed the way we understand our place in
+14
+
+which ignored the welfare of the animals.
+
+Happily, de Waal believes that WE are em
+this dark period and learning to think of ee
+cognition as being on the same spectrum, though
+
+hot necessarily at thesame point, as that of humans. fine 6
+'The times are changing,' he writes. 'Everyone must "
+have noticed the avalanche of knowledge emerging
+over the last few decades, diffused over theinternet.'
+
+The most effective tests of animal intelligence,
+
+he argues, are designed with a Species' particular
+traits and skills in mind. Squirrels may fail at human
+memory tasks, but whereas we need apps to find
+our misplaced phones, they can remember where
+they've hidden tiny caches of nuts. In her book The
+Soul ofan Gctopus, naturalist Sy Montgomery points
+out that if an octopus were to measure human
+intelligence, it might test us on the number of color
+Patterns we can produce on our skin. Seeing us fail
+the test, it might conclude that we are pretty stupid.
+
+De Waal remains skeptical of Inky's happy ending.
+He points out that, while captive octopuses have
+escaped their tanks before, it's probably overly
+optimistic to think that Inky figured out how to get
+toa drain leading to the ocean. But de Waal is aware
+of the power of viral stories to fuel appreciation of
+animal intelligence. He once ran an experiment to
+test whether capuchin monkeys can experience
+envy. When the monkeys were rewarded with either
+cucumbers (a well-liked monkey food) or grapes (an
+even better one), those given cucumbers shrieked
+and raged at seeing their peers get the superior ee
+The study was published in a prominent scienti fe
+journal soon afterwards. But what really. Cony
+people of the findings was a one-minute video clip o
+the experiment, released ten years later. Just one
+the oddities of our particular kind of animal mind.
+
+Reading and Use of English
+
+what point does the writer make about octopuses in the first paragraph?
+31
+
+Their playful nature would make them a good subject for a children's film.
+& They are no more likely to be able to escane Captivity than any other creature: ey .
+g People still underestimate their intelligence despite what is known about their abilities. vy
+Z Their human-like behaviour surprises people more as they aresounlike humansin ¥
+
+appearance.
+the second paragraph, the writer says that Dr. Frans de Waal
+in
+
+32 E
+gave a more accurate name to a changing behaviour.
+
+. conducted experiments to back up his ay
+a came to a conclusion based on existing data.
+
+© questioned the research of other scientists.
+
+In the third paragraph, the writer emphasises the fact that
+in
+apting de Waal's ideas requires people to alter the way they see themselves.
+B pee knowledge has progressed considerably since medieval times.
+A he animals on trial was not universally considered reasonable.
+>) oa Waal's views are backed up by ihe work of respected scientists.
+
+33
+
+34 What does 'that inline 63 refer to?
+
+A dark peed
+cognition
+spectrum
+D point |
+35 What is the main idea put fonward in the tiith paragraph' :
+ble t imal abilities.
+A Even with technology, humans are unable to match ae oe
+B Being able to test other species doesn't mean a ani aN
+© TE ae ee chan hes views of animal intelligence:
+i or role in:changing:
+D The internet has played a mal e ging
+
+j inks it is significant that
+36 Inthe last paragraph, the writer thinks tie te
+
+ct on people than writt : oe
+
+(® avideo has more impa
+% people are interested in whether monk
+
+vic
+C de Waal waited ten years to a eee
+D people invent a happy ending tt 4.10)" =
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P5_Q31
+set_id=ADV5_T1_P5
+number=31
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P5_Q32
+set_id=ADV5_T1_P5
+number=32
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P5_Q33
+set_id=ADV5_T1_P5
+number=33
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P5_Q34
+set_id=ADV5_T1_P5
+number=34
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P5_Q35
+set_id=ADV5_T1_P5
+number=35
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P5_Q36
+set_id=ADV5_T1_P5
+number=36
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=Skip Lievsay – the sound master
+source_pdf_pages=14
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 14 ---
+ad-an
+
+choose the answer
+Mark youranswers on the separa'
+
+Rart 5)
+
+You are going to re: article about Skip Lievsay, a sound editor and mixer. For questi
+(A, B, G or D) which you think fits best according to the text. ONS 343
+
+te answer sheet.
+
+Skip Lievsay - the sound master
+Lievsay is a supervising sound editor and mixer for film-and television
+
+When I went to interview Skip Lievsay, | found
+an ordinary-looking man standing before the
+stacks of speakers and the'giant movie screen in
+his office. You might imagine that a preeminent
+sound engineer in the film Industry would have a
+dominating presence, but Lievsay doesn't fitthat
+mold. Whatever he does — whether it's operating
+the sound console or giving instructions to the
+employees in his New York offices — his demeanor
+is calm and his voice low. Underlying Lievsay's
+manner is his bellef, firmly held, that his work is
+about patience and craftsmanship, not novelty
+and sudden flashes of creativity. That's why he
+and the team he supervises spend days trying to
+get the right effect for a few seconds of film.
+Most film-goers take the audioscape of a
+movie for granted, and assume visual continuity is
+tnckier to achieve. But after amovie goes through
+picture editing, its handed off to the sound
+supervisor, who oversees the various elements of
+souni i design, editing and mixing. The distinction
+between these three processes is subtle: design
+and editing have more to do with the development
+
+and:
+
+integrating them inte each scene so everything
+
+sounds natural' — in other words, ensuring the
+
+Sound of a butterfly landing on a car hood isn't
+the Car backfiring.
+
+tral principle of sound editing that
+
+inva chas See 'partly engines, but what
+Shere eral, gut-level grist is lions' roars
+
+To be excellent, a sound edit
+net just a perceptive, trained ear Sa.
+gift for imagining what a sound could do, what
+sauce else might hear.
+espite Lievsay's contribution to
+hit films, you've probably never heard af hee
+
+He and his team are o
+legions involved in film ona ae the
+their painstaking, essential work far f ae
+limelight. But while he might not be 4 h ee
+name, he's famous among people sik usehold
+the public eye. Whereas some sound a nae
+might go for a layered effect, Lievsay is Tae
+finding the one, precise sound that eae
+everything we néed to know. He omy =
+that sound helps us orient ourselves in Sune
+a space and to ae other, and that our ears
+iow, precognitively, w
+sonieone farenein fc ew Sderot
+: s observed Lievsay as he Was reviewing
+cene of a man dropping in on his wife's
+dance rehearsal. The director had wanted a
+'matter-of-fact' sound to suggest the couple
+were carving a special moment out of something
+not special, but the scene felt 'dreamy'. Lievsay
+fiddied with a few dials fora moment, and then
+replayed the scene. It was then that ! realized
+something fundamental about film-making, and
+about sound editing in particular. 'd watched
+it before but now something extraordinary
+happened. | noticed a receptionist passing
+behind the wife. Lievsay had given her footsteps.
+Without the footsteps, I'd somehow never seen
+her; now, I saw her, and her presence — along
+with a few other Lievsay tweaks — suggested
+people at work, things happening outside the
+€ye contact between husband and wife. | saw
+the entire scene differently.
+
+There is something unnerving about
+spending time around individuals whose
+powers of perception suggest the existence of
+another layer of reality you are missing. The
+way Lieysay and his colleagues work requires a
+completely different — almost unnatural — way of
+experiencing sound. 'Our process reflects that
+each sound is important enough to deserve its
+own consideration,' Lievsay says.
+
+41 What do
+A He expects
+p Hesed!
+Gc Heist
+p He is re
+
+32
+A
+B
+Cc
+D
+33
+
+Th
+A
+
+B
+c
+D
+
+34 When talking about Lievsay's contri
+
+A is frustrated by the fact that so few people know who heis.
+s that his contemporaries share his range of skills.
+
+B doubt
+CG appreciates his determination to find
+
+what is the writer doing in the sect
+aspect of film making is most controversial
+
+explaining which
+hy a particular belief has become widespread
+
+e kind of errors W
+
+pointing out th ' :
+ion to how complex 2a sound supervisors work is
+
+drawing attenti
+
+@ writer mentions rain am
+riain sounds.can be replicated.
+
+Fn sounds stimulate certain emotions,
+ples of sounds that are common in'films.
+
+illustrate some of the hardest challenges for sound engineers:
+
+Reading and Use of English
+
+es the writer suggest about Skip Lievsay in the first paragraph?
+
+others to be equally committed to the job:
+nassuming for 2. person in his line of work.
+odest about the importance of his artistic output.
+juctant to project an authoritarian image-
+
+ond paragraph?
+
+hich affect a film's credibility
+
+id car engines in order to
+
+bution to film, the writer
+
+the perfect sound.
+
+D impliesthat he makes best use of sound in dramatic:scenes.
+
+35 What point is the writer making when he talks about the dance
+he most experienced sound editors have to follow instructions.
+
+36 From the text as a whole, we understand thi
+
+B Asmall aural cue can affect our underst
+C Sound and vision have an equal role to play in holdin
+D The wrong sound will cause distraction in a scene rather
+
+rehearsal scene?
+
+anding of narrative.
+
+at the writer
+
+A respects Lievsay for his professionalism.
+
+B_ is anxious to defend Lievsay from his 'critics.
+© intends to emulate Lievsay as a sound editor.
+D suspects that Lievsay may be har
+
+'d to impress. 4
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P5_Q31
+set_id=ADV5_T2_P5
+number=31
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P5_Q32
+set_id=ADV5_T2_P5
+number=32
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P5_Q33
+set_id=ADV5_T2_P5
+number=33
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P5_Q34
+set_id=ADV5_T2_P5
+number=34
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P5_Q35
+set_id=ADV5_T2_P5
+number=35
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P5_Q36
+set_id=ADV5_T2_P5
+number=36
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=Depot
+source_pdf_pages=24
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 24 ---
+Test 3 .
+Part 5
+You are going to read an article about a museum. For questions 31-36, choose th Et what does the writer suggest about Sees Reading and Use
+which you think fits best according te the text. e answer (A BC here has been some lo: Pot in the first aH
+Mark your answers on the separate answer sheet. B/D £ There is a mismatch bas poe to its co) Paragraph?
+=e #8 oe nits appea: struction, -
+¢ its modern style is inappropria France and j es
+Depo t = Dp Itlooks better when viewed fonda its function,
+e.
+Rotterdam's major art museum has just completed an additional building, called Bite 2 inthe second paragraph, the writer points deltas
+In the centre of Rotterdam, there's a building 'climate zones' for diff Be cspacity ono the chance to re-evaluat ee
+called Depot which, from a block away, looks like | While some pieces ar. erent kinds of artey B has the capacity to house the museum's ent; @ its policies. .
+something from a more advanced civilisation. Its display cabinets, light< on movable racks facts ial is aconfus ing place to find your way ar Ntire Collection,
+futuristic, mirrored glass walls curve UP 40metres, in sealed cabinets Bape Objects mee in 5 jeworth the money that was spent y around. :
+reflecting the iron-grey clouds and fractured city by appointment. Ex did: can only be ae et Sins onit. i
+skyline. This city's residents are used to cutting- security, but assured idn't go into detail es . at es sieatficant '
+edge architecture, but it's not, as a rule, seen in more than a match fc me that the building Pout 33 Forsie rel EX, asiun factor in the decision to by} -
+storage facilities which is, after all, what the word 'or art thieves, Swas By nl eee © build Depot was a desi
+'depot' implies. When | went to visit it, a couple of However, most museums don't h Roe Se of water damage in part of th nae j
+Rotterdammers were debating whether they liked to build such new facilities, Sone on™ 1 en the length of time the museum need le Museum.
+lity, it. They decided not, but snapped selfies in front suspect that, eye-catching ee People also ff € toincrease public awareness of how the ed to close for. s
+of it anyway. Eiebaetots they're more of a eens ge BY d ov ercro\ vding in the main cc, aah Operates,
+es was Sue as a home for artefacts does ae Mise the ap es Facthenice -. f uilding.
+longing to the Boijmans Van Beuningen museum million a fo see the 23 34 Inthe tou aragraph, the wri ;
+net ey displayed in its main building. To call Albert ae pes ene Visors au ee : & ¥ col writer explains how Depot
+a warehouse is, however, to do it aconsiderable across 19 insti pee nee eee ane so mielion m easant atmosphere os
+injustice. This isn't just a storage facility, but an even See eas nate LOS "2 artefacts in an en ng tigre
+attempt to let the public have some access to all raise these points with Ex hea pees lon wel € ensures that nothing « ni mares
+the artworks the A h Ex, nods. 'Sure. Projects = thing can be stolen.
+museum possesses. Instead of like ours are an experiment. Will anyone ? EES S from deteri
+locking a large proportion of its prized artefacts _ will they come to Depot, and not to the eantie - : ; — rating.
+away behind closed doors, the Boijmans has curated exhibitions in the museum?' He ae 35 What point is the w _
+ploughed €55 million into this project. AsTmet him 'We'll see.' REL ia | What point is the writer making about
+at the entrance, Sjarel Ex, the museum's director, ANGER ee ¥ open storage in the fifth paragraph?
+gestured towards the network of glass stairwells Atrain ride across the Netherlands from Rotterdam pues mS want to see whether it works
+above our heads and proudly explained that Amsterdam's Rijksmuseum is attempting its own ~ The expense means it can't ever be w before trying it.
+every single item the museum owned could be version of radical transparency: The museum's | © Itis unlikely to be as. 2 More than a publicity stunt:
+accommodated there. most famous painting, Rembrandt's The Night | D Itcould |e ve 'beneficial as it sounds in Ee
+Watch, is currently encased in a giant glass box. } "could lead to museum employees losi es ry.
+Seven years ago, the Boijmans' basement vaults Conservators work inside while members of the 6 Why does ing their jobs.
+= the old storage area — flooded. Though damage public watch. Rijksmuseum's director, Taco Dibbits, / does the writer ae "
+was minimal, it was obvious the museum needed —_ concedes that locking it in the conservation Boijmans? ion the Rijksmuseum in Amsterdam in this arti
+to upgrade, particularly as 90% of Rotterdam is studio for years wasn't realistic — it's the — Ric is article about the
+below sea level. But instead of erecting something most people visit the museum. Ree ae B Public opinion on the
+anonymous far from the city centre, Ex optedfora display has benefits, too. 'For museums, the OT 3 Ithas a simitar tole of museums is similar in both cities
+high-profile location. 'So much of what museums forward is how you share research, Lee the © Public react objective but with a different type of a
+do happens in the dark. We wanted to bring some of 'We sometimes underestimate bow ee g uP b) The changes it to its latest proposals has 2 'project.
+fit He eU i Julewe Ver already plans to close public is. For both Dene = iS ae their role. ~nanges it is Making are zi been similar.
+the main building for seven years for renovation, _ marks @ shift in the way museums transparene) ' occurring in a similar time frame.
+so the new building also helped bridge this gap. 'We have to think muc ae ee pibbits on
+Despite being open to the public, the conditions in ne aga Oy the same,' He a has t© [ #
+Depot are as good if not better than in a regular ie about "and show them — ae ys
+storage facility: high-grade air conditioning keeps ee changing." 's
+the environment dust-free, and there are five
+58 d
+59
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P5_Q31
+set_id=ADV5_T3_P5
+number=31
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P5_Q32
+set_id=ADV5_T3_P5
+number=32
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P5_Q33
+set_id=ADV5_T3_P5
+number=33
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P5_Q34
+set_id=ADV5_T3_P5
+number=34
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P5_Q35
+set_id=ADV5_T3_P5
+number=35
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P5_Q36
+set_id=ADV5_T3_P5
+number=36
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=The importance of financial literacy
+source_pdf_pages=28
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 28 ---
+You are going to read an article about financi
+
+Part 5
+al literacy. For questions 31-36, choose the 2,,
+SWer
+
+(A, B, C or D) which you think fits best according to the text.
+Mark your answers on the separate answer sheet.
+
+The importance of financial literacy
+
+Everybody needs to have a grasp of basic finance in today's society
+
+Growing up in an unremarkable small town in
+industrial South Wales, with a music teacher dad
+and a psychologist mum, there weren't many
+signs to suggest that I'd take up a career in finance.
+Then, for my 16th birthday, my father gave me a
+present: £100-worth of shares in a large national
+utility company that had just been privatised. I'm
+still in the dark as to what prompted that gesture.
+I was hardly a star pupil when it came to maths,
+but for me it marked a turning point. For months
+afterwards, I'd check the share-price pages of the
+daily newspaper. If the stock was up a % pence, I'd
+rejoice that I was much better off. Primitive stuff.
+And yet that early interest has taken me to my
+current job as a financial consultant, and financial
+literacy has been the cornerstone of my career.
+
+The contrast between my professional life and
+the realities of everyday life in northeast London
+where I now live, with its stark gap between the
+haves and have-nots, is among the factors that
+have led me to try to make a difference. In the
+coming months, I'm going to have a role in the
+establishment of a charitable foundation aimed
+at improving financial literacy. We no longer live
+in a world where the approachable staff at the
+local bank represent the average person's only
+point of contact with the world of finance. The
+shift towards a bewildering choice of financial
+products, self-determined retirement planning
+and easy credit for impulse buys on the internet
+all combine to make a firm grasp of basic finance
+a fundamental necessity of life, and it affects
+people of all generations: your mobile phone
+contract might be great value or a horrible
+rip-off. Needless to say, there's no shortage
+of unscrupulous operators out there ready
+to exploit the unwary. All of these are reasons
+enough to be launching this initiative, and what
+better time than the present to do so.
+
+To my shame, | hadn't been back to my old school
+in the years since I left. But I was determined to
+find out what the current generation of students
+
+80
+
+felt about their financial futures, and it
+like the right place to start. In a brief «
+and-answer session, 1 was predictably
+about topics like student loans, and for advie
+how to break into the job market. The que,
+from the final-year students were sm,
+revealed a genuine level of concern regardi
+economic state of the country, but few tous
+on the realm of personal finance. Where they is
+the questions struck me as fairly basic given
+financial literacy is being promoted in schow.
+across the country nowadays. In practic
+provision is patchy — as in much of the world.
+and this could well be the reason ns
+
+It seems there is even less to engage
+generation in the practicalities of basic pe
+finance than was the case in my day. Teenager:
+make up one of the groups in society w
+financial literacy foundation plans to focus
+People in each of the groups identified h
+been shown by academic research to fall belo
+average levels of understanding in basic finance
+increasing the likelihood that they will be unab)
+to budget efficiently, will get into unsustainable
+debt or will be open to exploitation.
+
+w
+
+The charitable foundation aims to create a
+series of educational videos and other material,
+and will be collaborating with existing charities
+to distribute them at national level. Industry
+professionals will be invited to contribute both
+financially and as volunteers to help promote the
+cause. Andy Haldane, the former Bank of England
+chief economist and vice-chair of the National
+Numeracy Campaign, which promotes everyday
+maths skills, is hoping that the charity will be
+able to channel financial expertise, particularly
+that of the major financial institutions in the
+capital, for the greater good. 'What a shame it
+is that we have a huge repository of financial
+literacy in one tiny part of the country and huge
+need for it everywhere else,' he says. 'We want to
+
+spread some of that knowledge.'
+
+jers father bought her shares
+TPE encourage her unexpectag ree Ot,
+re terest in gi
+feeroasons that remain unciear te he itange,
+a SVEN noy
+
+Om,
+
+A
+2g ang ta
+Of
+
+Be itreflected the subjects she y, i
+g pcause he Could See that che jag Mngt
+
+al talent tite
+EN for
+dures,
+
+'ancial
+
+pe writer Nas chosen to participate in the fin
+
+2 voluntary activities she's been i,
+Ps ing some Social inequalities ee in
+B that she's been doing in her jocay «2nd
+awish to help young people who certs Pa
+ag fOr adem
+inthe second paragraph, the writer makes 'he
+oe Pint that peop
+
+cted to take greater Fesponsibility for
+
+\ from a wider range of financia) Prody se
+8 re more likely than ever to fall victim to citi
+ip arebecoming vulnerable to financial problems 9
+
+litera
+
+CY Project
+
+yas,
+regu of
+
+cial deci
+io
+tee
+
+Ket,
+Ctivities,
+ata Younger age
+3 i made an impression on the writer when she Visited st
+A how concerned they were about certain key issties
+B pow littie things had changed since her own 'time they
+¢ how uninformed they were about current Affairs in ee
+D how ineffective one educational initiative Seemed to a been,
+
+ludents in her olg school?
+
+9§ Thewriter mentions academic research in the fourth paragraph to Support he
+fe point that
+
+A aspects of financial planning should be taught in all Schools,
+
+B adults will probably benefit most from help with financial planning
+
+© help with financial planning should target specific sectors of society,
+
+D 'Practical help with financial planning is more useful than formal instruction,
+
+% From the final paragraph, we understand that the charitable foundation
+
+A fas already gained broad support across the financial sector,
+
+B has plans to set up parallel schemes in a range of communities.
+
+© has secured sufficient funding to produce some audio-visual resources.
+D has agreed to work with partner organisations that have compatible aims.
+
+Bt
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P5_Q31
+set_id=ADV5_T4_P5
+number=31
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P5_Q32
+set_id=ADV5_T4_P5
+number=32
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P5_Q33
+set_id=ADV5_T4_P5
+number=33
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P5_Q34
+set_id=ADV5_T4_P5
+number=34
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P5_Q35
+set_id=ADV5_T4_P5
+number=35
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P5_Q36
+set_id=ADV5_T4_P5
+number=36
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=Introduction to a book about the history of colour
+source_pdf_pages=55,60
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 5
+
+You are going to read the introduction to a book about the history of colour. For questions 31 – 36,
+choose the answer (A, B, C or D) which you think fits best according to the text.
+
+Mark your answers on the separate answer sheet.
+
+Introduction to a book about the history of colour
+This book examines how the ever-changing role of colour in society has been reflected in manuscripts, stained
+glass, clothing, painting and popular culture. Colour is a natural phenomenon, of course, but it is also a complex
+cultural construct that resists generalization and, indeed, analysis itself. No doubt this is why serious works
+devoted to colour are rare, and rarer still are those that aim to study it in historical context. Many authors search
+for the universal or archetypal truths they imagine reside in colour, but for the historian, such truths do not exist.
+Colour is first and foremost a social phenomenon. There is no transcultural truth to colour perception, despite
+what many books based on poorly grasped neurobiology or – even worse – on pseudoesoteric pop psychology
+would have us believe. Such books unfortunately clutter the bibliography on the subject, and even do it harm.
+
+The silence of historians on the subject of colour, or more particularly their difficulty in conceiving colour as a
+subject separate from other historical phenomena, is the result of three different sets of problems. The first
+concerns documentation and preservation. We see the colours transmitted to us by the past as time has altered
+them and not as they were originally. Moreover, we see them under light conditions that often are entirely
+different from those known by past societies. And finally, over the decades we have developed the habit of
+looking at objects from the past in black-and-white photographs and, despite the current diffusion of colour
+photography, our ways of thinking about and reacting to these objects seem to have remained more or less black
+and white.
+
+The second set of problems concerns methodology. As soon as the historian seeks to study colour, he must
+grapple with a host of factors all at once: physics, chemistry, materials, and techniques of production, as well as
+iconography, ideology, and the symbolic meanings that colours convey. How to make sense of all of these
+elements? How can one establish an analytical model facilitating the study of images and coloured objects? No
+researcher, no method, has yet been able to resolve these problems, because among the numerous facts
+pertaining to colour, a researcher tends to select those facts that support his study and to conveniently forget
+those that contradict it. This is clearly a poor way to conduct research. And it is made worse by the temptation
+to apply to the objects and images of a given historical period information found in texts of that period. The
+proper method – at least in the first phase of analysis – is to proceed as do palaeontologists (who must study
+cave paintings without the aid of texts): by extrapolating from the images and the objects themselves a logic and
+a system based on various concrete factors such as the rate of occurrence of particular objects and motifs, their
+distribution and disposition. In short, one undertakes the internal structural analysis with which any study of an
+image or coloured object should begin.
+
+The third set of problems is philosophical: it is wrong to project our own conceptions and definitions of colour
+onto the images, objects and monuments of past centuries. Our judgements and values are not those of previous
+societies (and no doubt they will change again in the future). For the writer-historian looking at the definitions
+and taxonomy of colour, the danger of anachronism is very real. For example, the spectrum with its natural
+order of colours was unknown before the seventeenth century, while the notion of primary and secondary
+colours did not become common until the nineteenth century. These are not eternal notions but stages in the
+ever-changing history of knowledge.
+
+I have reflected on such issues at greater length in my previous work, so while the present book does address
+certain of them, for the most part it is devoted to other topics. Nor is it concerned only with the history of colour
+in images and artworks – in any case that area still has many gaps to be filled. Rather, the aim of this book is to
+examine all kinds of objects in order to consider the different facets of the history of colour and to show how far
+beyond the artistic sphere this history reaches. The history of painting is one thing; that of colour is another,
+much larger, question. Most studies devoted to the history of colour err in considering only the pictorial, artistic
+or scientific realms. But the lessons to be learned from colour and its real interest lie elsewhere.
+
+31 What problem regarding colour does the writer explain in the first paragraph?
+
+A Our view of colour is strongly affected by changing fashion.
+B Analysis is complicated by the bewildering number of natural colours.
+C Colours can have different associations in different parts of the world.
+D Certain popular books have dismissed colour as insignificant.
+
+32 What is the first reason the writer gives for the lack of academic work on the history of colour?
+
+A There are problems of reliability associated with the artefacts available.
+B Historians have seen colour as being outside their field of expertise.
+C Colour has been rather looked down upon as a fit subject for academic study.
+D Very little documentation exists for historians to use.
+
+33 The writer suggests that the priority when conducting historical research on colour is to
+
+A ignore the interpretations of other modern day historians.
+B focus one's interest as far back as the prehistoric era.
+C find some way of organising the mass of available data.
+D relate pictures to information from other sources.
+
+34 In the fourth paragraph, the writer says that the historian writing about colour should be careful
+
+A not to analyse in an old-fashioned way.
+B when making basic distinctions between key ideas.
+C not to make unwise predictions.
+D when using certain terms and concepts.
+
+35 In the fifth paragraph, the writer says there needs to be further research done on
+
+A the history of colour in relation to objects in the world around us.
+B the concerns he has raised in an earlier publication.
+C the many ways in which artists have used colour over the years.
+D the relationship between artistic works and the history of colour.
+
+36 An idea recurring in the text is that people who have studied colour have
+
+A failed to keep up with scientific developments.
+B not understood its global significance.
+C found it difficult to be fully objective.
+D been muddled about their basic aims.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P5_Q31
+set_id=SAMPLE1_P5
+number=31
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P5_Q32
+set_id=SAMPLE1_P5
+number=32
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P5_Q33
+set_id=SAMPLE1_P5
+number=33
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P5_Q34
+set_id=SAMPLE1_P5
+number=34
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P5_Q35
+set_id=SAMPLE1_P5
+number=35
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P5_Q36
+set_id=SAMPLE1_P5
+number=36
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P5
+section=READING
+part=5
+type=multiple_choice_reading
+level=C1
+title=The internet today
+source_pdf_pages=43
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 5
+31 The reviewer starts with the metaphor of a city map in order to illustrate
+You are going to read a review of two books about the internet. For questions 31 – 36, choose the
+answer (A, B, C or D) which you think fits best according to the text. A the difficulty in understanding the complexity of the internet.
+B the degree to which the internet changes as time passes.
+Mark your answers on the separate answer sheet. C the difference between potential and real internet use.
+D the importance of the internet in people's lives today.
+
+The internet today 32 What do the words 'that test' in line 13 refer to?
+James Baxter reviews two books about the internet: Rewire by Ethan Zuckerman, and Untangling the Web by A providing more widespread access to information
+Aleks Krotoski. B connecting in a substantial way with other cultures
+C establishing principles for developing the internet
+Open a street map of any city and you see a diagram of all the possible routes one could take in traversing or D accepting that not everyone in the world is the same
+exploring it. Superimpose on the street map the actual traffic flows that are observed and you see quite a different
+city: one of flows. The flows show how people actually travel in the city, as distinct from how they could. This
+33 What point is made about the internet in the third paragraph?
+helps in thinking about the internet and digital technology generally. In itself, the technology has vast possibilities,
+as several recent books emphasise, but what we actually wind up doing with it is, at any point in time, largely
+unknown. A People often struggle to find what they are looking for on it.
+Ethan Zuckerman is excited by the possibilities the web provides for linking far-flung populations, for B It influences how people relate to family and friends.
+sampling different ways of life, for making us all digital cosmopolitans. His central thesis, however, is that while the C All users have some responsibility for its evolution.
+internet does, in principle, enable everyone to become genuinely cosmopolitan, in practice it does nothing of the D The way in which it works is far from neutral.
+kind. As the philosopher Anthony Appiah puts it, true cosmopolitanism 'challenges us to embrace what is rich,
+READING AND
+
+productive and creative' about differences; in other words, to go beyond merely being tolerant of those who are 34 What does the reviewer suggest about Zuckerman in the fifth paragraph?
+different. Much of the early part of Rewire is taken up with demonstrating the extent to which the internet, and our
+use of it, fails that test. line 13 A His recommendations are less impressive than his analysis.
+EXAM
+
+'We shape our tools,' said the philosopher Marshall McLuhan, 'and afterwards they shape us.' This adage is B He uses terms that are harder to understand than need be.
+USE OF
+
+corroborated every time most of us go online. We've built information tools (like search and social networking C He has the same failings that he identifies in other people.
+systems) that embody our biases towards things that affect those who are closest to us. They give us the information D His account of important developments is too negative.
+we think we want, but not necessarily the information we might need.
+Despite all the connectivity, we are probably as ignorant about other societies as we were when television and 35 Which of the following words is used to suggest disapproval?
+| LEVEL
+
+newspapers were our main information sources. In fact, Zuckerman argues, in some ways we were better then,
+because serious mainstream media outlets saw it as their professional duty to 'curate' the flow of news; there were
+ENGLISH
+
+A rounds (line 36)
+editorial gatekeepers who determined a 'news agenda' of what was and wasn't important. But, as the internet went B contraption (line 36)
+mainstream, we switched from curation to search, and the traditional gatekeepers became less powerful. In some C stuff (line 38)
+respects, this was good because it weakened large multimedia conglomerates, but it had the unanticipated D sniff (line 40)
+| PAPER
+
+consequence of increasing the power of digital search tools – and, indirectly, the power of the corporations
+providing them.
+36 What does the reviewer suggest about Aleks Krotoski in the final paragraph?
+Zuckerman – a true cosmopolitan who co-founded a web service dedicated to realising the net's capacity to
+enable anyone's voice to be heard – provides an instructive contrast to excessively optimistic narratives about the
+transformative power of networked technology, and a powerful diagnosis of what's wrong. Where he runs out of A Her insight into the nature of online friendship is perceptive.
+steam somewhat is in contemplating possible solutions, of which he identifies three: 'transparent translation' – B She has been influenced by Ethan Zuckerman.
+simply automated, accurate translation between all languages; 'bridge figures' – bloggers who explain ideas from C People are often misled by her academic credentials.
+one culture to another; and 'engineered serendipity' – basically, technology for enabling us to escape from filters D She takes on too many different roles.
+| SAMPLE PAPER 2
+
+that limit search and networking systems. Eventually, the technology will deliver transparent translation; cloning
+Ethan Zuckerman would provide a supply of bridge figures, but, for now, we will have to make do with pale
+imitations. Engineering serendipity, however, is a tougher proposition.
+Aleks Krotoski might be able to help. She is a keen observer of our information ecosystem, and has been
+doing the conference rounds with an intriguing contraption called the 'Serendipity Engine', which is two parts art line 36
+installation and one part teaching tool. Untangling the Web is a collection of 17 thoughtful essays on the impact of
+comprehensive networking on our lives. They cover the spectrum of stuff we need to think about – from the obvious line 38
+(like privacy, identity and the social impact of the net) to topics which don't receive enough attention (for example,
+what medics, with a sniff, call 'cyberchondria' – how the net can increase health anxieties). line 40
+Although she's a glamorous media 'star' (having fronted a TV series about the internet), people
+underestimate Krotoski at their peril. She's a rare combination of academic, geek, reporter and essayist, which her
+chapter on the concept of friendship online exemplifies: she's read what the key social theorists say on the subject,
+but she's also alert to what she experiences as 'emotional anaemia' – 'the sense that.....you might not feel the online
+love from the people you should, because your nearest and dearest may be drowned out in the ocean of sociability.'
+Which, in a way, brings us back to Zuckerman's thoughts about the difference between what networked technology
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+could do and what it actually does.
+SAMPLE PAPER
+
+23
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+24
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P5_Q31
+set_id=SAMPLE2_P5
+number=31
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P5_Q32
+set_id=SAMPLE2_P5
+number=32
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P5_Q33
+set_id=SAMPLE2_P5
+number=33
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P5_Q34
+set_id=SAMPLE2_P5
+number=34
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P5_Q35
+set_id=SAMPLE2_P5
+number=35
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P5_Q36
+set_id=SAMPLE2_P5
+number=36
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]

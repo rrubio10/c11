@@ -1,0 +1,833 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Welcome to Mars
+source_pdf_pages=2
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap.
+There is an example at the beginning (0).
+Mark your answers on the separate answer sheet.
+
+Example:
+0 A active B vigorous C forceful D alert
+
+A B C D
+0 o o o
+
+Welcome to Mars
+
+Mauna Loa in Hawaii is among the world's most (0) ........ volcanoes. However, according
+to NASA (the National Aeronautics and Space Administration), this (1) ........ spot is ideal for
+(2) ........ a space mission to Mars. Six scientists were therefore housed near the volcano in a
+small white dome for an 8-month experiment, the (3) ........ of which was to (4) ........ information
+on how lengthy Mars missions could psychologically affect astronauts. The six scientists closed
+themselves off from the world in order to undertake studies into the demands of life on Mars.
+Their task was to see how isolation and the lack of privacy affect social (5) ........ of would-be
+explorers' lives.
+
+Conditions on Mars are tough, so the six had to manage without many of life's (6) ........ , like
+fresh fruit and unlimited water. They only left the dome once a week to (7) ........ field studies in
+the volcanic crater, wearing suits similar to those being designed for Mars astronauts.
+
+The research findings are expected to have considerable (8) ........ on NASA's decisions when
+putting together crews for future missions to Mars.
+
+8
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+
+Cambridge University Press & Assessment
+978-1-009-80887-3 — C1 Advanced 5 Student's Book without Answers with Digital Pack
+
+Excerpt
+More Information
+
+Reading and Use of English
+
+1 A uncertain B unfitting C unbelievable D unlikely
+
+2 A representing B pretending C simulating D imitating
+
+3 A reason B object C ideal D ambition
+
+4 A achieve B store C gather D deduce
+
+5 A views B points C aspects D qualities
+
+6 A delights B fortunes C merits D luxuries
+
+7 A conduct B operate C practise D follow
+
+8 A relevance B connection C influence D application
+
+9
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+
+Cambridge University Press & Assessment
+978-1-009-80887-3 — C1 Advanced 5 Student's Book without Answers with Digital Pack
+
+Excerpt
+More Information
+
+Test 1
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P1_Q01
+set_id=ADV5_T1_P1
+number=1
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q02
+set_id=ADV5_T1_P1
+number=2
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q03
+set_id=ADV5_T1_P1
+number=3
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q04
+set_id=ADV5_T1_P1
+number=4
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q05
+set_id=ADV5_T1_P1
+number=5
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q06
+set_id=ADV5_T1_P1
+number=6
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q07
+set_id=ADV5_T1_P1
+number=7
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P1_Q08
+set_id=ADV5_T1_P1
+number=8
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=How do frogs jump such long distances?
+source_pdf_pages=12
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — How do frogs jump such long distances?
+For questions 1–8, choose A, B, C or D.
+
+When (0) reviewing whether it is muscle strength that produces the powerful movements of certain animals, it is important to remember frogs. A mistaken (1) ______ many of us make is that animals which produce powerful movements attain this power through having large muscles. But the abilities of frogs (2) ______ to the fact that this is not always the (3) ______. They lack huge muscles, yet are capable of leaping very long distances. Researchers Thomas Roberts and Henry Astley have shown that, in fact, the secret of frogs' abilities (4) ______ in elastic mechanisms in their legs.
+
+They used 3D X-ray video and scanning technology to keep (5) ______ of changes in a frog's legs before, during and after a leap. The images supply (6) ______ of how the leg tendons act like springs, releasing stored-up energy to propel the frog forward. This is what accounts for the truly exceptional jumping abilities of frogs. According to Roberts, while frogs are interesting in their own (7) ______, their study also provides (8) ______ into how elastic mechanisms in tendons may work in animal movement generally.
+
+1 A outlook | B reasoning | C assumption | D logic
+2 A point | B indicate | C refer | D illustrate
+3 A condition | B matter | C case | D model
+4 A holds | B lies | C stems | D stays
+5 A pace | B touch | C place | D track
+6 A data | B material | C evidence | D backing
+7 A right | B concern | C style | D aspect
+8 A understanding | B vision | C perception | D insight
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P1_Q01
+set_id=ADV5_T2_P1
+number=1
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q02
+set_id=ADV5_T2_P1
+number=2
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q03
+set_id=ADV5_T2_P1
+number=3
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q04
+set_id=ADV5_T2_P1
+number=4
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q05
+set_id=ADV5_T2_P1
+number=5
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q06
+set_id=ADV5_T2_P1
+number=6
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q07
+set_id=ADV5_T2_P1
+number=7
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P1_Q08
+set_id=ADV5_T2_P1
+number=8
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Ancient flying reptiles
+source_pdf_pages=16
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — Ancient flying reptiles
+For questions 1–8, choose A, B, C or D.
+
+Pterosaurs, a (0) set of flying reptiles, evolved from land-based animals. They first (1) ______ as flying creatures around 245 million years ago, and became extinct 150 million years later, around the same time as dinosaurs. In a new study, scientists have shown how they steadily evolved and became twice as good at flying over the (2) ______ of their existence.
+
+Fossil records, combined with a new (3) ______ of flight based on modern birds, were used to measure the reptiles' flight efficiency and to (4) ______ how they evolved over time. The findings showed their evolution was caused by consistent small improvements over a long period rather than the sudden evolutionary (5) ______ which had previously been suggested.
+
+Over their 150-million-year history, pterosaurs' body shape and size (6) ______ to use 50% less energy when flying. They increased in mass by 10 times, with some (7) ______ weighing more than 300 kg. However, according to the study, there is one group of pterosaurs — azhdarchids — whose flying ability is (8) ______ to have remained rudimentary in comparison with other pterosaurs.
+
+1 A arrived | B emerged | C encountered | D revealed
+2 A course | B term | C passage | D path
+3 A version | B model | C design | D imitation
+4 A enlighten | B determine | C instruct | D dictate
+5 A leap | B blast | C spring | D flash
+6 A amended | B converted | C adapted | D conformed
+7 A conclusively | B fundamentally | C lastly | D ultimately
+8 A fabled | B narrated | C famed | D reputed
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P1_Q01
+set_id=ADV5_T3_P1
+number=1
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q02
+set_id=ADV5_T3_P1
+number=2
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q03
+set_id=ADV5_T3_P1
+number=3
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q04
+set_id=ADV5_T3_P1
+number=4
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q05
+set_id=ADV5_T3_P1
+number=5
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q06
+set_id=ADV5_T3_P1
+number=6
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q07
+set_id=ADV5_T3_P1
+number=7
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P1_Q08
+set_id=ADV5_T3_P1
+number=8
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Tiger sculpture sparks armed police response
+source_pdf_pages=26
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — Tiger sculpture sparks armed police response
+For questions 1–8, choose A, B, C or D.
+
+Police in Kent, UK, recently (0) sprang into action in response to reports of a large wild cat spotted in the area. Armed officers, and even a helicopter, were (1) ______ following a call from a member of the public, who had caught sight of a tiger while walking near the village of Underriver. However, the animal (2) ______ out to be a life-size sculpture created by artist Juliet Simpson.
+
+On hearing that police were investigating a tiger on the (3) ______, Ms Simpson set off towards her statue. 'Out of the field opposite came a whole crowd of armed police, who by then knew that it was all a false alarm.' The artwork, which had (4) ______ the same spot close to a footpath for over 20 years, was designed to look realistic. (5) ______, it had never previously been reported as (6) ______ a threat to the public.
+
+Police confirmed that armed officers had attended the scene as a (7) ______ and, following a search of the area, had (8) ______ that there was no risk to the public.
+
+1 A taken up | B came loose | C remained | D brought in
+2 A turned | B ended | C got | D grew
+3 A clear | B open | C loose | D wild
+4 A occupied | B stood | C remained | D stayed
+5 A Therefore | B Otherwise | C Hence | D Nonetheless
+6 A staging | B offering | C posing | D triggering
+7 A security | B defence | C precaution | D protection
+8 A settled | B exposed | C authorised | D established
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P1_Q01
+set_id=ADV5_T4_P1
+number=1
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q02
+set_id=ADV5_T4_P1
+number=2
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q03
+set_id=ADV5_T4_P1
+number=3
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q04
+set_id=ADV5_T4_P1
+number=4
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q05
+set_id=ADV5_T4_P1
+number=5
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q06
+set_id=ADV5_T4_P1
+number=6
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q07
+set_id=ADV5_T4_P1
+number=7
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P1_Q08
+set_id=ADV5_T4_P1
+number=8
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Studying black bears
+source_pdf_pages=49,54
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1
+
+For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
+There is an example at the beginning (0).
+
+Mark your answers on the separate answer sheet.
+
+Example:
+
+0 A straight B common C everyday D conventional
+
+0 A B C D
+
+Studying black bears
+After years studying North America's black bears in the (0) ........ way, wildlife biologist Luke
+
+Robertson felt no closer to understanding the creatures. He realised that he had to (1) ............ their
+
+trust. Abandoning scientific detachment, he took the daring step of forming relationships with the
+
+animals, bringing them food to gain their acceptance.
+
+The (2) ........ this has given him into their behaviour has allowed him to dispel certain myths about
+
+bears. (3) ........ to popular belief, he contends that bears do not (4) ........ as much for fruit as
+
+previously supposed. He also (5) ........ claims that they are ferocious. He says that people should
+
+not be (6) by behaviour such as swatting paws on the ground, as this is a defensive, rather than
+
+an aggressive, act.
+
+However, Robertson is no sentimentalist. After devoting years of his life to the bears, he is under no
+
+(7) ........ about their feelings for him. It is clear that their interest in him does not (8) ........... beyond the
+
+food he brings.
+
+1 A catch B win C achieve D receive
+
+2 A perception B awareness C insight D vision
+
+3 A Opposite B Opposed C Contrary D Contradictory
+
+4 A care B bother C desire D hope
+
+5 A concludes B disputes C reasons D argues
+
+6 A misguided B misled C misdirected D misinformed
+
+7 A error B doubt C illusion D impression
+
+8 A expand B spread C widen D extend
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P1_Q01
+set_id=SAMPLE1_P1
+number=1
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q02
+set_id=SAMPLE1_P1
+number=2
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q03
+set_id=SAMPLE1_P1
+number=3
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q04
+set_id=SAMPLE1_P1
+number=4
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q05
+set_id=SAMPLE1_P1
+number=5
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q06
+set_id=SAMPLE1_P1
+number=6
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q07
+set_id=SAMPLE1_P1
+number=7
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P1_Q08
+set_id=SAMPLE1_P1
+number=8
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=New uses for salt mines
+source_pdf_pages=41
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1
+
+For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
+There is an example at the beginning (0). 1 A provision B utility C material D commodity
+
+Mark your answers on the separate answer sheet. 2 A match B similarity C parallel D equivalent
+
+Example: critical demanding extreme straining
+3 A B C D
+0 A deposits B piles C stores D stocks
+4 A regarded B admired C approved D honoured
+0 A B C D
+5 A exploited B extracted C exposed D extended
+
+6 A profitable B agreeable C beneficial D popular
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+New uses for salt mines
+7 A put down B turned over C made out D set about
+Geological (0) ........ of salt were formed millions of years ago, when what is now land, lay under the
+
+sea. It is hard to believe that salt is now such a cheap (1) ........ , because centuries ago it was the 8 A enable B retain C ensure D support
+
+commercial (2) ........ of today's oil. The men who mined salt became wealthy and, although the work
+
+was (3) ........ and frequently dangerous, a job in a salt mine was highly (4) ........ .
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+Nowadays, the specific microclimates in disused mines have been (5) ........ for the treatment of
+
+respiratory illnesses such as asthma, and the silent, dark surroundings in a mine are considered
+
+(6) ........ in encouraging patients to relax.
+
+In addition, some disused mines have been (7) ........ to different commercial enterprises, although
+
+keeping up-to-date with the technology of mining is essential to (8) ........ visitors' safety. Some of the
+
+largest underground chambers even host concerts, conferences and business meetings.
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P1_Q01
+set_id=SAMPLE2_P1
+number=1
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q02
+set_id=SAMPLE2_P1
+number=2
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q03
+set_id=SAMPLE2_P1
+number=3
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q04
+set_id=SAMPLE2_P1
+number=4
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q05
+set_id=SAMPLE2_P1
+number=5
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q06
+set_id=SAMPLE2_P1
+number=6
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q07
+set_id=SAMPLE2_P1
+number=7
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P1_Q08
+set_id=SAMPLE2_P1
+number=8
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Verified option.
+[/ITEM]

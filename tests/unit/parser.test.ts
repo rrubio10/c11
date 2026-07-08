@@ -1,0 +1,91 @@
+import { readFile } from "node:fs/promises";
+import path from "node:path";
+import { afterAll, describe, expect, it } from "vitest";
+import { parseMaster } from "@/lib/importer/parser";
+import { importMasterText } from "@/lib/importer/import-db";
+import { db } from "@/lib/db";
+
+const fixture = `[SET]
+set_id=TEST_FIXTURE_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Fixture title
+source_pdf_pages=1
+transcription_status=verified
+notes=
+item_count=2
+text_begin
+Part 2
+Use one word.
+
+Fixture title
+This is (9) ........ example with a second (10) ........ gap.
+text_end
+[/SET]
+
+[ITEM]
+id=TEST_FIXTURE_P2_Q09
+set_id=TEST_FIXTURE_P2
+number=9
+correct_answer=AN
+accepted_answers=AN | ONE
+max_points=1
+error_category=open_cloze
+explanation=Article.
+[/ITEM]
+
+[ITEM]
+id=TEST_FIXTURE_P2_Q10
+set_id=TEST_FIXTURE_P2
+number=10
+correct_answer=SMALL
+accepted_answers=SMALL
+max_points=1
+error_category=open_cloze
+explanation=Adjective.
+[/ITEM]`;
+
+afterAll(async () => {
+  const set = await db.exerciseSet.findUnique({ where: { externalId: "TEST_FIXTURE_P2" } });
+  if (set) await db.exerciseSet.delete({ where: { id: set.id } });
+  await db.importRun.deleteMany({ where: { sourceName: "fixture.txt" } });
+  await db.$disconnect();
+});
+
+describe("master TXT parser", () => {
+  it("reads SET and ITEM blocks, multiline text and accepted variants", () => {
+    const result = parseMaster(fixture);
+    expect(result.errors).toEqual([]);
+    expect(result.sets).toHaveLength(1);
+    expect(result.sets[0].fullText).toContain("second (10)");
+    expect(result.sets[0].items[0].acceptedAnswers).toEqual(["AN", "ONE"]);
+  });
+
+  it("detects mismatched item_count", () => {
+    const result = parseMaster(fixture.replace("item_count=2", "item_count=3"));
+    expect(result.errors.some((error) => error.includes("item_count=3"))).toBe(true);
+  });
+
+  it("detects duplicate identifiers", () => {
+    const duplicate = `${fixture}\n${fixture.match(/\[ITEM\][\s\S]*?\[\/ITEM\]/)?.[0] ?? ""}`;
+    expect(parseMaster(duplicate).errors.some((error) => error.includes("Duplicate item id"))).toBe(true);
+  });
+
+  it("parses the supplied master source completely", async () => {
+    const source = await readFile(path.join(process.cwd(), "data/import/C1_exercises_master.txt"), "utf8");
+    const result = parseMaster(source);
+    expect(result.errors).toEqual([]);
+    expect(result.sets).toHaveLength(50);
+    expect(result.sets.reduce((sum, set) => sum + set.items.length, 0)).toBe(423);
+  });
+
+  it("is idempotent when the same source is imported twice", async () => {
+    await importMasterText(fixture, "fixture.txt");
+    await importMasterText(fixture, "fixture.txt");
+    const set = await db.exerciseSet.findUnique({ where: { externalId: "TEST_FIXTURE_P2" }, include: { items: true } });
+    expect(set?.items).toHaveLength(2);
+    expect(await db.exerciseSet.count({ where: { externalId: "TEST_FIXTURE_P2" } })).toBe(1);
+  });
+});

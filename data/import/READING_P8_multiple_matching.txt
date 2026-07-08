@@ -1,0 +1,1328 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=Scholarly sources versus popular sources
+source_pdf_pages=7
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=10
+text_begin
+--- SOURCE PDF PAGE 7 ---
+Test 7
+
+Part 8
+
+You are going to read én article about the sources which universi
+For questions 47-56, choose from the sections (A-D). The secti
+
+ons may be chog
+Mark your answers on the separate answer sheet.
+
+In Which section does the writer
+ask about the specific details regarding a rule change?
+bring the existence of a particular group into question?
+
+Mention.a' factor which has made a distinction less clear?
+
+argue that it is useful to learn how to assess whether or not a source js Valid?
+mention weaknesses in an extract which oan be exploited?
+State that a particular custom leads to division and prejudice?
+Say that a change could inerease'students confidence?
+mention writers: whose work is read by both academics and the public?
+
+explore'the choices available in a Particular dilemma?
+
+insist that she fs notin favour of abandoning the current System?
+
+ity students can u
+
+S€ for their
+
+SA More tha, 3.
+
+in Shes
+
+Reading and Use of English
+
+scholarly sources versus popular sources
+
+reis an abundance of serious material outside academia, so why not use it?'
+He asks university professor Rachel Harvey
+
+5 ching scholarly material for her essay. She finds a quote she thinks she can
+A student 18 ree oie original and insightful, persuasively argued, provocative, and with just
+se. It ice z that-a good forensic analysis will have something to expose. There's-one problem,
+enough ne es not come from an academic paper, but from a blog written by an obscure amateur.
+poweve™ hnically speaking, no academic credibility. By convention, students - and academics 5
+jt has: tec Z d_only to engage in critical discussion with 'academically credible' sources. What '
+are SUPPOSE tudent to do? Pretend this precious nugget doesn't exist? A terrible waste. Plagiarise
+then, is the © nol know)? Completely unethical. I'm not talking here about the sourcing of facts,
+it iter all it issue of truth and objectivity. I'm focusing on ideas, opinions and theories and my
+or the fraug ment is that we Go our research a disservice if we aiitomatically exclude a source
+central 27 Se roted ance does not match certain outmoded criteria.
+
+pecau
+
+line between 'credible' and 'non-credible' sources is becoming ever more blurred, particularly
+B The ime
+
+ic self-publishing. The internet has undoubtedly democratised the spread of
+ne : se the ceemmplon that university departments have some kind of monopoly on
+Lee Bees thinking. But if the line on permissible sources were to be moved, where should
+a ee if an official university department blog were deemed acceptable for students to
+Ls eee what about the personal blog of a leading professor or research student? What
+ate 'bleations by accredited and respected museums and galleries? And what of those whose
+aber ea books and articles straddle the border between academia and general readership?
+pu
+
+Would their more popular works be considered less suitable for essay purposes than the less
+'ou
+
+cessible ones? To take art theory as another example, where do we stand on those critics who
+ac
+
+write for a general readership? Is it acceptable to engage in argument only with well-established
+names?
+
+© There are no easy answers, and | wouldn't dream of suggesting that we completely cast aside the
+
+challenging and rigorous in favour of the Bees and ae ee oo a ae
+and books published by universities an ieir partn: OO en
+critical engagement does seem to foster a kind of Ga es ae ae ce
+justified. The convention of referring to academic ey foes a Roepe es
+publication date of their text is part of the problem. rhe ¢ Bee ae ha aie hit we
+i the idea of the grand academic being such a renowned autho) y :
+pee introduce them by their full name: they simply dee ee never eae
+of Jones (2003)? That's because you're just not on his/her ee us = aoe cup
+principle implies that flimsiest of notions, the academic comm) pe ne ae Secchi
+those who jealously guard rigorous debate and the exchange of ide Arguably,
+never been a real community in any meaningful sense:
+
+: emic commt So Jones
+are, as we already do with sources from outside the sociliet e unity, So Jon
+(2003) would be introduced as Pat Jones, senior lecturer a jeweller see
+the same way as we introduce, say, fashion blogger Tim a iy ence val
+or film reviewer Mick Stuart. That way students could be aces y Mecca
+arguments from multitudinous sources from both inside an Es baste OF Rete
+decide for themselves which ones deserve closer scrutiny eee in thelr:
+even encourage them to become less timid about ote Tee
+their own insights. Some will say this would lead to.a ee putea
+is made between learned discourse and undisciplined ¢! iLindulgence is always
+the worthless and identifying bias, prejudice and sheet S&S NE Ot talking
+exhilarating task that sharpens one's critical skills — where' :
+
+é fief description of who they
+D Far better to introduce academic writers by their full names, with a briel description
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P8_Q47
+set_id=ADV5_T1_P8
+number=47
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q48
+set_id=ADV5_T1_P8
+number=48
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q49
+set_id=ADV5_T1_P8
+number=49
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q50
+set_id=ADV5_T1_P8
+number=50
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q51
+set_id=ADV5_T1_P8
+number=51
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q52
+set_id=ADV5_T1_P8
+number=52
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q53
+set_id=ADV5_T1_P8
+number=53
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q54
+set_id=ADV5_T1_P8
+number=54
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q55
+set_id=ADV5_T1_P8
+number=55
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P8_Q56
+set_id=ADV5_T1_P8
+number=56
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=Oil rigs may get second lives as fish habitats
+source_pdf_pages=17
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=10
+text_begin
+--- SOURCE PDF PAGE 17 ---
+Part 8
+
+You are going to read an article about converting old oil Tigs to artifi
+life. For questions 47-56, choose from the sections (A-D). The pe
+than once: :
+Mark your answers on the separate answer sheet.
+
+ial reef habitats
+ONS May be ch
+
+for
+SSsp
+
+In which section does the writer
+mention a commercial idea for converting rigs?
+describe research being carried out at different depths on tigs?
+say that regulations concerning rigs can be interpreted at a local level?
+mentionan academic overview of environmental rig conversions?
+fmention'an environmental reason for not converting rigs?
+report the difficulty of saying things that are true about all rigs?
+give details of how rigs-are adapted in order to become artificial reefs?
+highlight a benefit to the rig structure caused by marine life?
+
+highlight the problem with taking used rigs back to land?
+
+Mention that reefs evolving from other structures is not a new phenomenon?
+
+| 42
+
+ma,
+
+Sting
+
+Mors
+
+Reading and
+
+¢ may get second lives as fish habi
+
+iforms for.oil drilling — can be left on the seabed to become
+offshore platfo abundance of fist and other marine life
+
+oil rig habitats for
+gia oil 71S —
+ern California, USA, a group of aging oil rigs has an uncertain future.
+af the coast oho ades of pumping oil, the rigs are set to be decommissioned. A new.
+a Ol veh tot of one potential solution: do not tow them to land to be disassemi|
+abe as the va jue jace to serve as artificial reef habitats for marine fife. The 5
+remain in P 'worldwide, and also contains important new fish surveys con
+: oe Ht is led by Milton Love, a research biologist at the University of 9
+C8 or ian igs. I ie spent three decades assessing the impact of oil rigs an species livin
+para, who fi there are many different types of rig structures, some mobile, son
+s circumstances including water depth. So it can be chall
+at the ways in which they impact the environment. Rega
+'there are great similarities and some differences betw
+what you find on natural reefs. The water at a depth of 300
+"nursery grounds. harboring large numbers ai juvenile commerci
+
+borough Bull have both worked on fish counting surveys, where
+meters around rigs, following a-set path to count and estimate the
++ two meters of themseives. Below 30 meters, researchers use a two
+form a similar task: go to the bottom — sometimes 400 meters down
+floor up to 15 meters around the platform to count all the fish and
+ve ibes the method as the 'gold standard' for doing fish surveys.
+an underestimate, since the divers only count the fish outside the main
+risingly, researchers have found that fish are even more abundant =|
+Ss fearby, likely because there tends to be less fishing around the i
+ine protected area,' says Bull. Along with juvenile fish, there is an
+living on the rig — the steel is typically teeming with creatures like
+r s and shrimps. All that life squeezed onto the steel beams makes
+the structure slower to rust, adding to its longevity.
+
+peentanice of invertebrates
+
+mussels, corals, oyster:
+
+°
+
+The term 'artificial reefs' is a wide one, covering a broad range of man-made structures which
+provide ideal habitats for marine life. People have unintentionally been creating artificial
+reefs for millennia: defensive structures built from wood by Persians and Romans to block
+the entrance to harbors during wars ended up as rich marine environments. However, the
+first time artificial reefs were deliberately constructed is thought to have been in lth-century
+Japan: rocks were used to grow seaweed and so increase fish numbers. More recently, many
+decommissioned rigs have been given a new lease of life, in programs around the world. One
+
+tetired rig off the coast of Borneo has become a new hotel, with four-day dive packages to
+explore the underwater world.
+
+o
+
+ess Of the rigs-to-reefs idea say that if left, certain types of rig could, over time, leak toxie
+including B into the water. They therefore support removal of the rigs. But other researchers,
+they iin ae Say that once the rigs are part of a functioning system, it's wise to consider how
+& eon their 'Surroundings: 'If the platform is completely removed [from the sea], youre
+species on Abe all that habitat.' Of course, habitat isn't the only consideration. Rigs impact
+the USA. ee soft sea floor and they can lower non-fish biodiversity. While governing bodies in
+'ndividual ae the complete removal of rigs after they've been decommissioned, in practice,
+ave transform a € typically allowed to make their own decisions. In the Gull of Mexico, states
+erg, which = sont tigs into reefs. Energy companies usually remove the upper 95 meters of
+any stat Ck out above the water, and recycle it or place it in the water next to the bottom
+Working lives. €s may soon have an important choice to make, as rigs near the end of thelr
+
+43
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P8_Q47
+set_id=ADV5_T2_P8
+number=47
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q48
+set_id=ADV5_T2_P8
+number=48
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q49
+set_id=ADV5_T2_P8
+number=49
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q50
+set_id=ADV5_T2_P8
+number=50
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q51
+set_id=ADV5_T2_P8
+number=51
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q52
+set_id=ADV5_T2_P8
+number=52
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q53
+set_id=ADV5_T2_P8
+number=53
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q54
+set_id=ADV5_T2_P8
+number=54
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q55
+set_id=ADV5_T2_P8
+number=55
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P8_Q56
+set_id=ADV5_T2_P8
+number=56
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=The story of Velcro as a fastener
+source_pdf_pages=27
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=10
+text_begin
+--- SOURCE PDF PAGE 27 ---
+Test 3
+Part 8
+You are going to read an article about a fastener for foo' 1
+e twear and clot Readi
+questions 47-56, choose from the sections (A-D). The sections othing known Ng and Use of &;
+Mark your answers on the separate answer sheet. May be chosen." Velen The sto
+3 . 5 == Ss Ot a Hold a magnifying glass to the fastener Velc Ss |
+In which section does the writer a i fabric covered with a ton of ee and you'll fing ene &
+i temporarily to another strip with euen es that are find that W's essentially 9 sta
+ahi ; as buttons, Zips. hooks, toggles and ties on thee ga We Were to aL miraculously ies"
+ighlight the fact that Velcro was adopted in a wide range of would probably come in fast. That grating Ne ee or serank clothing fasteners set
+Of fields? = the majority of us- But it's hard to ignore the Boe sound alone te oF glamour, Velera
+aitearnaty, ' 47 € the landscape of fashion. The idea for Velcro reas it's an invention thee to turn off
+pi out that Velero's unappealing qualities have not st ' i Mestral in 1941 when, duringa hike through the wax On Swiss electrical en lotever changed
+noteworthy development? OPped it being a a weed burdock clung to his dog's fur. He igh the woods, he wondered why bite of tones
+P eing a SS : g studied them close d why bits of the sees
+= weaous materials, eventually patented his brainchild osely and, after experimentine ne
+. [8 naming it Velcro, a blend of the French words velour ae hook-and-loop ee —
+mention a fashion item using Velcro that has been fi es Cvelvet') and crochet Choo). 1955,
+to the public? een irequently dispiayeg oe B The response was overwhelming. In 1958, colurnnist Sylvia P
+yed i to preview the invention. 'The new fastening ee ee given the opport
+f eat revolutionary than was the zipper a quarter-century An renee Ways potentially cae .
+Eonsider haw Nelcto might b= rated on t — journalist said of Velcro, 'the big noise this spring Fh ee a en eae tater ang)
+d on its attract ; is be a sound her
+ractiveness compared to he Wvolutionary it was. From the outset, its use was rooted in Nite BPing cloth. And
+ared to alternatives? |g) replaced other fasteners for securing solar panels or holding pleas OE Ae and it rapidly 7
+speculate on why Velcro failed to achieve a =i On the clothing front, it was praised for its swift, easy-on, eanyales AstroTurt together
+ve approval from many cons ae whose professions relied on speed: the military, freighters. ath Coo for those
+y consumers? famously, Velcro wi f pavers, Buuletes and &
+We cus 51 on oa vere. as chosen to secure Neil Armstrong's space sult for the pati ee
+7e mechanics behind the concept of Velcro? ae . pai ==
+1 f FO es
+C Several visionary couturi i
+52 wuturiers played with the new material 2
+kind looks. HA — aterial and conjured it into 2
+describe a change in how Veicro wa: eee hehe ee mee fashion designer Paco Rabanne experimented with intgionecey
+S generally viewed? 2, iscs and chains, in his outlandish creati foeracise:
+53 and modernism, André Courréges unveiled gh creations: Iniuenced Dyas
+} geometric di a space-inspired collection in 196 with cris
+claim that Velcro sti poe etric dresses crafted out of unlikely textiles, including V re
+icro stimulated the imagination of el and vinyl. The accompanying white b Pepe cuias, Velcro, Syinn bs Pee
+n of some artistic people? 54 with Velcro — becam i jects — a square peep-toe that fastened up the c
+exhibitions chee ues of his most enduring designs, forever immortali ae the centre
+eS : ; * sed in 5
+talk about Velcro bei : ——— Matthew Walz: istory of fashion. Velcro's ease of use was repe lauded. tn 2012
+ing used in particular! i er, a teenager with cerebral peatedty-lauded. In: 2012,
+ly momentous circumstances? 55 clothing multinational Nike appeal ral palsy, wrote a letter to footwear, accessories and
+= assistance, This inspired th P| ing for a fashionable sneaker he could put on with
+mention an ex: —a— the key learni . © sportswear giant to work on a li pie rig
+Brapis of business res : ' e key learnings we've had ... is the i new line of sneakers. 'One of
+ponding to a consumer's request? 56 just suoplifying its fastening syste! ie: dreporiance of easy entry and exit of the shoe, nat
+| caught on wi m," sai for divector. Nike' :
+: ght on with athletes of all abilities. a senior director. Nike's Velcro-strapped FlyEase
+Yet, despit
+aor all these ad
+in high fashi vances and the handf ay
+todas pe really took off. Earl ae placements in couture collections, Velcro
+incorporated aon beareason, And factorial footwes BE Veicrostrapped shoes from Us
+a eee © to secure the foot. was a es that defined the 80s and 90s, which
+fashion watch hoe chunky soles Fah Woe any from sleek stilettos. It really wasn't
+longer uncool. It pervadet eee into mainstream aw were not only embraced by the
+anew sneaker movement ae street-style scene of ae that, all of a sudden, Velcro was no
+hen one celebrity acne designer labels intro »sequent fashion collections, and then
+for a major fashion event, jt a black lacetrimmed eins Velcro versions of signature styles.
+in the sneaker world, thee = headlines. And awa a pair of white Velcro sneakers
+g retailing due to trends teen notable qhetavices se is still most prominently seen
+wards highly practical eae its way into high street
+ressing.
+a
+65
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P8_Q47
+set_id=ADV5_T3_P8
+number=47
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q48
+set_id=ADV5_T3_P8
+number=48
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q49
+set_id=ADV5_T3_P8
+number=49
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q50
+set_id=ADV5_T3_P8
+number=50
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q51
+set_id=ADV5_T3_P8
+number=51
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q52
+set_id=ADV5_T3_P8
+number=52
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q53
+set_id=ADV5_T3_P8
+number=53
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q54
+set_id=ADV5_T3_P8
+number=54
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q55
+set_id=ADV5_T3_P8
+number=55
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P8_Q56
+set_id=ADV5_T3_P8
+number=56
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=Through the eyes of a dancer
+source_pdf_pages=31
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=10
+text_begin
+--- SOURCE PDF PAGE 31 ---
+Part 8
+You are going toread an extract from a memoir of a dancer. Foy
+sections (A-D). The sections may be chosen more than once.
+Mark your answers on the separate answer sheet
+
+In which section does the writer
+
+compare the way certain people evaluated the dancing of Others?
+claim she found discussing dance more interesting than her Contemporarieg dig?
+describe the physical discomfort she ©xperienced as a result of a Particular activ
+explain how watching other people dancing influenced her Own dance?
+outline the impact that an early review had on her career?
+express admiration for a specific person whose approach she wished to replicate?
+tefer to disliking a certain technique used by one of her teachers?
+highlight the importance of particular language when describing dance?
+mention being unsure about which form of dance she was best suited to?
+
+recall how wanting to dance brought her into conflict with someone else?
+
+ity?
+
+SUestions 47-56
+ho
+
+Ta
+
+—
+a
+
+—
+
+48
+
+ey
+
+°
+
+A
+
+Reading an
+
+through the eyes of a da
+Wendy Perron describes her career as a dancer and dance ¢
+
+started kindergarten, oy mother opened a school of creative dane
+pack on that moment, I realise she was laying the found
+They sey. ee weekly ballet lessons with a ome th
+oat sev stick on the floor to keep time, which didn't exactly foster je
+woo pounded 2 © "si gn't put me off and during my last two years ol high sche
+thesteps: But a Graham School of Contemporary Dance. For me, modem d
+ae 'at the Ms it planets, and for years I struggled to figure out which one 1]
+Seemed like differett tag on the latter. | worked tirelessly in all these classes, but
+
+ultimately. fellow dancers. | analyzed and attempted to reproduce the:
+pee Tals0 oe calle, at the same time appreciating how much pain they go:
+1most Wis)
+
+achieve it.
+
+enrolled to study dance and psychology at the liberal arts
+Alter high school ee of there was literary critic Stanley Edgar Hyman. He!
+Bennington, Where iways found completing assignments an ordeal, necessitating
+
+wit es night oil, searching for the right combinations of words. Seam |
+
+ours burning the mie out of college and go dance in New York fulltime. rem
+
+chomping at the BIE £0 ceewith my mother by the end of which I had reluctantly agreed
+
+long anc tet eis T choreographed a lot, including a solo that I later perfa
+
+aS Darn ee nan Deborah Jowitt, one of the founders of DTW, assessed
+
+at ance village Voice, saying my dance had a 'blazing purity'. | was off and running asa
+solo for the HGee nd choreographer! Around the same time, | noticed | was more involved.
+So eatin about the dances I had seen and that | kept these conversations
+going long after they had switched off.
+
+So when Deborah Jowitt and her colleague Marcia Siegel offered a course in ong ee
+at Dance Theater Workshop, | signed up. The attraction was less that | vould ra oe
+write texts like critiques, and more that | wanted and needed to talk about ' ae ead
+write articles and then read them aloud to develop an ear for rhythm. Writing about
+demands imagination: you not only walk, run and leap; you glide, spring, curve, sage
+float and entwine. I've been searching to get it right ever since. In that course we ae
+questions like, What is a critic's job? Deborah and Marcia were very different types of writer,
+
+Description, for Deborah, required objective analysis, whereas for Marcia it led to sharp
+pinions. I never really decided what sort of critic | was.
+
+My fist assignment was to review a new group of college dancers called Pilobolus. But |
+don't think my comments were particularly insightful or well-constructed. t was later, at the
+; Hace that I found My groove; | felt | could bring readers into the world | had just seen.
+sitting at a tarted getting more offers to write than to choreograph, | backed ol, Anyway.
+ittook da eewtiter was bad for my back and I was already, in my twenties, getting spasms
+ways to we aa 'Over from. One of my heroes at the time was Susan Sontag for babe:
+Pickup clues Saye art. She argued that when critiquing any artwork, you had to sense lt,
+
+exploding into vie not analyze it. Her philosophy fit the new kinds of dance that were then
+view, and I've tried to follow it ever since.
+
+ow
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P8_Q47
+set_id=ADV5_T4_P8
+number=47
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q48
+set_id=ADV5_T4_P8
+number=48
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q49
+set_id=ADV5_T4_P8
+number=49
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q50
+set_id=ADV5_T4_P8
+number=50
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q51
+set_id=ADV5_T4_P8
+number=51
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q52
+set_id=ADV5_T4_P8
+number=52
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q53
+set_id=ADV5_T4_P8
+number=53
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q54
+set_id=ADV5_T4_P8
+number=54
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q55
+set_id=ADV5_T4_P8
+number=55
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P8_Q56
+set_id=ADV5_T4_P8
+number=56
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=Starting out on your career
+source_pdf_pages=61,64
+transcription_status=verified
+notes=
+item_count=10
+text_begin
+Part 8
+
+You are going to read a magazine article in which five career consultants give advice about starting a
+career. For questions 47 – 56, choose from the consultants (A – E). The consultants may be chosen
+more than once.
+
+Mark your answers on the separate answer sheet.
+
+Which consultant makes the following statements?
+
+Keep your final objective in mind when you are planning to change jobs. 47
+
+It takes time to become familiar with the characteristics of a company you have joined. 48
+
+You should demonstrate determination to improve your job prospects. 49
+
+Make sure your approach for information is positive in tone. 50
+
+It is not certain that you will be given very much support in your job initially. 51
+
+Stay optimistic in spite of setbacks. 52
+
+Promotion isn't the only way to increase your expertise. 53
+
+Ask for information about your shortcomings. 54
+
+Some information you are given may not give a complete picture. 55
+
+It will be some time before you start giving your employers their money's worth. 56
+
+Starting out on your career
+Are you a graduate trying to plan out the best career path for yourself? We've asked five careers
+consultants to give some tips on how to go about it.
+
+Consultant A real depth of knowledge. If you are a graduate,
+A university degree is no guarantee of a job, spending five or six years in the same job is
+and job hunting in itself requires a whole set of not too long provided that you take full
+skills. If you find you are not getting past the advantage of the experience. However, do not
+first interview, ask yourself what is happening. use this as an excuse for apathy. Graduates
+Is it a failure to communicate or are there some sometimes fail to take ownership of their
+skills you lack? Once you see patterns careers and take the initiative. It is up to you to
+emerging it will help you decide whether the make the most of what's available within a
+gaps you have identified can be filled company, and to monitor your progress in case
+relatively easily. If you cannot work out what you need to move on. This applies particularly
+the mismatch is, get back to the selection panel if you are still not sure where your career path
+with more probing questions, and find out lies.
+what you need to do to bring yourself up to the
+level of qualification that would make you Consultant D
+more attractive to them: but be careful to make It is helpful to think through what kind of
+this sound like a genuine request rather than a experience you need to get your dream job and
+challenge or complaint. it is not a problem to move around to a certain
+extent. But in the early stages of your career
+Consultant B you need a definite strategy for reaching your
+Do not be too dispirited if you are turned down goal, so think about that carefully before
+for a job, but think about the reasons the deciding to move on from your first job. You
+employers give. They often say it is because must cultivate patience to master any role.
+others are 'better qualified', but they use the There is no guarantee that you will get
+term loosely. Those who made the second adequate training, and research has shown that
+interview might have been studying the same if you do not receive proper help in a new role,
+subject as you and be of similar ability level, it can take 18 months to master it.
+but they had something which made them a
+closer match to the selector's ideal. That could Consultant E
+be experience gained through projects or A prospective employer does not want to see
+vacation work, or it might be that they were that you have changed jobs every six months
+better at communicating what they could offer. with no thread running between them. You
+Do not take the comments at face value: think need to be able to demonstrate the quality of
+back to the interviews that generated them and your experience to a future employer, and too
+make a list of where you think the shortfall in many moves too quickly can be a bad thing.
+your performance lies. With this sort of In any company it takes three to six months for
+analytical approach you will eventually get a new employee to get up to speed with the
+your foot in the door. structure and the culture of the company. From
+the company's perspective, they will not
+Consultant C receive any return on the investment in your
+Deciding how long you should stay in your salary until you have been there for 18 months.
+first job is a tough call. Stay too long and This is when they begin to get most value from
+future employers may question your drive and you – you are still fired up and enthusiastic. If
+ambition. Of course, it depends where you are you leave after six months it has not been a
+aiming. There can be advantages in moving good investment – and may make other
+sideways rather than up, if you want to gain employers wary.
+
+Texts
+Part 1, page 1 - Suzanne Goldenberg © Guardian News & Media Ltd 2009
+Part 2, page 3 - Emma Cook © The Times 02/2008
+Part 3, page 4 - © Telegraph Media Group Limited 1998
+Part 6, page 9 - © Hamish Hamilton, Fivedials.com
+Part 8, page14 - Irene Krechowiecka © Guardian News & Media Ltd 2004
+- Marianne Curphey © Guardian News & Media Ltd 2004
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P8_Q47
+set_id=SAMPLE1_P8
+number=47
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q48
+set_id=SAMPLE1_P8
+number=48
+correct_answer=E
+accepted_answers=E
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q49
+set_id=SAMPLE1_P8
+number=49
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q50
+set_id=SAMPLE1_P8
+number=50
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q51
+set_id=SAMPLE1_P8
+number=51
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q52
+set_id=SAMPLE1_P8
+number=52
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q53
+set_id=SAMPLE1_P8
+number=53
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q54
+set_id=SAMPLE1_P8
+number=54
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q55
+set_id=SAMPLE1_P8
+number=55
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P8_Q56
+set_id=SAMPLE1_P8
+number=56
+correct_answer=E
+accepted_answers=E
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P8
+section=READING
+part=8
+type=multiple_matching
+level=C1
+title=Why do people laugh?
+source_pdf_pages=50–51
+transcription_status=verified
+notes=
+item_count=10
+text_begin
+Part 8 Why do people laugh?
+You are going to read an article by a psychologist about laughter. For questions 47 – 56, choose from Psychologist Robert Provine writes about why and when we laugh.
+the sections (A – D). The sections may be chosen more than once.
+A
+Mark your answers on the separate answer sheet. In 1962, what began as an isolated fit of laughter in a group of schoolgirls in Tanzania rapidly rose to
+epidemic proportions. Contagious laughter spread from one individual to the next and between
+communities. Fluctuating in intensity, the laughter epidemic lasted for around two and a half years and
+during this time at least 14 schools were closed and about 1,000 people afflicted. Laughter epidemics, big
+Which section and small, are universal. Laughter yoga, an innovation of Madan Kataria of Mumbai, taps into contagious
+laughter for his Laughter Yoga clubs. Members gather in public places to engage in laughter exercises to
+energise the body and improve health. Kataria realised that only laughter is needed to stimulate laughter –
+comments on which person laughs within a verbal exchange? 47 no jokes are necessary. When we hear laughter, we become beasts of the herd, mindlessly laughing in turn,
+producing a behavioural chain reaction that sweeps through our group.
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+uses a comparison with other physical functions to support an idea? 48 B
+Laughter is a rich source of information about complex social relationships, if you know where to look.
+gives reasons why understanding laughter supplies very useful insights? 49 Learning to 'read' laughter is particularly valuable because laughter is involuntary and hard to fake,
+providing uncensored, honest accounts of what people really think about each other. It is a decidedly social
+signal. The social context of laughter was established by 72 student volunteers in my classes, who recorded
+refers to someone who understood the self-perpetuating nature of laughter? 50
+their own laughter, its time of occurrence and social circumstance in small notebooks (laugh logbooks)
+during a one-week period. The sociality of laughter was striking. My logbook keepers laughed about 30
+cites a study that involved watching people without their knowledge? 51 times more when they were around others than when they were alone – laughter almost disappeared among
+solitary subjects.
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+describes laughter having a detrimental effect? 52
+C
+Further clues about the social context of laughter came from the surreptitious observation of 1,200
+criticises other research for failing to consider a key function of laughter? 53 instances of conversational laughter among anonymous people in public places. My colleagues and I noted
+the gender of the speaker and audience (listener), whether the speaker or the audience laughed, and what
+explains that laughing does not usually take precedence over speaking? 54 was said immediately before laughter occurred. Contrary to expectation, most conversational laughter was
+not a response to jokes or humorous stories. Fewer than 20% of pre-laugh comments were remotely joke-
+describes people observing themselves? 55
+like or humorous. Most laughter followed banal remarks such as 'Are you sure?' and 'It was nice meeting
+you too.' Mutual playfulness, in-group feeling and positive emotional tone – not comedy – mark the social
+settings of most naturally occurring laughter. Another counterintuitive discovery was that the average
+encourages checking that a proposition is correct? 56 speaker laughs about 46% more often than the audience. This contrasts with the scenario in stand-up
+comedy – a type of comedy performance in which a non-laughing speaker presents jokes to a laughing
+audience. Comedy performance in general proves an inadequate model for everyday conversational
+laughter. Analyses that focus only on audience behaviour (a common approach) are obviously limited
+because they neglect the social nature of the laughing relationship.
+
+D
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+Amazingly, we somehow navigate society, laughing at just the right times, while not consciously knowing
+what we are doing. In our sample of 1,200 laughter episodes, the speaker and the audience seldom
+interrupted the phrase structure of speech with a ha-ha. Thus, a speaker may say 'You are wearing that?
+Ha-ha,' but rarely 'You are wearing... ha-ha... that?' The occurrence of laughter during pauses, at the end
+of phrases, and before and after statements and questions suggests that a neurologically based process
+governs the placement of laughter. Speech is dominant over laughter because it has priority access to the
+single vocalisation channel, and laughter does not violate the integrity of phrase structure. Laughter in
+speech is similar to punctuation in written communication. If punctuation of speech by laughter seems
+unlikely, consider that breathing and coughing also punctuate speech. Better yet, why not test my theory of
+punctuation by examining the placement of laughter in conversation around you, focusing on the placement
+of ha-ha laughs. It's a good thing that these competing actions are neurologically orchestrated. How
+complicated would our lives be if we had to plan when to breathe, talk and laugh.
+
+Q
+Q
+1
+
+3
+
+7
+5
+2
+
+6
+
+8
+4
+
+31
+
+33
+
+35
+32
+
+36
+34
+B
+B
+B
+
+C
+C
+C
+
+A
+A
+A
+A
+
+D
+D
+D
+D
+)()-0+%-!%(-$%,)1
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P8_Q47
+set_id=SAMPLE2_P8
+number=47
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q48
+set_id=SAMPLE2_P8
+number=48
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q49
+set_id=SAMPLE2_P8
+number=49
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q50
+set_id=SAMPLE2_P8
+number=50
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q51
+set_id=SAMPLE2_P8
+number=51
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q52
+set_id=SAMPLE2_P8
+number=52
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q53
+set_id=SAMPLE2_P8
+number=53
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q54
+set_id=SAMPLE2_P8
+number=54
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q55
+set_id=SAMPLE2_P8
+number=55
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P8_Q56
+set_id=SAMPLE2_P8
+number=56
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]

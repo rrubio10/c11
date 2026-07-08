@@ -1,0 +1,2074 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=5
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4
+
+For questions 25–30, complete the second sentence so that it has a similar meaning to the first
+sentence, using the word given. Do not change the word given. You must use between three
+and six words, including the word given. Here is an example (0).
+
+Example:
+
+0 James would only speak to the head of department alone.
+
+ON
+
+James ............................................................ to the head of department alone.
+
+The gap can be filled by the words 'insisted on speaking', so you write:
+
+Example: 0 INSISTED ON SPEAKING
+
+Write only the missing words IN CAPITAL LETTERS on the separate answer sheet.
+
+25 Carol's plan was to finish her paintings by spring.
+
+SUPPOSED
+
+Carol's paintings ........................................ by spring.
+
+26 All the runners received a medal when they completed the marathon.
+
+COMPLETION
+
+Every ........................................ of the marathon.
+
+27 What are your plans for the company's tenth anniversary celebrations?
+
+MIND
+
+What do ........................................ the company's tenth anniversary celebrations?
+
+12
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+
+Cambridge University Press & Assessment
+978-1-009-80887-3 — C1 Advanced 5 Student's Book without Answers with Digital Pack
+
+Excerpt
+More Information
+
+Reading and Use of English
+
+28 You might not get the job, but you've got nothing to lose by applying.
+
+HARM
+
+You might not get the job, but ........................................ applying.
+
+29 In Marco's opinion, there was no reason to buy a car.
+
+CONCERNED
+
+As ........................................ , there was no reason to buy a car.
+
+30 The manager was unsure whether to employ someone with so little experience.
+
+RESERVATIONS
+
+The manager ....................................... someone with so little experience.
+
+13
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P4_Q25
+set_id=ADV5_T1_P4
+number=25
+correct_answer=WERE SUPPOSED TO BE FINISHED
+accepted_answers=WERE SUPPOSED TO BE FINISHED | WERE SUPPOSED TO HAVE BEEN FINISHED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P4_Q26
+set_id=ADV5_T1_P4
+number=26
+correct_answer=RUNNER RECEIVED A MEDAL ON COMPLETION
+accepted_answers=RUNNER RECEIVED A MEDAL ON COMPLETION | RUNNER RECEIVED A MEDAL AFTER COMPLETION | RUNNER RECEIVED A MEDAL FOR COMPLETION
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P4_Q27
+set_id=ADV5_T1_P4
+number=27
+correct_answer=YOU HAVE IN MIND FOR
+accepted_answers=YOU HAVE IN MIND FOR
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P4_Q28
+set_id=ADV5_T1_P4
+number=28
+correct_answer=THERE IS NO HARM IN
+accepted_answers=THERE IS NO HARM IN | THERE IS NO HARM IN YOU | THERE IS NO HARM IN YOUR | THERE ISN’T ANY HARM IN | THERE IS NOT ANY HARM IN
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P4_Q29
+set_id=ADV5_T1_P4
+number=29
+correct_answer=FAR AS MARCO WAS CONCERNED
+accepted_answers=FAR AS MARCO WAS CONCERNED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P4_Q30
+set_id=ADV5_T1_P4
+number=30
+correct_answer=HAD SOME RESERVATIONS ABOUT EMPLOYING
+accepted_answers=HAD SOME RESERVATIONS ABOUT EMPLOYING | HAD RESERVATIONS ABOUT EMPLOYING | HAD RESERVATIONS ABOUT WHETHER TO EMPLOY
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=15
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4 — Key word transformations
+Use three to six words, including the word given.
+
+25 Tim thinks Peter's work is poor.
+OPINION
+Tim doesn't ______ Peter's work.
+
+26 Compared to her previous essay, it's clear that Emma tried a lot harder with this one.
+EFFORT
+It's clear that Emma put much ______ her previous one.
+
+27 Sarah usually gives bad news by email, rather than talking to staff face-to-face.
+AVOID
+Sarah tends ______ person, and sends an email to staff instead.
+
+28 'Simon, you must stop getting angry during classes,' said his teacher.
+TEMPER
+Simon was warned by his teacher to ______ control during classes.
+
+29 'I'm happy to listen to suggestions,' Penny told her staff.
+OPEN
+Penny let her staff ______ suggestions.
+
+30 The other five-star hotels in the city centre are considerably less expensive than the Grand.
+MOST
+The Grand is by ______ all the five-star hotels in the city centre.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P4_Q25
+set_id=ADV5_T2_P4
+number=25
+correct_answer=HAVE A VERY HIGH OPINION OF
+accepted_answers=HAVE A VERY HIGH OPINION OF | HAVE A HIGH OPINION OF | HAVE A GOOD OPINION OF | HAVE A POSITIVE OPINION OF
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P4_Q26
+set_id=ADV5_T2_P4
+number=26
+correct_answer=MORE EFFORT INTO THIS ESSAY THAN
+accepted_answers=MORE EFFORT INTO THIS ESSAY THAN | GREATER EFFORT INTO THIS ESSAY THAN
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P4_Q27
+set_id=ADV5_T2_P4
+number=27
+correct_answer=TO AVOID GIVING BAD NEWS IN
+accepted_answers=TO AVOID GIVING BAD NEWS IN
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P4_Q28
+set_id=ADV5_T2_P4
+number=28
+correct_answer=KEEP HIS TEMPER UNDER
+accepted_answers=KEEP HIS TEMPER UNDER
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P4_Q29
+set_id=ADV5_T2_P4
+number=29
+correct_answer=KNOW THAT SHE WAS OPEN TO
+accepted_answers=KNOW THAT SHE WAS OPEN TO | KNOW SHE WAS OPEN TO
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P4_Q30
+set_id=ADV5_T2_P4
+number=30
+correct_answer=FAR THE MOST EXPENSIVE OF
+accepted_answers=FAR THE MOST EXPENSIVE OF
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=19
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4 — Key word transformations
+Use three to six words, including the word given.
+
+25 As well as playing very stylishly, Tom also hit some powerful shots during the match.
+PLAY
+Not ______ great style, but he also hit some powerful shots during the match.
+
+26 Although Julia didn't get a demonstration of the new software, she managed to do what she wanted with it.
+SHOWN
+Despite not ______ to use the new software, Julia managed to do what she wanted with it.
+
+27 A lot of people oppose the plans to knock down these old buildings.
+DEAL
+There's ______ the plans to knock down these old buildings.
+
+28 'I'll do the presentation if you give me sufficient time to prepare,' said David.
+CONDITION
+David agreed to do the presentation ______ given sufficient time to prepare.
+
+29 People believe that this opera company's best singer is on the point of retiring.
+ABOUT
+This opera company's best singer is believed ______ retire.
+
+30 The manager told his team that they shouldn't assume that they'd easily win the match.
+GRANTED
+The manager told his team not ______ that they'd easily win the match.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P4_Q25
+set_id=ADV5_T3_P4
+number=25
+correct_answer=ONLY DID TOM PLAY WITH
+accepted_answers=ONLY DID TOM PLAY WITH
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P4_Q26
+set_id=ADV5_T3_P4
+number=26
+correct_answer=HAVING BEEN SHOWN HOW
+accepted_answers=HAVING BEEN SHOWN HOW | BEING SHOWN HOW
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P4_Q27
+set_id=ADV5_T3_P4
+number=27
+correct_answer=A GOOD DEAL OF OPPOSITION TO
+accepted_answers=A GOOD DEAL OF OPPOSITION TO
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P4_Q28
+set_id=ADV5_T3_P4
+number=28
+correct_answer=ON CONDITION THAT HE BE
+accepted_answers=ON CONDITION THAT HE BE | ON THE CONDITION THAT HE BE | ON CONDITION THAT HE WAS | ON CONDITION THAT HE WOULD BE
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P4_Q29
+set_id=ADV5_T3_P4
+number=29
+correct_answer=TO BE ABOUT TO
+accepted_answers=TO BE ABOUT TO
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P4_Q30
+set_id=ADV5_T3_P4
+number=30
+correct_answer=TO TAKE IT FOR GRANTED
+accepted_answers=TO TAKE IT FOR GRANTED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=29
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4 — Key word transformations
+Use three to six words, including the word given.
+
+25 Diana was supposed to have replied to my email by last Friday.
+OUGHT
+There ______ a reply from Diana to my email by last Friday.
+
+26 Richard decided to open his sister's mail while she was away on holiday.
+LIBERTY
+Richard ______ his sister's mail while she was away on holiday.
+
+27 The owner insisted that the company's poor performance wasn't his fault.
+BLAME
+The owner refused ______ the company's poor performance.
+
+28 If nobody objects, the meeting will be postponed until next Tuesday.
+THERE
+As ______ objections, the meeting will be postponed until next Tuesday.
+
+29 'Antisocial behaviour like this really can't go on,' said the headteacher.
+STOP
+'We really need to put ______ of antisocial behaviour,' said the headteacher.
+
+30 The police accused Peter of committing a serious crime.
+ALLEGED
+Peter ______ a serious crime by the police.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P4_Q25
+set_id=ADV5_T4_P4
+number=25
+correct_answer=OUGHT TO HAVE BEEN
+accepted_answers=OUGHT TO HAVE BEEN
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P4_Q26
+set_id=ADV5_T4_P4
+number=26
+correct_answer=TOOK THE LIBERTY OF OPENING
+accepted_answers=TOOK THE LIBERTY OF OPENING
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P4_Q27
+set_id=ADV5_T4_P4
+number=27
+correct_answer=TO ACCEPT THE BLAME FOR
+accepted_answers=TO ACCEPT THE BLAME FOR | TO TAKE THE BLAME FOR
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P4_Q28
+set_id=ADV5_T4_P4
+number=28
+correct_answer=LONG AS THERE ARE NO
+accepted_answers=LONG AS THERE ARE NO | LONG AS THERE AREN’T ANY
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P4_Q29
+set_id=ADV5_T4_P4
+number=29
+correct_answer=A STOP TO THIS KIND
+accepted_answers=A STOP TO THIS KIND
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P4_Q30
+set_id=ADV5_T4_P4
+number=30
+correct_answer=WAS ALLEGED TO HAVE COMMITTED
+accepted_answers=WAS ALLEGED TO HAVE COMMITTED | IS ALLEGED TO HAVE COMMITTED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=56–57
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4
+
+For questions 25 – 30, complete the second sentence so that it has a similar meaning to the first
+sentence, using the word given. Do not change the word given. You must use between three and
+six words, including the word given. Here is an example (0).
+
+Example:
+
+0 James would only speak to the head of department alone.
+
+ON
+
+James ............................................... to the head of department alone.
+
+The gap can be filled with the words 'insisted on speaking', so you write:
+
+Example: 0 INSISTED ON SPEAKING
+
+Write only the missing words IN CAPITAL LETTERS on the separate answer sheet.
+
+25 My brother now earns far less than he did when he was younger.
+
+NEARLY
+
+My brother ................................................ much now as he did when he was younger.
+
+26 They are demolishing the old bus station and replacing it with a new one.
+
+PULLED
+
+The old bus station is.................................................with a new one.
+
+27 The number of students now at university has reached an all-time high, apparently.
+
+THE
+
+The number of students now at university is ................................................ been, apparently.
+
+28 I'm disappointed with the Fishers' new album when I compare it to their previous one.
+
+COMPARISON
+
+I think the Fishers' new album is ................................................ their previous one.
+
+29 Anna got the job even though she didn't have much experience in public relations.
+
+SPITE
+
+Anna got the job ............................................... of experience in public relations.
+
+30 'I must warn you how dangerous it is to cycle at night without any lights,' said the police officer
+to Max.
+
+DANGERS
+
+Max received a ................................................at night without any lights from the police officer.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P4_Q25
+set_id=SAMPLE1_P4
+number=25
+correct_answer=DOES NOT EARN NEARLY AS
+accepted_answers=DOES NOT EARN NEARLY AS | DOESN’T EARN NEARLY AS | DOES NOT MAKE NEARLY AS | DOESN’T MAKE NEARLY AS
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P4_Q26
+set_id=SAMPLE1_P4
+number=26
+correct_answer=BEING PULLED DOWN AND BEING REPLACED
+accepted_answers=BEING PULLED DOWN AND BEING REPLACED | BEING PULLED DOWN AND REPLACED | BEING PULLED DOWN TO BE REPLACED | TO BE PULLED DOWN AND REPLACED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P4_Q27
+set_id=SAMPLE1_P4
+number=27
+correct_answer=THE HIGHEST IT HAS EVER
+accepted_answers=THE HIGHEST IT HAS EVER | THE HIGHEST IT’S EVER | THE HIGHEST THAT IT HAS EVER | THE HIGHEST WHICH IT HAS EVER
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P4_Q28
+set_id=SAMPLE1_P4
+number=28
+correct_answer=DISAPPOINTING IN COMPARISON WITH
+accepted_answers=DISAPPOINTING IN COMPARISON WITH | DISAPPOINTING IN COMPARISON TO | A DISAPPOINTMENT IN COMPARISON WITH | A DISAPPOINTMENT IN COMPARISON TO
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P4_Q29
+set_id=SAMPLE1_P4
+number=29
+correct_answer=IN SPITE OF A LACK
+accepted_answers=IN SPITE OF A LACK
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P4_Q30
+set_id=SAMPLE1_P4
+number=30
+correct_answer=WARNING ABOUT THE DANGERS OF
+accepted_answers=WARNING ABOUT THE DANGERS OF | WARNING REGARDING THE DANGERS OF | WARNING CONCERNING THE DANGERS OF | WARNING ABOUT THE DANGERS WHEN CYCLING
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P4
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key word transformations
+source_pdf_pages=44
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 4
+
+For questions 25 – 30, complete the second sentence so that it has a similar meaning to the first 28 Without the help that Joe gave me, I don't think I'd have finished the course.
+sentence, using the word given. Do not change the word given. You must use between three and
+six words, including the word given. Here is an example (0).
+BEEN
+Example:
+If it ........................................ help, I don't think I'd have finished the course.
+0 James would only speak to the head of department alone.
+
+ON
+
+James ....................................... to the head of department alone.
+29 We can assure our customers that we will take every possible measure to maintain the quality
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+of the products on our shelves.
+The gap can be filled with the words 'insisted on speaking', so you write:
+
+TAKES
+Example: 0 INSISTED ON SPEAKING
+We can assure our customers that we will ........................................ to maintain the quality
+Write only the missing words IN CAPITAL LETTERS on the separate answer sheet. of the products on our shelves.
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+25 As long as you explain the process clearly at the conference, your boss will be pleased.
+30 Following some complaints by local residents, the government withdrew its proposal to build a
+GIVE
+new runway at the airport.
+If ........................................ the process at the conference, your boss will be pleased.
+LIGHT
+
+The government's proposal to build a new runway at the airport ........................................
+some complaints by local residents.
+
+26 They say that a visitor to the national art gallery damaged an 18th-century painting.
+
+ALLEGED
+
+A visitor to the national art gallery ........................................ an 18th-century painting.
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+27 I really don't mind whether Jill chooses to come on holiday with us or not.
+
+DIFFERENCE
+
+It really ........................................ whether Jill chooses to come on holiday with us or not.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P4_Q25
+set_id=SAMPLE2_P4
+number=25
+correct_answer=YOU GIVE A CLEAR EXPLANATION OF
+accepted_answers=YOU GIVE A CLEAR EXPLANATION OF | YOU GIVE A CLEAR EXPLANATION ABOUT
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P4_Q26
+set_id=SAMPLE2_P4
+number=26
+correct_answer=IS ALLEGED TO HAVE DAMAGED
+accepted_answers=IS ALLEGED TO HAVE DAMAGED
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P4_Q27
+set_id=SAMPLE2_P4
+number=27
+correct_answer=MAKES NO DIFFERENCE TO ME
+accepted_answers=MAKES NO DIFFERENCE TO ME | MAKES VERY LITTLE DIFFERENCE TO ME | MAKES LITTLE DIFFERENCE TO ME
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P4_Q28
+set_id=SAMPLE2_P4
+number=28
+correct_answer=HAD NOT BEEN FOR JOE’S
+accepted_answers=HAD NOT BEEN FOR JOE’S | HADN’T BEEN FOR JOE’S
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P4_Q29
+set_id=SAMPLE2_P4
+number=29
+correct_answer=DO WHATEVER IT TAKES
+accepted_answers=DO WHATEVER IT TAKES | DO WHAT IT TAKES | DO EVERYTHING IT TAKES | DO ALL IT TAKES | DO ANYTHING IT TAKES
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P4_Q30
+set_id=SAMPLE2_P4
+number=30
+correct_answer=WAS WITHDRAWN IN THE LIGHT OF
+accepted_answers=WAS WITHDRAWN IN THE LIGHT OF | WAS WITHDRAWN IN LIGHT OF
+max_points=2
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=STANDALONE_KWT_01
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Standalone key word transformations
+source_pdf_pages=1
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Key word transformations — standalone page
+1 Local volunteers deliver the newsletter every week. BASIS
+The newsletter ______ by local volunteers.
+2 Jo suggested making the exam longer. INCREASE
+Jo said it would be a good idea ______ of the exam.
+3 Sue was visiting her great-aunt for the first time. PAID
+Sue ______ her great-aunt before.
+4 It's fine to borrow money occasionally. HARM
+There's ______ a loan from time to time.
+5 People have fewer children than they did in the past. MANY
+People ______ as they used to.
+6 He can't be allowed to continue to behave so badly. STOP
+We have ______ to his bad behaviour.
+text_end
+[/SET]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q01
+set_id=STANDALONE_KWT_01
+number=1
+correct_answer=IS DELIVERED ON A WEEKLY BASIS
+accepted_answers=IS DELIVERED ON A WEEKLY BASIS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q02
+set_id=STANDALONE_KWT_01
+number=2
+correct_answer=TO INCREASE THE LENGTH
+accepted_answers=TO INCREASE THE LENGTH
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q03
+set_id=STANDALONE_KWT_01
+number=3
+correct_answer=HAD NEVER PAID A VISIT TO
+accepted_answers=HAD NEVER PAID A VISIT TO
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q04
+set_id=STANDALONE_KWT_01
+number=4
+correct_answer=NO HARM IN TAKING OUT
+accepted_answers=NO HARM IN TAKING OUT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q05
+set_id=STANDALONE_KWT_01
+number=5
+correct_answer=DO NOT HAVE AS MANY CHILDREN
+accepted_answers=DO NOT HAVE AS MANY CHILDREN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=STANDALONE_KWT_01_Q06
+set_id=STANDALONE_KWT_01
+number=6
+correct_answer=TO PUT A STOP
+accepted_answers=TO PUT A STOP
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=MEGA_KWT_001
+section=UOE
+part=4
+type=key_word_transformation
+level=C1
+title=Key Word Transformations — Mega Test (81 items)
+source_pdf_pages=34–39,42
+transcription_status=cleaned_threshold_ocr
+notes=Handwritten responses were not stored as user answers. The printed prompts are retained as OCR text; compare punctuation with the page image if your parser requires exact typography.
+item_count=81
+text_begin
+--- SOURCE PDF PAGE 36 ---
+1. You must n Ormations - Mega T
+SHO ever let anyone use g est
+ULD your (dentity Card
+Under lt tissue Gy
+2. The football fet anyone else use your identity card
+club is no
+TAKEN w being run by an experienced accountant '
+A experienced accountant RG ,
+3 += running of the football club .
+- If he doesn
+KNOWING t get that job, who knows whal he'll do!
+If he doesn't get tos
+getthatjob. what he'll do!
+4. It's possible
+GAINED that the burglars got into the building by forcing open a fire exit
+The Ae ,
+burglars may _- "by forcing open a fire exit
+5 .
+tarry people believe thal Edison has the ability to become world judo champion lees
+Many people believe that Edison iy Ga the world championship in judo, ~~
+6 nas disappointed to hear that Leo had decided not to play basketball any more
+Leo's decision to ai" ftk-Li goes an i as a disappointment to me
+7. He thinks his frends do not appreciate him
+GRANTED
+He dislikes _. . by his friends
+8 My passport needs renewing because I'm going abroad this summer
+GET
+| need oa because \'m going abroad this summer
+9. Could | ask you if you'd mind looking after my dog while I'm away on holiday?
+WONDERING
+| ' willing to look after my dog while I'm away on holiday?
+10. Repairing that old computer is pointless in my view.
+POINT ;
+Lean ty jig, — that old computer being repaired
+14 Playing drums is fun, bul so is singing in a choir
+JUST , ;
+Is oo ee J singing in a choir as it is playing the drums.
+» Sana sald that she had not seen the missing letter
+Bee VILE
+'lara an the missing letter
+"4 Its umportant to consider everyone's opinion before a final decision is made.
+ACCOUNT ; 4
+| Everyone's opinion must (0 _before a final decision Is made
+
+--- SOURCE PDF PAGE 35 ---
+. z
+14 "The %
+oMpan * sai i . : *:
+INTEREST ¥ benefits from looking after its customers. said the chairman. ss 2
+Acco, pe Ph gt .
+Fding to the chairman, itis ctu | 3 ho look after its customers
+15. Kelvin .
+sh F , c
+GET Ould call in a builder to repair those broken roof tiles.
+Kelvin 5 : : . mo yt
+hous | | py a builder
+16. Luc:
+DELIGNs very pleased to be given an award
+Mi . :
+uch to ——_______|_ given the award. .
+17 .
+Fermanda tefused to wear her sister's old dress.
+NOT
+Fernanda said that" s! ' '_ her sister's ald dress. .
+18. "Remember to write or phone." Marta said as she waved goodbye to her friend.
+TOUCH ; bs
+Don tin A " Marta said as she waved goodbye to her friend. ;
+19. Police are warning people to check for forged notes which are currently in circulation
+LOOKOUT Jp
+Police are warning people to be '" forged notes which are currently in circulation.
+20. Apparently, they're planning on rerouting the traffic to reduce congestion
+DRAWN ;
+Plans. : reroute the traffic to reduce congestion.
+—
+21, We were horrified to see smoke coming out of the bedroom windows.
+COULD
+Much smoke coming out of the bedroom windows
+22. Didn't you want me to tell the staff about your resignation?
+RATHER
+Would the staff know about your resignation?
+23. Brian couldn't expiain how the stolen computer got into the boot of his car.
+LOSS
+Brian how the stolen computer got inte the boot of his car.
+24. Some loss of support for the government is a likely consequence of these drastic measures
+RESULT
+These drastic measures are __ __ ______ the government losing some support.
+25. This film stands a very good chance of winning an award
+HIGHLY
+itis _ win ai: award
+26 The ban on patie ag in tie oily Gente Is probably going to be very unpopular
+LIKELY
+it ban inthe city centre will be a very unpopular move
+
+--- SOURCE PDF PAGE 34 ---
+27. The por ts,
+Police a .
+PART — l80 quickly anit gigi Ne eet ee
+Oo mR SAL A is oka | ~
+Quick oe er . ;
+28 How ca ic ih Leta aka
+"an | Make hi Moan
+_ ACROSS PIM Understand thet dub amit toate meu RuRaEGe
+How car | iano
+tat don. want to. 688 IEEE EE aa
+29. Team s ibe =
+see PI no longer exists after one member of ateain wakes @mietake) | Te
+Once —
+. ce one member of a team makes a mistake there gs team epet
+yeaa! 30 tm sory, 1 diet ~~
+VA . tre, - = .
+' T RACH realise it was so late. a
+wae en Sorry, | . -
+. —-- --——_____time,
+21. It's 2 jOney:
+cone Fen iKely © happen butt youre not satisfied withthe product we'll refune Your y
+1 VE
+_ unded:
+abe —-- --—__ . that you are not satisfied with the product your money will be ref
+32 They put Roger in charge of health and safety at the factory.
+Shes MADE
+oust : Roger for heaith and safety in the factory.
+none
+hor a 1
+a ' h 33.1 wasn't expecting my colleagues to organise a farewell party on my last day at the company.
+crate TAKUN
+|.___ when my colleagues organised a farewell party on my last day.
+it
+vi eed 34. He's likely to lose his job if hc keeps disagreeing with his boss.
+7 DANGER
+: cat If he keeps disagreeing with his boss, he's from his job.
+35 The Government recently said our problems are the fault of the worldwide economic slowdown.
+we PLACED
+ae The Government have ___ a the worldwide economic slowdown for our
+' ; problems
+. 46 You led me to believe the job was mine if | wanted it
+= IMPRFSSION
+nt 1 a that the job was mine if | wanted it
+nf 37. Hilary was asked {0 give an explanation for making the mistake
+oo WHY
+" Hilary was asked lo _| | _. _, _____-__..-. the mistake.
+7 : "& There is ao way Lise will give up her independence to get married
+ok
+, hes __ up her independence to get matried
+ja? prey ri Frets, YOUE booking will be cancelled
+. your booking being cancelled
+
+--- SOURCE PDF PAGE 39 ---
+\ | = Ba
+s
+40 It's so :
+80 difficut te ¢
+Comg 1 P86 new ideas for the festival every YOR"
+How ditfic ear!
+f I al every ¥!
+i ee with new ideas for the fest
+41. The co a
+Mpa
+EVERY PANY IS almost certam te get the contract
+Tr
+eet Ne company stands the contract
+t 42. Ast
+By Meeting of the cast will take place after today's rehearsal
+de wb Today's rehearsal a short meeting of the cast
+43. To help run the I
+= exhibit! > t least six people.
+REQUIRED ition Next month, we need at lea!
+Note help us run the exhibition next month
+44.F
+l ca fo telephone if you have any further problems.
+Ta Donot_ sit you have any further problems.
+48. A common belief is that British people cannot speak foreign languages very well
+WEAK
+British people are commonly believed to foreign languages
+46. It is important to be weil prepared for an interview because if you make a mistake, you may not get the
+job
+. COST
+( A mistake in an interview may 80 it is important to be well prepared
+47. It took Layla five minutes to find her car keys
+A SPENT
+Layla ior her car keys
+\ 48. Phoebe was surprised to be offered a place on the course
+; CAME
+The offer of aplace onthe course Phvlebe
+49. | can'l deny that | was embarrassed to be given the award
+NO
+There's embarrassment at being given the award
+50. | think Anita must have gone on a diet recently because she's quite slim now
+HAS
+It looks as dieting because she's quite slim now
+51 Delia said that she would no longer tolerate her colleagues being rude.
+PUT
+'tam not willing from my colleagues any longer, ' said Delia.
+52. It's difficult to know what my reaction would have been in that situation
+HOW
+Im not__ - _ ._ in that situation
+
+--- SOURCE PDF PAGE 38 ---
+33 At th
+Ne begiy
+~ "SIANIng
+y e @ of
+N€ pane] S880 sh ona A
+rar Of ex, '8 aNd its im .
+"¢ Sduc. PETS Starts portance in —_—_
+ation {80 the Programing i
+ae 54 Sq . - the media ; rr
+ine Sarah cried hey e. e EOS and ts importanes in cs
+oe BROKE "VES OUL IMMedialely wire ws
+ee $ Ywhen she was told os ;
+Oop arah She Al fater her spaying /
+% ae "a test ye
+T= SOON as she heard s} fof
+OCg 55 Do you ming iff come SPE A Fated Kes sreang toast oa
+ats, OBJECTION over 10 see you later? fee
+Oo Do you Pho
+Ose ~~ Coming over to see you later? ed
+"re 56. Given th, a
+at he has no fof
+AFFECT experience, will Glyn be able to do this jon? f rb
+does Will Glyn's oh;
+2 a » oH ability 10 do this job? ty
+vif 57. At no time did w 7
+Al OCCURRED @ think that Pedro Might be planning to leave the country 4 :
+an, ¥
+Ro — thal Pedro might be planning to leave the country ;
+Sk ;
+De, @ 58. I'm sure we went the wrong way at the last junction
+a TAKEN
+*T ta: :
+Wemust - at the junction
+59. We wanted to continue our mountain trek but the weather was too bad
+a LIKE
+reals We on with our mountain trek bul the weather was too bad
+Hes 7 y
+9€ne 60. No changes will be made to this project '
+"Quit,
+ws ¢ AHEAD to plan
+ane. This projectwii__ ss CCSCiéitiT
+Nis,
+ont 61. Simon really ought to make a decision about his future
+» ery MIND .
+. t his future.
+steg it's high time Simon a DOU
+mph
+local area
+ony 62. The company has a good reputation in the
+a HIGHLY of in the local area
+ma The company ______$_____—__—_-———
+bout to leave the restaurant.
+63 Nadia's fnend arrived just as she was al
+POINT the restaurant when her friend arrived
+Nadia was just___________—_——_——__
+i i ic climate
+" to make profit this year, given the economic ci
+64 | don't expect the company pl
+SURPRISED limate the company made a profit this year
+on] (Given Ihe economic climate, _________—_______
+rtain that she wouid be a great tennis player.
+6f Barbaras parents were Cel
+DOUBT thal she wo!
+'ce Da uld be a great tennis
+Barbara's parents were ______ 9
+| player
+
+--- SOURCE PDF PAGE 42 ---
+x:
+. es
+w&
+xe ~
+s
+i 66. My grandfather had completely forgotten that he phoned me last night
+RECOLLECTION
+My grandfather didn't phoning me last night
+aj 87, Pay claims must be submitted before the end of the month
+PUT
+You have _ your pay claims before the end of the month
+68. It's very unlikely that Martin will win the 100 metres, as he's out of training
+CHANCE
+Martin has almost_____ __ ihe 100 metres, as he's out of training
+Soe 69. Most of the children ignored what the teacher had told them :
+NOTICE
+Fewotthe children what the teacher had told them a
+70. The company is unable to guarantee an allocated car-parking space to all employees
+COUNT
+The company's employees shouldn't —__aliocated a car-parking space
+4 71. He no longer thinks he can find a job before the end of the year
+(s HOPE
+Hehasgiven__ a job before the end of the year :
+72. I'm sure Jemma is going to become a famous model one day a
+MATTER ae
+"yy | think it's only — SSCs Jee maa becomes a famous mode!
+N :
+Ly
+73. | think learning to use a typewriter is a waste of time Aer
+POINT 5 G0
+{can't how to use a typewriter cio
+TOO 1
+A cet
+| 74, Darius soon recovered after the operation on his knee and was able to rejoin the team.
+| MADE ae
+j After the operation on his knee, Darius and was able to rejoin the team 5s
+7
+i i
+: 75. | always hated pasta when | was a child but now | cook it regularly. 1
+: USE
+1 Yoo ipasta wher | was a child but now | cook it regularly
+' 76. It was a mistake not to write the telephone number down
+POINT
+ishould —C—CSC_CNwriing down the telephone number:
+77 If Marc hadn't taken up politics, he might have become a famous art historian.
+NAME
+if Marc hadn't taken up politics, he mignthave_ —Cits—"C;*isé'C;*CSCéiK meeif as at a Histo
+78 This holiday is within Gur price range, provided we don't go to the expensive restaurants in the Launst
+centre
+AFFORD
+We 7 ___. . @§ we avoid the expensive restaurants in the Yourst Cente
+
+--- SOURCE PDF PAGE 37 ---
+73. Yesterday | informed m bi .
+oss in i .
+NOTICE y writing that | would be leaving the company
+———___________________ to my boss yesterday.
+80. He answered the judge's questions as accurately ashe could.
+ACCURATE ;
+He gave as he could to'thie judge's question.
+? ' le meal.
+81, Davina can't even boil an egg and so she certainly couldn't cook a whol
+ALONE
+. meal.
+Davina can't even boil an eggs whole
+text_end
+[/SET]
+
+[ITEM]
+id=MEGA_KWT_001_Q01
+set_id=MEGA_KWT_001
+number=1
+correct_answer=NO CIRCUMSTANCES SHOULD YOU
+accepted_answers=NO CIRCUMSTANCES SHOULD YOU
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q02
+set_id=MEGA_KWT_001
+number=2
+correct_answer=HAS TAKEN OVER THE
+accepted_answers=HAS TAKEN OVER THE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q03
+set_id=MEGA_KWT_001
+number=3
+correct_answer=THERE IS NO KNOWING
+accepted_answers=THERE IS NO KNOWING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q04
+set_id=MEGA_KWT_001
+number=4
+correct_answer=HAVE GAINED ENTRY
+accepted_answers=HAVE GAINED ENTRY
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q05
+set_id=MEGA_KWT_001
+number=5
+correct_answer=IS CAPABLE OF WINNING
+accepted_answers=IS CAPABLE OF WINNING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q06
+set_id=MEGA_KWT_001
+number=6
+correct_answer=GIVE UP PLAYING BASKETBALL CAME
+accepted_answers=GIVE UP PLAYING BASKETBALL CAME
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q07
+set_id=MEGA_KWT_001
+number=7
+correct_answer=BEING TAKEN FOR GRANTED
+accepted_answers=BEING TAKEN FOR GRANTED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q08
+set_id=MEGA_KWT_001
+number=8
+correct_answer=TO GET MY PASSPORT RENEWED
+accepted_answers=TO GET MY PASSPORT RENEWED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q09
+set_id=MEGA_KWT_001
+number=9
+correct_answer=WAS WONDERING IF YOU WOULD BE
+accepted_answers=WAS WONDERING IF YOU WOULD BE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q10
+set_id=MEGA_KWT_001
+number=10
+correct_answer=SEE NO POINT IN
+accepted_answers=SEE NO POINT IN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q11
+set_id=MEGA_KWT_001
+number=11
+correct_answer=JUST AS MUCH FUN
+accepted_answers=JUST AS MUCH FUN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q12
+set_id=MEGA_KWT_001
+number=12
+correct_answer=DENIED HAVING SEEN
+accepted_answers=DENIED HAVING SEEN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q13
+set_id=MEGA_KWT_001
+number=13
+correct_answer=BE TAKEN INTO ACCOUNT
+accepted_answers=BE TAKEN INTO ACCOUNT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q14
+set_id=MEGA_KWT_001
+number=14
+correct_answer=IN THE COMPANY’S INTEREST
+accepted_answers=IN THE COMPANY’S INTEREST
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q15
+set_id=MEGA_KWT_001
+number=15
+correct_answer=GET THOSE BROKEN ROOF TILES REPAIRED
+accepted_answers=GET THOSE BROKEN ROOF TILES REPAIRED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q16
+set_id=MEGA_KWT_001
+number=16
+correct_answer=HER DELIGHT, LUCY WAS
+accepted_answers=HER DELIGHT, LUCY WAS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q17
+set_id=MEGA_KWT_001
+number=17
+correct_answer=SHE WOULD NOT WEAR
+accepted_answers=SHE WOULD NOT WEAR
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q18
+set_id=MEGA_KWT_001
+number=18
+correct_answer=FORGET TO KEEP IN TOUCH
+accepted_answers=FORGET TO KEEP IN TOUCH
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q19
+set_id=MEGA_KWT_001
+number=19
+correct_answer=ON THE LOOKOUT FOR
+accepted_answers=ON THE LOOKOUT FOR
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q20
+set_id=MEGA_KWT_001
+number=20
+correct_answer=HAVE BEEN DRAWN UP TO
+accepted_answers=HAVE BEEN DRAWN UP TO
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q21
+set_id=MEGA_KWT_001
+number=21
+correct_answer=TO OUR HORROR, WE COULD SEE
+accepted_answers=TO OUR HORROR, WE COULD SEE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q22
+set_id=MEGA_KWT_001
+number=22
+correct_answer=YOU RATHER I LET
+accepted_answers=YOU RATHER I LET
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q23
+set_id=MEGA_KWT_001
+number=23
+correct_answer=WAS AT A LOSS TO EXPLAIN
+accepted_answers=WAS AT A LOSS TO EXPLAIN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q24
+set_id=MEGA_KWT_001
+number=24
+correct_answer=LIKELY TO RESULT IN
+accepted_answers=LIKELY TO RESULT IN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q25
+set_id=MEGA_KWT_001
+number=25
+correct_answer=HIGHLY LIKELY TO
+accepted_answers=HIGHLY LIKELY TO
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q26
+set_id=MEGA_KWT_001
+number=26
+correct_answer=IS LIKELY THAT THE PARKING
+accepted_answers=IS LIKELY THAT THE PARKING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q27
+set_id=MEGA_KWT_001
+number=27
+correct_answer=ACTION ON THE PART OF
+accepted_answers=ACTION ON THE PART OF
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q28
+set_id=MEGA_KWT_001
+number=28
+correct_answer=GET IT ACROSS TO HIM
+accepted_answers=GET IT ACROSS TO HIM
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q29
+set_id=MEGA_KWT_001
+number=29
+correct_answer=IS NO SUCH THING AS
+accepted_answers=IS NO SUCH THING AS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q30
+set_id=MEGA_KWT_001
+number=30
+correct_answer=LOST TRACK OF THE
+accepted_answers=LOST TRACK OF THE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q31
+set_id=MEGA_KWT_001
+number=31
+correct_answer=IN THE UNLIKELY EVENT
+accepted_answers=IN THE UNLIKELY EVENT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q32
+set_id=MEGA_KWT_001
+number=32
+correct_answer=WAS MADE RESPONSIBLE
+accepted_answers=WAS MADE RESPONSIBLE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q33
+set_id=MEGA_KWT_001
+number=33
+correct_answer=WAS TAKEN BY SURPRISE
+accepted_answers=WAS TAKEN BY SURPRISE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q34
+set_id=MEGA_KWT_001
+number=34
+correct_answer=IN DANGER OF BEING DISMISSED
+accepted_answers=IN DANGER OF BEING DISMISSED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q35
+set_id=MEGA_KWT_001
+number=35
+correct_answer=PLACED THE BLAME ON
+accepted_answers=PLACED THE BLAME ON
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q36
+set_id=MEGA_KWT_001
+number=36
+correct_answer=WAS UNDER THE IMPRESSION
+accepted_answers=WAS UNDER THE IMPRESSION
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q37
+set_id=MEGA_KWT_001
+number=37
+correct_answer=EXPLAIN WHY SHE MADE
+accepted_answers=EXPLAIN WHY SHE MADE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q38
+set_id=MEGA_KWT_001
+number=38
+correct_answer=NO INTENTION OF GIVING
+accepted_answers=NO INTENTION OF GIVING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q39
+set_id=MEGA_KWT_001
+number=39
+correct_answer=PAY ON TIME WILL RESULT IN
+accepted_answers=PAY ON TIME WILL RESULT IN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q40
+set_id=MEGA_KWT_001
+number=40
+correct_answer=IS IT TO COME UP
+accepted_answers=IS IT TO COME UP
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q41
+set_id=MEGA_KWT_001
+number=41
+correct_answer=EVERY CHANCE OF GETTING
+accepted_answers=EVERY CHANCE OF GETTING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q42
+set_id=MEGA_KWT_001
+number=42
+correct_answer=WILL BE FOLLOWED BY
+accepted_answers=WILL BE FOLLOWED BY
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q43
+set_id=MEGA_KWT_001
+number=43
+correct_answer=FEWER THAN SIX PEOPLE ARE REQUIRED
+accepted_answers=FEWER THAN SIX PEOPLE ARE REQUIRED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q44
+set_id=MEGA_KWT_001
+number=44
+correct_answer=HESITATE TO CALL ME
+accepted_answers=HESITATE TO CALL ME
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q45
+set_id=MEGA_KWT_001
+number=45
+correct_answer=BE WEAK AT SPEAKING
+accepted_answers=BE WEAK AT SPEAKING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q46
+set_id=MEGA_KWT_001
+number=46
+correct_answer=COST YOU THE JOB
+accepted_answers=COST YOU THE JOB
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q47
+set_id=MEGA_KWT_001
+number=47
+correct_answer=SPENT FIVE MINUTES LOOKING
+accepted_answers=SPENT FIVE MINUTES LOOKING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q48
+set_id=MEGA_KWT_001
+number=48
+correct_answer=CAME AS A SURPRISE TO
+accepted_answers=CAME AS A SURPRISE TO
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q49
+set_id=MEGA_KWT_001
+number=49
+correct_answer=NO DENYING MY
+accepted_answers=NO DENYING MY
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q50
+set_id=MEGA_KWT_001
+number=50
+correct_answer=IF ANITA HAS BEEN
+accepted_answers=IF ANITA HAS BEEN | THOUGH ANITA HAS BEEN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q51
+set_id=MEGA_KWT_001
+number=51
+correct_answer=TO PUT UP WITH RUDENESS
+accepted_answers=TO PUT UP WITH RUDENESS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q52
+set_id=MEGA_KWT_001
+number=52
+correct_answer=SURE HOW I WOULD HAVE REACTED
+accepted_answers=SURE HOW I WOULD HAVE REACTED
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q53
+set_id=MEGA_KWT_001
+number=53
+correct_answer=WITH A DISCUSSION ABOUT
+accepted_answers=WITH A DISCUSSION ABOUT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q54
+set_id=MEGA_KWT_001
+number=54
+correct_answer=BROKE DOWN AS
+accepted_answers=BROKE DOWN AS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q55
+set_id=MEGA_KWT_001
+number=55
+correct_answer=HAVE ANY OBJECTION TO ME
+accepted_answers=HAVE ANY OBJECTION TO ME | HAVE ANY OBJECTION TO MY
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q56
+set_id=MEGA_KWT_001
+number=56
+correct_answer=LACK OF EXPERIENCE AFFECT HIS
+accepted_answers=LACK OF EXPERIENCE AFFECT HIS
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q57
+set_id=MEGA_KWT_001
+number=57
+correct_answer=NEVER OCCURRED TO US
+accepted_answers=NEVER OCCURRED TO US
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q58
+set_id=MEGA_KWT_001
+number=58
+correct_answer=HAVE TAKEN A WRONG TURN
+accepted_answers=HAVE TAKEN A WRONG TURN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q59
+set_id=MEGA_KWT_001
+number=59
+correct_answer=WOULD LIKE TO HAVE GONE
+accepted_answers=WOULD LIKE TO HAVE GONE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q60
+set_id=MEGA_KWT_001
+number=60
+correct_answer=GO AHEAD ACCORDING
+accepted_answers=GO AHEAD ACCORDING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q61
+set_id=MEGA_KWT_001
+number=61
+correct_answer=MADE UP HIS MIND
+accepted_answers=MADE UP HIS MIND
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q62
+set_id=MEGA_KWT_001
+number=62
+correct_answer=IS HIGHLY THOUGHT
+accepted_answers=IS HIGHLY THOUGHT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q63
+set_id=MEGA_KWT_001
+number=63
+correct_answer=ON THE POINT OF LEAVING
+accepted_answers=ON THE POINT OF LEAVING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q64
+set_id=MEGA_KWT_001
+number=64
+correct_answer=I WOULD BE SURPRISED IF
+accepted_answers=I WOULD BE SURPRISED IF
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q65
+set_id=MEGA_KWT_001
+number=65
+correct_answer=IN NO DOUBT
+accepted_answers=IN NO DOUBT
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q66
+set_id=MEGA_KWT_001
+number=66
+correct_answer=HAVE ANY RECOLLECTION OF
+accepted_answers=HAVE ANY RECOLLECTION OF
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q67
+set_id=MEGA_KWT_001
+number=67
+correct_answer=TO PUT IN
+accepted_answers=TO PUT IN
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q68
+set_id=MEGA_KWT_001
+number=68
+correct_answer=NO CHANCE OF WINNING
+accepted_answers=NO CHANCE OF WINNING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q69
+set_id=MEGA_KWT_001
+number=69
+correct_answer=TOOK ANY NOTICE OF
+accepted_answers=TOOK ANY NOTICE OF
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q70
+set_id=MEGA_KWT_001
+number=70
+correct_answer=COUNT ON BEING
+accepted_answers=COUNT ON BEING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q71
+set_id=MEGA_KWT_001
+number=71
+correct_answer=UP HOPE OF FINDING
+accepted_answers=UP HOPE OF FINDING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q72
+set_id=MEGA_KWT_001
+number=72
+correct_answer=A MATTER OF TIME BEFORE
+accepted_answers=A MATTER OF TIME BEFORE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q73
+set_id=MEGA_KWT_001
+number=73
+correct_answer=SEE THE POINT IN LEARNING
+accepted_answers=SEE THE POINT IN LEARNING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q74
+set_id=MEGA_KWT_001
+number=74
+correct_answer=MADE A QUICK RECOVERY
+accepted_answers=MADE A QUICK RECOVERY
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q75
+set_id=MEGA_KWT_001
+number=75
+correct_answer=DID NOT USE TO LIKE
+accepted_answers=DID NOT USE TO LIKE | DIDN’T USE TO LIKE
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q76
+set_id=MEGA_KWT_001
+number=76
+correct_answer=HAVE MADE A POINT OF
+accepted_answers=HAVE MADE A POINT OF
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q77
+set_id=MEGA_KWT_001
+number=77
+correct_answer=MADE A NAME FOR
+accepted_answers=MADE A NAME FOR
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q78
+set_id=MEGA_KWT_001
+number=78
+correct_answer=CAN AFFORD THIS HOLIDAY AS LONG
+accepted_answers=CAN AFFORD THIS HOLIDAY AS LONG
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q79
+set_id=MEGA_KWT_001
+number=79
+correct_answer=GAVE NOTICE IN WRITING
+accepted_answers=GAVE NOTICE IN WRITING
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q80
+set_id=MEGA_KWT_001
+number=80
+correct_answer=AS ACCURATE AN ANSWER
+accepted_answers=AS ACCURATE AN ANSWER
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=MEGA_KWT_001_Q81
+set_id=MEGA_KWT_001
+number=81
+correct_answer=LET ALONE COOK
+accepted_answers=LET ALONE COOK
+max_points=1
+error_category=key_word_transformation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]

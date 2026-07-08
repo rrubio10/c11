@@ -1,0 +1,22 @@
+"use client";
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+
+type AdminItem = { id:string; externalId:string; number:number; prompt:string; keyword:string|null; baseWord:string|null; variants:Array<{answer:string;points:number}>; maximumPoints:number; explanation:string; active:boolean };
+type AdminSet = { externalId:string; title:string; instructions:string; fullText:string; notes:string; transcriptionStatus:string; active:boolean; items:AdminItem[] };
+
+export function AdminSetEditor({initial}:{initial:AdminSet}){
+  const [data,setData]=useState(initial); const [status,setStatus]=useState(""); const router=useRouter();
+  async function save(){setStatus("Saving…");const res=await fetch(`/api/admin/sets/${data.externalId}`,{method:"PATCH",headers:{"content-type":"application/json"},body:JSON.stringify(data)});const body=await res.json();setStatus(res.ok?"Saved":body.error??"Save failed");if(res.ok)router.refresh()}
+  return <div className="space-y-6">
+    <section className="rounded-xl border bg-white p-5 space-y-4">
+      <div className="grid gap-4 sm:grid-cols-2"><label className="text-sm font-bold">Title<input className="mt-1 w-full rounded border p-2" value={data.title} onChange={e=>setData({...data,title:e.target.value})}/></label><label className="text-sm font-bold">Transcription status<input className="mt-1 w-full rounded border p-2" value={data.transcriptionStatus} onChange={e=>setData({...data,transcriptionStatus:e.target.value})}/></label></div>
+      <label className="block text-sm font-bold">Instructions<textarea className="mt-1 min-h-28 w-full rounded border p-3" value={data.instructions} onChange={e=>setData({...data,instructions:e.target.value})}/></label>
+      <label className="block text-sm font-bold">Full exercise text / OCR transcription<textarea className="mt-1 min-h-80 w-full rounded border p-3 font-mono text-sm" value={data.fullText} onChange={e=>setData({...data,fullText:e.target.value})}/></label>
+      <label className="block text-sm font-bold">Notes<textarea className="mt-1 min-h-20 w-full rounded border p-3" value={data.notes} onChange={e=>setData({...data,notes:e.target.value})}/></label>
+      <label className="inline-flex items-center gap-2 text-sm font-bold"><input type="checkbox" checked={data.active} onChange={e=>setData({...data,active:e.target.checked})}/>Exercise active</label>
+    </section>
+    <section className="space-y-3"><h2 className="text-xl font-bold">Questions and accepted variants</h2>{data.items.map((item,index)=><article key={item.id} className="rounded-xl border bg-white p-5"><div className="flex items-center justify-between gap-3"><b>Question {item.number}</b><label className="text-sm"><input type="checkbox" checked={item.active} onChange={e=>setData({...data,items:data.items.map((x,i)=>i===index?{...x,active:e.target.checked}:x)})}/> Active</label></div><p className="mt-2 max-h-28 overflow-auto whitespace-pre-wrap rounded bg-slate-50 p-3 text-xs">{item.prompt}</p><div className="mt-4 grid gap-4 md:grid-cols-[1fr_140px]"><label className="text-sm font-bold">Variants (ANSWER | POINTS, one per line)<textarea className="mt-1 min-h-24 w-full rounded border p-2 font-mono text-sm" value={item.variants.map(v=>`${v.answer} | ${v.points}`).join('\n')} onChange={e=>setData({...data,items:data.items.map((x,i)=>i===index?{...x,variants:e.target.value.split(/\r?\n/).map(line=>{const [answer,rawPoints]=line.split(/\s*\|\s*/);return {answer:(answer??'').trim(),points:Number(rawPoints??x.maximumPoints)||x.maximumPoints}}).filter(v=>v.answer)}:x)})}/></label><label className="text-sm font-bold">Maximum points<input type="number" min={1} max={10} className="mt-1 w-full rounded border p-2" value={item.maximumPoints} onChange={e=>setData({...data,items:data.items.map((x,i)=>i===index?{...x,maximumPoints:Number(e.target.value)}:x)})}/></label></div><label className="mt-3 block text-sm font-bold">Explanation<textarea className="mt-1 min-h-20 w-full rounded border p-2" value={item.explanation} onChange={e=>setData({...data,items:data.items.map((x,i)=>i===index?{...x,explanation:e.target.value}:x)})}/></label></article>)}</section>
+    <div className="sticky bottom-4 flex items-center gap-3 rounded-xl border bg-white/95 p-4 shadow-lg backdrop-blur"><button onClick={save} className="rounded-md bg-[#007f86] px-5 py-2.5 font-bold text-white">Save changes</button><span className="text-sm text-slate-600">{status}</span></div>
+  </div>
+}

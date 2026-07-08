@@ -1,0 +1,15 @@
+C1 PRACTICE LAB — FINAL CHECKS
+Date: 2026-07-08
+
+PASS  Source validation: 50 sets, 423 items, 8 part files, 423 answer-index rows, 0 errors
+PASS  Database validation: 50 sets, 423 items, 0 errors
+PASS  TypeScript strict check
+PASS  ESLint
+PASS  Vitest: 3 files, 16 tests
+PASS  HTTP integration smoke: authentication, protected payload, autosave, resume, submission, review, idempotency
+PASS  Next.js production build (exit code 0)
+
+BLOCKED BY ENVIRONMENT  Playwright browser execution
+Reason: system Chromium returned net::ERR_BLOCKED_BY_ADMINISTRATOR for local URLs due a managed URL policy. The E2E tests are included but are not reported as passed.
+
+AUDIT  npm audit --omit=dev: 0 critical, 0 high, 5 moderate transitive advisories.

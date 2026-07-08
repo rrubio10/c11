@@ -1,0 +1,716 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Human body rhythms
+source_pdf_pages=3
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only
+one word in each gap. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Example: 0 O R
+
+Human body rhythms
+
+I'm a scientist and I study human body rhythms, (0) ........ circadian rhythms as they are called.
+Everything in our body is rhythmic; we used to think that there was just one 'clock' in the brain
+controlling these rhythms, (9) ........ we now know that we have clocks in just about (10) ........
+tissue in our body. We are trying to understand how they interact with one another and the way
+they are affected by time cues (11) ........ light or meal times. Scientists study these rhythms
+(12) ........ we can help people, for example, to synchronise to new time zones and also help
+those (13) ........ circadian rhythms are out of balance.
+
+What currently interests me is the link between the timing of our body clocks and our
+metabolism. We know, for example, that long-term shift workers seem to desire sugary things
+such as biscuits and this can lead (14) ........ health problems. Why (15) ........ is the case
+requires a lot more research. My colleagues and I are working (16) ........ finding a link at the
+moment.
+
+10
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+
+Cambridge University Press & Assessment
+978-1-009-80887-3 — C1 Advanced 5 Student's Book without Answers with Digital Pack
+
+Excerpt
+More Information
+
+Reading and Use of English
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P2_Q09
+set_id=ADV5_T1_P2
+number=9
+correct_answer=BUT
+accepted_answers=BUT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q10
+set_id=ADV5_T1_P2
+number=10
+correct_answer=EVERY
+accepted_answers=EVERY | ALL
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q11
+set_id=ADV5_T1_P2
+number=11
+correct_answer=LIKE
+accepted_answers=LIKE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q12
+set_id=ADV5_T1_P2
+number=12
+correct_answer=SO
+accepted_answers=SO
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q13
+set_id=ADV5_T1_P2
+number=13
+correct_answer=WHOSE
+accepted_answers=WHOSE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q14
+set_id=ADV5_T1_P2
+number=14
+correct_answer=TO
+accepted_answers=TO
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q15
+set_id=ADV5_T1_P2
+number=15
+correct_answer=THIS
+accepted_answers=THIS | THAT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P2_Q16
+set_id=ADV5_T1_P2
+number=16
+correct_answer=ON
+accepted_answers=ON
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Stepping into the boss's shoes
+source_pdf_pages=11
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Stepping into the boss's shoes
+For questions 9–16, use one word in each gap.
+
+Your manager is away and you've been asked to stand (0) in for them. Regardless of (9) ______ it's only for a few days or a whole month, such responsibility is simultaneously exciting and terrifying. Most of us, (10) ______ we're honest, want our boss's job, so (11) ______ on the role temporarily is an opportunity worth seizing. In the future, you might want to apply for their job, so (12) ______ the most of any chance to prove you have what it takes.
+
+Is your boss (13) ______ of those people who checks emails on holiday and never quite turns off? Then it's probably tempting to contact them about your decisions. This is bad for just about (14) ______ concerned: your boss won't have a restful break and you, (15) ______ you may not realise it, are unconsciously proving you're not ready for more responsibility. So be brave. There's no need to make drastic changes, just take a deep breath and go (16) ______ your instincts.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P2_Q09
+set_id=ADV5_T2_P2
+number=9
+correct_answer=WHETHER
+accepted_answers=WHETHER
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q10
+set_id=ADV5_T2_P2
+number=10
+correct_answer=IF
+accepted_answers=IF
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q11
+set_id=ADV5_T2_P2
+number=11
+correct_answer=TAKING
+accepted_answers=TAKING
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q12
+set_id=ADV5_T2_P2
+number=12
+correct_answer=MAKE
+accepted_answers=MAKE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q13
+set_id=ADV5_T2_P2
+number=13
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q14
+set_id=ADV5_T2_P2
+number=14
+correct_answer=ALL
+accepted_answers=ALL | EVERYBODY | EVERYONE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q15
+set_id=ADV5_T2_P2
+number=15
+correct_answer=THOUGH
+accepted_answers=THOUGH | ALTHOUGH | WHILE | WHILST
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P2_Q16
+set_id=ADV5_T2_P2
+number=16
+correct_answer=WITH
+accepted_answers=WITH
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Finding fossilized dinosaur bones
+source_pdf_pages=21
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Finding fossilized dinosaur bones
+For questions 9–16, use one word in each gap.
+
+Thanks (0) to advances in technology, researchers can analyze fossilized dinosaur bones in great detail. However, technology is of much less use when it comes to finding fossils. This is largely (9) ______ many fossil hunting sites are in remote locations, a fact which (10) ______ it impossible for researchers to transport ground-penetrating radar machinery there. Even in areas where machinery could eventually be transported, the costs in time and money usually rule this (11) ______ as an option.
+
+Supposing radar did detect (12) ______ might be an interesting object, researchers may end up deciding not to proceed with any excavations anyway. They would have to consider (13) ______ the object was likely to be interesting (14) ______ to be worth the effort. After all, there are often plenty of fossils visible at the surface.
+
+Therefore, it is keen eyesight scientists rely on, (15) ______ opposed to high-tech equipment. The best fossil hunters can even spot tiny bits of fossilized bone in rock, in (16) ______ of the fact that rock and fossil are often similar in color and texture.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P2_Q09
+set_id=ADV5_T3_P2
+number=9
+correct_answer=BECAUSE
+accepted_answers=BECAUSE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q10
+set_id=ADV5_T3_P2
+number=10
+correct_answer=MAKES
+accepted_answers=MAKES
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q11
+set_id=ADV5_T3_P2
+number=11
+correct_answer=OUT
+accepted_answers=OUT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q12
+set_id=ADV5_T3_P2
+number=12
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q13
+set_id=ADV5_T3_P2
+number=13
+correct_answer=WHETHER
+accepted_answers=WHETHER | IF
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q14
+set_id=ADV5_T3_P2
+number=14
+correct_answer=ENOUGH
+accepted_answers=ENOUGH
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q15
+set_id=ADV5_T3_P2
+number=15
+correct_answer=AS
+accepted_answers=AS
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P2_Q16
+set_id=ADV5_T3_P2
+number=16
+correct_answer=SPITE
+accepted_answers=SPITE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=ABEN online platform
+source_pdf_pages=25
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — ABEN online platform
+For questions 9–16, use one word in each gap.
+
+The inspiration for his online platform called ABEN (0) came to David Harrigan when he was decorating his own home. Browsing the internet (9) ______ search of work by Scandinavian interior designers, he could find (10) ______ single site able to meet his needs. His frustration was (11) ______ sparked the idea for the platform, which puts Scandinavian designers in touch with consumers who are on the lookout for custom-made furniture, glassware or ceramics. On the (12) ______ hand, ABEN helps consumers find products that aren't mass-produced, whilst giving budding designers a shop window on the other.
+
+ABEN's platform works (13) ______ any other e-shop, but with a personal twist. Once a customer has purchased an item through the website, David gives the designer a call to ascertain how long production will take. In order to make a unique piece (14) ______ scratch, the designer needs time, (15) ______ keen customers are to get a delivery. As long as David makes the customer (16) ______ of this in advance, everything works out fine.
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P2_Q09
+set_id=ADV5_T4_P2
+number=9
+correct_answer=IN
+accepted_answers=IN
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q10
+set_id=ADV5_T4_P2
+number=10
+correct_answer=NO
+accepted_answers=NO
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q11
+set_id=ADV5_T4_P2
+number=11
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q12
+set_id=ADV5_T4_P2
+number=12
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q13
+set_id=ADV5_T4_P2
+number=13
+correct_answer=LIKE
+accepted_answers=LIKE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q14
+set_id=ADV5_T4_P2
+number=14
+correct_answer=FROM
+accepted_answers=FROM
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q15
+set_id=ADV5_T4_P2
+number=15
+correct_answer=HOWEVER
+accepted_answers=HOWEVER
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P2_Q16
+set_id=ADV5_T4_P2
+number=16
+correct_answer=AWARE
+accepted_answers=AWARE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=The origin of language
+source_pdf_pages=53
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2
+
+For questions 9 – 16, read the text below and think of the word which best fits each gap. Use only
+one word in each gap. There is an example at the beginning (0).
+
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Example: 0 I S
+
+The origin of language
+The truth (0) ........ nobody really knows how language first began. Did we all start talking at around
+
+the same time (9) .......... of the manner in which our brains had begun to develop?
+
+Although there is a lack of clear evidence, people have come up with various theories about the
+
+origins of language. One recent theory is that human beings have evolved in (10) ............... a way that
+
+we are programmed for language from the moment of birth. In (11) ........ words, language came
+
+about as a result of an evolutionary change in our brains at some stage.
+
+Language (12) ........ well be programmed into the brain but, (13) ........ this, people still need
+
+stimulus from others around them. From studies, we know that (14) ............ children are isolated from
+
+human contact and have not learnt to construct sentences before they are ten, it is doubtful they will
+
+ever do so. This research shows, if (15) ............ else, that language is a social activity, not something
+
+invented (16) .......... isolation.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P2_Q09
+set_id=SAMPLE1_P2
+number=9
+correct_answer=BECAUSE
+accepted_answers=BECAUSE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q10
+set_id=SAMPLE1_P2
+number=10
+correct_answer=SUCH
+accepted_answers=SUCH
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q11
+set_id=SAMPLE1_P2
+number=11
+correct_answer=OTHER
+accepted_answers=OTHER
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q12
+set_id=SAMPLE1_P2
+number=12
+correct_answer=COULD
+accepted_answers=COULD | MAY | MIGHT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q13
+set_id=SAMPLE1_P2
+number=13
+correct_answer=DESPITE
+accepted_answers=DESPITE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q14
+set_id=SAMPLE1_P2
+number=14
+correct_answer=IF
+accepted_answers=IF | WHEN | WHENEVER
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q15
+set_id=SAMPLE1_P2
+number=15
+correct_answer=NOTHING
+accepted_answers=NOTHING | LITTLE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P2_Q16
+set_id=SAMPLE1_P2
+number=16
+correct_answer=IN
+accepted_answers=IN
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Managing change
+source_pdf_pages=45
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Managing change
+For questions 9–16, use one word in each gap.
+
+Most people find change unsettling and difficult to adapt (0) to. Many societies have experienced (9) ______ rapid change in the early years of the 21st century that life can feel very daunting (10) ______ times. Various commentators have (11) ______ forward suggestions for coping with change on a personal level.
+
+One suggestion involves thinking of three solutions to a problem, rather (12) ______ two. Apparently, many people faced (13) ______ change respond by considering two possible courses of action, but invariably tend to reject both of these. However, thinking instead of three potential solutions is a strategy which, according to research, provides a reliable way of finding a solution to the initial problem.
+
+Another strategy advocates learning to avoid set patterns of routine behaviour. Something simple, (14) ______ taking another route to work at (15) ______ once a week, is seen as encouraging confidence in the face of uncertainty. (16) ______ the simplicity of these ideas, they nevertheless help prepare people mentally to manage major change if necessary.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P2_Q09
+set_id=SAMPLE2_P2
+number=9
+correct_answer=SUCH
+accepted_answers=SUCH
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q10
+set_id=SAMPLE2_P2
+number=10
+correct_answer=AT
+accepted_answers=AT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q11
+set_id=SAMPLE2_P2
+number=11
+correct_answer=PUT
+accepted_answers=PUT
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q12
+set_id=SAMPLE2_P2
+number=12
+correct_answer=THAN
+accepted_answers=THAN
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q13
+set_id=SAMPLE2_P2
+number=13
+correct_answer=WITH
+accepted_answers=WITH | BY
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q14
+set_id=SAMPLE2_P2
+number=14
+correct_answer=LIKE
+accepted_answers=LIKE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q15
+set_id=SAMPLE2_P2
+number=15
+correct_answer=LEAST
+accepted_answers=LEAST
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P2_Q16
+set_id=SAMPLE2_P2
+number=16
+correct_answer=DESPITE
+accepted_answers=DESPITE
+max_points=1
+error_category=open_cloze
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]

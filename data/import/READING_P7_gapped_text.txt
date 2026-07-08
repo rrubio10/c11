@@ -1,0 +1,1001 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=Natural history museums are teeming with undiscovered species
+source_pdf_pages=8
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 8 ---
+on. id nitrogen that reveal what an animal
+ey can identify pollutants.
+
+Hirely new species in this
+acred crocodile, it
+
+exploration in the
+Za West Africa,' says
+it's there, we can try
+
+ting sacrifices
+in, it gives us
+
+Reading and Use of English
+
+6
+£ Many unclassified: species on the other hand
+are still taking up valuable space and gathering.
+dust in jars. The legendary naturalists of
+yesteryear catalogued jife's grand 'diversity by
+hopping across continents and islands, but
+their modern counterparts 'don't need to pubin
+
+this much effort.
+
+while sequencing DNA from Nile crocodile
+"collected all over Africa, in a bid to
+
+f Ay
+Hekkala stumbled across ae of these herself
+i differ between the various
+
+p geek, I thought: Oh, | can get tons
+
+specimens from museum collections,'
+
+al more to science
+of their owners:
+how bodies
+maller as the
+reveals TOW:
+experienced
+divel , while others
+
+eir lost genetic wealth.
+
+mere specimens,
+pinned onto boards,
+
+and stuffed into jars-
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P7_Q41
+set_id=ADV5_T1_P7
+number=41
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P7_Q42
+set_id=ADV5_T1_P7
+number=42
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P7_Q43
+set_id=ADV5_T1_P7
+number=43
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P7_Q44
+set_id=ADV5_T1_P7
+number=44
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P7_Q45
+set_id=ADV5_T1_P7
+number=45
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P7_Q46
+set_id=ADV5_T1_P7
+number=46
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=Using our sense of smell
+source_pdf_pages=18
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 18 ---
+Part7
+
+epout the eee Of smell. Six Paragraphs
+ich fits ean hve
+
+920 (41-46) poet
+is
+One
+
+I we're suffering fr
+
+less acutely and i 'OM tiredness
+
+we
+ess accurately. '© tend to smey
+
+# Led a very different ki
+oe alder colour. Working with sme;
+working with the colour spectrin, Ct
+
+ind of com,
+
+you devote
+periods of time
+
+feeling certain of your
+ability to spot the difference between a natural
+and a synthetic aroma. However, when tested on
+this, people are generally deceived. For example,
+lime essential oil is identified by 90% of people as
+smelling 'chemical'. Yet synthetic but pleasantly
+smooth lime oxide is almost always identified as
+natural. Research in neuroscience backs up my
+observations of this, and it also shows that our
+
+'once it's decided _ ability to smell accurately is affected by stress.
+
+'is still picking up
+
+Aside from following sensible advice like th
+
+to
+it
+i 'ense of smell, make
+continue developing your = oe everythin
+
+a habit to smell the roses, ice. stop an
+you eat. ell something ni etter ati
+
+identify the source.
+than you can imagine ~ am
+
+good as a dog!
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P7_Q41
+set_id=ADV5_T2_P7
+number=41
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P7_Q42
+set_id=ADV5_T2_P7
+number=42
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P7_Q43
+set_id=ADV5_T2_P7
+number=43
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P7_Q44
+set_id=ADV5_T2_P7
+number=44
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P7_Q45
+set_id=ADV5_T2_P7
+number=45
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P7_Q46
+set_id=ADV5_T2_P7
+number=46
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=In dialogue with Mozart
+source_pdf_pages=22
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 22 ---
+Test 3
+Part 7 Readin
+However there Is eo ob eus explanation: 'p, and Use Of Eng
+' tt a musician playing a uni i A ts association with him it was recount; Mo: ee
+You are going to read an article abou! Bivang 8 Unique violin: Six paragrapy, to Me on how precious this instrumest ss becant, "OUld have
+'ved from the article. Choose from the paragraphs A-G the one which fits o S have ey dared to actually change it is and Hone Concert me On it wh
+been rem ror ra paragraph which you do not need to use. Pach ga, panez, who has Carried out extensive fener VT77 hen' at the age of 13, Site 'Sateburs
+ape Wet arate answer sheet. toits history. Concerta ot 2 him about pie = OW ROU i
+Mark your answers on the SeP in beautiful, th Violin, every Nes seca
++ Pure tone Seas
+—————— SSSC—C—S~S<("SS 5 Doing 0 required a great deal of time and F ae 'Pralsed may)
+= H Se ri. 'As it was very rarely played, at fi Was blissf
+In dialogue with Mozart ee) was stiff, it lacked resonance and ie convinced no an awakening. tm pre a
+sound had fallen asleep. I played it for hours oe time on ity Kones peek bare
+Musician Christoph Konez has used Mozart's notin when recording the 18th-centun Se pened uo and the woot ge that day. he fetg Se the vt a
+e ; vas in irectly catiiee ae =
+paras! = 1108: VION CONCENOS z Ws mony again. The time it took to get it into directly with Mozart ice communteaties
+shape each day became shorter the more often @w i
+The house where Wolfgang Amadeus Mozart a iplayed it' ete " not leave behind ki
+i i , Austria, a bre for the ¢ Zs » Rowever, yy;
+i; now a museum in Salzburg, Austr : cadenzas, th aS
+i Ae Mozarteum. When the musician —————————— ¢ Despite those reservations, they knew there meen Shon gach plese 'allow
+called U dared to ask Koncz plays the violin with Sen ever bea better opportunity. For K nO Show off their ski be
+Christoph Konez went there aididared to hi ; ; out a shoulder req might n pores 'oncz clue that Mozart lls. This is another
+i f Mozart's violin if he might be ich requires a different style of playing . and those behind the project, it therefore feit himself, Kones eee ormes the violin pieces
+the keepers of d no idea where the that commonly used nowadays. And. uss n" ike a fitting moment to bring an instrument improvi <Z Says, and that he probabi
+allowed to try it out, he had no iolin itself JS. anc, unusually had been mainly confined t sed these cadenzas ty
+seul lead. Astonishingly, they left him the violin itself has not been modernised. Konc> that fora wider audie 0 a glass
+; es 'na room, and closed the door. He S2¥S it is extraordinary that the main ae display case to BSS.
+alone y Mozart's violin are all in their ori hci
+played non-stop for several hours. | << onion > Over tie following years, the violin changed
+hands several more es. en, in 1956, it !
+___ |S gegutred by the Mozarteum, the leading |
+The violin passed from Mozart to his sister Nanner me cated to preserving the
+Eight years later, after hundreds of hours = a piano teacher, when he moved to Vienna at the abet se SIeaECY:
+practice on the gut-stringed Baroque cence ¢ age of 25. After Mozart's untimely death at 35, one
+Koncz a the = Soe oer ing Of of Nanner!'s star pupils purchased the instrument |
+Mozart's five violin concertos on the very same fia Wake wee
+violin on which the musical genius composed a
+them between 1773 and 1775. Mozart also almost
+certainly performed them on the instrument. 'The five concertos Koncz has recorded are 4
+'It's a museum instrument, says Koncz, 'but we mainstay of any classical violinist's repertoire |
+musicians believe an instrument only has one They progress in complexity and Sopa
+purpose: to be played. I have been allowed to. and, says Koncz, are a record of the speed wit!
+bring it to life again." which Mozart developed asa musician.
+SS ]
+_ aaa
+: eS =
+Konez says that the recordings he has now made jy, one of the most challenging pao Ne ae oh
+are vital for sharing something very close to Koncz set about composing oes surviving
+what Mozart would have heard. 'They take this yemain true to Mozart by stu Lee -oncerto8
+sound, which only a few people would otherwise ones he had written for nis rein nes like bend
+get to hear, beyond the concert hall. | draw composing them for others to Pear trying t@
+huge inspiration from the fact that the sound! jn dialogue with him, over Ease at this point, ¢
+produce on the violin is probably very similar imagine what he would SE ge responsibility ©
+to something that Mozart heard in his own ear.' the same time as feeling a hug
+Hered the first full-sized violin to be owned —_ kept me awake at times.
+lozart, it was built in the mid 18th century in
+Mittenwald in Bavaria, a town stil] famous for its
+ze making. It is believed to have been given to |
+by his father, Leopold, his sole violin tutor.
+= _ :
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P7_Q41
+set_id=ADV5_T3_P7
+number=41
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P7_Q42
+set_id=ADV5_T3_P7
+number=42
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P7_Q43
+set_id=ADV5_T3_P7
+number=43
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P7_Q44
+set_id=ADV5_T3_P7
+number=44
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P7_Q45
+set_id=ADV5_T3_P7
+number=45
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P7_Q46
+set_id=ADV5_T3_P7
+number=46
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=What chocolate and Nobel Prizes reveal about our trust in scientists
+source_pdf_pages=32
+transcription_status=ocr_cleaned_from_scan
+notes=
+item_count=6
+text_begin
+--- SOURCE PDF PAGE 32 ---
+You are going to read an article about how science is
+reported in
+removed from the article. Choose from the paragraphs A-G the one eae :
+
+extra paragraph which you do not need to use.
+Mark your answers on the separate answer sheet.
+
+Part 7
+
+a. Six para
+'Sfaphs f,
+ach gap (4149) ce
+
+What chocolate and Nobel Priz
+
+es revea; ~~
+
+about our trust in Scientists
+
+Wouldn't it be great if chocolate were good for
+you? It's no wonder many news outlets leap on
+research that appears to show potential benefits
+to eating it. But the history of such coverage
+provides a cautionary tale about why we should be
+wary of scientists' claims that are reported in the
+media, as well as the way the stories are framed by
+journalists. In 2012, for example, Dr Franz Messerli
+published a short article in the prestigious New
+Engiand Journal of Medicine that looked at a
+range of recent studies into the cognitive impact of
+chocolate consumption.
+(«|
+In his article, Messerli suggested there was a clear
+link between the average amount of chocolate eaten
+in a country and the number of Nobel Prize winners
+it produced, relative to population size. He proposed
+that to enhance cognitive abilities (and consequently
+
+its number of Nobel Prizes), each country should
+radically increase its chocolate intake.
+
+[2]
+As a result, news reports about the intellectual
+benefits of eating chocolate flooded screens and
+newspapers. Journalists had taken the fact that
+the article was published in a respected journal
+as a guarantee of quality, little realising that it
+had been placed in a section called 'Occasional
+Notes', earmarked for jovial contributions such
+as Messerli's. Meanwhile, fellow scientists were
+outraged. Why would the New England Journal of
+Medicine disseminate such a thing?
+
+fs]
+
+Despite the apparent ease with which Messerli's
+assertions were thus disproved, since the release
+of his article many serious papers and earnest
+letters have been published on the subject
+What's more, traditional and social media have
+continuously covered the story, mostly without
+critical reflection, perpetuating the idea that there
+
+84
+
+might be a link ve
+brainpower Between choe
+
+44 i
+When claim:
+
+S Made in artic}
+Public are subsequently digo
+
+the public loses trust in
+journalists. Because research
+
+have dedicated journalists with the skis
+and experience to cast a sufficiently crit
+dubious or difficult-to-interpret results.
+
+exper
+
+But is the media totally to blame for the att
+grabbing yet flawed reporting that this exempli
+Though some journalists need to better
+research, scientists too play a role in tra
+the information, and unfortunately, they 0
+do not try to correct misunderstandings. For
+example, in the case of the chocolateNobel story
+the scientists involved did little to address 1
+confusion engulfing the mass media.
+
+46 | =
+
+scientists
+
+In contrast, when
+wholeheartedly in publicising their fi
+have real impact. For instance, in 2015 .
+reported that over 80% of pupils at ae
+in one area were not vaccinated against
+including polio and measles. Scienti
+these vaccine refusals, and an inform ine
+was mounted. By involving the com oe
+rebuilding trust, immunisater hake
+radically. The chocolate-No! Ghee
+taught us that all scientific eran
+misinterpreted. Scientists must
+their responsibility towards pro
+understanding of scene No 0!
+e their opinions
+paandbites no matter how tasty
+
+ty am
+
+e SI
+
+ation campaign
+
+has
+
+ions can be
+enise
+
+about scientists' latest failure tg
+
+pene tanation for why antimatter didn
+emp universe at its creation led to the
+headline: "It should NOT Exists
+
+fear universe could DIE at any
+ecientists
+
+roposition, however, was mea,
+eee han a droll story, a friendly
+8, nothing colleagues that over-interpreting
+geminder © can lead to incorrect claims
+correlatiot™ jy, few people understood that the
+
+ort was actually a joke.
+
+chow, this study was sensationaliseg
+gutsomenr, as ground-breaking research
+on th a popular foodstul would protect
+proving disease. Once again, th
+goinst 3 Sction was not corrected, iz
+
+this amusing anecdote is far from
+
+o Fe incident. Much coverage of science
+<i and downright wrong at
+important because scientific
+can have adverse effects on
+
+5 \
+
+and Nobel Prize laureates
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P7_Q41
+set_id=ADV5_T4_P7
+number=41
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P7_Q42
+set_id=ADV5_T4_P7
+number=42
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P7_Q43
+set_id=ADV5_T4_P7
+number=43
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P7_Q44
+set_id=ADV5_T4_P7
+number=44
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P7_Q45
+set_id=ADV5_T4_P7
+number=45
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P7_Q46
+set_id=ADV5_T4_P7
+number=46
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=Scottish Wildcat
+source_pdf_pages=62–63
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 7
+You are going to read an extract from a magazine article. Six paragraphs have been removed from
+the extract. Choose from the paragraphs A – G the one which fits each gap (41 – 46). There is one
+extra paragraph which you do not need to use.
+
+Mark your answers on the separate answer sheet.
+
+Scottish Wildcat
+On my living-room wall I have a painting of a western Scotland. This is a cause for real
+wildcat by John Holmes of which I am concern, given that the animals in these areas
+extremely fond. It depicts a snarling, spitting have less contact with domestic cats and are
+animal, teeth bared and back arched: a taut therefore purer.
+coiled spring ready to unleash some unknown
+fury. 44
+
+41 Part of the problem stems from the fact that the
+accepted physical description of the species
+However, the physical differences are tangible. originates from the selective nature of the
+The wildcat is a much larger animal, weighing examination process by the British Natural
+in some cases up to seven kilos, the same History Museum at the start of the century, and
+as a typical male fox. The coat pattern is this has been used as the type-definition for
+superficially similar to a domestic tabby cat but the animal ever since. Animals that did not
+it is all stripes and no spots. The tail is thicker conform to that large blunt-tailed 'tabby'
+and blunter, with three to five black rings. The description were discarded as not being
+animal has an altogether heavier look. wildcats. In other words, an artificial collection
+of specimens was built up, exhibiting the
+The Scottish wildcat was originally features considered typical of the wildcat.
+distinguished as a separate subspecies in
+1912, but it is now generally recognised that The current research aims to resolve this
+there is little difference between the Scottish potential problem. It is attempting to find out
+and other European populations. According to whether there are any physical features which
+an excellent report on the wildcat printed in characterise the so-called wild-living cats.
+1991, the animals originally occurred in a
+variety of habitats throughout Europe. 45
+
+42 But what of his lifestyle? Wildcat kittens are
+usually born in May/June in a secluded den,
+It was during the nineteenth century, with the secreted in a gap amongst boulders. Another
+establishment of many estates used by favourite location is in the roots of a tree.
+landowners for hunting, that the wildcat
+became a nuisance and its rapid decline really 46
+began; 198 wildcats were killed in three years
+in the area of Glengarry, for example.
+However, things were later to improve for the Rabbits are a favourite prey, and some of the
+species. best areas to see wildcats are at rabbit
+warrens close to the forest and moorland edge.
+Mice, small birds and even insects also form a
+43 large part of the diet, and the animal may
+occasionally take young deer.
+The future is by no means secure, though, and
+recent evidence suggests that the wildcat is The wildcat is one of the Scottish Highlands'
+particularly vulnerable to local eradication, most exciting animals. Catch a glimpse of one
+especially in the remoter parts of northern and and the memory will linger forever.
+
+A The recruitment of men to the D They probably used deciduous and
+armed forces during the conflict coniferous woodland for shelter,
+in Europe from 1914 to 1918 meant particularly in winter, and hunted over
+there was very little persecution, since more open areas such as forest edge,
+gamekeepers went off to fight. As the open woodland, thickets and scrub,
+number of gamekeepers decreased, grassy areas and marsh. The wildcat
+the wildcat began to increase its range, was probably driven into more
+recolonising many of its former haunts. mountainous areas by a combination of
+Extinction was narrowly averted. deforestation and persecution.
+
+B The wildcat waits for a while in rapt E As the animals emerge, their curiosity
+concentration, ears twitching and eyes is aroused by every movement and
+watching, seeing everything and rustle in the vegetation. Later they will
+hearing everything, trying to detect the accompany their mother on hunting
+tell-tale movement of a vole or a trips, learning quickly, and soon
+mouse. But there is nothing, and in become adept hunters themselves.
+another leap he disappears into the
+gloom. F This is what makes many people think
+that the wildcat is a species in its own
+C The results, which are expected shortly, right. Research currently being
+will be fascinating. But anyone who undertaken by Scottish Natural
+has seen a wildcat will be in little doubt Heritage is investigating whether the
+that there is indeed a unique and wildcat really is distinct from its home-
+distinctive animal living in the Scottish living cousin, or whether it is nothing
+Highlands, whatever his background. more than a wild-living form of the
+domestic cat.
+
+G It is a typical image most folk have of
+the beast, but it is very much a false
+one, for the wildcat is little more than a
+bigger version of the domestic cat, and
+probably shows his anger as often.
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P7_Q41
+set_id=SAMPLE1_P7
+number=41
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P7_Q42
+set_id=SAMPLE1_P7
+number=42
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P7_Q43
+set_id=SAMPLE1_P7
+number=43
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P7_Q44
+set_id=SAMPLE1_P7
+number=44
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P7_Q45
+set_id=SAMPLE1_P7
+number=45
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P7_Q46
+set_id=SAMPLE1_P7
+number=46
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P7
+section=READING
+part=7
+type=gapped_text
+level=C1
+title=Macquarie Island
+source_pdf_pages=46–47
+transcription_status=verified
+notes=
+item_count=6
+text_begin
+Part 7
+
+You are going to read an extract from a magazine article about Macquarie Island. Six paragraphs
+have been removed from the extract. Choose from the paragraphs A – G the one which fits each gap
+(41 – 46). There is one extra paragraph which you do not need to use.
+
+Mark your answers on the separate answer sheet.
+
+Macquarie Island A This is mainly in the form of rabbits. E The resultant landslips have devastating
+Introduced in 1877 as a food source, they consequences. They have harmed hundreds
+Journalist Matthew Denholm joins a group of scientists, attempting to save Macquarie Island, which took to the island with gusto. Recent of penguins as well as destroying nesting
+lies halfway between Australia and Antarctica. estimates of the rabbit population, before the sites leaving local wildlife at risk. I begin to
+eradication program began, ranged from realise just how damaged this wilderness is.
+I am stumbling, blinded by tiny missiles of ice and 100,000 to 150,000.
+snow driven horizontally into my face by a howling 44 F At night, they are indistinguishable from the
+gale. One minute I'm blown backwards. The next B It's a realisation that makes all the more rocks that cover the ground; only their
+This extreme isolation means no activity is easy on
+I'm leaping skyward in undignified panic as a foot impressive the endeavours of the first gurgling barks tell me when to jump. As I
+the island. Our first challenge was getting ashore as
+narrowly misses an outraged elephant seal. explorers to come here. Here at Brothers lose feeling in my fingers, numbed by glacial
+there is no safe anchorage. But when we eventually
+Squinting painfully through torchlight, I've little Point, perched on a headland off the island's temperatures, I ask myself: Is this what I
+reached the beach, I could instantly see that the
+hope of seeing the beasts. east coast, we could be the last humans on sailed to the bottom of the world for?
+island's reputation as 'the Galápagos of the south' is
+Earth. In a geographical sense, we very
+READING AND
+
+justified. Over the next few days, seals, penguins
+41 nearly are. G Macquarie achieved the listing 10 years
+and a host of seabirds are a constant presence. As in
+earlier, partly in recognition of the fact that it
+Later, inside a cosy hut, sporting a patch over the the Galápagos Islands, some species are abundant –
+The walk – just under 10km from the is a geological freak. The island is ocean
+EXAM
+
+C
+sorer of my eyes, I have to admit that it probably is. there are an estimated 100,000 seals and four million
+research station to the cabin – wasn't meant floor forced to the surface by the
+penguins. Though hunted in the past, these days the
+USE OF
+
+This is, after all, the sub-Antarctic. Or to be precise, to be in darkness. Some time after setting convergence of two tectonic plates – an
+Macquarie Island: a sliver of land conjured abruptly main threat to the island's fauna comes not from
+out, however, my photographer realised he ongoing process.
+from the vast wilderness of the Southern Ocean. The man but from our legacy.
+had left a piece of camera equipment behind.
+darkest, coldest months are generally the quietest
+| LEVEL
+
+time of year for human activity here, but this year is 45
+D It's one of the most ambitious programs of its
+ENGLISH
+
+different. I'm with a team of scientists who are type ever attempted. A worthy project
+Unaccustomed to the herbivores' teeth, the island
+undertaking a seemingly impossible task: to rid the indeed, but as the intense winds rage outside,
+flora has been overgrazed and reduced to stubble.
+entire island of every rabbit, rat and mouse. I can empathise with Captain Douglass, an
+The hills and plateaus are pock-marked with holes
+| PAPER
+
+and soft surfaces are undermined by their burrows. early visitor to the island. Arriving in 1822,
+42 Douglass called Macquarie 'the most
+On this treeless island, the overgrazing has also left
+the homes of native birds exposed. Petrel and wretched place'.
+Next morning, I abruptly change my mind, however,
+when I awake to a view that justifies the three-day albatross chicks are thus more vulnerable to
+voyage to this remote outpost of Australia. After predation and the harsh elements. The devastation
+overnight snowfalls the island is painted white, reached such a point that in 2007 the World Heritage
+from highland plateaus, with frozen lakes, to rocky Convention discussed whether the island should lose
+its World Heritage status.
+| SAMPLE PAPER 2
+
+black sand and pebble shore. All glistens in rare
+sub-Antarctic sunshine. Besides, the previous
+46
+afternoon's discomforts were entirely our own fault.
+However, the status was also conferred because of
+43
+its 'outstanding natural beauty and aesthetic
+The delay while we doubled back made it importance'. Given that the wild hillsides that
+impossible to reach the hut before dusk. I had also should be lushly covered are bare, and are animated
+blundered, deciding snow goggles were unnecessary. not by the movement of wind in tussock but by
+We had been taught a valuable lesson. While rabbits running amok, it is not surprising that the
+officially part of Australia, this island is a different world was beginning to ask whether the description
+world. Different rules apply. Every move must be still applied.
+planned and precautions taken because of the
+dangers posed by climate and terrain.
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+SAMPLE PAPER
+
+25
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+26
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P7_Q41
+set_id=SAMPLE2_P7
+number=41
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P7_Q42
+set_id=SAMPLE2_P7
+number=42
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P7_Q43
+set_id=SAMPLE2_P7
+number=43
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P7_Q44
+set_id=SAMPLE2_P7
+number=44
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P7_Q45
+set_id=SAMPLE2_P7
+number=45
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P7_Q46
+set_id=SAMPLE2_P7
+number=46
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=reading_comprehension
+explanation=Verified option.
+[/ITEM]

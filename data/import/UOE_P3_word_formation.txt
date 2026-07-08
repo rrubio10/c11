@@ -1,0 +1,739 @@
+# C1 ADVANCED EXERCISE DATABASE
+# Format: UTF-8 plain text
+# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
+# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
+# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
+
+[SET]
+set_id=ADV5_T1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=The young entrepreneur
+source_pdf_pages=6
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3
+For questions 17–24, read the text below. Use the word given in capitals at the end of some of the
+lines to form a word that fits in the gap in the same line. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Example: 0 M I L L I O N A I R E
+
+The young entrepreneur
+
+It's probably fair to say that self-made (0) ........ undergraduates are MILLION
+something of a (17) ........ . But then, even by Oxford University's RARE
+standards, Nick D'Aloisio is a rather (18) ........ student. ORDINARY
+
+Always (19) ........ inquisitive, D'Aloisio taught himself programming INTELLECT
+
+while relatively young. He used his new-found expertise to create
+a mobile phone app which summarises news articles. He called it
+Summly. But D'Aloisio is also highly (20) ........ and, aged only 15, he AMBITION
+
+sought and then received financial backing from several (21) ........ , INVEST
+
+which allowed him to develop his technology. It proved (22) ........ PHENOMENON
+
+successful and two years later the multinational corporation, Yahoo,
+acquired D'Aloisio's app for $30 million. He then worked for the US
+tech giant for a time (there was some (23) ........ in his team about SCEPTIC
+
+having a 17-year-old product manager!) before deciding to continue
+his studies.
+
+Despite his huge wealth, D'Aloisio thinks that equating money with
+success is never a good idea and feels (24) ........ to be treated just FORTUNE
+like any other student by both teachers and peers.
+
+11
+
+© in this web service Cambridge University Press & Assessment www.cambridge.org
+
+Cambridge University Press & Assessment
+978-1-009-80887-3 — C1 Advanced 5 Student's Book without Answers with Digital Pack
+
+Excerpt
+More Information
+
+Test 1
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T1_P3_Q17
+set_id=ADV5_T1_P3
+number=17
+correct_answer=RARITY
+accepted_answers=RARITY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q18
+set_id=ADV5_T1_P3
+number=18
+correct_answer=EXTRAORDINARY
+accepted_answers=EXTRAORDINARY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q19
+set_id=ADV5_T1_P3
+number=19
+correct_answer=INTELLECTUALLY
+accepted_answers=INTELLECTUALLY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q20
+set_id=ADV5_T1_P3
+number=20
+correct_answer=AMBITIOUS
+accepted_answers=AMBITIOUS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q21
+set_id=ADV5_T1_P3
+number=21
+correct_answer=INVESTORS
+accepted_answers=INVESTORS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q22
+set_id=ADV5_T1_P3
+number=22
+correct_answer=PHENOMENALLY
+accepted_answers=PHENOMENALLY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q23
+set_id=ADV5_T1_P3
+number=23
+correct_answer=SCEPTICISM
+accepted_answers=SCEPTICISM
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T1_P3_Q24
+set_id=ADV5_T1_P3
+number=24
+correct_answer=FORTUNATE
+accepted_answers=FORTUNATE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Unstaffed shops in Sweden
+source_pdf_pages=10
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3 — Unstaffed shops in Sweden
+For questions 17–24, form a word from the word in capitals.
+
+Over recent decades, the number of small shops in rural Sweden has been falling (0) dramatically. For reasons related to the economy (DRAMA) and a declining population, these shop (17) ______ have affected numerous isolated villages. (CLOSE)
+
+However, with the opening of unstaffed supermarkets, now the way people shop has (18) ______ a radical change. (GO) To enter, all that is needed is a code from the shop's app. Once inside there are no assistants, and shoppers make their selections from a range of basic daily (19) ______, for example, milk or bread. (NECESSARY) The shop's app is also used to process any (20) ______ which need to be made. (PAY)
+
+At first shoppers admitted to feeling slightly (21) ______ at having no one to say 'Hi' to, but they soon became accustomed to the new system. (COMFORT) Previously, buying food had involved a drive to the nearest town, but the unstaffed shop has (22) ______ local people to stock up without this (23) ______. (ABLE / CONVENIENT)
+
+Indeed, the idea has proved so popular that the company behind the scheme plans an (24) ______ of the network in the near future. (EXPAND)
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T2_P3_Q17
+set_id=ADV5_T2_P3
+number=17
+correct_answer=CLOSURES
+accepted_answers=CLOSURES
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q18
+set_id=ADV5_T2_P3
+number=18
+correct_answer=UNDERGONE
+accepted_answers=UNDERGONE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q19
+set_id=ADV5_T2_P3
+number=19
+correct_answer=NECESSITIES
+accepted_answers=NECESSITIES
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q20
+set_id=ADV5_T2_P3
+number=20
+correct_answer=PAYMENTS
+accepted_answers=PAYMENTS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q21
+set_id=ADV5_T2_P3
+number=21
+correct_answer=UNCOMFORTABLE
+accepted_answers=UNCOMFORTABLE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q22
+set_id=ADV5_T2_P3
+number=22
+correct_answer=ENABLED
+accepted_answers=ENABLED
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q23
+set_id=ADV5_T2_P3
+number=23
+correct_answer=INCONVENIENCE
+accepted_answers=INCONVENIENCE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T2_P3_Q24
+set_id=ADV5_T2_P3
+number=24
+correct_answer=EXPANSION
+accepted_answers=EXPANSION
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=The advantages of outdoor learning
+source_pdf_pages=20
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3 — The advantages of outdoor learning
+For questions 17–24, form a word from the word in capitals.
+
+I, like all teachers, had heard about the (0) beneficial effects of outdoor learning for children. (BENEFIT) But it wasn't something I gave much thought to; I engaged with it when required to do so but without much understanding or (17) ______. (ENTHUSE) However, moving recently to a (18) ______ new school, where outdoor learning is given much greater priority, has changed my (19) ______ entirely. (PROGRESS / LOOK)
+
+Often, children who struggle more within the (20) ______ of the classroom flourish in outdoor spaces, where they feel more independent. (RESTRICT) This (21) ______ exploration and creativity to take place in new ways. (ABLE) Outdoor learning also gives them opportunities to offer ideas spontaneously rather than always as a (22) ______ to the teacher's questions. (RESPOND)
+
+With outdoor learning I see my class in a different light. Children's behaviour can shift, and differences between pupils that may have been apparent in the classroom might not be so outside. If other teachers are, as I was, a little (23) ______ at first, then I would urge them to throw themselves into outdoor learning! (HESITATE) It will be a (24) ______ rewarding experience! (MASS)
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T3_P3_Q17
+set_id=ADV5_T3_P3
+number=17
+correct_answer=ENTHUSIASM
+accepted_answers=ENTHUSIASM
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q18
+set_id=ADV5_T3_P3
+number=18
+correct_answer=PROGRESSIVE
+accepted_answers=PROGRESSIVE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q19
+set_id=ADV5_T3_P3
+number=19
+correct_answer=OUTLOOK
+accepted_answers=OUTLOOK
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q20
+set_id=ADV5_T3_P3
+number=20
+correct_answer=RESTRICTIONS
+accepted_answers=RESTRICTIONS | RESTRICTION
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q21
+set_id=ADV5_T3_P3
+number=21
+correct_answer=ENABLES
+accepted_answers=ENABLES
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q22
+set_id=ADV5_T3_P3
+number=22
+correct_answer=RESPONSE
+accepted_answers=RESPONSE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q23
+set_id=ADV5_T3_P3
+number=23
+correct_answer=HESITANT
+accepted_answers=HESITANT
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T3_P3_Q24
+set_id=ADV5_T3_P3
+number=24
+correct_answer=MASSIVELY
+accepted_answers=MASSIVELY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=ADV5_T4_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Single-use objects are nothing new
+source_pdf_pages=30
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3 — Single-use objects are nothing new
+For questions 17–24, form a word from the word in capitals.
+
+Many people probably consider throwaway coffee cups to be a modern (0) invention. (INVENT) However, the Minoans, one of the first advanced civilisations in Europe, were making single-use cups 3,500 years ago. Their disposable pottery cups were popular at large social (17) ______ for the chance they offered the hosts to display their wealth and (18) ______. (GATHER / SOPHISTICATED)
+
+At a recent museum exhibition designed to show the (19) ______ of plastic pollution, one of the Minoan cups was displayed alongside modern single-use objects. (EXTEND) The (20) ______ of the ancient cup among the more recent items was deliberately thought-provoking. (INCLUDE)
+
+The curators' aim was to make visitors consider their (21) ______ with waste, and to think creatively about reducing the amount they produce. (RELATE) They hoped that this would prove more (22) ______ than making people feel guilty. (FRUIT) As one curator points out, for humans, generating waste is simply (23) ______. (AVOID) Our use of tools, clothes and other items which wear out means that it is in the nature of our (24) ______ to throw things away. (EXIST)
+text_end
+[/SET]
+
+[ITEM]
+id=ADV5_T4_P3_Q17
+set_id=ADV5_T4_P3
+number=17
+correct_answer=GATHERINGS
+accepted_answers=GATHERINGS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q18
+set_id=ADV5_T4_P3
+number=18
+correct_answer=SOPHISTICATION
+accepted_answers=SOPHISTICATION
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q19
+set_id=ADV5_T4_P3
+number=19
+correct_answer=EXTENT
+accepted_answers=EXTENT
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q20
+set_id=ADV5_T4_P3
+number=20
+correct_answer=INCLUSION
+accepted_answers=INCLUSION
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q21
+set_id=ADV5_T4_P3
+number=21
+correct_answer=RELATIONSHIP
+accepted_answers=RELATIONSHIP
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q22
+set_id=ADV5_T4_P3
+number=22
+correct_answer=FRUITFUL
+accepted_answers=FRUITFUL
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q23
+set_id=ADV5_T4_P3
+number=23
+correct_answer=UNAVOIDABLE
+accepted_answers=UNAVOIDABLE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=ADV5_T4_P3_Q24
+set_id=ADV5_T4_P3
+number=24
+correct_answer=EXISTENCE
+accepted_answers=EXISTENCE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Training sports champions
+source_pdf_pages=52
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3
+
+For questions 17 – 24, read the text below. Use the word given in capitals at the end of some of the
+lines to form a word that fits in the gap in the same line. There is an example at the beginning (0).
+
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Example: 0 P R O F E S S I O N A L
+
+Training sports champions
+What are the abilities that a (0) ........ sports person needs? To PROFESSION
+
+guarantee that opponents can be (17) ........ , speed, stamina and COME
+
+agility are essential, not to mention outstanding natural talent. Both a
+
+rigorous and comprehensive (18) regime and a highly nutritious FIT
+
+diet are vital for top-level performance. It is carbohydrates, rather than
+
+proteins and fat, that provide athletes with the (19) they need to ENDURE
+
+compete. This means that pasta is more (20) ........ than eggs or BENEFIT
+
+meat. Such a diet enables them to move very energetically when
+
+required. Failure to follow a sensible diet can result in the (21) ........ ABLE
+
+to maintain stamina.
+
+Regular training to increase muscular (22) is also a vital part of a STRONG
+
+professional's regime, and this is (23) ........ done by exercising with TYPE
+
+weights. Sports people are prone to injury but a quality training regime
+
+can ensure that the (24) of these can be minimised. SEVERE
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE1_P3_Q17
+set_id=SAMPLE1_P3
+number=17
+correct_answer=OVERCOME
+accepted_answers=OVERCOME
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q18
+set_id=SAMPLE1_P3
+number=18
+correct_answer=FITNESS
+accepted_answers=FITNESS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q19
+set_id=SAMPLE1_P3
+number=19
+correct_answer=ENDURANCE
+accepted_answers=ENDURANCE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q20
+set_id=SAMPLE1_P3
+number=20
+correct_answer=BENEFICIAL
+accepted_answers=BENEFICIAL
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q21
+set_id=SAMPLE1_P3
+number=21
+correct_answer=INABILITY
+accepted_answers=INABILITY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q22
+set_id=SAMPLE1_P3
+number=22
+correct_answer=STRENGTH
+accepted_answers=STRENGTH
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q23
+set_id=SAMPLE1_P3
+number=23
+correct_answer=TYPICALLY
+accepted_answers=TYPICALLY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE1_P3_Q24
+set_id=SAMPLE1_P3
+number=24
+correct_answer=SEVERITY
+accepted_answers=SEVERITY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=SAMPLE2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Fashion and Science
+source_pdf_pages=40
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 3 — Fashion and Science
+For questions 17–24, form a word from the word in capitals.
+
+At first glance science and fashion could not be more (0) dissimilar. Science is generally considered to be a (17) ______ that is slow-paced, serious and worthy, whereas fashion is frivolous, impulsive and often (18) ______. (PURSUE / PREDICT)
+
+But fashion owes more to science than some (19) ______ might like to admit. (ENTHUSE) Fashion houses adopt new materials in order to (20) ______ themselves from their various (21) ______. (DISTINCT / COMPETE) One designer recently showed off a liquid that can be used to produce clothes that are seamless.
+
+As cotton is (22) ______ having to compete with other crops for land, and oil-based fabrics become less acceptable, scientists are working to develop (23) ______ for these products. (INCREASE / REPLACE) Sportswear, for example, has been transformed thanks to the use of (24) ______ materials and scientific designs, greatly improving the performance of athletes. (INNOVATE)
+text_end
+[/SET]
+
+[ITEM]
+id=SAMPLE2_P3_Q17
+set_id=SAMPLE2_P3
+number=17
+correct_answer=PURSUIT
+accepted_answers=PURSUIT
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q18
+set_id=SAMPLE2_P3
+number=18
+correct_answer=UNPREDICTABLE
+accepted_answers=UNPREDICTABLE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q19
+set_id=SAMPLE2_P3
+number=19
+correct_answer=ENTHUSIASTS
+accepted_answers=ENTHUSIASTS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q20
+set_id=SAMPLE2_P3
+number=20
+correct_answer=DISTINGUISH
+accepted_answers=DISTINGUISH
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q21
+set_id=SAMPLE2_P3
+number=21
+correct_answer=COMPETITORS
+accepted_answers=COMPETITORS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q22
+set_id=SAMPLE2_P3
+number=22
+correct_answer=INCREASINGLY
+accepted_answers=INCREASINGLY
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q23
+set_id=SAMPLE2_P3
+number=23
+correct_answer=REPLACEMENTS
+accepted_answers=REPLACEMENTS
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[ITEM]
+id=SAMPLE2_P3_Q24
+set_id=SAMPLE2_P3
+number=24
+correct_answer=INNOVATIVE
+accepted_answers=INNOVATIVE
+max_points=1
+error_category=word_formation
+explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]

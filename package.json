@@ -1,0 +1,62 @@
+{
+  "name": "c1-advanced-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "prisma:generate": "prisma generate",
+    "db:setup": "tsx scripts/db-setup.ts",
+    "db:import": "tsx scripts/import.ts",
+    "db:validate": "tsx scripts/validate-data.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "test:e2e:install": "playwright install chromium",
+    "source:validate": "tsx scripts/validate-source.ts",
+    "prisma:generate:pg": "prisma generate --schema prisma/schema.postgresql.prisma",
+    "db:migrate:pg": "prisma migrate deploy --schema prisma/schema.postgresql.prisma --config prisma.config.postgresql.ts",
+    "db:seed": "tsx scripts/seed.ts",
+    "check": "npm run source:validate && npm run db:validate && npm run typecheck && npm run lint && npm test && npm run build",
+    "test:smoke": "tsx scripts/smoke-http.ts"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.17.4",
+    "@prisma/adapter-libsql": "^7.8.0",
+    "@prisma/adapter-pg": "^7.8.0",
+    "@prisma/client": "^7.8.0",
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.23.0",
+    "next": "16.2.10",
+    "pg": "^8.22.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/pg": "^8.20.0",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitest/coverage-v8": "^4.1.10",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "jsdom": "^29.1.1",
+    "prisma": "^7.8.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.0",
+    "typescript": "^5",
+    "vitest": "^4.1.10"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0 <25"
+  }
+}

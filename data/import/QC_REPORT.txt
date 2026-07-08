@@ -1,0 +1,18 @@
+QUALITY CONTROL REPORT
+
+- Handwritten responses in the uploaded PDF were ignored and were not stored as answers.
+- Correct-answer fields were checked against answer keys and/or resolved from the full context.
+- Total sets: 50
+- Total items: 423
+- Items with at least one accepted answer: 423
+
+TRANSCRIPTION STATUS
+- Exact/clean source transcription is used for the Cambridge sample papers and the UOE sets reconstructed from the scan.
+- The following Advanced 5 Reading sets use cleaned OCR from the uploaded scan: ADV5_T1_P5, ADV5_T1_P6, ADV5_T1_P7, ADV5_T1_P8, ADV5_T2_P5, ADV5_T2_P6, ADV5_T2_P7, ADV5_T2_P8, ADV5_T3_P5, ADV5_T3_P6, ADV5_T3_P7, ADV5_T3_P8, ADV5_T4_P5, ADV5_T4_P6, ADV5_T4_P7, ADV5_T4_P8, MEGA_KWT_001.
+- OCR can introduce minor punctuation, line-break or character errors in long Reading passages. The verified answer key is separate from the OCR text and is not based on handwritten markings.
+- The 81-item Mega Test uses thresholded OCR for its printed prompts. Its answer bank is independently stored in the ITEM records.
+
+PROGRAM VALIDATION
+- All IDs are unique.
+- Every item has correct_answer, accepted_answers and max_points.
+- No user_answer field exists.

@@ -1,0 +1,176 @@
+generator client {
+  provider = "prisma-client"
+  output = "../src/generated/prisma-pg"
+  engineType = "client"
+  runtime = "nodejs"
+  moduleFormat = "esm"
+  generatedFileExtension = "ts"
+  importFileExtension = "ts"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum UserRole {
+  USER
+  ADMIN
+}
+
+enum AttemptStatus {
+  IN_PROGRESS
+  SUBMITTED
+  ABANDONED
+}
+
+enum CorrectionStatus {
+  UNGRADED
+  CORRECT
+  INCORRECT
+  PARTIAL
+  MANUAL_REVIEW
+}
+
+model User {
+  id           String    @id @default(cuid())
+  name         String
+  email        String    @unique
+  passwordHash String
+  role         UserRole  @default(USER)
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  attempts     Attempt[]
+  sessions     Session[]
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  tokenHash String   @unique
+  userId    String
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([expiresAt])
+}
+
+model ExerciseSet {
+  id                  String         @id @default(cuid())
+  externalId          String         @unique
+  section             String
+  part                Int
+  type                String
+  level               String
+  title               String
+  instructions        String         @default("")
+  fullText            String
+  sourcePages         String         @default("")
+  transcriptionStatus String         @default("verified")
+  notes               String         @default("")
+  itemCount           Int
+  testGroup           String
+  active              Boolean        @default(true)
+  contentVersion      Int            @default(1)
+  createdAt           DateTime       @default(now())
+  updatedAt           DateTime       @updatedAt
+  items               ExerciseItem[]
+  attempts            Attempt[]
+
+  @@index([section, part])
+  @@index([testGroup])
+}
+
+model ExerciseItem {
+  id              String          @id @default(cuid())
+  externalId      String          @unique
+  exerciseSetId   String
+  number          Int
+  prompt          String          @default("")
+  optionsJson     String          @default("[]")
+  keyword         String?
+  baseWord        String?
+  correctAnswer   String
+  acceptedJson    String
+  maximumPoints   Int
+  errorCategory   String          @default("")
+  explanation     String          @default("")
+  displayOrder    Int
+  active          Boolean         @default(true)
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  exerciseSet     ExerciseSet     @relation(fields: [exerciseSetId], references: [id], onDelete: Cascade)
+  answerVariants  AnswerVariant[]
+  userAnswers     UserAnswer[]
+
+  @@unique([exerciseSetId, number])
+  @@index([exerciseSetId, displayOrder])
+}
+
+model AnswerVariant {
+  id             String       @id @default(cuid())
+  exerciseItemId String
+  answer         String
+  normalized     String
+  points         Int
+  source         String       @default("IMPORT")
+  createdAt      DateTime     @default(now())
+  exerciseItem   ExerciseItem @relation(fields: [exerciseItemId], references: [id], onDelete: Cascade)
+
+  @@unique([exerciseItemId, normalized, points])
+}
+
+model Attempt {
+  id                    String         @id @default(cuid())
+  userId                String
+  exerciseSetId         String?
+  testGroup             String?
+  status                AttemptStatus  @default(IN_PROGRESS)
+  startedAt             DateTime       @default(now())
+  lastActivityAt        DateTime       @default(now())
+  submittedAt           DateTime?
+  timeSpentSeconds      Int            @default(0)
+  rawScore              Int            @default(0)
+  maximumScore          Int            @default(0)
+  percentage            Float          @default(0)
+  correctionVersion     Int            @default(1)
+  currentItemExternalId String?
+  timerMode             String         @default("ELAPSED")
+  user                   User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exerciseSet           ExerciseSet?   @relation(fields: [exerciseSetId], references: [id], onDelete: SetNull)
+  answers               UserAnswer[]
+
+  @@index([userId, status])
+  @@index([exerciseSetId])
+  @@index([testGroup])
+}
+
+model UserAnswer {
+  id               String           @id @default(cuid())
+  attemptId        String
+  exerciseItemId   String
+  answer           String           @default("")
+  normalizedAnswer String           @default("")
+  awardedPoints    Int              @default(0)
+  isCorrect        Boolean          @default(false)
+  correctionStatus CorrectionStatus @default(UNGRADED)
+  answeredAt       DateTime         @default(now())
+  updatedAt        DateTime         @updatedAt
+  attempt          Attempt          @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  exerciseItem     ExerciseItem     @relation(fields: [exerciseItemId], references: [id], onDelete: Restrict)
+
+  @@unique([attemptId, exerciseItemId])
+  @@index([attemptId])
+}
+
+model ImportRun {
+  id          String   @id @default(cuid())
+  sourceName  String
+  sourceHash  String
+  status      String
+  setCount    Int      @default(0)
+  itemCount   Int      @default(0)
+  errorsJson  String   @default("[]")
+  warningsJson String  @default("[]")
+  createdAt   DateTime @default(now())
+}
