@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
 import {
   Bell,
   Bookmark,
@@ -304,6 +305,7 @@ function TranscriptionNotice({ set }: { set: SetData }) {
 
 function cleanSourceNoise(text: string) {
   return text
+    .replace(/\[\[SCAN:[^\]]+\]\]/g, "")
     .replace(/^--- SOURCE PDF PAGE.*$/gim, "")
     .replace(/^©.*$/gim, "")
     .replace(/^Cambridge University Press.*$/gim, "")
@@ -533,10 +535,11 @@ function Part5Exercise({ set, item, answer, update }: { set: SetData; item: Item
 }
 
 function Part6Exercise({ set, item, answer, update }: { set: SetData; item: Item; answer: string; update: (value: string) => void }) {
+  const scanPaths = extractScanPaths(set.fullText);
   const sections = parseLabeledSections(set.fullText, "D");
   return (
     <ReadingShell
-      left={<SectionCards title={set.title} sections={sections} />}
+      left={scanPaths.length ? <ScannedPassage title={set.title} paths={scanPaths} /> : <SectionCards title={set.title} sections={sections} />}
       right={<QuestionPanel item={item} answer={answer} options={item.options} update={update} />}
     />
   );
@@ -652,11 +655,12 @@ function Part7Exercise({
 
 function Part8Exercise({ set, item, answer, update }: { set: SetData; item: Item; answer: string; update: (value: string) => void }) {
   const maxLetter = (item.options.at(-1)?.key ?? "D") as "D" | "E" | "G";
+  const scanPaths = extractScanPaths(set.fullText);
   const sections = parseLabeledSections(set.fullText, maxLetter);
   const options = item.options;
   return (
     <ReadingShell
-      left={<SectionCards title={set.title} sections={sections} />}
+      left={scanPaths.length ? <ScannedPassage title={set.title} paths={scanPaths} /> : <SectionCards title={set.title} sections={sections} />}
       right={<QuestionPanel item={item} answer={answer} options={options} update={update} />}
     />
   );
@@ -671,7 +675,40 @@ function ReadingShell({ left, right }: { left: ReactNode; right: ReactNode }) {
   );
 }
 
+function extractScanPaths(text: string) {
+  return [...text.matchAll(/\[\[SCAN:([^\]]+)\]\]/g)].map((match) => match[1].trim()).filter(Boolean);
+}
+
+function ScannedPassage({ title, paths }: { title: string; paths: string[] }) {
+  const [zoom, setZoom] = useState(100);
+  return (
+    <article>
+      <div className="sticky top-0 z-10 mb-4 flex flex-wrap items-center justify-between gap-3 border-b border-slate-200 bg-white/95 pb-3 backdrop-blur">
+        <h2 className="text-2xl font-bold">{title}</h2>
+        <div className="flex items-center gap-2" aria-label="Page zoom controls">
+          <button type="button" onClick={() => setZoom((value) => Math.max(75, value - 25))} className="rounded border border-slate-300 px-3 py-1.5 text-sm font-semibold hover:bg-slate-100" aria-label="Zoom out">−</button>
+          <button type="button" onClick={() => setZoom(100)} className="min-w-20 rounded border border-slate-300 px-3 py-1.5 text-sm font-semibold hover:bg-slate-100">{zoom}%</button>
+          <button type="button" onClick={() => setZoom((value) => Math.min(200, value + 25))} className="rounded border border-slate-300 px-3 py-1.5 text-sm font-semibold hover:bg-slate-100" aria-label="Zoom in">+</button>
+        </div>
+      </div>
+      <p className="mb-4 text-sm text-slate-600">Verified source pages. Use the zoom controls to enlarge the text.</p>
+      <div className="overflow-x-auto rounded-lg bg-slate-100 p-2 sm:p-3">
+        <div className="space-y-4" style={{ width: `${zoom}%` }}>
+          {paths.map((path, index) => (
+            <figure key={path} className="overflow-hidden rounded-md border border-slate-300 bg-white shadow-sm">
+              <Image src={path} alt={`${title}, source page ${index + 1}`} width={1600} height={2200} unoptimized priority={index === 0} className="block h-auto w-full max-w-none" />
+              <figcaption className="border-t border-slate-200 px-3 py-2 text-center text-xs text-slate-500">Source page {index + 1} of {paths.length}</figcaption>
+            </figure>
+          ))}
+        </div>
+      </div>
+    </article>
+  );
+}
+
 function PassageArticle({ title, text }: { title: string; text: string }) {
+  const scanPaths = extractScanPaths(text);
+  if (scanPaths.length) return <ScannedPassage title={title} paths={scanPaths} />;
   return (
     <article>
       <h2 className="mb-4 text-2xl font-bold">{title}</h2>

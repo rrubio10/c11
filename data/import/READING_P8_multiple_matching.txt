@@ -1320,3 +1320,1039 @@ max_points=1
 error_category=reading_comprehension
 explanation=Verified option.
 [/ITEM]
+
+[SET]
+set_id=CAE1_T1_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The Rise of Home Working
+instructions=You are going to read an article about employees who do some or all of their work from home. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
+source_pdf_pages=20,21
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p8-p020.webp]]
+[[SCAN:/reading-scans/cae1-t1-p8-p021.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P8_Q47
+set_id=CAE1_T1_P8
+number=47
+prompt=the mistaken view that physical proximity at work automatically ensures good supervision
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q48
+set_id=CAE1_T1_P8
+number=48
+prompt=the fact that the proportion of home workers in the labour force has not matched expectations
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q49
+set_id=CAE1_T1_P8
+number=49
+prompt=the risk of an employer making unreasonable demands on a home worker
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q50
+set_id=CAE1_T1_P8
+number=50
+prompt=the fact that staff retention increases in firms that encourage home working
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q51
+set_id=CAE1_T1_P8
+number=51
+prompt=the duty of firms not to dismiss requests to work at home out of hand
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q52
+set_id=CAE1_T1_P8
+number=52
+prompt=one of the main obstacles to home working in employers' minds being the fear of loss of direct control
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q53
+set_id=CAE1_T1_P8
+number=53
+prompt=personal circumstances increasing the likelihood of an individual being allowed to work at home
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q54
+set_id=CAE1_T1_P8
+number=54
+prompt=the wider benefits that home working brings to the community
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q55
+set_id=CAE1_T1_P8
+number=55
+prompt=the advisability of ensuring that home workers are not putting in excessive hours
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P8_Q56
+set_id=CAE1_T1_P8
+number=56
+prompt=a reduction in expenditure on premises as a result of home working
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=A scientific view of modern art
+instructions=You are going to read an article about scientific interpretations of modern art. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
+source_pdf_pages=42,43
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p8-p042.webp]]
+[[SCAN:/reading-scans/cae1-t2-p8-p043.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P8_Q47
+set_id=CAE1_T2_P8
+number=47
+prompt=mention certain viewers being able to relate to what artists had in mind?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q48
+set_id=CAE1_T2_P8
+number=48
+prompt=refer to a doubt about the merit of a piece of artwork?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q49
+set_id=CAE1_T2_P8
+number=49
+prompt=highlight a need for artists to strike the right balance?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q50
+set_id=CAE1_T2_P8
+number=50
+prompt=indicate a possible reason for difficulty in reaching a consensus?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q51
+set_id=CAE1_T2_P8
+number=51
+prompt=state that people may have a shallow reason for liking a piece of art?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q52
+set_id=CAE1_T2_P8
+number=52
+prompt=suggest that some artists are aware of how they can satisfy the brain?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q53
+set_id=CAE1_T2_P8
+number=53
+prompt=refer to a shift in her own perception?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q54
+set_id=CAE1_T2_P8
+number=54
+prompt=point out shortcomings in a specific piece of research?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q55
+set_id=CAE1_T2_P8
+number=55
+prompt=mention the possibility of extending the scope of an existing research area?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P8_Q56
+set_id=CAE1_T2_P8
+number=56
+prompt=describe a procedure employed in the gathering of some scientific data?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Nature books
+instructions=You are going to read four book reviews. For questions 47-56, choose from the sections (A-D).
+source_pdf_pages=64,65
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p8-p064.webp]]
+[[SCAN:/reading-scans/cae1-t3-p8-p065.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P8_Q47
+set_id=CAE1_T3_P8
+number=47
+prompt=It presents complicated material in manageable chunks of data.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q48
+set_id=CAE1_T3_P8
+number=48
+prompt=The book failed to sustain the reviewer’s interest throughout.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q49
+set_id=CAE1_T3_P8
+number=49
+prompt=Readers are left to draw their own conclusions about some of the book’s material.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q50
+set_id=CAE1_T3_P8
+number=50
+prompt=Its author sought expert advice on certain aspects of the book.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q51
+set_id=CAE1_T3_P8
+number=51
+prompt=The book is both instructive and visually appealing.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q52
+set_id=CAE1_T3_P8
+number=52
+prompt=It looks both backwards and forwards in time.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q53
+set_id=CAE1_T3_P8
+number=53
+prompt=Its author effectively brings together different fields of study.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q54
+set_id=CAE1_T3_P8
+number=54
+prompt=It offers a selective, rather than comprehensive, coverage of its topic.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q55
+set_id=CAE1_T3_P8
+number=55
+prompt=It is possible to feel a sense of involvement with the subject matter.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P8_Q56
+set_id=CAE1_T3_P8
+number=56
+prompt=The text is a skilful mixture of data and personal comment.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Careers in archaeology
+instructions=You are going to read an article in which five people talk about careers in archaeology. For questions 47-56, choose from the books (A-E). Mark your answers on the separate answer sheet.
+source_pdf_pages=86,87
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p8-p086.webp]]
+[[SCAN:/reading-scans/cae1-t4-p8-p087.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P8_Q47
+set_id=CAE1_T4_P8
+number=47
+prompt=suggests that archaeology has a unique appeal?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q48
+set_id=CAE1_T4_P8
+number=48
+prompt=describes how mutually supportive archaeologists tend to be?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q49
+set_id=CAE1_T4_P8
+number=49
+prompt=criticises people who advise against studying archaeology?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q50
+set_id=CAE1_T4_P8
+number=50
+prompt=points out the economic contribution that archaeology can make?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=E
+accepted_answers=E
+max_points=1
+error_category=multiple_matching
+explanation=Section E contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q51
+set_id=CAE1_T4_P8
+number=51
+prompt=welcomes the media profile that archaeology now has?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q52
+set_id=CAE1_T4_P8
+number=52
+prompt=points out that jobs in archaeology can often be short-term?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q53
+set_id=CAE1_T4_P8
+number=53
+prompt=emphasises the commitment some archaeology students feel towards their subject?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q54
+set_id=CAE1_T4_P8
+number=54
+prompt=mentions the value of an archaeological perspective on wider issues?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q55
+set_id=CAE1_T4_P8
+number=55
+prompt=believes archaeologists often overlook job opportunities that exist for them?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=E
+accepted_answers=E
+max_points=1
+error_category=multiple_matching
+explanation=Section E contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P8_Q56
+set_id=CAE1_T4_P8
+number=56
+prompt=mentions the appeal of studying a subject with a practical side to it?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D","E":"Section E"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Training course reviews
+instructions=You are going to read four reviews of training courses from a training company website. For questions 1-10, choose from the reviews (A-D). The reviews may be chosen more than once.
+source_pdf_pages=54,55
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w1-p8-p054.webp]]
+[[SCAN:/reading-scans/booster-w1-p8-p055.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q01
+set_id=BOOSTER_W1_P8
+number=1
+prompt=I've already recommended the course to several colleagues.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q02
+set_id=BOOSTER_W1_P8
+number=2
+prompt=Being able to contact the trainer after the course has been extremely useful.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q03
+set_id=BOOSTER_W1_P8
+number=3
+prompt=I thought that the pacing of the course was about right.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q04
+set_id=BOOSTER_W1_P8
+number=4
+prompt=There was a bit too much theory and not enough practical work.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q05
+set_id=BOOSTER_W1_P8
+number=5
+prompt=I would have preferred a face-to-face course.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q06
+set_id=BOOSTER_W1_P8
+number=6
+prompt=I was grateful for having a choice of ways of attending the course.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q07
+set_id=BOOSTER_W1_P8
+number=7
+prompt=Some of the materials didn't seem to be particularly relevant.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q08
+set_id=BOOSTER_W1_P8
+number=8
+prompt=The pre-course tasks weren't especially useful.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q09
+set_id=BOOSTER_W1_P8
+number=9
+prompt=I am impressed by how knowledgeable the instructor was.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P8_Q10
+set_id=BOOSTER_W1_P8
+number=10
+prompt=Booking a place on the course was remarkably easy.
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The rise and fall of the newspaper
+instructions=You are going to read an article about the rise and fall in popularity of newspapers. For questions 1-10, choose from the sections (A-D). The sections may be chosen more than once. In which section does the author
+source_pdf_pages=56,57
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w2-p8-p056.webp]]
+[[SCAN:/reading-scans/booster-w2-p8-p057.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q01
+set_id=BOOSTER_W2_P8
+number=1
+prompt=suggest that media tycoons wield too much power?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q02
+set_id=BOOSTER_W2_P8
+number=2
+prompt=mention the influence that systems of government have on methods of accessing the news?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q03
+set_id=BOOSTER_W2_P8
+number=3
+prompt=explain how newspapers have adapted in order to survive?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q04
+set_id=BOOSTER_W2_P8
+number=4
+prompt=describe how individuals’ lifestyles have altered the way they consume news media?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q05
+set_id=BOOSTER_W2_P8
+number=5
+prompt=say that the success of newspapers benefitted another industry?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q06
+set_id=BOOSTER_W2_P8
+number=6
+prompt=say that ease of access to news changes the level of trust people have in its accuracy?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q07
+set_id=BOOSTER_W2_P8
+number=7
+prompt=claim that many people would have found living without a newspaper difficult?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q08
+set_id=BOOSTER_W2_P8
+number=8
+prompt=explain why readers may not want to have access to longer news articles?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q09
+set_id=BOOSTER_W2_P8
+number=9
+prompt=suggest that the transformation of the newspaper industry is not necessarily a bad thing?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P8_Q10
+set_id=BOOSTER_W2_P8
+number=10
+prompt=suggest that the internet was not responsible for the initial decline in newspaper sales?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The pros and cons of ecotourism
+instructions=Read the sections and choose the section which contains the information. Sections may be chosen more than once.
+source_pdf_pages=58,59
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w3-p8-p058.webp]]
+[[SCAN:/reading-scans/booster-w3-p8-p059.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q01
+set_id=BOOSTER_W3_P8
+number=1
+prompt=explain how some non-green businesses exploit the market for ecological holidays?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q02
+set_id=BOOSTER_W3_P8
+number=2
+prompt=mention the nature of the relationship between travel firms and local people?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q03
+set_id=BOOSTER_W3_P8
+number=3
+prompt=suggest that ecotourism is largely insignificant in solving the world’s environmental problems?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q04
+set_id=BOOSTER_W3_P8
+number=4
+prompt=exemplify an effect of ecotourism on local wildlife?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q05
+set_id=BOOSTER_W3_P8
+number=5
+prompt=describe a negative result of putting the preservation of nature above economic wellbeing?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q06
+set_id=BOOSTER_W3_P8
+number=6
+prompt=explain why conventional tourism benefits a region less than it should?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_matching
+explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q07
+set_id=BOOSTER_W3_P8
+number=7
+prompt=state the proportion of tourism as a whole that ecotourism represents?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q08
+set_id=BOOSTER_W3_P8
+number=8
+prompt=mention how the meaning of important cultural objects can change?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_matching
+explanation=Section D contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q09
+set_id=BOOSTER_W3_P8
+number=9
+prompt=explain the underlying principle on which the ecotourism industry is based?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_matching
+explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P8_Q10
+set_id=BOOSTER_W3_P8
+number=10
+prompt=describe how the financial incentives of ecotourism encourage local people to protect nature?
+options={"A":"Section A","B":"Section B","C":"Section C","D":"Section D"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_matching
+explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
+[/ITEM]

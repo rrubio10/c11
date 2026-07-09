@@ -245,7 +245,7 @@ export function parseMaster(content: string): ParseReport {
       transcriptionStatus: f.transcription_status ?? "unknown",
       notes: f.notes ?? "",
       itemCount,
-      instructions: splitInstructions(fullText, f.title ?? ""),
+      instructions: f.instructions?.trim() || splitInstructions(fullText, f.title ?? ""),
       fullText,
       testGroup: deriveTestGroup(f.set_id),
       items,

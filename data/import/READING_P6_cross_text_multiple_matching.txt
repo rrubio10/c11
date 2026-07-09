@@ -690,3 +690,493 @@ max_points=2
 error_category=reading_comprehension
 explanation=Verified option.
 [/ITEM]
+
+[SET]
+set_id=CAE1_T1_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The role of advertising in society today
+instructions=You are going to read four contributions to an online debate about advertising. For questions 37-40, choose from the contributions A-D. The contributions may be chosen more than once. Mark your answers on the separate answer sheet.
+source_pdf_pages=16,17
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p6-p016.webp]]
+[[SCAN:/reading-scans/cae1-t1-p6-p017.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P6_Q37
+set_id=CAE1_T1_P6
+number=37
+prompt=expresses a different view from the others about the impact that advertising has on a country's economy?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P6_Q38
+set_id=CAE1_T1_P6
+number=38
+prompt=has a different opinion from the others on the extent to which advertising helps people to make choices?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P6_Q39
+set_id=CAE1_T1_P6
+number=39
+prompt=takes a similar view to contributor D about the influence advertising can have on people's self-esteem?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P6_Q40
+set_id=CAE1_T1_P6
+number=40
+prompt=expresses a different opinion from contributor B regarding public awareness of how advertising works?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Sports psychology: a valid discipline?
+instructions=You are going to read four extracts from online articles about sports psychology. For questions
+source_pdf_pages=38,39
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p6-p038.webp]]
+[[SCAN:/reading-scans/cae1-t2-p6-p039.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P6_Q37
+set_id=CAE1_T2_P6
+number=37
+prompt=shares Khan's opinion on why public misconceptions about sports psychology have occurred?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P6_Q38
+set_id=CAE1_T2_P6
+number=38
+prompt=has a different view from Khan on whether some psychological training used in team sports is helpful to the players?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P6_Q39
+set_id=CAE1_T2_P6
+number=39
+prompt=has a different view from Rossweller on how the media regard sports psychologists?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P6_Q40
+set_id=CAE1_T2_P6
+number=40
+prompt=has a different opinion from the other three experts on the current state of research in sports psychology?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The Changing Face of Childhood in the USA
+instructions=You are going to read four extracts from online articles about childhood. For questions 37-40, choose from the extracts A-D. The extracts may be chosen more than once.
+source_pdf_pages=60,61
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p6-p060.webp]]
+[[SCAN:/reading-scans/cae1-t3-p6-p061.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P6_Q37
+set_id=CAE1_T3_P6
+number=37
+prompt=has a similar view to Poenbaum on how long people's instinctive relationship with nature lasts?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P6_Q38
+set_id=CAE1_T3_P6
+number=38
+prompt=expresses a similar opinion to Zafaria on what the role of a parent should be regarding teenage children?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P6_Q39
+set_id=CAE1_T3_P6
+number=39
+prompt=has a different view from the others on whether children are growing up too fast?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P6_Q40
+set_id=CAE1_T3_P6
+number=40
+prompt=expresses a different opinion from Ondorenko on the value of planned activities for children?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Why Translation Matters
+instructions=You are going to read four reviews of a book entitled Why Translation Matters. For questions 37-40, choose from the reviews A-D. The reviews may be chosen more than once. Mark your answers on the separate answer sheet.
+source_pdf_pages=82,83
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p6-p082.webp]]
+[[SCAN:/reading-scans/cae1-t4-p6-p083.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P6_Q37
+set_id=CAE1_T4_P6
+number=37
+prompt=expresses a different opinion from reviewer A regarding how well the book is written?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P6_Q38
+set_id=CAE1_T4_P6
+number=38
+prompt=shares reviewer B's view on whether a translation can be considered to be a new work in its own right?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P6_Q39
+set_id=CAE1_T4_P6
+number=39
+prompt=has a different view from the others on Grossman's complaints about attitudes to translators?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P6_Q40
+set_id=CAE1_T4_P6
+number=40
+prompt=shares reviewer A's view of the way Grossman describes how she deals with difficulties when translating books?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The world we live in is changing fast – but is this a good thing?
+instructions=You are going to read four extracts from articles in which experts give their views on progress and tradition. For questions 1-4, choose from the experts A-D. The experts may be chosen more than once.
+source_pdf_pages=42,43
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w1-p6-p042.webp]]
+[[SCAN:/reading-scans/booster-w1-p6-p043.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P6_Q01
+set_id=BOOSTER_W1_P6
+number=1
+prompt=expresses a different view to the others about how rapid progress has affected people's happiness?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P6_Q02
+set_id=BOOSTER_W1_P6
+number=2
+prompt=expresses a similar view to B about the impact of rapid progress on economic prosperity?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P6_Q03
+set_id=BOOSTER_W1_P6
+number=3
+prompt=has a different view to the others about the effect of rapid progress on working life?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P6_Q04
+set_id=BOOSTER_W1_P6
+number=4
+prompt=expresses a different view to C about the rise in the age at which couples have children?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Banning single-use plastic products
+instructions=You are going to read four extracts from articles in which experts give their views on banning
+source_pdf_pages=44,45
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w2-p6-p044.webp]]
+[[SCAN:/reading-scans/booster-w2-p6-p045.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P6_Q01
+set_id=BOOSTER_W2_P6
+number=1
+prompt=shares B's views regarding how easy it would be to implement any ban or restrictions?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P6_Q02
+set_id=BOOSTER_W2_P6
+number=2
+prompt=has a different view to the others about adding charges to the prices of single-use plastic products?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P6_Q03
+set_id=BOOSTER_W2_P6
+number=3
+prompt=shares A's views on the environmental impact of imposing a ban?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P6_Q04
+set_id=BOOSTER_W2_P6
+number=4
+prompt=expresses a different view to D about the economic effects of introducing a ban?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Behaviour in schools
+instructions=You are going to read four extracts from articles in which academics give their views on behaviour in schools. For questions 1-4, choose from the academic A-D. The academics may be chosen more than once.
+source_pdf_pages=46,47
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w3-p6-p046.webp]]
+[[SCAN:/reading-scans/booster-w3-p6-p047.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P6_Q01
+set_id=BOOSTER_W3_P6
+number=1
+prompt=has a different view to the others about the historical trends in student behaviour?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P6_Q02
+set_id=BOOSTER_W3_P6
+number=2
+prompt=expresses a similar view to B about what should be done to improve student behaviour?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P6_Q03
+set_id=BOOSTER_W3_P6
+number=3
+prompt=expresses a different view to A on the broader social consequences of poor student behaviour?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P6_Q04
+set_id=BOOSTER_W3_P6
+number=4
+prompt=has a similar view to B about the effect of behavioural issues on student achievement?
+options={"A":"Text A","B":"Text B","C":"Text C","D":"Text D"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=cross_text_multiple_matching
+explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
+[/ITEM]

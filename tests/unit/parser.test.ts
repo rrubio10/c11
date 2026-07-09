@@ -118,8 +118,8 @@ explanation=Test.
     const source = await readFile(path.join(process.cwd(), "data/import/C1_exercises_master.txt"), "utf8");
     const result = parseMaster(source);
     expect(result.errors).toEqual([]);
-    expect(result.sets).toHaveLength(50);
-    expect(result.sets.reduce((sum, set) => sum + set.items.length, 0)).toBe(423);
+    expect(result.sets).toHaveLength(106);
+    expect(result.sets.reduce((sum, set) => sum + set.items.length, 0)).toBe(815);
   });
 
   it("is idempotent when the same source is imported twice", async () => {
@@ -153,5 +153,37 @@ it("replaces the damaged Test 1 Reading OCR with structured verified content", a
 
   expect(part8?.fullText).toContain("A\nA student is researching scholarly material");
   expect(part8?.items[0].prompt).toContain("rule change");
+  expect(part8?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
+});
+
+
+it("loads repaired new Part 3 and all new Reading sets without OCR fallbacks", async () => {
+  const source = await readFile(path.join(process.cwd(), "data/import/C1_exercises_master.txt"), "utf8");
+  const result = parseMaster(source);
+  expect(result.errors).toEqual([]);
+
+  const part3 = result.sets.find((set) => set.setId === "BOOSTER_W1_P3");
+  expect(part3?.fullText).toContain("whether the course is (1) ........ or offers hands-on experience");
+  expect(part3?.items.map((item) => item.baseWord)).toEqual([
+    "THEORY", "DEPEND", "SATISFY", "COMPLAIN", "PROVIDE", "CLEAR", "SURE", "REAL",
+  ]);
+
+  const part5 = result.sets.find((set) => set.setId === "CAE1_T1_P5");
+  expect(part5?.fullText).toContain("[[SCAN:/reading-scans/cae1-t1-p5-p014.webp]]");
+  expect(part5?.items[0].prompt).toContain("Piaget");
+  expect(part5?.items[0].options).toHaveLength(4);
+
+  const part6 = result.sets.find((set) => set.setId === "BOOSTER_W2_P6");
+  expect(part6?.fullText).toContain("[[SCAN:/reading-scans/booster-w2-p6-p044.webp]]");
+  expect(part6?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
+
+  const part7 = result.sets.find((set) => set.setId === "CAE1_T1_P7");
+  expect(part7?.fullText.match(/\[\[4[1-6]\]\]/g)).toHaveLength(6);
+  expect(part7?.items[0].options).toHaveLength(7);
+  expect(part7?.items[0].options[0].label.length).toBeGreaterThan(80);
+
+  const part8 = result.sets.find((set) => set.setId === "BOOSTER_W3_P8");
+  expect(part8?.fullText).toContain("[[SCAN:/reading-scans/booster-w3-p8-p058.webp]]");
+  expect(part8?.items[0].prompt.length).toBeGreaterThan(20);
   expect(part8?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
 });

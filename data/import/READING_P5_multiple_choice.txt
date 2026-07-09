@@ -1286,3 +1286,675 @@ max_points=2
 error_category=reading_comprehension
 explanation=Verified option.
 [/ITEM]
+
+[SET]
+set_id=CAE1_T1_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Jean Piaget
+instructions=You are going to read an article about a famous psychologist. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=14,15
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p5-p014.webp]]
+[[SCAN:/reading-scans/cae1-t1-p5-p015.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P5_Q31
+set_id=CAE1_T1_P5
+number=31
+prompt=In the first paragraph, the writer suggests that as a child Piaget
+options={"A":"was particularly eager to teach others about animals.","B":"was confident his research would help other children.","C":"was already certain about the career he would follow.","D":"was determined that nothing should hold back his progress."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P5_Q32
+set_id=CAE1_T1_P5
+number=32
+prompt=In quoting Einstein, the writer is
+options={"A":"questioning the simplicity of Piaget's ideas.","B":"supporting the conclusion that Piaget reached.","C":"suggesting that Piaget's research methods were unprecedented.","D":"recommending a less complicated approach than Piaget's."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P5_Q33
+set_id=CAE1_T1_P5
+number=33
+prompt=In the third paragraph, the writer puts forward the view that
+options={"A":"Piaget's work with children was difficult to put to a practical use.","B":"Piaget's theories about children were less revolutionary than he thought.","C":"Piaget laid the basis for our current understanding of how children's minds work.","D":"Piaget was actually committed to radical change in the education system."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P5_Q34
+set_id=CAE1_T1_P5
+number=34
+prompt=The phrase 'empty vessels' (paragraph 4) refers to
+options={"A":"why children should be encouraged to study more independently.","B":"what traditional academic theory said about children and learning.","C":"how teachers can increase children’s motivation to learn.","D":"the kind of knowledge that children need to acquire."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P5_Q35
+set_id=CAE1_T1_P5
+number=35
+prompt=The writer says Piaget was unwilling to categorise children's ideas as true or false because
+options={"A":"he realised that the reasoning behind a child's statement was more important.","B":"he knew that this could have long-term effects on a child.","C":"he felt that this did not reflect what happens in real life.","D":"he felt that children are easily influenced by what adults have told them."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P5_Q36
+set_id=CAE1_T1_P5
+number=36
+prompt=What does the writer conclude about newer theories that have appeared?
+options={"A":"They completely undermine Piaget's ideas.","B":"They put greater emphasis on scientific evidence.","C":"They are an interesting addition to the body of knowledge.","D":"They are based on flawed research."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Howard's Career as a Palaeontologist
+instructions=You are going to read an extract from a novel. For questions 31-36, choose the answer
+source_pdf_pages=36,37
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p5-p036.webp]]
+[[SCAN:/reading-scans/cae1-t2-p5-p037.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P5_Q31
+set_id=CAE1_T2_P5
+number=31
+prompt=What is suggested about Howard's father in the first paragraph?
+options={"A":"He'd foreseen a change in the economic climate.","B":"He acted in character when cancelling the holiday.","C":"He'd never been in favour of holidays abroad.","D":"He tended to make decisions spontaneously."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P5_Q32
+set_id=CAE1_T2_P5
+number=32
+prompt=What area of palaeontology did Howard develop a special interest in at university?
+options={"A":"the earliest life forms","B":"the dating of pieces of evidence","C":"the scale of pre-historic creatures","D":"the fragile beauty of many fossils"}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P5_Q33
+set_id=CAE1_T2_P5
+number=33
+prompt=What concerned Howard about the chances of getting a job?
+options={"A":"his lack of work experience","B":"his uncertainty of his own worth","C":"that jobs were not always awarded on merit","D":"that jobs in his field were always in short supply"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P5_Q34
+set_id=CAE1_T2_P5
+number=34
+prompt=The result of Howard's job interview depended on
+options={"A":"a change of heart by a member of the panel.","B":"the relative strengths of the candidates.","C":"the performance of a favoured candidate.","D":"the conflict between two members of staff."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P5_Q35
+set_id=CAE1_T2_P5
+number=35
+prompt=How did Howard feel when he learnt the truth about his appointment?
+options={"A":"pleased he would be so well paid","B":"unconcerned about why he got the job","C":"dismayed at not being the best candidate","D":"gratified to think he'd made a good impression"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P5_Q36
+set_id=CAE1_T2_P5
+number=36
+prompt=Over the text as a whole, the writer suggests that the course of Howard's career was determined to a large extent by
+options={"A":"a series of random coincidences.","B":"an interest developed in childhood.","C":"a belief in scientific certainties.","D":"a mix of hard work and academic success."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Oxytocin
+instructions=You are going to read a newspaper article about research into a chemical. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=58,59
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p5-p058.webp]]
+[[SCAN:/reading-scans/cae1-t3-p5-p059.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P5_Q31
+set_id=CAE1_T3_P5
+number=31
+prompt=What does the writer suggest about Paul Zak in the first paragraph?
+options={"A":"He provokes mixed feelings in people.","B":"He understands that aggression can sometimes be useful.","C":"He can adapt himself to a variety of situations.","D":"He is capable of being very persuasive."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P5_Q32
+set_id=CAE1_T3_P5
+number=32
+prompt=What does 'spoils' refer to in line 16?
+options={"A":"equipment","B":"samples","C":"guests","D":"results"}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P5_Q33
+set_id=CAE1_T3_P5
+number=33
+prompt=What is the writer's purpose in the fourth paragraph?
+options={"A":"to make a counter-argument","B":"to introduce a new concept","C":"to summarise an idea","D":"to expand on a point"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P5_Q34
+set_id=CAE1_T3_P5
+number=34
+prompt=What does the writer say about Zak's Trust Game experiments?
+options={"A":"They demonstrate the importance of money in human relations.","B":"Their artificiality means that what they tell us is of limited value.","C":"The results challenge conventional notions of human behaviour.","D":"They were constructed in a way that was clever and innovative."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P5_Q35
+set_id=CAE1_T3_P5
+number=35
+prompt=What does the writer suggest in the sixth paragraph?
+options={"A":"The potential exploitation of oxytocin should be given serious consideration.","B":"Zak's experimental methods are the object of some mistrust.","C":"Further work is needed to define exactly what oxytocin is.","D":"Science cannot be free of ethical considerations."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P5_Q36
+set_id=CAE1_T3_P5
+number=36
+prompt=How does Zak regard the idea of deliberately manipulating oxytocin?
+options={"A":"He doubts whether it's ever going to be feasible.","B":"He worries about possible commercial misuse.","C":"He advocates wider use of readily available means.","D":"He feels it’s outside his area of expertise."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Seeing the world
+instructions=You are going to read an article about travel. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=80,81
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p5-p080.webp]]
+[[SCAN:/reading-scans/cae1-t4-p5-p081.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P5_Q31
+set_id=CAE1_T4_P5
+number=31
+prompt=What is the writer's attitude towards flying in the first paragraph?
+options={"A":"He is frustrated by the inefficiencies of air travel.","B":"He is surprised by the poor standard of airport facilities.","C":"He is anxious for the flight to be over as soon as possible.","D":"He is resigned to the tediousness of the airport experience."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P5_Q32
+set_id=CAE1_T4_P5
+number=32
+prompt=The writer mentions business trips to make the point that
+options={"A":"relatively few people travel out of necessity.","B":"relatively few journeys are taken for pleasure.","C":"the majority of people travel without a valid reason to do so.","D":"the majority of journeys are made for the same few reasons."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P5_Q33
+set_id=CAE1_T4_P5
+number=33
+prompt=What does the writer recommend in the third paragraph?
+options={"A":"having a holiday so as to take a rest from everyday worries","B":"going as far away as possible rather than spending holidays at home","C":"taking full advantage of the cultural experiences that travel can offer","D":"travelling in order to gain original insights into familiar situations"}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P5_Q34
+set_id=CAE1_T4_P5
+number=34
+prompt=According to the writer, recent 'Candle Task' results suggest a link between living abroad and
+options={"A":"practical skills.","B":"mental flexibility.","C":"determination to solve problems.","D":"confidence in one's own resourcefulness."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P5_Q35
+set_id=CAE1_T4_P5
+number=35
+prompt=The writer mentions leaving food on one's plate in order to highlight
+options={"A":"the difficulties travellers face when interpreting cultural conventions.","B":"the importance of behaving naturally in different contexts.","C":"the wide variation in levels of politeness across the world.","D":"the effect of exposure to foreign influences."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P5_Q36
+set_id=CAE1_T4_P5
+number=36
+prompt=What would be a suitable subtitle for this article?
+options={"A":"How to understand the mentality of different cultures","B":"How to overcome the more inconvenient aspects of travel","C":"How distance and difference can boost our creative thinking","D":"How other places can change the way we perceive ourselves"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Knowing the score
+instructions=You are going to read a review of a book about sport and philosophy. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.
+source_pdf_pages=36,37
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w1-p5-p036.webp]]
+[[SCAN:/reading-scans/booster-w1-p5-p037.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q01
+set_id=BOOSTER_W1_P5
+number=1
+prompt=In the first paragraph, the reviewer suggests that Papineau
+options={"A":"was in two minds whether to take on the lectures on sport and philosophy.","B":"thought no one was better qualified than him to combine sport and philosophy.","C":"was disappointed with previous attempts to unite sport and philosophy.","D":"thought that philosophy was of greater value to people's lives than sport."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q02
+set_id=BOOSTER_W1_P5
+number=2
+prompt=What does the reviewer say Papineau gained through delivering his lecture series?
+options={"A":"knowledge of how 'automatic reflexes' suppress conscious thought in many situations","B":"insight into the steps involved when sports stars have to make choices under pressure","C":"understanding of the connections between people's aims and what they subsequently do","D":"awareness of why sports stars' reactions are superior to those of ordinary people"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q03
+set_id=BOOSTER_W1_P5
+number=3
+prompt=What point is made about Papineau's book in the third paragraph?
+options={"A":"It examines previously overlooked aspects of sport.","B":"Its style is inappropriate for the subject matter.","C":"It doesn't convincingly link sport and philosophy.","D":"The areas of sport that it covers are very diverse."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q04
+set_id=BOOSTER_W1_P5
+number=4
+prompt=What does the reviewer suggest in the fourth paragraph?
+options={"A":"Breaking rules should be punished more consistently by those in power.","B":"Rules play only a partial role in defining what is appropriate or inappropriate.","C":"Many sportsmen and women abuse situations which lack a clear set of rules.","D":"Codes of fair play carry more weight with sports stars than official rules."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q05
+set_id=BOOSTER_W1_P5
+number=5
+prompt=In the fifth paragraph, the reviewer draws a comparison between behaviour in sport and
+options={"A":"a broad system of morality in society.","B":"a deep respect for authority in society.","C":"people's tolerance of unreasonable laws.","D":"society's attitudes towards rule-breakers."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P5_Q06
+set_id=BOOSTER_W1_P5
+number=6
+prompt=In the final paragraph, the reviewer says that Papineau
+options={"A":"uses too lightweight an approach to deal with philosophical issues.","B":"relies overly on insignificant detail to support his opinions.","C":"comes across as somewhat arrogant in various parts of the book.","D":"chooses some poor examples to illustrate points he is making."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Reclaiming our city streets
+instructions=You are going to read an article about solving traffic problems in cities. For questions 1-6 k fits best according to the text.
+source_pdf_pages=38,39
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w2-p5-p038.webp]]
+[[SCAN:/reading-scans/booster-w2-p5-p039.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q01
+set_id=BOOSTER_W2_P5
+number=1
+prompt=In paragraph 1, the writer is
+options={"A":"offering an opinion about city life.","B":"exemplifying one aspect of city life.","C":"giving a reason why city life can be expensive.","D":"suggesting city life is hard for most people."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q02
+set_id=BOOSTER_W2_P5
+number=2
+prompt=In the second paragraph, we learn that Crosswalk
+options={"A":"detects the presence of vehicles.","B":"can be programmed by its users.","C":"has been relatively easy to set up.","D":"is being trialled on one major road."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q03
+set_id=BOOSTER_W2_P5
+number=3
+prompt=What is the writer emphasising in the sentence 'All of this seems a far cry from the majority of urban centres' in line 39?
+options={"A":"the contrast between aims and the current reality.","B":"how upsetting living in some cities can be.","C":"how advanced technology is in certain regions.","D":"the technological changes happening worldwide."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q04
+set_id=BOOSTER_W2_P5
+number=4
+prompt=What point does the writer make in the fourth paragraph?
+options={"A":"Smaller cities have relatively high levels of pollution.","B":"Having farms near cities decreases harmful pollution.","C":"Problems caused by pollution multiply with city size.","D":"Embracing technology eases harmful pollution levels."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q05
+set_id=BOOSTER_W2_P5
+number=5
+prompt=What does the writer suggest about green spaces in the fifth paragraph?
+options={"A":"Most cities exceed international green space guidelines.","B":"Modern cities have fewer green spaces than old ones.","C":"Much urban green space worldwide has disappeared.","D":"Many city authorities should change their green space policy."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P5_Q06
+set_id=BOOSTER_W2_P5
+number=6
+prompt=According to the writer, all of the following people would benefit from the introduction of superblocks except
+options={"A":"bus users.","B":"residents.","C":"cyclists.","D":"pedestrians."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Using video gaming in education
+instructions=You are going to read an article about using video games in education. For questions 1-6 k fits best according to the text.
+source_pdf_pages=40,41
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w3-p5-p040.webp]]
+[[SCAN:/reading-scans/booster-w3-p5-p041.webp]]
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q01
+set_id=BOOSTER_W3_P5
+number=1
+prompt=The first time Edwards used a game in his classes, he was
+options={"A":"convinced that learners would realise why he wanted them to play it.","B":"convinced that learners would see the reasons for playing it.","C":"anxious that he had chosen the wrong one for learners to play.","D":"sure that his reasons for getting learners to play it were valid."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q02
+set_id=BOOSTER_W3_P5
+number=2
+prompt=The writer suggests that Minecraft is a good choice of educational game because
+options={"A":"any number of learners can use it simultaneously.","B":"teachers can remove any inappropriate material.","C":"gamers can create educative tasks whilst playing it.","D":"players can develop their skills in a step-by-step way."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q03
+set_id=BOOSTER_W3_P5
+number=3
+prompt=Which of the following words in the fourth paragraph is used to convey a feeling of approval?
+options={"A":"keen","B":"harmonious","C":"driving","D":"newborn"}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q04
+set_id=BOOSTER_W3_P5
+number=4
+prompt=In the fifth paragraph, the writer draws a comparison between a Minecraft 'society' and
+options={"A":"relationships within the group as they played.","B":"the way in which countries organise themselves.","C":"typical students in a school environment.","D":"how leadership operates in different situations."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q05
+set_id=BOOSTER_W3_P5
+number=5
+prompt=In the sixth paragraph, the writer feels that critics of video games in education
+options={"A":"are unwilling to admit that using them in class has benefits.","B":"make accurate observations about teachers who use them.","C":"use flawed research to support their objections to using them.","D":"acknowledge the drawbacks of more traditional teaching methods."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P5_Q06
+set_id=BOOSTER_W3_P5
+number=6
+prompt=The words 'this image' in the sixth paragraph refer to
+options={"A":"people who criticise gaming in education.","B":"students discussing a game in a group.","C":"a group of students reading individually.","D":"a solitary player absorbed in a game."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=multiple_choice_reading
+explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
+[/ITEM]

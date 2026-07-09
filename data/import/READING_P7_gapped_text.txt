@@ -993,3 +993,840 @@ max_points=2
 error_category=reading_comprehension
 explanation=Verified option.
 [/ITEM]
+
+[SET]
+set_id=CAE1_T1_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Secrets of the deep
+instructions=You are going to read a magazine article about whale sharks. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-48). There is 'one extra paragraph which you do not need to use. Mark your answers on the separate answer sheet.
+source_pdf_pages=18,19
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+When an animal the size of a very large double-decker bus — the largest fish in the ocean — makes a sudden 90° turn, it has to be for a good reason. As the satellite tracks started to come in from whale sharks which we had tagged off the Galapagos Islands, they clearly showed that as the sharks were swimming away from the islands, they were all reaching a certain point and then making a very abrupt change in direction.
+
+[[41]]
+
+That, among other things, was what The Galapagos Whale Shark Project was attempting to find out. Established to study the population of sharks that visits the islands each year, the primary aim of the research was to find out more about whale shark movements on a local scale.
+
+[[42]]
+
+This involved two main processes. To begin with, we had to be able to identify individual sharks. We used a modified version of photo software initially developed for the mapping of stars and deep-space objects. This worked because the characteristic white spots of the whale shark resemble the human fingerprint in that each pattern is individually unique. By running photographs of the sharks' sides through the software, we could characterise the patterns of spots, and figure out which shark was which.
+
+[[43]]
+
+We also attached tags to the sharks to track their movements. This was done by inserting a small dart through the thick skin into a fatty layer beneath using a pneumatic spear gun and then tethering the tags with a piece of steel cable. They were intended to be towed alongside or above the dorsal fin in order to break the surface and transmit data by satellite. But getting the tags to stay on was easier said than done. For reasons unknown, some came off in less than 24 hours.
+
+[[44]]
+
+The sharks used common departure routes soon after we had tagged them. They headed due north, following a series of sea fissures until they reached the Galapagos Rift Valley system. This zone is where the divergence of two oceanic plates has created a rift system similar to that which runs through eastern Africa. Many reached the margin between the two plates and most then turned west.
+
+[[45]]
+
+Conversely, one juvenile female's track was astounding, overlaying almost perfectly the rift system as it runs west. It is clear that she and the other whale sharks are using geological features as route indicators, just as motorists use, say, familiar buildings. But how the sharks perceive such features thousands of metres below on the ocean floor is as yet unresolved.
+
+[[46]]
+
+The theory we are working on is that the Earth's magnetic field reverses its polarity intermittently over the course of time, thus supplying a source of directional information. Fault systems, rift valleys, ocean trenches and plate margins all emit a distinct magnetic signature that can be used by whale sharks and other species as a virtual map.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P7_Q41
+set_id=CAE1_T1_P7
+number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P7_Q42
+set_id=CAE1_T1_P7
+number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P7_Q43
+set_id=CAE1_T1_P7
+number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P7_Q44
+set_id=CAE1_T1_P7
+number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P7_Q45
+set_id=CAE1_T1_P7
+number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P7_Q46
+set_id=CAE1_T1_P7
+number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"There may be a number of explanations: the sharks might have rubbed up against rocks, or the tags may have been ripped off by associated species, such as silky sharks, that mistook them for prey. Having begun with a 1.8-metre tether, we shortened this to 1.3 metres, which seemed to be more effective.","B":"After three months, all the sharks that had retained their tags proceeded to head south. They converged on three mountain chains that run westwards from the edge of Peru's continental shelf. There, one by one, they shed their tags and continued on to destinations unknown.","C":"However, it wasn't until we overlaid them onto a map of the sea floor that we saw that these movements were apparently in response to geological features deep in the ocean that the sharks couldn't possibly see. It became clear that they must somehow be using faults, fissures and plate boundaries. But how?","D":"After all, the marine environment, in comparison to that on land, has few apparent points of reference. The waters are often murky and the maximum penetration of light only extends into the upper levels. So how do marine creatures navigate over long distances?","E":"We undertook one of the most ambitious whale shark programmes to date. The fieldwork was carried out in three 15-day sorties.","F":"The frequency of transmissions from the tags depended on the behaviour of the individual sharks. Some spent a lot of time on or near the surface, and their tags reported on a regular basis. Others, such as the single male we tagged, spent a great deal of the time diving — for six weeks we didn't receive a single transmission.","G":"If spotted at the same location at a later date, or a different location, the shark was \"recaptured\" on a database, which stores photos of whale sharks from around the globe, thus providing details of their movements geographically and over time."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Stargazing in East Africa
+instructions=You are going to read a newspaper article about a new trend in the travel and tourism industry. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=40,41
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+We are gathered about a campfire on the dusty edge of the Serengeti National Park. After a long day scanning the savannah for creatures with jaws, claws and tusks, the flames are comforting. Normally on one of these trips, this is the moment at which the day starts to wind down, when tourists compare the animals they have had the chance of seeing and capturing on film.
+
+[[41]]
+
+Amateur astronomy is enjoying a surge of popularity and remote hotels around the world are installing telescopes and hiring expert star guides. Nevertheless, when I first heard about the idea of an 'astro-safari', I was sceptical. Wasn't the whole point of going to Africa to look around at hyenas and gazelles, say, rather than up at constellations that have scarcely changed since our ancestors first struggled to stand upright?
+
+[[42]]
+
+So it was with certain qualms that I found myself in Tanzania, on one of the first such safaris in Africa. The plan was simple. We would spend four days travelling through the spectacular Ngorongoro crater and the highlands, before dropping down on to the plain, animal watching by day and stargazing by night. We would hit the Serengeti plains just as 1.5 million wildebeest were making their way across, accompanied by zebras and gazelles, one of east Africa's most thrilling sights.
+
+[[43]]
+
+We were in luck: Nick Howes, a science writer for the European Space Agency, learnt to love astronomy at an early age. A natural communicator, Howes promptly reassured us that degrees in astrophysics are all very well, but cutting-edge astronomy relies on the work of thousands of amateurs. They are just like us, but with better lenses and more patience.
+
+[[44]]
+
+The vocabulary, however, was alluringly alien: not just nebulae and supernovae, but globular clusters and Magellanic Clouds. Howes continued the astral tour even in daylight hours. To do so, he had brought with him a solar scope that you screw into a telescope. This allows you to look directly into the sun, and, if you are lucky, see the huge 'coronal mass injections' that spurt from the surface of our very own star.
+
+[[45]]
+
+In fact, 'seeing' here in the Serengeti — astronomer-speak for clarity — is among the best in the world. But it was the unexpected spectacles that caused the greatest delight: one evening, a great fireball streaked across the sky, seeming to plunge to earth some way to the south.
+
+[[46]]
+
+Appropriate perhaps, considering that this is the part of the world where mankind first lived and looked at the night sky. Within 24 hours of arriving, the raw tourist finds himself asking all the big questions — the origins of the universe, why life started here of all places ... and the relative scariness of hyenas and asteroids. It was completely different to sitting in front of a TV screen where everything seemed more certain.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P7_Q41
+set_id=CAE1_T2_P7
+number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P7_Q42
+set_id=CAE1_T2_P7
+number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P7_Q43
+set_id=CAE1_T2_P7
+number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P7_Q44
+set_id=CAE1_T2_P7
+number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P7_Q45
+set_id=CAE1_T2_P7
+number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P7_Q46
+set_id=CAE1_T2_P7
+number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"Stars, unlike elephants and giraffes, can surely be seen any winter evening from anyone's back garden. And it was doubtful that anything could be learnt from peering through a telescope that some professor couldn't get across on a TV programme.","B":"We mobbed our guide with fretful questions. He shrugged and laughed. It could be a meteor. \"You have to get used to not knowing. That's the hardest part of the job,\" he said. It was then I became aware of the point of being here.","C":"What was less clear was how our night-time viewing would go. Our group featured no one who could confidently say what they were looking at in the sky, so much depended on the astronomer accompanying us.","D":"Indeed, we learnt that Nik Szymanek, one of the world's finest astro-photographers, is a London Tube driver by day. Tom Boles, who has discovered more supernovas than anyone living, turns out to be a retired telecoms engineer.","E":"But here the banter is not of giraffe and rhino but of astronomical terms like quarks and parsecs. A particular constellation of stars known as Leo will be turning up, cloud permitting, later that night. Who will be awake? \"We won't be able to see it till about 3.30 in the morning,\" says our guide, cheerily unfazed by the idea of staying up till dawn.","F":"My nonchalance didn't stand a chance against this passion and knowledge. I soon realised that the sky over my London home is a moth-eaten faded curtain compared with the lavishly studded dome that dominates the wilds of Africa. This is due, of course, to the total absence of light pollution.","G":"I wasn't sure whether it had been the right decision, even though seeing the animals at close range was thrilling. But then I saw the Carina Nebula, nothing but the faintest of glows to the naked eye but a furnace of throbbing scientific possibility when seen through the telescope."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=gapped_text
+explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Before Google ... the alternative travel guide to Poland
+instructions=You are going to read an extract from a newspaper article about travelling in Poland. Six paragraphs have been removed from the extract. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=62,63
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+"I am going to take you to my friend's studio. It's quite unusual," says Jarek, my unofficial guide to Krakow, in one of the biggest understatements of the trip. He leads me to an old cottage. It looks abandoned, but then we are greeted by a man who, with his grey beard and sheepskin waistcoat, looks like an ageing pop star. Outside there's a two-metre-high carved totem pole and the remains of a bonfire are still burning.
+
+[[41]]
+
+As a couch surfer I am used to finding golden opportunities through strangers, but the unusual thing about this connection is that it came about after I tried to reconstruct a tourism project that was, in many ways, the precursor to modern social networking. Back in the 1980s, US-born Jim Haynes, a renowned supporter of alternative arts, had an idea. Convinced that the best travel experiences come from the people you meet, he set himself a goal: he would match inquisitive travellers with gracious hosts by creating an alternative guidebook, in a country he loved. Poland: People to People finally hit the bookshelves in 1991.
+
+[[42]]
+
+Eventually enough people came forward with their contact details and a willingness to participate in the scheme. Jim assembled all the names in what read like a personal address book. The cover price of £6 bought you the contact details of 1,000 strangers.
+
+[[43]]
+
+Intrigued by the idea of taking modern networking back to its roots, I wondered whether, many years later, Jim's hosts would still be willing to greet an unknown visitor from overseas. But first I would have to track them down.
+
+[[44]]
+
+At first I planned to communicate only by post and sent several letters before realising I lacked the patience. Feeling a little guilty, I opted for the 21st-century solution: searching for the names on the Internet. Many were dead ends; others simply never responded. But gradually people did come forward and I received various slightly stunned replies. Before long I had meetings arranged in Krakow and Gdansk.
+
+[[45]]
+
+I skip the organised tours, though, and head off to meet Wladek, a 50-year-old academic. We meet in a 19th-century café, where an ultra-polite waitress sets down a massive plate of Polish dumplings before us. It is too much for any tourist to eat.
+
+[[46]]
+
+I'm charmed by Krakow and reluctant to leave Wladek, who proves to be excellent company, and the café, but I already have my next meeting arranged a 10-hour train ride away. Gdansk, with its immaculately renovated buildings and little boutiques, is clearly a world away from the city it was in the 1990s. I have arranged to meet kite-surfing enthusiast Mariusz at a restaurant there. Poland: People to People lives on, it seems. I know Jim will be delighted.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P7_Q41
+set_id=CAE1_T3_P7
+number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P7_Q42
+set_id=CAE1_T3_P7
+number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P7_Q43
+set_id=CAE1_T3_P7
+number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P7_Q44
+set_id=CAE1_T3_P7
+number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P7_Q45
+set_id=CAE1_T3_P7
+number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P7_Q46
+set_id=CAE1_T3_P7
+number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"Peer-to-peer websites are common now, but turning the idea into a book back then was a challenge. Jim sent out hundreds of letters through his already extensive network of friends and placed small ads in various Polish publications.","B":"My new acquaintance has hazy memories of the people he met through the book, but says he enjoys the company of visitors, as they are curious and interested in others. He shows me old photos and speaks of how life has changed here.","C":"What follows is one of those surreal travel experiences, where one new friend introduces you to another and another. Before long we've set off on a tour of Krakow's artistic community.","D":"That was easier said than done. Details were sparse; just contact details and a very short profile. \"I live in Krakow and I am a man of Krakow,\" read one rather unhelpful entry.","E":"Jim gave me an out-of-print edition at one of the open-house dinners he runs every Sunday at his Paris home. It was like opening a little time capsule and from that moment I knew what I had to do.","F":"The next morning is the occasion of my impromptu adventure with Jarek, an artist I found after contacting various local galleries. He invites me for dinner and even finds the original typewritten letter Jim sent in 1989 to introduce the project.","G":"It is my first time in Poland, and the former is undeniably impressive. The picture-perfect main square is lined with Renaissance buildings, lively street cafés and golf carts waiting to take tourists around town."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=gapped_text
+explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=The Story of Grass
+instructions=You are going to read part of a review of a book about grass. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41~46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=84,85
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+There is no doubting the radical importance of Graham Harvey's message. His case is that grass is unique among the world's plants not just in its arctic-to-equator adaptability and species diversity, but in the power of its elaborate root system to enrich soil with useful carbon compounds. The method of land management that turns this to advantage is mixed crop and cattle farming using crop rotation.
+
+[[41]]
+
+This traditional, nature-based farming practice received a boost in the 17th century, when it was discovered that fertility was enormously increased if the pasture incorporated clover flowers, since clover has the ability to convert nitrogen from the atmosphere into soluble soil nitrates. In the century and a half to 1850, grain yields and animal products doubled because of the clover revolution, and British farming was able to feed an extra seven million people as the industrial revolution spurred population growth.
+
+[[42]]
+
+When these incentives were introduced in the last quarter of the 20th century, farmers scrambled to get rid of their cattle, plough up their pastures, and turn their farms into various kinds of cereal monoculture, with fields full of single crops. These need heavy applications of chemicals to maintain yields. The high levels of artificial nitrogen that result make the crops susceptible to disease, particularly mildew, which have to be countered with yet more chemicals in the form of fungicides.
+
+[[43]]
+
+Intensive agriculture has had a similar effect on hay meadows. These used to flourish in Britain, and their mix of grasses supported the evolution of a rich diversity of animals and birds. Covering grassland with artificial fertiliser reverses this process. It allows one or two fast-growing varieties to eliminate the others, together with the wildlife they supported, producing monotonous acres of rye-grass.
+
+[[44]]
+
+In Harvey's view, British agriculture seems little more than an elaborate means of transferring money from the taxpayer to the pockets of the agrochemical industry, and laying waste the countryside in the process. The more intensive the farm, the more its owner can claim public subsidy. The European Union's common agricultural policy does not escape his attention. It has, in his opinion, outlawed the traditional mixed farm, since it requires farmers to choose between intensive crop or intensive cattle production.
+
+[[45]]
+
+Harvey runs the story of British agriculture alongside the story of the American prairies — flat grasslands without trees. Again the hero is grass, and the villains are well-meaning farmers with no understanding of ecology. The earliest American settlers, in the 17th century, saw no use for the prairies and labelled them desert. In fact, although arid, they were a rich and delicate ecosystem, supporting vast herds of bison which, at their peak, equalled in weight the entire current human population of North America. In three generations, all this was wiped out. The bison were slaughtered, and the prairies ploughed up for wheat and maize.
+
+[[46]]
+
+Now the prairies have to be dosed with artificial fertiliser and pesticides, and the government spends millions of dollars on irrigation. It is a depressing picture.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P7_Q41
+set_id=CAE1_T4_P7
+number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P7_Q42
+set_id=CAE1_T4_P7
+number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P7_Q43
+set_id=CAE1_T4_P7
+number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P7_Q44
+set_id=CAE1_T4_P7
+number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P7_Q45
+set_id=CAE1_T4_P7
+number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P7_Q46
+set_id=CAE1_T4_P7
+number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"But it's not just institutions that incur Harvey's anger; the phasing out of grass has also compounded the greenhouse effect. Grasslands take carbon from the atmosphere and lock it safely in the soil. They are far more effective at doing this than tropical rain forests, and Harvey contends that a return to grass-based husbandry would crucially alleviate global warming.","B":"Its presence is a result of the clearing of forest land to make way for crops and pasture. While many deplore this development it is the end result of the need to supply cheap food.","C":"With this system, cattle graze on fields consisting just of grass, known as pastures. After four years these are ploughed up and planted with food crops. At the same time, other fields on the same farm will now have been exhausted by food production, so they are returned to pasture again.","D":"The result is depressingly predictable — all these substances damage the soil and destroy its wildlife, from micro-organisms up to earthworms, insects and small mammals. The landscape falls silent.","E":"Farming of this kind is now virtually obsolete in the country, largely because farm subsidies encourage farmers to abandon crop rotation based on grass and to rely on chemical fertilisers instead.","F":"At first, yields of these crops were huge, drawing on organic matter in the topsoil accumulated over centuries. But in the next 30 years, they fell by three-quarters. Then came the high winds of the 1930s, when the degraded soil literally blew away.","G":"This particular species spread with frightening speed in the 20th century. By 1984, the total area of species-rich grassland remaining in the country was just 3% of what it had been in 1930, and the destruction is continuing to the present day."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Making profits from sustainable industry
+instructions=You are going to read a magazine article about green businesses. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
+source_pdf_pages=48,49
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+Green companies have succeeded in doing what few thought possible — making sustainability profitable. Over the nine years I've spent trying to persuade business leaders to embrace sustainability, the question I've most often been asked is, "What's the business case for sustainability?" This question is always delivered in a sceptical tone, carrying the unspoken suggestion that there is no business case, or at least not a very compelling one. And, for those nine years, I'd always wished I had a better answer.
+
+[[1]]
+
+These so-called green giants — which include electric car maker Tesla — manufacture a stunning array of goods, including burritos and beauty cream, sports shoes and organic baby food. In the process, they have succeeded in doing what the market long thought impossible: they've made sustainability profitable.
+
+[[2]]
+
+Despite this, it's not hard to see why so many people are surprised by the idea that a sustainable business could be profitable. In his 1970 essay, "The Social Responsibility of Business is to Increase its Profits", American economist Milton Friedman dismissed any business with a "social conscience" as "unadulterated socialism". In the following years, the notion that sustainability, or social good generally, and profit are fundamentally opposing forces hardened into fact in the minds of most business leaders.
+
+[[3]]
+
+For years, the conventional wisdom had been that sustainability is likely to lose a company money. Many still think that, at best, it's a strategy to reduce costs, through things like energy and water efficiency.
+
+[[4]]
+
+This phenomenon is also evident in companies which have diversified to produce sustainable as well as conventional brands. Many businesses, perhaps sensing a change in people's attitudes, now market environmentally-friendly products alongside their more well-established cousins. The greener products are outselling their more traditional equivalents.
+
+[[5]]
+
+Such a demonstration of acceptance by the capitalist establishment is profoundly important. It represents a fundamental shift and evidence that this sector of the market has long-term viability. For the green giants, sustainability is not about how they save money, but about how they make it. No longer are sustainability and profit at odds; on the contrary, rather than being a drag on profit, sustainability can drive it.
+
+In many companies, sustainability is a department, but for the green giants, it's a value that is fully integrated into how their business is organised.
+
+[[6]]
+
+Together, the green giants have proven that businesses based on sustainability and social good are an extremely viable alternative to business as usual. With global climate change being taken increasingly seriously in many places around the world, close your eyes, and the pace of change will have only accelerated by the time you open them again. Ignore the green giants' example at your peril.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q01
+set_id=BOOSTER_W1_P7
+number=1
+prompt=Choose the paragraph which fits gap 1.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q02
+set_id=BOOSTER_W1_P7
+number=2
+prompt=Choose the paragraph which fits gap 2.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=gapped_text
+explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q03
+set_id=BOOSTER_W1_P7
+number=3
+prompt=Choose the paragraph which fits gap 3.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q04
+set_id=BOOSTER_W1_P7
+number=4
+prompt=Choose the paragraph which fits gap 4.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q05
+set_id=BOOSTER_W1_P7
+number=5
+prompt=Choose the paragraph which fits gap 5.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P7_Q06
+set_id=BOOSTER_W1_P7
+number=6
+prompt=Choose the paragraph which fits gap 6.
+options={"A":"This shift in consumer demand has led to a renewal of stock market interest in these more traditional firms. As is the case with the green giants, their stock market value regularly and significantly outperforms a portfolio of less forward-thinking competitors.","B":"Thanks to the vision of these, and other, brave entrepreneurs, they have silenced many of the doubters by collectively generating over $100 billion in annual revenue. Not only that, they do so with profit margins that are generally wider than the industry averages.","C":"That's why these companies thrive even though their ethical and humane raw ingredients are more expensive. Their whole cost structure has been built to accommodate these higher prices, so they still command healthy profit margins nearly three times the industry average.","D":"So if a product targets only a consumer niche, it's hard to make any significant revenue; there simply aren't enough people who take green values seriously enough to get you there. Green giants, however, appeal to mainstream customers or consumers.","E":"But while these perceived notions of it being an exercise in saving rather than making money are still widespread, they are not actually supported by the overwhelming bulk of evidence. Several green giants are actually growing faster than conventional business lines.","F":"There are now, however, at least nine companies globally that generate a billion dollars or more in annual revenue from products or services that have sustainability or social good at their core. They perhaps provide the evidence needed to convince even the hardest of these cynics.","G":"This fact is confirmed by numerous conversations I've had with professionals who promote the cause of the sustainable industry. Some are still struggling to persuade many of their business colleagues of the case for change."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=How the microwave oven was invented
+instructions=You are going to read a magazine article about microwave ovens. Six paragraphs have been
+source_pdf_pages=50,51
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+The microwave is, these days, a common sight in many kitchens around the world and cherished for the speed at which it heats up food and drink. However, it is a little-known fact that its creation came about almost completely by accident, when a self-taught US engineer named Percy Spencer, who was working on improvements to military hardware, realised a snack he had in his pocket had melted.
+
+[[1]]
+
+But Spencer's experience and intelligence led him to the realisation that there were domestic applications for this discovery. He had grown up in a poor family in the backwoods of Maine, in the eastern United States, and had minimal formal education. He had also had little or no direct exposure to emerging technologies of the time, such as cars and electrical power.
+
+[[2]]
+
+On joining the Navy at the age of 18, he gained a fascination for the radio and taught himself everything he could about the new technology, amongst other things. This was to stand Spencer in good stead after leaving the Navy. He gained employment at the American Appliance Company, which was later renamed the Raytheon Manufacturing Company. He rapidly gained renown as one of their most accomplished engineers.
+
+[[3]]
+
+As he did so, he happened to put his hands into his pockets, where he habitually kept his snack. That day, it happened to be a candy bar made from peanuts and caramel. To his surprise, he found that it had turned into a warm, melted mess in his pocket whilst he had been at work. Had it been a chocolate bar, this would not have been so remarkable, as chocolate becomes liquid at a relatively low temperature. Melting a peanut and caramel bar, however, requires substantially larger amounts of energy.
+
+[[4]]
+
+Recognising that it was microwaves produced by the magnetron that had heated it to such a degree, his employer immediately patented the invention. The launch of the first commercial microwave oven came just two years later. Costing around $5,000 (which equates to well over $50,000 these days), it weighed about 340 kg and was almost two metres tall.
+
+[[5]]
+
+Eventually, the company worked hard to bring down the price and to create models of a more convenient size, and sales of the microwave oven mushroomed. According to US government figures, in excess of 90% of American homes had microwaves by 1997. Although not all countries have been so quick in embracing this appliance, its acceptance is growing day by day and it has rapidly become the quickest method of heating up food and drink across the planet.
+
+[[6]]
+
+And all of this progress stems from Spencer's realisation that a melting candy bar in his pocket had far greater significance than a trip to the dry cleaners! In 1999, Percy Spencer was finally given his rightful place alongside great inventors such as Thomas Edison and the Wright Brothers in the National Inventors Hall of Fame.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q01
+set_id=BOOSTER_W2_P7
+number=1
+prompt=Choose the paragraph which fits gap 1.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q02
+set_id=BOOSTER_W2_P7
+number=2
+prompt=Choose the paragraph which fits gap 2.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q03
+set_id=BOOSTER_W2_P7
+number=3
+prompt=Choose the paragraph which fits gap 3.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q04
+set_id=BOOSTER_W2_P7
+number=4
+prompt=Choose the paragraph which fits gap 4.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q05
+set_id=BOOSTER_W2_P7
+number=5
+prompt=Choose the paragraph which fits gap 5.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P7_Q06
+set_id=BOOSTER_W2_P7
+number=6
+prompt=Choose the paragraph which fits gap 6.
+options={"A":"But Spencer didn't allow this to hold him back. He possessed an unusual instinctive curiosity that led him into employment at a textile mill in a nearby town. This was followed by work at a nearby paper mill. His role there was to assist with the installation of electricity to the plant, despite having had no formal training in electrical engineering.","B":"In addition to this increasingly universal appeal, Spencer's work continues to influence research into further uses for radar, especially those which monitor global weather conditions and trap speeding drivers: police radar guns detect the reflections of microwaves to calculate a driver's speed.","C":"His natural curiosity immediately led him to wonder how exactly this had happened, so Spencer conducted another experiment, this time with an egg. He placed it close to the magnetron and within seconds, it had exploded, splattering cooked egg everywhere, including on his face. On a subsequent occasion, he repeated the experiment with popping corn and was soon sharing popcorn with his team.","D":"Radar, which had been used extensively by the armed forces, detects enemy aircraft and allows planes to fly at night. It was during his efforts to develop this technology that the unusual side-effect came to light.","E":"In the 1940s, however, little information was available about the effect microwaves might have on humans, so Spencer never took into account how safe it might be to work and cook with microwaves. Today, we know that the low doses of microwaves generally do little or no harm.","F":"Developing a reputation there as someone who had an uncanny ability to come up with straightforward fixes to even the most complex of engineering problems, his employer had given him the task of improving radar technology that they were producing for the military. On one occasion, he decided to run some experiments using magnetrons, a high-powered component found inside radars.","G":"As a consequence of these impracticalities, coupled with the public's mistrust of such a new technology, sales were, perhaps unsurprisingly, poor. The venture ended up losing the company a lot of money, becoming their greatest business failure to date."}
+correct_answer=B
+accepted_answers=B
+max_points=2
+error_category=gapped_text
+explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Replacing arts subjects in schools
+instructions=You are going to read a newspaper article about the arts. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
+source_pdf_pages=52,53
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+Despite a lack of resources, we need a commitment to creativity in schools.
+
+In 2006, 84-year-old American novelist Kurt Vonnegut wrote a letter to a class of schoolchildren who had asked him to visit. He was too ill to travel, but offered them instead the following lesson for life: "Practise any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow."
+
+[[1]]
+
+Middle-class parents have long known this; it's why they get their children signed up for music groups before they can walk. Being "cultured" opens doors even if you don't pursue a career in the arts. Private schools know this too, and usually offer a rich and varied extracurricular programme of artistic activities. But Vonnegut's advice is not so easy to follow for those who have little opportunity or guidance when it comes to the arts.
+
+[[2]]
+
+Perhaps an even greater worry is that creative writing, art, drama and music, once an integral part of the curriculum, are having their status reduced in favour of more obviously "commercially useful" subjects. In the UK, for example, there has recently been a huge decline in the number of pupils taking qualifications in arts subjects. In a challenging global economy, the arts are increasingly seen as "soft subjects".
+
+[[3]]
+
+This observation was reinforced when my 14-year-old son recently chose subject options for the two subsequent academic years. The fact that his school decided to send an accompanying letter assuring parents that the "soft subjects" would not be considered inferior to maths and sciences by the top universities was telling in itself.
+
+[[4]]
+
+So, if schools and government are unable or unwilling to stem the tide in favour of more "commercially useful" subjects at the expense of artistic ones, where do those whose career aims do not neatly fall into the commercially useful category turn? Charitable institutions which provide grants and bursaries for talented young people are springing up in many countries, or finding themselves in greater demand. Students who were unable to develop their skills for want of the most basic provision — the cost of a musical instrument or the train fare to attend a drama school audition — are getting their financial needs met, and are also helped in other ways.
+
+[[5]]
+
+But the obvious problem with charities is that, by definition, they can't be everywhere and such an approach is no substitute for a nationwide educational commitment to the arts that reflects the value of the creative sector to the economy and to personal wellbeing. The performing arts should not become luxuries for well-off children, because talent doesn't go with money.
+
+[[6]]
+
+To achieve this worthy aim, governments should consider not only the inclusion of the expressive arts in all state school curricula, but also investment in teachers who can provide art, drama and music outside the timetable, for the less tangible — but no less valuable — purpose of expanding minds and, yes, growing souls.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q01
+set_id=BOOSTER_W3_P7
+number=1
+prompt=Choose the paragraph which fits gap 1.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=G
+accepted_answers=G
+max_points=2
+error_category=gapped_text
+explanation=Paragraph G is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q02
+set_id=BOOSTER_W3_P7
+number=2
+prompt=Choose the paragraph which fits gap 2.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=C
+accepted_answers=C
+max_points=2
+error_category=gapped_text
+explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q03
+set_id=BOOSTER_W3_P7
+number=3
+prompt=Choose the paragraph which fits gap 3.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=E
+accepted_answers=E
+max_points=2
+error_category=gapped_text
+explanation=Paragraph E is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q04
+set_id=BOOSTER_W3_P7
+number=4
+prompt=Choose the paragraph which fits gap 4.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=A
+accepted_answers=A
+max_points=2
+error_category=gapped_text
+explanation=Paragraph A is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q05
+set_id=BOOSTER_W3_P7
+number=5
+prompt=Choose the paragraph which fits gap 5.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=F
+accepted_answers=F
+max_points=2
+error_category=gapped_text
+explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P7_Q06
+set_id=BOOSTER_W3_P7
+number=6
+prompt=Choose the paragraph which fits gap 6.
+options={"A":"But the structure of the timetable they'd decided on, which allowed students to select only one choice between art, music and drama, and none of those if the child also wanted to study a second language, hardly seemed to support that view.","B":"It's an oddly short-sighted view, and one which has been the subject of campaigns which spell out clearly the contribution of the creative sector to the economy. Encouraging young people to study creative arts is all well and good, but it's also useful to provide them with these figures, to reassure them that there are jobs at the end of it.","C":"Schools used to provide these, often backed up by community youth projects. But the latter have had their funding cut, and many state-school teachers find their time and resources stretched so thinly that they are unable to provide the kind of music tuition, theatre or gallery trips and after-school clubs that were previously on offer.","D":"To bridge this potential inequality, carving out a space for all young people to express themselves creatively is essential. It is crucial to developing imagination, curiosity and empathy. These are qualities which can do much to shape a more progressive society.","E":"This appears to be happening despite assurances from politicians, who firmly reject the suggestion that the arts are somehow considered less important than subjects such as science and maths. The statistics suggest, however, that whatever ministers or congressmen say, a clear disparity appears to have been created.","F":"One such organisation now supports more than 1,000 individuals through different projects, and counts several established actors among its patrons. Many of them say they wouldn't have been able to get started in their careers without similar backing.","G":"There's no question that the opportunity to explore creative expression can broaden people of any age's outlook and allow this to happen. And it comes with some pretty positive side-effects: boosting confidence and encouraging empathy and curiosity about the wider world."}
+correct_answer=D
+accepted_answers=D
+max_points=2
+error_category=gapped_text
+explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
+[/ITEM]
