@@ -1,9 +1,3 @@
-# C1 ADVANCED EXERCISE DATABASE
-# Format: UTF-8 plain text
-# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
-# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
-# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
-
 [SET]
 set_id=ADV5_T1_P2
 section=UOE
@@ -713,4 +707,899 @@ accepted_answers=DESPITE
 max_points=1
 error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Online passwords – what everyone should know
+source_pdf_pages=10
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. examole: [o][iTe] TT TTT TTT TTT ti ttt
+
+v"
+
+Part 2
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only
+'one word in each gap. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+examole: [o][iTe] TT TTT TTT TTT ti ttt
+Online passwords - what everyone should know
+
+'When (0) ........ comes to online security, we all know what we ought to do: choose a different,
+random set of letters and numbers for every email account, shopping site or bank account. But
+hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar
+words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally
+remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
+Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available
+
+| which can make a thousand guesses per second, enabling a hacker to get to your password in
+just under four hours.
+Interestingly, (13) ........ increasing your password to twenty random letters, you increase a
+hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........
+no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........
+with three or four short, unrelated words and work (16) ........ @ Way to remember them. Easy!
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P2_Q09
+set_id=CAE1_T1_P2
+number=9
+prompt=hardly (9) ........ does this, because memorising them all is impossible.
+correct_answer=ANYBODY
+accepted_answers=ANYBODY | ANYONE
+max_points=1
+error_category=open_cloze
+explanation=ANYBODY/ANYONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q10
+set_id=CAE1_T1_P2
+number=10
+prompt=words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally remembering to replace the letter 0 with a zero, or choosing to (11) .
+correct_answer=LIKE
+accepted_answers=LIKE
+max_points=1
+error_category=open_cloze
+explanation=LIKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q11
+set_id=CAE1_T1_P2
+number=11
+prompt=remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
+correct_answer=MAKE
+accepted_answers=MAKE
+max_points=1
+error_category=open_cloze
+explanation=MAKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q12
+set_id=CAE1_T1_P2
+number=12
+prompt=Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available | which can make a thousand guesses per second, enabling a hacker to get to your password in just under four hours.
+correct_answer=FOR
+accepted_answers=FOR
+max_points=1
+error_category=open_cloze
+explanation=FOR completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q13
+set_id=CAE1_T1_P2
+number=13
+prompt=Interestingly, (13) ........ increasing your password to twenty random letters, you increase a hacker's guessing time to 6.
+correct_answer=BY
+accepted_answers=BY
+max_points=1
+error_category=open_cloze
+explanation=BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q14
+set_id=CAE1_T1_P2
+number=14
+prompt=The problem is that you would (14) ........ no chance of ever remembering those 20 letters.
+correct_answer=HAVE
+accepted_answers=HAVE | STAND
+max_points=1
+error_category=open_cloze
+explanation=HAVE/STAND completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q15
+set_id=CAE1_T1_P2
+number=15
+prompt=The solution, apparently, is to come (15) ........ with three or four short, unrelated words and work (16) .
+correct_answer=UP
+accepted_answers=UP
+max_points=1
+error_category=open_cloze
+explanation=UP completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q16
+set_id=CAE1_T1_P2
+number=16
+prompt=with three or four short, unrelated words and work (16) ........ @ Way to remember them.
+correct_answer=OUT
+accepted_answers=OUT | ON
+max_points=1
+error_category=open_cloze
+explanation=OUT/ON completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Handwriting
+source_pdf_pages=32
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][wJo] TT TTT TTT TTTITTITITT
+
+About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of
+mine looked like. We had always communicated by email and text but never by a handwritten
+letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish
+from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary
+and inevitable intermediary between people - a means by (12) ........ individuals communicate
+with each other, putting a little bit of their personality (13) ........ the form of the message as they
+press the ink-bearing point onto the paper. It has started to become just (14) ........ among many
+options, often considered unattractive and elaborate.
+For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can
+remember. Our handwriting, like ourselves, seems always to have been there. But now, given
+that most of us communicate via email and text, have we lost (16) ........ crucial to the human
+experience?
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P2_Q09
+set_id=CAE1_T2_P2
+number=9
+prompt=And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish from our lives altogether.
+correct_answer=WHEN
+accepted_answers=WHEN | WHERE
+max_points=1
+error_category=open_cloze
+explanation=WHEN/WHERE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q10
+set_id=CAE1_T2_P2
+number=10
+prompt=(10) ........ some point in recent years, it stopped (11) .
+correct_answer=AT
+accepted_answers=AT
+max_points=1
+error_category=open_cloze
+explanation=AT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q11
+set_id=CAE1_T2_P2
+number=11
+prompt=some point in recent years, it stopped (11) ........ a necessary and inevitable intermediary between people - a means by (12) .
+correct_answer=BEING
+accepted_answers=BEING
+max_points=1
+error_category=open_cloze
+explanation=BEING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q12
+set_id=CAE1_T2_P2
+number=12
+prompt=and inevitable intermediary between people - a means by (12) ........ individuals communicate with each other, putting a little bit of their personality (13) .
+correct_answer=WHICH
+accepted_answers=WHICH
+max_points=1
+error_category=open_cloze
+explanation=WHICH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q13
+set_id=CAE1_T2_P2
+number=13
+prompt=with each other, putting a little bit of their personality (13) ........ the form of the message as they press the ink-bearing point onto the paper.
+correct_answer=IN
+accepted_answers=IN | INTO
+max_points=1
+error_category=open_cloze
+explanation=IN/INTO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q14
+set_id=CAE1_T2_P2
+number=14
+prompt=It has started to become just (14) ........ among many options, often considered unattractive and elaborate.
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=ONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q15
+set_id=CAE1_T2_P2
+number=15
+prompt=For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can remember.
+correct_answer=FAR
+accepted_answers=FAR
+max_points=1
+error_category=open_cloze
+explanation=FAR completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q16
+set_id=CAE1_T2_P2
+number=16
+prompt=that most of us communicate via email and text, have we lost (16) ........ crucial to the human experience?
+correct_answer=SOMETHING
+accepted_answers=SOMETHING
+max_points=1
+error_category=open_cloze
+explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Work experience abroad
+source_pdf_pages=54
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. emo (o)(o[A1 1111 TTITTIT TIT IT
+
+Every year thousands (0) ........ young people in various countries do short periods of work in
+other countries (9) ........ the time they leave school and start university. Typically these involve
+helping in schools or hospitals, or on conservation projects. The experience the young people gain
+will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of
+independence and confidence. It may also help them with their long-term career.
+There are many organisations that run work experience programmes. (11) ........ such company
+is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being
+an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
+Young people should push themselves out of their comfort zones and do (15) ........ productive.
+Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd
+in the job market. Some employers look favourably on students who have the initiative and drive
+to complete one."
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P2_Q09
+set_id=CAE1_T3_P2
+number=9
+prompt=other countries (9) ........ the time they leave school and start university.
+correct_answer=BETWEEN
+accepted_answers=BETWEEN
+max_points=1
+error_category=open_cloze
+explanation=BETWEEN completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q10
+set_id=CAE1_T3_P2
+number=10
+prompt=(10) ........ a personal point of view, it gives them a sense of independence and confidence.
+correct_answer=FROM
+accepted_answers=FROM
+max_points=1
+error_category=open_cloze
+explanation=FROM completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q11
+set_id=CAE1_T3_P2
+number=11
+prompt=(11) ........ such company is Global Volunteers, (12) .
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=ONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q12
+set_id=CAE1_T3_P2
+number=12
+prompt=is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) .
+correct_answer=WHOSE
+accepted_answers=WHOSE
+max_points=1
+error_category=open_cloze
+explanation=WHOSE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q13
+set_id=CAE1_T3_P2
+number=13
+prompt=spokesperson Mary Cooper comments: '(13) ........ than being an extended holiday, our placements involve learning to (14) .
+correct_answer=RATHER
+accepted_answers=RATHER
+max_points=1
+error_category=open_cloze
+explanation=RATHER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q14
+set_id=CAE1_T3_P2
+number=14
+prompt=an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
+correct_answer=TAKE
+accepted_answers=TAKE
+max_points=1
+error_category=open_cloze
+explanation=TAKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q15
+set_id=CAE1_T3_P2
+number=15
+prompt=Young people should push themselves out of their comfort zones and do (15) ........ productive.
+correct_answer=SOMETHING
+accepted_answers=SOMETHING
+max_points=1
+error_category=open_cloze
+explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q16
+set_id=CAE1_T3_P2
+number=16
+prompt=Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd in the job market.
+correct_answer=STAND
+accepted_answers=STAND
+max_points=1
+error_category=open_cloze
+explanation=STAND completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=How technology is helping people to talk
+source_pdf_pages=76
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. | exemple: [o](nfolr] I | I TTT TTT TTT TTT |
+
+The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be lifechanging for anyone suffering from a severe speech problem. (9) ........ been invited to try one
+such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a
+journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot
+which tracks the movement of my eyes.
+| start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to,
+select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced
+users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top
+of the screen, and slowly I build up my message. More speed would be good as this isn't a fast
+way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long
+time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back
+to me in a synthesised voice.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P2_Q09
+set_id=CAE1_T4_P2
+number=9
+prompt=(9) ........ been invited to try one such hi-tech communication aid, I find (10) .
+correct_answer=HAVING
+accepted_answers=HAVING
+max_points=1
+error_category=open_cloze
+explanation=HAVING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q10
+set_id=CAE1_T4_P2
+number=10
+prompt=such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen.
+correct_answer=MYSELF
+accepted_answers=MYSELF
+max_points=1
+error_category=open_cloze
+explanation=MYSELF completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q11
+set_id=CAE1_T4_P2
+number=11
+prompt=journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot which tracks the movement of my eyes.
+correct_answer=EXCEPT
+accepted_answers=EXCEPT | BUT
+max_points=1
+error_category=open_cloze
+explanation=EXCEPT/BUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q12
+set_id=CAE1_T4_P2
+number=12
+prompt=However, I could, (12) ........ I wanted to, select alternative screens (13) .
+correct_answer=IF
+accepted_answers=IF | WHEN | WHENEVER
+max_points=1
+error_category=open_cloze
+explanation=IF/WHEN/WHENEVER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q13
+set_id=CAE1_T4_P2
+number=13
+prompt=select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced users, would (14) .
+correct_answer=MADE
+accepted_answers=MADE
+max_points=1
+error_category=open_cloze
+explanation=MADE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q14
+set_id=CAE1_T4_P2
+number=14
+prompt=users, would (14) ........ doubt speed things up.
+correct_answer=NO
+accepted_answers=NO | WITHOUT
+max_points=1
+error_category=open_cloze
+explanation=NO/WITHOUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q15
+set_id=CAE1_T4_P2
+number=15
+prompt=way to communicate, (15) ........ with the aid of predictive text.
+correct_answer=EVEN
+accepted_answers=EVEN
+max_points=1
+error_category=open_cloze
+explanation=EVEN completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q16
+set_id=CAE1_T4_P2
+number=16
+prompt=After (16) ........ seems like a long time, my phrase 'this is an amazing machine' is complete.
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=We're all in this together
+source_pdf_pages=19
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below z
+
+Have you, or has someone you know, come up (0) an original idea for a briiant product or
+an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear
+not. Help is close (2) hand. You can crowafund it Crowafunding is the practice of financing a
+project by raising money through contributions (3) ....... individuals or groups of people with money
+to invest or the desire to (4) '200d. It has emerged as an accessible option for entrepreneurs
+and creatives around the world. Usually collected via online platforms, the sum generated allows them to
+both (5) their ideas to the test and gain exposure and funds for their product or invention. You
+might well wonder (6) crowdfunding realy is a modern-day practice. It would seem (7)
+Although the term and its definition were only recently added to dictionaries, throughout history, landmark
+expeditions, epic voyages and even national monuments have been completed (8) to the
+donations of ordinary people.
+(7)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q01
+set_id=BOOSTER_W1_P2
+number=1
+prompt=an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear not.
+correct_answer=YOURSELF
+accepted_answers=YOURSELF | YOURSELVES
+max_points=1
+error_category=open_cloze
+explanation=YOURSELF/YOURSELVES completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q02
+set_id=BOOSTER_W1_P2
+number=2
+prompt=Help is close (2) hand.
+correct_answer=AT
+accepted_answers=AT
+max_points=1
+error_category=open_cloze
+explanation=AT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q03
+set_id=BOOSTER_W1_P2
+number=3
+prompt=project by raising money through contributions (3) ....... individuals or groups of people with money to invest or the desire to (4) '200d.
+correct_answer=FROM
+accepted_answers=FROM | BY
+max_points=1
+error_category=open_cloze
+explanation=FROM/BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q04
+set_id=BOOSTER_W1_P2
+number=4
+prompt=to invest or the desire to (4) '200d.
+correct_answer=DO
+accepted_answers=DO
+max_points=1
+error_category=open_cloze
+explanation=DO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q05
+set_id=BOOSTER_W1_P2
+number=5
+prompt=both (5) their ideas to the test and gain exposure and funds for their product or invention.
+correct_answer=PUT
+accepted_answers=PUT
+max_points=1
+error_category=open_cloze
+explanation=PUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q06
+set_id=BOOSTER_W1_P2
+number=6
+prompt=might well wonder (6) crowdfunding realy is a modern-day practice.
+correct_answer=IF
+accepted_answers=IF | WHETHER
+max_points=1
+error_category=open_cloze
+explanation=IF/WHETHER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q07
+set_id=BOOSTER_W1_P2
+number=7
+prompt=It would seem (7) Although the term and its definition were only recently added to dictionaries, throughout history, landmark expeditions, epic voyages and even national monuments have been completed (8) to the donations of ordinary people.
+correct_answer=NOT
+accepted_answers=NOT
+max_points=1
+error_category=open_cloze
+explanation=NOT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q08
+set_id=BOOSTER_W1_P2
+number=8
+prompt=expeditions, epic voyages and even national monuments have been completed (8) to the donations of ordinary people.
+correct_answer=THANKS
+accepted_answers=THANKS | DUE
+max_points=1
+error_category=open_cloze
+explanation=THANKS/DUE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=What do you call a ...?
+source_pdf_pages=20
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS. Example: (0) iT
+
+only one word in each gap. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS.
+Example: (0) iT
+What do you call a... ?
+Lets face (0) , there are some pretty
+weird and wonderful entries on the list of names for 4
+living creatures. Some might give you a very clear 5
+picture of (1) to expect when you look at iii
+it! A blobfish has to be round, right? You won't find 7 Agi iy
+leafy sea dragons on land, (2) you? In the S</prge
+18" century, science took the important step of (a P
+giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y
+around the world to communicate unambiguously. a
+To (4) certain extent, the system, known
+(5) 'binomial nomenclature', has done its job. Names often give a clear indication of origin
+(japonica), colour (azurea ) or size (nana). On the other hand, it has produced some fun terms, to
+(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently
+7) of the singer's contribution to the arachnid world, The more you swot up (8) this
+fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a
+creature called, believe it or not, a 'ried egg jellyfish'
+(a)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q01
+set_id=BOOSTER_W2_P2
+number=1
+prompt=picture of (1) to expect when you look at iii it! A blobfish has to be round, right? You won't find 7 Agi iy leafy sea dragons on land, (2) you? In the S</prge 18" century, science took the important step of (a P giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q02
+set_id=BOOSTER_W2_P2
+number=2
+prompt=leafy sea dragons on land, (2) you? In the S</prge 18" century, science took the important step of (a P giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WILL
+accepted_answers=WILL
+max_points=1
+error_category=open_cloze
+explanation=WILL completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q03
+set_id=BOOSTER_W2_P2
+number=3
+prompt=giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WITH
+accepted_answers=WITH
+max_points=1
+error_category=open_cloze
+explanation=WITH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q04
+set_id=BOOSTER_W2_P2
+number=4
+prompt=To (4) certain extent, the system, known (5) 'binomial nomenclature', has done its job.
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=open_cloze
+explanation=A completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q05
+set_id=BOOSTER_W2_P2
+number=5
+prompt=(5) 'binomial nomenclature', has done its job.
+correct_answer=AS
+accepted_answers=AS
+max_points=1
+error_category=open_cloze
+explanation=AS completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q06
+set_id=BOOSTER_W2_P2
+number=6
+prompt=(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently 7) of the singer's contribution to the arachnid world, The more you swot up (8) this fascinating subject, the more youll learn (and chuckle), believe me! Ive ju
+correct_answer=SAY
+accepted_answers=SAY
+max_points=1
+error_category=open_cloze
+explanation=SAY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q07
+set_id=BOOSTER_W2_P2
+number=7
+prompt=Gap 7
+correct_answer=BECAUSE
+accepted_answers=BECAUSE
+max_points=1
+error_category=open_cloze
+explanation=BECAUSE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q08
+set_id=BOOSTER_W2_P2
+number=8
+prompt=7) of the singer's contribution to the arachnid world, The more you swot up (8) this fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a creature called, believe it or not, a 'ried egg jellyfish' (a)
+correct_answer=ON
+accepted_answers=ON | ABOUT
+max_points=1
+error_category=open_cloze
+explanation=ON/ABOUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=National parks
+source_pdf_pages=23
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and think of the word which best fits each gap. Use
+
+You realise (0) truly incredible the natural environment is when you take a trip to one of the
+world's national parks. To be eligible for national park status, a place must possess a unique natural,
+cultural or recreational resource and be considered in need (1) protection. Fortunately, a
+considerable number of natural gems have been designated as national parks and (2) are also
+World Heritage sites.
+From hot springs (3) snowy peaks, these postcard.worthy destinations (4) definitely be
+'on your lst of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are
+extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking
+or rafting, surrounded (6) nature. The largest national park in the world isnt easily accessible,
+being in @ remote area of Greenland and boasting a permanent population of zero. It's al80 (7) omen
+used to receiving visitors (around 500 a year). Ths is a long way from the estimated 11 milion tourists
+(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+Bi ee
+(C)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q01
+set_id=BOOSTER_W3_P2
+number=1
+prompt=cultural or recreational resource and be considered in need (1) protection.
+correct_answer=OF
+accepted_answers=OF
+max_points=1
+error_category=open_cloze
+explanation=OF completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q02
+set_id=BOOSTER_W3_P2
+number=2
+prompt=considerable number of natural gems have been designated as national parks and (2) are also World Heritage sites.
+correct_answer=SOME
+accepted_answers=SOME | MANY
+max_points=1
+error_category=open_cloze
+explanation=SOME/MANY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q03
+set_id=BOOSTER_W3_P2
+number=3
+prompt=From hot springs (3) snowy peaks, these postcard.
+correct_answer=TO
+accepted_answers=TO
+max_points=1
+error_category=open_cloze
+explanation=TO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q04
+set_id=BOOSTER_W3_P2
+number=4
+prompt=worthy destinations (4) definitely be 'on your lst of places to visit.
+correct_answer=SHOULD
+accepted_answers=SHOULD | COULD
+max_points=1
+error_category=open_cloze
+explanation=SHOULD/COULD completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q05
+set_id=BOOSTER_W3_P2
+number=5
+prompt=extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking or rafting, surrounded (6) nature.
+correct_answer=WITH
+accepted_answers=WITH
+max_points=1
+error_category=open_cloze
+explanation=WITH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q06
+set_id=BOOSTER_W3_P2
+number=6
+prompt=or rafting, surrounded (6) nature.
+correct_answer=BY
+accepted_answers=BY
+max_points=1
+error_category=open_cloze
+explanation=BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q07
+set_id=BOOSTER_W3_P2
+number=7
+prompt=It's al80 (7) omen used to receiving visitors (around 500 a year).
+correct_answer=NOT
+accepted_answers=NOT
+max_points=1
+error_category=open_cloze
+explanation=NOT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q08
+set_id=BOOSTER_W3_P2
+number=8
+prompt=(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+correct_answer=WHO
+accepted_answers=WHO | THAT
+max_points=1
+error_category=open_cloze
+explanation=WHO/THAT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]

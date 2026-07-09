@@ -1,9 +1,3 @@
-# C1 ADVANCED EXERCISE DATABASE
-# Format: UTF-8 plain text
-# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
-# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
-# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
-
 [SET]
 set_id=ADV5_T1_P5
 section=READING

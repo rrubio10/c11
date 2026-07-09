@@ -1,9 +1,3 @@
-# C1 ADVANCED EXERCISE DATABASE
-# Format: UTF-8 plain text
-# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
-# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
-# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
-
 [SET]
 set_id=ADV5_T1_P4
 section=UOE
@@ -2071,4 +2065,970 @@ accepted_answers=LET ALONE COOK
 max_points=1
 error_category=key_word_transformation
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=12,13
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 'You should stop your children watching so much television,' Mary's sister told her.
+
+LET
+
+Mary's sister advised her ........ so much television.
+
+26 The local council wants to impose a ban on driving at more than 30 kilometres per hour anywhere in this area.
+
+ILLEGAL
+
+The local council wants to ........ at more than 30 kilometres per hour anywhere in this area.
+
+27 Tom missed his plane because he was late leaving for the airport.
+
+TIME
+
+If only ........ for the airport, he wouldn't have missed his plane.
+
+28 The guidelines for the appointment of new staff need to be thoroughly revised.
+
+THOROUGH
+
+There needs ........ the guidelines for the appointment of new staff.
+
+29 The employment rate rose gradually as the economy began to recover.
+
+GRADUAL
+
+There ........ the employment rate as the economy began to recover.
+
+30 The change in the company's logo didn't make any difference to the majority of its customers.
+
+CONSEQUENCE
+
+The change in the company's logo ........ to the majority of its customers.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P4_Q25
+set_id=CAE1_T1_P4
+number=25
+prompt={"original":"'You should stop your children watching so much television,' Mary's sister told her.","second":"Mary's sister advised her ........ so much television."}
+keyword=LET
+second_sentence=Mary's sister advised her ........ so much television.
+correct_answer=NOT TO LET HER WATCH
+accepted_answers=NOT TO LET HER WATCH | NOT TO LET THE CHILDREN WATCH | NOT TO LET KIDS WATCH
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses LET unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q26
+set_id=CAE1_T1_P4
+number=26
+prompt={"original":"The local council wants to impose a ban on driving at more than 30 kilometres per hour anywhere in this area.","second":"The local council wants to ........ at more than 30 kilometres per hour anywhere in this area."}
+keyword=ILLEGAL
+second_sentence=The local council wants to ........ at more than 30 kilometres per hour anywhere in this area.
+correct_answer=MAKE IT ILLEGAL TO DRIVE
+accepted_answers=MAKE IT ILLEGAL TO DRIVE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses ILLEGAL unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q27
+set_id=CAE1_T1_P4
+number=27
+prompt={"original":"Tom missed his plane because he was late leaving for the airport.","second":"If only ........ for the airport, he wouldn't have missed his plane."}
+keyword=TIME
+second_sentence=If only ........ for the airport, he wouldn't have missed his plane.
+correct_answer=TOM HAD LEFT ON TIME
+accepted_answers=TOM HAD LEFT ON TIME | TOM HAD LEFT IN TIME | HE HAD LEFT ON TIME | HE HAD LEFT IN TIME | TOM HAD BEEN ON TIME LEAVING | TOM HAD BEEN IN TIME LEAVING | HE HAD BEEN ON TIME LEAVING | HE HAD BEEN IN TIME LEAVING
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses TIME unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q28
+set_id=CAE1_T1_P4
+number=28
+prompt={"original":"The guidelines for the appointment of new staff need to be thoroughly revised.","second":"There needs ........ the guidelines for the appointment of new staff."}
+keyword=THOROUGH
+second_sentence=There needs ........ the guidelines for the appointment of new staff.
+correct_answer=TO BE A THOROUGH REVISION TO
+accepted_answers=TO BE A THOROUGH REVISION TO | TO BE A THOROUGH REVISION OF | TO BE THOROUGH REVISION TO | TO BE THOROUGH REVISION OF | TO BE THOROUGH REVISING OF
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses THOROUGH unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q29
+set_id=CAE1_T1_P4
+number=29
+prompt={"original":"The employment rate rose gradually as the economy began to recover.","second":"There ........ the employment rate as the economy began to recover."}
+keyword=GRADUAL
+second_sentence=There ........ the employment rate as the economy began to recover.
+correct_answer=WAS A GRADUAL RISE IN
+accepted_answers=WAS A GRADUAL RISE IN | WAS A GRADUAL INCREASE IN | WAS A GRADUAL IMPROVEMENT IN
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses GRADUAL unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q30
+set_id=CAE1_T1_P4
+number=30
+prompt={"original":"The change in the company's logo didn't make any difference to the majority of its customers.","second":"The change in the company's logo ........ to the majority of its customers."}
+keyword=CONSEQUENCE
+second_sentence=The change in the company's logo ........ to the majority of its customers.
+correct_answer=WAS OF NO CONSEQUENCE
+accepted_answers=WAS OF NO CONSEQUENCE | WAS NOT OF CONSEQUENCE | WASN’T OF CONSEQUENCE | WAS NOT OF ANY CONSEQUENCE | WASN’T OF ANY CONSEQUENCE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses CONSEQUENCE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=34,35
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 The other students don't mind whether you give your presentation on Thursday or Friday.
+
+DIFFERENCE
+
+It ........ the other students whether you give your presentation on Thursday or Friday.
+
+26 'What are you thinking of doing for the college's centenary celebration?' the tutor asked the students.
+
+MIND
+
+The tutor asked the students what ........ for the college's centenary celebration.
+
+27 Dr Ramesh's colleagues regarded him so highly that they forgave his inability to remember people's names.
+
+HELD
+
+Dr Ramesh ........ by his colleagues that they forgave his inability to remember people's names.
+
+28 As learning new languages had never been a problem for her, Katy didn't expect to have any difficulties when she went to live abroad.
+
+COME
+
+Learning new languages had ........ her so Katy didn't expect to have any difficulties when she went to live abroad.
+
+29 I think we owe this passenger an apology, as she was apparently given incorrect train times by our call centre staff.
+
+MISINFORMED
+
+I think we owe this passenger an apology, as she seems ........ train times by our call centre staff.
+
+30 If her party wins the election, which is unlikely, she'll become President.
+
+EVENT
+
+In the ........ the election, she'll become President.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P4_Q25
+set_id=CAE1_T2_P4
+number=25
+prompt={"original":"The other students don't mind whether you give your presentation on Thursday or Friday.","second":"It ........ the other students whether you give your presentation on Thursday or Friday."}
+keyword=DIFFERENCE
+second_sentence=It ........ the other students whether you give your presentation on Thursday or Friday.
+correct_answer=MAKES NO DIFFERENCE TO
+accepted_answers=MAKES NO DIFFERENCE TO | MAKES LITTLE DIFFERENCE TO | DOES NOT MAKE ANY DIFFERENCE TO | DOESN’T MAKE ANY DIFFERENCE TO | DOES NOT MAKE A DIFFERENCE TO | DOESN’T MAKE A DIFFERENCE TO | DOES NOT MAKE MUCH DIFFERENCE TO | DOESN’T MAKE MUCH DIFFERENCE TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses DIFFERENCE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q26
+set_id=CAE1_T2_P4
+number=26
+prompt={"original":"'What are you thinking of doing for the college's centenary celebration?' the tutor asked the students.","second":"The tutor asked the students what ........ for the college's centenary celebration."}
+keyword=MIND
+second_sentence=The tutor asked the students what ........ for the college's centenary celebration.
+correct_answer=THEY HAD IN MIND
+accepted_answers=THEY HAD IN MIND | THEY HAD GOT IN MIND
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses MIND unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q27
+set_id=CAE1_T2_P4
+number=27
+prompt={"original":"Dr Ramesh's colleagues regarded him so highly that they forgave his inability to remember people's names.","second":"Dr Ramesh ........ by his colleagues that they forgave his inability to remember people's names."}
+keyword=HELD
+second_sentence=Dr Ramesh ........ by his colleagues that they forgave his inability to remember people's names.
+correct_answer=WAS HELD IN SUCH REGARD
+accepted_answers=WAS HELD IN SUCH REGARD | WAS HELD IN SUCH HIGH REGARD | WAS HELD IN SUCH ESTEEM | WAS HELD IN SUCH HIGH ESTEEM
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses HELD unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q28
+set_id=CAE1_T2_P4
+number=28
+prompt={"original":"As learning new languages had never been a problem for her, Katy didn't expect to have any difficulties when she went to live abroad.","second":"Learning new languages had ........ her so Katy didn't expect to have any difficulties when she went to live abroad."}
+keyword=COME
+second_sentence=Learning new languages had ........ her so Katy didn't expect to have any difficulties when she went to live abroad.
+correct_answer=ALWAYS COME EASILY TO
+accepted_answers=ALWAYS COME EASILY TO | ALWAYS COME NATURALLY TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses COME unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q29
+set_id=CAE1_T2_P4
+number=29
+prompt={"original":"I think we owe this passenger an apology, as she was apparently given incorrect train times by our call centre staff.","second":"I think we owe this passenger an apology, as she seems ........ train times by our call centre staff."}
+keyword=MISINFORMED
+second_sentence=I think we owe this passenger an apology, as she seems ........ train times by our call centre staff.
+correct_answer=TO HAVE BEEN MISINFORMED ABOUT
+accepted_answers=TO HAVE BEEN MISINFORMED ABOUT | TO HAVE BEEN MISINFORMED OVER | TO HAVE BEEN MISINFORMED REGARDING | TO HAVE BEEN MISINFORMED CONCERNING | TO HAVE BEEN MISINFORMED ON
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses MISINFORMED unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q30
+set_id=CAE1_T2_P4
+number=30
+prompt={"original":"If her party wins the election, which is unlikely, she'll become President.","second":"In the ........ the election, she'll become President."}
+keyword=EVENT
+second_sentence=In the ........ the election, she'll become President.
+correct_answer=UNLIKELY EVENT OF HER PARTY WINNING
+accepted_answers=UNLIKELY EVENT OF HER PARTY WINNING | UNLIKELY EVENT THAT HER PARTY WINS | UNLIKELY EVENT HER PARTY WINS
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses EVENT unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=56,57
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 The constant public attention on famous people must have an effect on them.
+
+EYE
+
+Constantly ........ must have an effect on famous people.
+
+26 This building would be ideal for our new office except that there are no parking facilities nearby.
+
+FROM
+
+This building would be ideal for our new office ........ of parking facilities nearby.
+
+27 It’s only because of the quality of the lead singer’s voice that people listen to the album.
+
+WORTH
+
+It’s the quality of the lead singer’s voice that ........ to.
+
+28 The hotel wasn’t just far from the sea, it was expensive too.
+
+ONLY
+
+Not ........ way from the sea, it was expensive too.
+
+29 Jenny felt she had stayed too long at the party.
+
+HIGH
+
+Jenny felt it ........ the party.
+
+30 Hannah’s essay doesn’t have a clear enough explanation of the main point to be awarded top marks.
+
+CLEARLY
+
+Hannah’s essay doesn’t ........ to be awarded top marks.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P4_Q25
+set_id=CAE1_T3_P4
+number=25
+prompt={"original":"The constant public attention on famous people must have an effect on them.","second":"Constantly ........ must have an effect on famous people."}
+keyword=EYE
+second_sentence=Constantly ........ must have an effect on famous people.
+correct_answer=BEING IN THE PUBLIC EYE
+accepted_answers=BEING IN THE PUBLIC EYE | LIVING IN THE PUBLIC EYE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses EYE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q26
+set_id=CAE1_T3_P4
+number=26
+prompt={"original":"This building would be ideal for our new office except that there are no parking facilities nearby.","second":"This building would be ideal for our new office ........ of parking facilities nearby."}
+keyword=FROM
+second_sentence=This building would be ideal for our new office ........ of parking facilities nearby.
+correct_answer=ASIDE FROM THE LACK
+accepted_answers=ASIDE FROM THE LACK | APART FROM THE LACK | ASIDE FROM THE ABSENCE | APART FROM THE ABSENCE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses FROM unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q27
+set_id=CAE1_T3_P4
+number=27
+prompt={"original":"It’s only because of the quality of the lead singer’s voice that people listen to the album.","second":"It’s the quality of the lead singer’s voice that ........ to."}
+keyword=WORTH
+second_sentence=It’s the quality of the lead singer’s voice that ........ to.
+correct_answer=MAKES THE ALBUM WORTH LISTENING
+accepted_answers=MAKES THE ALBUM WORTH LISTENING
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses WORTH unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q28
+set_id=CAE1_T3_P4
+number=28
+prompt={"original":"The hotel wasn’t just far from the sea, it was expensive too.","second":"Not ........ way from the sea, it was expensive too."}
+keyword=ONLY
+second_sentence=Not ........ way from the sea, it was expensive too.
+correct_answer=ONLY WAS THE HOTEL A LONG
+accepted_answers=ONLY WAS THE HOTEL A LONG | ONLY WAS THE HOTEL SOME
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses ONLY unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q29
+set_id=CAE1_T3_P4
+number=29
+prompt={"original":"Jenny felt she had stayed too long at the party.","second":"Jenny felt it ........ the party."}
+keyword=HIGH
+second_sentence=Jenny felt it ........ the party.
+correct_answer=WAS HIGH TIME SHE LEFT
+accepted_answers=WAS HIGH TIME SHE LEFT | WAS HIGH TIME THAT SHE LEFT
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses HIGH unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q30
+set_id=CAE1_T3_P4
+number=30
+prompt={"original":"Hannah’s essay doesn’t have a clear enough explanation of the main point to be awarded top marks.","second":"Hannah’s essay doesn’t ........ to be awarded top marks."}
+keyword=CLEARLY
+second_sentence=Hannah’s essay doesn’t ........ to be awarded top marks.
+correct_answer=EXPLAIN THE MAIN POINT CLEARLY ENOUGH
+accepted_answers=EXPLAIN THE MAIN POINT CLEARLY ENOUGH
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses CLEARLY unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=78,79
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 Do you mind if John joins us for the meeting?
+
+TO
+
+Do you have ........ us for the meeting?
+
+26 Dan abandoned his studies at university because he was ill.
+
+RESULTED
+
+Dan’s ........ his studies at university.
+
+27 As soon as the tennis players went onto the court, it started raining.
+
+HAD
+
+No ........ onto the court than it started raining.
+
+28 ‘We’ll have to postpone the meeting until next week, as a lot of people are on leave,’ the manager said.
+
+OFF
+
+The manager said the meeting ........ until the following week, as a lot of people were on leave.
+
+29 As visibility was getting worse and worse, Bob and Jane had to cut short their sailing trip.
+
+BUT
+
+As visibility was getting worse and worse, Bob and Jane had ........ cut short their sailing trip.
+
+30 Please tick this box if you don’t want us to inform you about future events.
+
+RATHER
+
+Please tick this box if you ........ sent any information about future events.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P4_Q25
+set_id=CAE1_T4_P4
+number=25
+prompt={"original":"Do you mind if John joins us for the meeting?","second":"Do you have ........ us for the meeting?"}
+keyword=TO
+second_sentence=Do you have ........ us for the meeting?
+correct_answer=ANY OBJECTION TO JOHN JOINING
+accepted_answers=ANY OBJECTION TO JOHN JOINING | ANY OBJECTION TO JOHN’S JOINING | ANY OBJECTIONS TO JOHN JOINING | ANY OBJECTIONS TO JOHN’S JOINING | AN OBJECTION TO JOHN JOINING | AN OBJECTION TO JOHN’S JOINING
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses TO unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q26
+set_id=CAE1_T4_P4
+number=26
+prompt={"original":"Dan abandoned his studies at university because he was ill.","second":"Dan’s ........ his studies at university."}
+keyword=RESULTED
+second_sentence=Dan’s ........ his studies at university.
+correct_answer=ILLNESS RESULTED IN HIM ABANDONING
+accepted_answers=ILLNESS RESULTED IN HIM ABANDONING | ILLNESS RESULTED IN HIS ABANDONING | ILLNESS RESULTED IN THE ABANDONMENT OF | SICKNESS RESULTED IN HIM ABANDONING | SICKNESS RESULTED IN HIS ABANDONING | SICKNESS RESULTED IN THE ABANDONMENT OF
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses RESULTED unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q27
+set_id=CAE1_T4_P4
+number=27
+prompt={"original":"As soon as the tennis players went onto the court, it started raining.","second":"No ........ onto the court than it started raining."}
+keyword=HAD
+second_sentence=No ........ onto the court than it started raining.
+correct_answer=SOONER HAD THE TENNIS PLAYERS GONE
+accepted_answers=SOONER HAD THE TENNIS PLAYERS GONE | SOONER HAD THE TENNIS PLAYERS GOT | SOONER HAD THE TENNIS PLAYERS COME
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses HAD unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q28
+set_id=CAE1_T4_P4
+number=28
+prompt={"original":"‘We’ll have to postpone the meeting until next week, as a lot of people are on leave,’ the manager said.","second":"The manager said the meeting ........ until the following week, as a lot of people were on leave."}
+keyword=OFF
+second_sentence=The manager said the meeting ........ until the following week, as a lot of people were on leave.
+correct_answer=WOULD HAVE TO BE PUT OFF
+accepted_answers=WOULD HAVE TO BE PUT OFF | WOULD HAVE TO BE CALLED OFF | WOULD NEED TO BE PUT OFF | WOULD NEED TO BE CALLED OFF | HAD TO BE PUT OFF | HAD TO BE CALLED OFF
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses OFF unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q29
+set_id=CAE1_T4_P4
+number=29
+prompt={"original":"As visibility was getting worse and worse, Bob and Jane had to cut short their sailing trip.","second":"As visibility was getting worse and worse, Bob and Jane had ........ cut short their sailing trip."}
+keyword=BUT
+second_sentence=As visibility was getting worse and worse, Bob and Jane had ........ cut short their sailing trip.
+correct_answer=NO CHOICE BUT TO
+accepted_answers=NO CHOICE BUT TO | NO OTHER CHOICE BUT TO | NO ALTERNATIVE BUT TO | NO OTHER ALTERNATIVE BUT TO | NO OPTION BUT TO | NO OTHER OPTION BUT TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses BUT unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q30
+set_id=CAE1_T4_P4
+number=30
+prompt={"original":"Please tick this box if you don’t want us to inform you about future events.","second":"Please tick this box if you ........ sent any information about future events."}
+keyword=RATHER
+second_sentence=Please tick this box if you ........ sent any information about future events.
+correct_answer=WOULD RATHER NOT BE
+accepted_answers=WOULD RATHER NOT BE | ’D RATHER NOT BE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses RATHER unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – Relationships
+source_pdf_pages=31
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – Relationships
+
+1 The changes to the club had no effect on its existing members.
+
+CONSEQUENCE
+
+The changes to the club ........ its existing members.
+
+2 We need to completely overhaul the terms for new users.
+
+THOROUGH
+
+There needs ........ the terms for new users.
+
+3 I'm absolutely certain that she was involved in the decision.
+
+WHATSOEVER
+
+There ........ that she was involved in the decision.
+
+4 I was never consulted, so I couldn't offer any advice on the matter.
+
+ONCE
+
+Never ........ give my advice on the matter.
+
+5 It's a mystery to me how he found out about the surprise party.
+
+CLUE
+
+I ........ he found out about the surprise party.
+
+6 The professor's reputation was such that he was nominated for the award.
+
+REGARD
+
+The professor was ........ that he was nominated for the award.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q01
+set_id=BOOSTER_W1_P4
+number=1
+prompt={"original":"The changes to the club had no effect on its existing members.","second":"The changes to the club ........ its existing members."}
+keyword=CONSEQUENCE
+second_sentence=The changes to the club ........ its existing members.
+correct_answer=WERE OF NO CONSEQUENCE TO
+accepted_answers=WERE OF NO CONSEQUENCE TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses CONSEQUENCE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q02
+set_id=BOOSTER_W1_P4
+number=2
+prompt={"original":"We need to completely overhaul the terms for new users.","second":"There needs ........ the terms for new users."}
+keyword=THOROUGH
+second_sentence=There needs ........ the terms for new users.
+correct_answer=TO BE A THOROUGH OVERHAUL OF
+accepted_answers=TO BE A THOROUGH OVERHAUL OF
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses THOROUGH unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q03
+set_id=BOOSTER_W1_P4
+number=3
+prompt={"original":"I'm absolutely certain that she was involved in the decision.","second":"There ........ that she was involved in the decision."}
+keyword=WHATSOEVER
+second_sentence=There ........ that she was involved in the decision.
+correct_answer=IS NO DOUBT WHATSOEVER
+accepted_answers=IS NO DOUBT WHATSOEVER | IS NO QUESTION WHATSOEVER | CAN BE NO DOUBT WHATSOEVER | CAN BE NO QUESTION WHATSOEVER
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses WHATSOEVER unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q04
+set_id=BOOSTER_W1_P4
+number=4
+prompt={"original":"I was never consulted, so I couldn't offer any advice on the matter.","second":"Never ........ give my advice on the matter."}
+keyword=ONCE
+second_sentence=Never ........ give my advice on the matter.
+correct_answer=ONCE WAS I ASKED TO
+accepted_answers=ONCE WAS I ASKED TO | ONCE WAS I EVER ASKED TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses ONCE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q05
+set_id=BOOSTER_W1_P4
+number=5
+prompt={"original":"It's a mystery to me how he found out about the surprise party.","second":"I ........ he found out about the surprise party."}
+keyword=CLUE
+second_sentence=I ........ he found out about the surprise party.
+correct_answer=HAVEN’T A CLUE HOW
+accepted_answers=HAVEN’T A CLUE HOW | HAVEN’T THE SLIGHTEST CLUE HOW | HAVE NOT GOT A CLUE HOW | HAVEN’T GOT A CLUE HOW | HAVE NO CLUE HOW
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses CLUE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q06
+set_id=BOOSTER_W1_P4
+number=6
+prompt={"original":"The professor's reputation was such that he was nominated for the award.","second":"The professor was ........ that he was nominated for the award."}
+keyword=REGARD
+second_sentence=The professor was ........ that he was nominated for the award.
+correct_answer=HELD IN SUCH REGARD
+accepted_answers=HELD IN SUCH REGARD | HELD IN SUCH HIGH REGARD
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses REGARD unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The media
+source_pdf_pages=33
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – The media
+
+1 John reads what's happening in the world on his commute to work.
+
+DATE
+
+John ........ the news on his commute to work.
+
+2 Without that promotional campaign, sales would never have been so high.
+
+FOR
+
+If ........ that promotional campaign, sales would have been lower.
+
+3 When it comes down to it, it's not worth the money.
+
+AMOUNTS
+
+What ........ it is too expensive.
+
+4 Suddenly, the novelist became successful.
+
+BLUE
+
+Success ........ for the novelist.
+
+5 I think you may be right about the whole story being a hoax.
+
+INCLINED
+
+I'm ........ that the whole story is a hoax.
+
+6 The organisers were not happy with the way the press covered the event.
+
+ISSUE
+
+The organisers ........ of the event.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q01
+set_id=BOOSTER_W2_P4
+number=1
+prompt={"original":"John reads what's happening in the world on his commute to work.","second":"John ........ the news on his commute to work."}
+keyword=DATE
+second_sentence=John ........ the news on his commute to work.
+correct_answer=KEEPS UP TO DATE WITH
+accepted_answers=KEEPS UP TO DATE WITH | KEEPS HIMSELF UP TO DATE WITH | STAYS UP TO DATE WITH
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses DATE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q02
+set_id=BOOSTER_W2_P4
+number=2
+prompt={"original":"Without that promotional campaign, sales would never have been so high.","second":"If ........ that promotional campaign, sales would have been lower."}
+keyword=FOR
+second_sentence=If ........ that promotional campaign, sales would have been lower.
+correct_answer=IT HADN’T BEEN FOR
+accepted_answers=IT HADN’T BEEN FOR | IT HAD NOT BEEN FOR | IT WERE NOT FOR | IT WAS NOT FOR
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses FOR unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q03
+set_id=BOOSTER_W2_P4
+number=3
+prompt={"original":"When it comes down to it, it's not worth the money.","second":"What ........ it is too expensive."}
+keyword=AMOUNTS
+second_sentence=What ........ it is too expensive.
+correct_answer=IT AMOUNTS TO IS THAT IT
+accepted_answers=IT AMOUNTS TO IS THAT IT
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses AMOUNTS unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q04
+set_id=BOOSTER_W2_P4
+number=4
+prompt={"original":"Suddenly, the novelist became successful.","second":"Success ........ for the novelist."}
+keyword=BLUE
+second_sentence=Success ........ for the novelist.
+correct_answer=CAME OUT OF THE BLUE
+accepted_answers=CAME OUT OF THE BLUE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses BLUE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q05
+set_id=BOOSTER_W2_P4
+number=5
+prompt={"original":"I think you may be right about the whole story being a hoax.","second":"I'm ........ that the whole story is a hoax."}
+keyword=INCLINED
+second_sentence=I'm ........ that the whole story is a hoax.
+correct_answer=INCLINED TO AGREE WITH YOU
+accepted_answers=INCLINED TO AGREE WITH YOU
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses INCLINED unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q06
+set_id=BOOSTER_W2_P4
+number=6
+prompt={"original":"The organisers were not happy with the way the press covered the event.","second":"The organisers ........ of the event."}
+keyword=ISSUE
+second_sentence=The organisers ........ of the event.
+correct_answer=TOOK ISSUE WITH THE COVERAGE
+accepted_answers=TOOK ISSUE WITH THE COVERAGE | TOOK ISSUE WITH THE PRESS COVERAGE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses ISSUE unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The environment
+source_pdf_pages=35
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – The environment
+
+1 Before last Friday, representatives had not been able to reach an agreement.
+
+UNTIL
+
+It wasn't ........ able to reach an agreement.
+
+2 The environmentalist supported his claims with scientific evidence.
+
+BACKED
+
+The environmentalist's ........ with scientific evidence.
+
+3 If nothing is done to combat climate change, one tenth of the area will soon be under water.
+
+STEPS
+
+One tenth of the area will soon be under water ........ counteract climate change.
+
+4 I was totally amazed at how spectacularly beautiful the coastline was.
+
+UTTERLY
+
+What I found ........ beauty of the coastline.
+
+5 As long as you explain your proposal clearly, they will agree.
+
+ACROSS
+
+If ........, they will agree.
+
+6 Solar panels and wind turbines are far more commonplace now.
+
+SIGHT
+
+Solar panels and wind turbines used to ........ before.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q01
+set_id=BOOSTER_W3_P4
+number=1
+prompt={"original":"Before last Friday, representatives had not been able to reach an agreement.","second":"It wasn't ........ able to reach an agreement."}
+keyword=UNTIL
+second_sentence=It wasn't ........ able to reach an agreement.
+correct_answer=UNTIL LAST FRIDAY THAT REPRESENTATIVES WERE
+accepted_answers=UNTIL LAST FRIDAY THAT REPRESENTATIVES WERE
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses UNTIL unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q02
+set_id=BOOSTER_W3_P4
+number=2
+prompt={"original":"The environmentalist supported his claims with scientific evidence.","second":"The environmentalist's ........ with scientific evidence."}
+keyword=BACKED
+second_sentence=The environmentalist's ........ with scientific evidence.
+correct_answer=CLAIMS WERE BACKED UP
+accepted_answers=CLAIMS WERE BACKED UP
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses BACKED unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q03
+set_id=BOOSTER_W3_P4
+number=3
+prompt={"original":"If nothing is done to combat climate change, one tenth of the area will soon be under water.","second":"One tenth of the area will soon be under water ........ counteract climate change."}
+keyword=STEPS
+second_sentence=One tenth of the area will soon be under water ........ counteract climate change.
+correct_answer=IF NO STEPS ARE TAKEN TO
+accepted_answers=IF NO STEPS ARE TAKEN TO | UNLESS STEPS ARE TAKEN TO | UNLESS WE TAKE STEPS TO
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses STEPS unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q04
+set_id=BOOSTER_W3_P4
+number=4
+prompt={"original":"I was totally amazed at how spectacularly beautiful the coastline was.","second":"What I found ........ beauty of the coastline."}
+keyword=UTTERLY
+second_sentence=What I found ........ beauty of the coastline.
+correct_answer=UTTERLY AMAZING WAS THE
+accepted_answers=UTTERLY AMAZING WAS THE | UTTERLY AMAZING WAS THE SPECTACULAR
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses UTTERLY unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q05
+set_id=BOOSTER_W3_P4
+number=5
+prompt={"original":"As long as you explain your proposal clearly, they will agree.","second":"If ........, they will agree."}
+keyword=ACROSS
+second_sentence=If ........, they will agree.
+correct_answer=YOU PUT YOUR PROPOSAL ACROSS CLEARLY
+accepted_answers=YOU PUT YOUR PROPOSAL ACROSS CLEARLY | YOU GET YOUR PROPOSAL ACROSS CLEARLY
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses ACROSS unchanged and stays within the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q06
+set_id=BOOSTER_W3_P4
+number=6
+prompt={"original":"Solar panels and wind turbines are far more commonplace now.","second":"Solar panels and wind turbines used to ........ before."}
+keyword=SIGHT
+second_sentence=Solar panels and wind turbines used to ........ before.
+correct_answer=BE A MUCH LESS COMMON SIGHT
+accepted_answers=BE A MUCH LESS COMMON SIGHT | BE A FAR LESS COMMON SIGHT
+max_points=2
+error_category=key_word_transformations
+explanation=The transformation preserves the original meaning, uses SIGHT unchanged and stays within the three-to-six-word limit.
 [/ITEM]

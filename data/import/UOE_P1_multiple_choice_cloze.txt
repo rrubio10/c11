@@ -1,9 +1,3 @@
-# C1 ADVANCED EXERCISE DATABASE
-# Format: UTF-8 plain text
-# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
-# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
-# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
-
 [SET]
 set_id=ADV5_T1_P1
 section=UOE
@@ -830,4 +824,953 @@ accepted_answers=C
 max_points=1
 error_category=multiple_choice_cloze
 explanation=Verified option.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The camera never lies
+source_pdf_pages=8,9
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a
+rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in
+a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures
+really existed. He published the photographs alongside an article he wrote, (2) ........
+fairies as supernatural wonders. It was not until 1939 that the two ladies who took the
+photos admitted these were (3) ......... They simply cut out pictures of fairies from a book
+and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity
+of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
+But it can, and always could. Today, we are used to computer software (7) ........ US
+to rework our digital images and it is a (8) ........ that photography ever had a true
+age of innocence. From the moment cameras began capturing reality, that reality was
+being altered.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P1_Q01
+set_id=CAE1_T1_P1
+number=1
+prompt=a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures really existed.
+options={"A": "venue", "B": "setting", "C": "background", "D": "surrounding"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (setting) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q02
+set_id=CAE1_T1_P1
+number=2
+prompt=He published the photographs alongside an article he wrote, (2) ........ fairies as supernatural wonders.
+options={"A": "calling", "B": "naming", "C": "attributing", "D": "acknowledging"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (acknowledging) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q03
+set_id=CAE1_T1_P1
+number=3
+prompt=photos admitted these were (3) ......... They simply cut out pictures of fairies from a book and (4) .
+options={"A": "false", "B": "faulty", "C": "fake", "D": "fictional"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (fake) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q04
+set_id=CAE1_T1_P1
+number=4
+prompt=and (4) ........ them among flowers.
+options={"A": "arranged", "B": "spaced", "C": "settled", "D": "distributed"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (arranged) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q05
+set_id=CAE1_T1_P1
+number=5
+prompt=The results are (5) ........ beautiful.
+options={"A": "categorically", "B": "unavoidably", "C": "substantially", "D": "undeniably"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (undeniably) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q06
+set_id=CAE1_T1_P1
+number=6
+prompt=of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
+options={"A": "weakens", "B": "undermines", "C": "demolishes", "D": "dismantles"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (undermines) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q07
+set_id=CAE1_T1_P1
+number=7
+prompt=Today, we are used to computer software (7) ........ US to rework our digital images and it is a (8) .
+options={"A": "letting", "B": "supporting", "C": "enabling", "D": "empowering"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (enabling) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q08
+set_id=CAE1_T1_P1
+number=8
+prompt=to rework our digital images and it is a (8) ........ that photography ever had a true age of innocence.
+options={"A": "fantasy", "B": "legend", "C": "dream", "D": "myth"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (myth) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Promotion is good for your health
+source_pdf_pages=30,31
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+A recent study suggests that being promoted isn't just good for your bank (0) ........ ,
+it's also good for your health. Researchers found that those who work in jobs with better
+promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working
+in departments with double the average promotion (2) ........ had a twenty percent better
+chance of escaping serious illness.
+The researchers (3) ........ into account factors such as family background, pre-existing
+medical conditions and educational level. (4) ........, they could be confident that the lower
+occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
+The results seem to (6) ........ earlier studies showing that people who win prestigious
+awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive
+those who are less fortunate. As the author of the report says, 'When our findings are
+put together with the large body of other (7) ........ literature, there is little (8) ........ that
+achieving a higher position at work is good for the health.'
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P1_Q01
+set_id=CAE1_T2_P1
+number=1
+prompt=promotion (1) ........ are less likely to develop serious illnesses.
+options={"A": "forecasts", "B": "advances", "C": "predictions", "D": "prospects"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (prospects) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q02
+set_id=CAE1_T2_P1
+number=2
+prompt=in departments with double the average promotion (2) ........ had a twenty percent better chance of escaping serious illness.
+options={"A": "scale", "B": "rate", "C": "degree", "D": "ratio"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (rate) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q03
+set_id=CAE1_T2_P1
+number=3
+prompt=The researchers (3) ........ into account factors such as family background, pre-existing medical conditions and educational level.
+options={"A": "set", "B": "took", "C": "put", "D": "made"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (took) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q04
+set_id=CAE1_T2_P1
+number=4
+prompt=(4) ........, they could be confident that the lower occurrences of illness were not simply due to a healthier or more (6) .
+options={"A": "Anyway", "B": "Moreover", "C": "Consequently", "D": "Admittedly"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (Consequently) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q05
+set_id=CAE1_T2_P1
+number=5
+prompt=Gap 5
+options={"A": "privileged", "B": "preferred", "C": "entitled", "D": "honoured"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (privileged) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q06
+set_id=CAE1_T2_P1
+number=6
+prompt=occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
+options={"A": "call for", "B": "go over", "C": "back up", "D": "lead to"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (back up) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q07
+set_id=CAE1_T2_P1
+number=7
+prompt=put together with the large body of other (7) ........ literature, there is little (8) .
+options={"A": "related", "B": "combined", "C": "referred", "D": "incorporated"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (related) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q08
+set_id=CAE1_T2_P1
+number=8
+prompt=literature, there is little (8) ........ that achieving a higher position at work is good for the health.
+options={"A": "hesitation", "B": "question", "C": "reservation", "D": "opposition"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (question) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The Japanese Bobtail
+source_pdf_pages=52,53
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Cats have been (0) ........ of the lives of human beings for thousands of years. One
+interesting breed which fascinates scientists is the Japanese Bobtail - a domestic cat
+with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of
+other cats. The breed has been known in Japan for centuries, and it features (2) ........
+in folklore. in many traditions, cats are frequently (3) ........ of fear and mistrust but in
+Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) ........ . The image of
+a Bobtail seated with one paw raised is considered a lucky charm.
+But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose
+long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere.
+As a result, the then emperor declared that all cats should have their tails cut short as a
+(8)........ measure. Science, however, has a less 'romantic' explanation based on genetics.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P1_Q01
+set_id=CAE1_T3_P1
+number=1
+prompt=with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of other cats.
+options={"A": "nearly", "B": "similarly", "C": "accurately", "D": "closely"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (closely) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q02
+set_id=CAE1_T3_P1
+number=2
+prompt=The breed has been known in Japan for centuries, and it features (2) ........ in folklore.
+options={"A": "prominently", "B": "obviously", "C": "appreciably", "D": "significantly"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (prominently) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q03
+set_id=CAE1_T3_P1
+number=3
+prompt=in many traditions, cats are frequently (3) ........ of fear and mistrust but in Japanese stories the Bobtail tends to be (4) .
+options={"A": "products", "B": "articles", "C": "objects", "D": "elements"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (objects) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q04
+set_id=CAE1_T3_P1
+number=4
+prompt=Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) .
+options={"A": "assumed", "B": "portrayed", "C": "exposed", "D": "disclosed"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (portrayed) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q05
+set_id=CAE1_T3_P1
+number=5
+prompt=Gap 5
+options={"A": "tight", "B": "virtue", "C": "good", "D": "truth"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (good) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q06
+set_id=CAE1_T3_P1
+number=6
+prompt=a8 a force for (6) ........ .
+options={"A": "come by", "B": "get at", "C": "hit on", "D": "go for"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (come by) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q07
+set_id=CAE1_T3_P1
+number=7
+prompt=long tail (7) ........ fire.
+options={"A": "took", "B": "caught", "C": "set", "D": "seized"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (caught) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q08
+set_id=CAE1_T3_P1
+number=8
+prompt=(8)........ measure.
+options={"A": "defensive", "B": "restrictive", "C": "preventative", "D": "corrective"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (preventative) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Dressing for success
+source_pdf_pages=74,75
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Whether you like it or not, when you go for a job interview your personal appearance will
+be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start
+(1)........an opinion about your capabilities, your attitude to work and how well you might
+(2) ....... their organisation. The right image is one that helps the interviewer (3) ........ You
+as one of their team and (4) ........ them that you could represent their company. So, find
+'out about the company dress code prior to the interview, or see how people are dressed
+'on their corporate website.
+However, even iIf you (6) ........ the image right, it may not (6) ........ be remarked on. The
+interviewer will just sense that you 'look right', and feel (7) ........ to being convinced
+that you are the right person for the job. But iIf you get it wrong, it can be very difficult to
+(8) ........ the negative impression you may already have made.
+
+1A. shaping B_ making C creating D_ forming
+2 A putupwith B settledownto ¢_fitinwith D liveupto
+3 A visualise B reflect C observe D foresee
+4 A reassures B clarifies encourages D supports
+5 A put B got Cc hit D set
+6 A significantly B necessarily C appropriately strictly
+7 A open B free C alert D aware
+8 A overtake B_ overthrow C overdo D overcome
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P1_Q01
+set_id=CAE1_T4_P1
+number=1
+prompt=(1)........an opinion about your capabilities, your attitude to work and how well you might (2) .
+options={"A": "shaping", "B": "making", "C": "creating", "D": "forming"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (forming) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q02
+set_id=CAE1_T4_P1
+number=2
+prompt=(2) ....... their organisation.
+options={"A": "put up with", "B": "settle down to", "C": "fit in with", "D": "live up to"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (fit in with) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q03
+set_id=CAE1_T4_P1
+number=3
+prompt=The right image is one that helps the interviewer (3) ........ You as one of their team and (4) .
+options={"A": "visualise", "B": "reflect", "C": "observe", "D": "foresee"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (visualise) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q04
+set_id=CAE1_T4_P1
+number=4
+prompt=as one of their team and (4) ........ them that you could represent their company.
+options={"A": "reassures", "B": "clarifies", "C": "encourages", "D": "supports"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (reassures) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q05
+set_id=CAE1_T4_P1
+number=5
+prompt=Gap 5
+options={"A": "put", "B": "got", "C": "hit", "D": "set"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (got) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q06
+set_id=CAE1_T4_P1
+number=6
+prompt=However, even iIf you (6) ........ the image right, it may not (6) .
+options={"A": "significantly", "B": "necessarily", "C": "appropriately", "D": "strictly"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (necessarily) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q07
+set_id=CAE1_T4_P1
+number=7
+prompt=interviewer will just sense that you 'look right', and feel (7) ........ to being convinced that you are the right person for the job.
+options={"A": "open", "B": "free", "C": "alert", "D": "aware"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (open) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q08
+set_id=CAE1_T4_P1
+number=8
+prompt=(8) ........ the negative impression you may already have made.
+options={"A": "overtake", "B": "overthrow", "C": "overdo", "D": "overcome"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (overcome) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Don't miss the event of the year!
+source_pdf_pages=13
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and $ : decide which answer (A, B, C or D) best , fits each gap. There is an example at the ' li a
+
+Now in its seventh (0) , this year, the Rogers Estate Festival starts a day earlier: on Thursday,
+which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in
+a(l) like no other, with the castle runs in the background. This year's lineup includes an array
+of talented actors alongside a very (2) selection of both local and international musicians and
+visual artists.
+Visitors can take (3) an impressive range of exhibits and experience both the permanent and
+(4) collections through their five senses. In addition to large-audience sessions, there will be
+more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors
+at work. Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of
+honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her
+famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q01
+set_id=BOOSTER_W1_P1
+number=1
+prompt=Gap 1
+options={"A": "scenery", "B": "set", "C": "setting", "D": "stage"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (setting) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q02
+set_id=BOOSTER_W1_P1
+number=2
+prompt=of talented actors alongside a very (2) selection of both local and international musicians and visual artists.
+options={"A": "supreme", "B": "high", "C": "luxury", "D": "elite"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (elite) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q03
+set_id=BOOSTER_W1_P1
+number=3
+prompt=Visitors can take (3) an impressive range of exhibits and experience both the permanent and (4) collections through their five senses.
+options={"A": "off", "B": "up", "C": "in", "D": "on"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (in) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q04
+set_id=BOOSTER_W1_P1
+number=4
+prompt=(4) collections through their five senses.
+options={"A": "provisional", "B": "temporary", "C": "casual", "D": "momentary"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (temporary) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q05
+set_id=BOOSTER_W1_P1
+number=5
+prompt=more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors at work.
+options={"A": "performances", "B": "productions", "C": "acts", "D": "presentations"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (performances) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q06
+set_id=BOOSTER_W1_P1
+number=6
+prompt=Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "joy", "B": "bliss", "C": "treat", "D": "treatment"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (treat) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q07
+set_id=BOOSTER_W1_P1
+number=7
+prompt=honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "giving", "B": "making", "C": "taking", "D": "doing"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (making) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q08
+set_id=BOOSTER_W1_P1
+number=8
+prompt=honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "constitution", "B": "distribution", "C": "organisation", "D": "arrangement"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (arrangement) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Hobbyists around the world unite
+source_pdf_pages=14
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best = ! fits each gap. There is an example at the
+
+No doubt you may be (0) to think that in this day and age, traditional pursuits are no longer 'in'
+and that we would have (1) away with oldfashioned hobbies that don't involve computers. Nothing
+of the (2) if anything, the internet has made it easier for people with specialist hobbies in
+diferent corners of the planet to (3) themselves to their passion and to support one another.
+With one quick press of a key, (4) car collectors are online, comparing notes and restoration
+(5) with enthusiasts in distant lands. if a part needs replacing, a vast electronic inventory is out
+there (6) and waiting. After a day in the field, birdwatchers can post sightings they consider
+worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
+Thankfully, face to face contact does still take place. Historic car rales and races have a large following.
+Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the
+cards missing from their collections.
+1A done B taken C put D sent
+2 Atype B sort C variety D brand
+3. A focus B present stick D devote
+4 Ancient —_B historical € classic D epic
+5 Ameans —B techniques crafts D systems
+6 A handy B wiling € ready D open
+7 A relate B share € connect —_D join
+8 Abid B purchase C invest D subscribe
+@ Exam tips
+'+ Read through the whole text first for overall meaning
+'+ Read again and look at the words before and after the gaps in the text and check for clues like
+determiners (that, this, etc.), verb forms, pronouns and prepositions. These words may be the
+reason why one particular option is the correct word for the gap.
+14 ADVANCED READING AND USE OF ENGLISH I PART 1 I 2 'C Cambridge University Press and UCLES 2018
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q01
+set_id=BOOSTER_W2_P1
+number=1
+prompt=and that we would have (1) away with oldfashioned hobbies that don't involve computers.
+options={"A": "done", "B": "taken", "C": "put", "D": "sent"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (done) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q02
+set_id=BOOSTER_W2_P1
+number=2
+prompt=of the (2) if anything, the internet has made it easier for people with specialist hobbies in diferent corners of the planet to (3) themselves to their passion and to support one another.
+options={"A": "type", "B": "sort", "C": "variety", "D": "brand"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (sort) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q03
+set_id=BOOSTER_W2_P1
+number=3
+prompt=diferent corners of the planet to (3) themselves to their passion and to support one another.
+options={"A": "focus", "B": "present", "C": "stick", "D": "devote"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (devote) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q04
+set_id=BOOSTER_W2_P1
+number=4
+prompt=With one quick press of a key, (4) car collectors are online, comparing notes and restoration (5) with enthusiasts in distant lands.
+options={"A": "ancient", "B": "historical", "C": "classic", "D": "epic"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (classic) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q05
+set_id=BOOSTER_W2_P1
+number=5
+prompt=(5) with enthusiasts in distant lands.
+options={"A": "means", "B": "techniques", "C": "crafts", "D": "systems"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (techniques) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q06
+set_id=BOOSTER_W2_P1
+number=6
+prompt=there (6) and waiting.
+options={"A": "handy", "B": "willing", "C": "ready", "D": "open"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (ready) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q07
+set_id=BOOSTER_W2_P1
+number=7
+prompt=worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
+options={"A": "relate", "B": "share", "C": "connect", "D": "join"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (relate) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q08
+set_id=BOOSTER_W2_P1
+number=8
+prompt=Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the cards missing from their collections.
+options={"A": "bid", "B": "purchase", "C": "invest", "D": "subscribe"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (purchase) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=News sharing
+source_pdf_pages=17
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and = decide which answer (A, B, C or D) best fits each gap. There is an example at the
+
+The way we obtain our news coverage is always (0) . The public can gain information on current
+events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth,
+With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of
+the local inn. With the (3) . of radio, whole families Could (4)... together in the living room to
+listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) in the most used
+rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact
+that many wil (6) in to them on their computer or tablet instead of turning their radio ial
+With the (7) use of social media, news travels faster than ever before. Minute-by-minute coverage
+of the news no longer relies on TV networks. Increased internet access enables individuals to share
+photos, opinions and even lve videos with one sharp (8) on the screen.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q01
+set_id=BOOSTER_W3_P1
+number=1
+prompt=events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth, With town crierS (2) .
+options={"A": "opportunities", "B": "causes", "C": "ways", "D": "sources"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (sources) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q02
+set_id=BOOSTER_W3_P1
+number=2
+prompt=With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of the local inn.
+options={"A": "explaining", "B": "informing", "C": "noting", "D": "communicating"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (informing) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q03
+set_id=BOOSTER_W3_P1
+number=3
+prompt=With the (3) . of radio, whole families Could (4).
+options={"A": "arrival", "B": "entrance", "C": "starting", "D": "approach"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (arrival) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q04
+set_id=BOOSTER_W3_P1
+number=4
+prompt=of radio, whole families Could (4)... together in the living room to listen to the daily news bulletin.
+options={"A": "team", "B": "gang", "C": "gather", "D": "unite"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (gather) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q05
+set_id=BOOSTER_W3_P1
+number=5
+prompt=Even today, when TV sets occupy a prime (5) in the most used rooms in our house, some listeners remain faithful to their radio stations.
+options={"A": "area", "B": "site", "C": "position", "D": "point"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (position) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q06
+set_id=BOOSTER_W3_P1
+number=6
+prompt=that many wil (6) in to them on their computer or tablet instead of turning their radio ial With the (7) use of social media, news travels faster than ever before.
+options={"A": "turn", "B": "switch", "C": "tune", "D": "start"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (tune) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q07
+set_id=BOOSTER_W3_P1
+number=7
+prompt=With the (7) use of social media, news travels faster than ever before.
+options={"A": "sweeping", "B": "absolute", "C": "large", "D": "widespread"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (widespread) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q08
+set_id=BOOSTER_W3_P1
+number=8
+prompt=photos, opinions and even lve videos with one sharp (8) on the screen.
+options={"A": "stroke", "B": "tap", "C": "squeeze", "D": "nudge"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (tap) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]

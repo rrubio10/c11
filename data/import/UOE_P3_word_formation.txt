@@ -1,9 +1,3 @@
-# C1 ADVANCED EXERCISE DATABASE
-# Format: UTF-8 plain text
-# User handwriting from the uploaded scan is ignored; no user_answer fields are included.
-# Comparison recommendation: trim whitespace, compare case-insensitively, normalise apostrophes, and use accepted_answers.
-# For key word transformations, preserve the keyword and enforce the exercise's word limit in your application.
-
 [SET]
 set_id=ADV5_T1_P3
 section=UOE
@@ -736,4 +730,973 @@ accepted_answers=INNOVATIVE
 max_points=1
 error_category=word_formation
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Too many climbers on Mount Everest
+source_pdf_pages=11
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exemple: [o][i[wle[ele[alsti[yfele]y] I TT TTT |
+
+Mount Everest in Nepal is becoming (0) ........ popular as a destination INCREASE
+for adventure tourism. During the month of May, (17) ........ weather FAVOUR
+presents a number of safe opportunities to make the climb. As a result, the
+sheer number of climbers has brought an (18) ........ problem, potentially EXPECT
+even more dangerous than low temperatures and changeable weather —
+overcrowded conditions. The fact that there are so many climbers, many
+of them complete (19) ........, means that at times people are queuing for BEGIN
+hours to reach the summit.
+This hazard has led to calls for stricter assessments of new learner climbers,
+as in their (20) ........ to reach the mountain's summit such inexperienced DESPERATE
+climbers are sometimes ignoring the advice of their Nepalese guides, which
+may (21) ........ everyone's lives. DANGER
+Perhaps one (22) ........ would be to make the charges for climbing SOLVE
+the mountain so high that only a few people could afford the climb. Or
+(23) ........ , one could ban the use of artificial oxygen and local guides, ALTERNATE
+leaving Everest to the very best (24) ......... Extreme, maybe, but it may just MOUNTAIN
+prove necessary.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P3_Q17
+set_id=CAE1_T1_P3
+number=17
+prompt=During the month of May, (17) ........ weather FAVOUR presents a number of safe opportunities to make the climb.
+base_word=FAVOUR
+correct_answer=FAVOURABLE
+accepted_answers=FAVOURABLE | FAVORABLE
+max_points=1
+error_category=word_formation
+explanation=The base word FAVOUR must be changed to FAVOURABLE/FAVORABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q18
+set_id=CAE1_T1_P3
+number=18
+prompt=sheer number of climbers has brought an (18) ........ problem, potentially EXPECT even more dangerous than low temperatures and changeable weather — overcrowded conditions.
+base_word=EXPECT
+correct_answer=UNEXPECTED
+accepted_answers=UNEXPECTED
+max_points=1
+error_category=word_formation
+explanation=The base word EXPECT must be changed to UNEXPECTED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q19
+set_id=CAE1_T1_P3
+number=19
+prompt=of them complete (19) ........, means that at times people are queuing for BEGIN hours to reach the summit.
+base_word=BEGIN
+correct_answer=BEGINNERS
+accepted_answers=BEGINNERS
+max_points=1
+error_category=word_formation
+explanation=The base word BEGIN must be changed to BEGINNERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q20
+set_id=CAE1_T1_P3
+number=20
+prompt=as in their (20) ........ to reach the mountain's summit such inexperienced DESPERATE climbers are sometimes ignoring the advice of their Nepalese guides, which may (21) .
+base_word=DESPERATE
+correct_answer=DESPERATION
+accepted_answers=DESPERATION
+max_points=1
+error_category=word_formation
+explanation=The base word DESPERATE must be changed to DESPERATION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q21
+set_id=CAE1_T1_P3
+number=21
+prompt=may (21) ........ everyone's lives.
+base_word=DANGER
+correct_answer=ENDANGER
+accepted_answers=ENDANGER
+max_points=1
+error_category=word_formation
+explanation=The base word DANGER must be changed to ENDANGER, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q22
+set_id=CAE1_T1_P3
+number=22
+prompt=Perhaps one (22) ........ would be to make the charges for climbing SOLVE the mountain so high that only a few people could afford the climb.
+base_word=SOLVE
+correct_answer=SOLUTION
+accepted_answers=SOLUTION
+max_points=1
+error_category=word_formation
+explanation=The base word SOLVE must be changed to SOLUTION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q23
+set_id=CAE1_T1_P3
+number=23
+prompt=(23) ........ , one could ban the use of artificial oxygen and local guides, ALTERNATE leaving Everest to the very best (24) .
+base_word=ALTERNATE
+correct_answer=ALTERNATIVELY
+accepted_answers=ALTERNATIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word ALTERNATE must be changed to ALTERNATIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q24
+set_id=CAE1_T1_P3
+number=24
+prompt=leaving Everest to the very best (24) ......... Extreme, maybe, but it may just MOUNTAIN prove necessary.
+base_word=MOUNTAIN
+correct_answer=MOUNTAINEER(S)
+accepted_answers=MOUNTAINEER(S)
+max_points=1
+error_category=word_formation
+explanation=The base word MOUNTAIN must be changed to MOUNTAINEER(S), matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Modernising a museum
+source_pdf_pages=33
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [0 ][t [el a[wlo[e[olelwlalr [i lol] [TTT |
+
+The Ashmolean Museum in Oxford, England — the world's oldest university
+museum — has recently gone through a major (0) ......... The architects TRANSFORM
+wanted to create a new space that would make the museum one of the
+world's most important and (17) ........ cultural showcases. INNOVATE
+The collections in the museum are absolutely (18) ........ and cover the STAND
+cultures of east and west, charting the aspirations of mankind from the
+Prehistoric era to the present day. The approach that was adopted was
+based on the idea that (19) ........ that have shaped our modern societies CIVILISE
+did not develop in isolation but were part of a complex interrelated world.
+Every object has a (20) ........ story to tell, and these are gradually uncovered SIGNIFY
+through tracing the journey of ideas and influences across time and
+continents.
+People who knew the old museum say it has (21) ........ an amazing GO
+makeover. The new layout (22) ........ people to appreciate the objects ABLE
+fully; it is (23) ........ to everyone, from school children to academic ACCESS
+scholars, so (24) ........ to all those involved in redesigning this wonderful C CONGRATULATE
+treasure house.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P3_Q17
+set_id=CAE1_T2_P3
+number=17
+prompt=world's most important and (17) ........ cultural showcases.
+base_word=INNOVATE
+correct_answer=INNOVATIVE
+accepted_answers=INNOVATIVE
+max_points=1
+error_category=word_formation
+explanation=The base word INNOVATE must be changed to INNOVATIVE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q18
+set_id=CAE1_T2_P3
+number=18
+prompt=The collections in the museum are absolutely (18) ........ and cover the STAND cultures of east and west, charting the aspirations of mankind from the Prehistoric era to the present day.
+base_word=STAND
+correct_answer=OUTSTANDING
+accepted_answers=OUTSTANDING
+max_points=1
+error_category=word_formation
+explanation=The base word STAND must be changed to OUTSTANDING, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q19
+set_id=CAE1_T2_P3
+number=19
+prompt=based on the idea that (19) ........ that have shaped our modern societies CIVILISE did not develop in isolation but were part of a complex interrelated world.
+base_word=CIVILISE
+correct_answer=CIVILISATIONS
+accepted_answers=CIVILISATIONS | CIVILIZATIONS
+max_points=1
+error_category=word_formation
+explanation=The base word CIVILISE must be changed to CIVILISATIONS/CIVILIZATIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q20
+set_id=CAE1_T2_P3
+number=20
+prompt=Every object has a (20) ........ story to tell, and these are gradually uncovered SIGNIFY through tracing the journey of ideas and influences across time and continents.
+base_word=SIGNIFY
+correct_answer=SIGNIFICANT
+accepted_answers=SIGNIFICANT
+max_points=1
+error_category=word_formation
+explanation=The base word SIGNIFY must be changed to SIGNIFICANT, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q21
+set_id=CAE1_T2_P3
+number=21
+prompt=People who knew the old museum say it has (21) ........ an amazing GO makeover.
+base_word=GO
+correct_answer=UNDERGONE
+accepted_answers=UNDERGONE
+max_points=1
+error_category=word_formation
+explanation=The base word GO must be changed to UNDERGONE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q22
+set_id=CAE1_T2_P3
+number=22
+prompt=The new layout (22) ........ people to appreciate the objects ABLE fully; it is (23) .
+base_word=ABLE
+correct_answer=ENABLES
+accepted_answers=ENABLES
+max_points=1
+error_category=word_formation
+explanation=The base word ABLE must be changed to ENABLES, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q23
+set_id=CAE1_T2_P3
+number=23
+prompt=fully; it is (23) ........ to everyone, from school children to academic ACCESS scholars, so (24) .
+base_word=ACCESS
+correct_answer=ACCESSIBLE
+accepted_answers=ACCESSIBLE
+max_points=1
+error_category=word_formation
+explanation=The base word ACCESS must be changed to ACCESSIBLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q24
+set_id=CAE1_T2_P3
+number=24
+prompt=scholars, so (24) ........ to all those involved in redesigning this wonderful C CONGRATULATE treasure house.
+base_word=CONGRATULATE
+correct_answer=CONGRATULATIONS
+accepted_answers=CONGRATULATIONS
+max_points=1
+error_category=word_formation
+explanation=The base word CONGRATULATE must be changed to CONGRATULATIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=The significance of hairstyles
+source_pdf_pages=55
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exampre: [o][A]oTaTe[t[aTe[t Te] TT TTT TTI
+
+Hair is the most easily (0) ........ part of the human body and also one of + ADAPT
+the most (17) ........ . The first barbers appeared in ancient Greece, when DISTINCT
+short hair became a sign of social status. Similarly, South American Inca
+chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ PROGRESS
+longer the further down the social chain they were. Barbers prospered in the
+days of the Roman Empire, until they were expelled from Rome, when it was
+discovered how much they earned.
+Women have always reflected fashion through their hairstyles, sometimes
+quite (19) ........ .In 15th-century Europe, women would pluck the hair from DRAMA
+the front of their heads in (20) ........ of beauty. Three centuries later, the C PURSUE
+fashion was for huge hairstyles that made it (21) ........ for the hairdresser NEED
+to climb a small ladder. The maintenance needed to (22) ........ these styles SURE
+looked good was enormous. Today, in our more liberal world, very little
+is socially (23) ........ with regard to hairstyles and technology has been C ACCEPT
+enormously (24) ........ in reducing the time we spend on our hair. BENEFIT
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P3_Q17
+set_id=CAE1_T3_P3
+number=17
+prompt=the most (17) ........ .
+base_word=DISTINCT
+correct_answer=DISTINCTIVE
+accepted_answers=DISTINCTIVE
+max_points=1
+error_category=word_formation
+explanation=The base word DISTINCT must be changed to DISTINCTIVE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q18
+set_id=CAE1_T3_P3
+number=18
+prompt=chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ PROGRESS longer the further down the social chain they were.
+base_word=PROGRESS
+correct_answer=PROGRESSIVELY
+accepted_answers=PROGRESSIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word PROGRESS must be changed to PROGRESSIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q19
+set_id=CAE1_T3_P3
+number=19
+prompt=quite (19) ........ .
+base_word=DRAMA
+correct_answer=DRAMATICALLY
+accepted_answers=DRAMATICALLY
+max_points=1
+error_category=word_formation
+explanation=The base word DRAMA must be changed to DRAMATICALLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q20
+set_id=CAE1_T3_P3
+number=20
+prompt=the front of their heads in (20) ........ of beauty.
+base_word=PURSUE
+correct_answer=PURSUIT
+accepted_answers=PURSUIT
+max_points=1
+error_category=word_formation
+explanation=The base word PURSUE must be changed to PURSUIT, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q21
+set_id=CAE1_T3_P3
+number=21
+prompt=fashion was for huge hairstyles that made it (21) ........ for the hairdresser NEED to climb a small ladder.
+base_word=NEED
+correct_answer=NECESSARY
+accepted_answers=NECESSARY
+max_points=1
+error_category=word_formation
+explanation=The base word NEED must be changed to NECESSARY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q22
+set_id=CAE1_T3_P3
+number=22
+prompt=The maintenance needed to (22) ........ these styles SURE looked good was enormous.
+base_word=SURE
+correct_answer=ENSURE
+accepted_answers=ENSURE
+max_points=1
+error_category=word_formation
+explanation=The base word SURE must be changed to ENSURE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q23
+set_id=CAE1_T3_P3
+number=23
+prompt=is socially (23) ........ with regard to hairstyles and technology has been C ACCEPT enormously (24) .
+base_word=ACCEPT
+correct_answer=UNACCEPTABLE
+accepted_answers=UNACCEPTABLE
+max_points=1
+error_category=word_formation
+explanation=The base word ACCEPT must be changed to UNACCEPTABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q24
+set_id=CAE1_T3_P3
+number=24
+prompt=enormously (24) ........ in reducing the time we spend on our hair.
+base_word=BENEFIT
+correct_answer=BENEFICIAL
+accepted_answers=BENEFICIAL
+max_points=1
+error_category=word_formation
+explanation=The base word BENEFIT must be changed to BENEFICIAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Two sleeps per night
+source_pdf_pages=77
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][olelelrlelelairfeli[y] I | TT TTT |
+
+Sometimes we wake up in the middle of the night and try (0) ........ hard to DESPAIR
+get back to sleep, but instead we spend a really (17) ........ night tossing and COMFORT
+turning until morning. This situation could be (18) ........ of a stressful week, SYMPTOM
+but it could also be because of a sleep pattern we have inherited. Research
+shows that our ancestors, rather than enjoying an (19) ........ period of sleep INTERRUPT
+at night, had two sleeps broken up by some time awake.
+The eight-hours-a-night pattern that has become almost (20) ........ to ESSENCE
+modern humans has only been (21) ........ in industrialised countries since CUSTOM
+'the 19th century. Then (22) ........ electricity was introduced, which resulted AFFORD
+in a division between night and day that became (23) ......... blurred. What PROGRESS
+had until then been daytime activities could now be enjoyed after darkness,
+and as a result, we went to bed later. We were therefore more tired, and this
+(24) ........ us to sleep through the night. However, scientists believe that, ABLE
+subconsciously, some people may still follow the old patterns and have a
+lengthy period of wakefulness during the night.
+bg
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P3_Q17
+set_id=CAE1_T4_P3
+number=17
+prompt=get back to sleep, but instead we spend a really (17) ........ night tossing and COMFORT turning until morning.
+base_word=COMFORT
+correct_answer=UNCOMFORTABLE
+accepted_answers=UNCOMFORTABLE
+max_points=1
+error_category=word_formation
+explanation=The base word COMFORT must be changed to UNCOMFORTABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q18
+set_id=CAE1_T4_P3
+number=18
+prompt=This situation could be (18) ........ of a stressful week, SYMPTOM but it could also be because of a sleep pattern we have inherited.
+base_word=SYMPTOM
+correct_answer=SYMPTOMATIC
+accepted_answers=SYMPTOMATIC
+max_points=1
+error_category=word_formation
+explanation=The base word SYMPTOM must be changed to SYMPTOMATIC, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q19
+set_id=CAE1_T4_P3
+number=19
+prompt=shows that our ancestors, rather than enjoying an (19) ........ period of sleep INTERRUPT at night, had two sleeps broken up by some time awake.
+base_word=INTERRUPT
+correct_answer=UNINTERRUPTED
+accepted_answers=UNINTERRUPTED
+max_points=1
+error_category=word_formation
+explanation=The base word INTERRUPT must be changed to UNINTERRUPTED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q20
+set_id=CAE1_T4_P3
+number=20
+prompt=The eight-hours-a-night pattern that has become almost (20) ........ to ESSENCE modern humans has only been (21) .
+base_word=ESSENCE
+correct_answer=ESSENTIAL
+accepted_answers=ESSENTIAL
+max_points=1
+error_category=word_formation
+explanation=The base word ESSENCE must be changed to ESSENTIAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q21
+set_id=CAE1_T4_P3
+number=21
+prompt=modern humans has only been (21) ........ in industrialised countries since CUSTOM 'the 19th century.
+base_word=CUSTOM
+correct_answer=CUSTOMARY
+accepted_answers=CUSTOMARY
+max_points=1
+error_category=word_formation
+explanation=The base word CUSTOM must be changed to CUSTOMARY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q22
+set_id=CAE1_T4_P3
+number=22
+prompt=Then (22) ........ electricity was introduced, which resulted AFFORD in a division between night and day that became (23) .
+base_word=AFFORD
+correct_answer=AFFORDABLE
+accepted_answers=AFFORDABLE
+max_points=1
+error_category=word_formation
+explanation=The base word AFFORD must be changed to AFFORDABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q23
+set_id=CAE1_T4_P3
+number=23
+prompt=in a division between night and day that became (23) ......... blurred.
+base_word=PROGRESS
+correct_answer=PROGRESSIVELY
+accepted_answers=PROGRESSIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word PROGRESS must be changed to PROGRESSIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q24
+set_id=CAE1_T4_P3
+number=24
+prompt=(24) ........ us to sleep through the night.
+base_word=ABLE
+correct_answer=ENABLED
+accepted_answers=ENABLED
+max_points=1
+error_category=word_formation
+explanation=The base word ABLE must be changed to ENABLED, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Making the right choice
+source_pdf_pages=25
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) DECISION
+
+The (0) as to which university to apply to is often DECIDE
+taken on the basis of a university's position on the world rankings table.
+Yet, other considerations, such as whether the course is
+a) or offers hands-on experience and the amount of time THEORY
+that students will need to work (2) should be taken into account. DEPEND
+The fact is that some undergraduates who express their (3) SATISFY
+with their university experience base their (4) 'on poor COMPLAIN
+organisation, the lack of support received and on having fewer contact hours
+than expected,
+AAs higher education (5) 'come under increasing pressure PROVIDE
+to meet established targets and to maintain or improve their status, course
+guidelines should (6) what participants can expect CLEAR
+from the course and what the course expects from them. This should
+(7) a reduction in student drop-out rates. Inevitably, though, SURE
+no matter how much the content and structure is spelt out, some students will turn
+up with (8) 'expectations that can never be met. REAL
+(a)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q01
+set_id=BOOSTER_W1_P3
+number=1
+prompt=Gap 1
+base_word=THEORY
+correct_answer=THEORETICAL
+accepted_answers=THEORETICAL
+max_points=1
+error_category=word_formation
+explanation=The base word THEORY must be changed to THEORETICAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q02
+set_id=BOOSTER_W1_P3
+number=2
+prompt=that students will need to work (2) should be taken into account.
+base_word=DEPEND
+correct_answer=INDEPENDENTLY
+accepted_answers=INDEPENDENTLY
+max_points=1
+error_category=word_formation
+explanation=The base word DEPEND must be changed to INDEPENDENTLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q03
+set_id=BOOSTER_W1_P3
+number=3
+prompt=The fact is that some undergraduates who express their (3) SATISFY with their university experience base their (4) 'on poor COMPLAIN organisation, the lack of support received and on having fewer contact hours than expected, AAs higher education (5) 'come under increasing pressure PROVIDE to meet established
+base_word=SATISFY
+correct_answer=DISSATISFACTION
+accepted_answers=DISSATISFACTION
+max_points=1
+error_category=word_formation
+explanation=The base word SATISFY must be changed to DISSATISFACTION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q04
+set_id=BOOSTER_W1_P3
+number=4
+prompt=with their university experience base their (4) 'on poor COMPLAIN organisation, the lack of support received and on having fewer contact hours than expected, AAs higher education (5) 'come under increasing pressure PROVIDE to meet established targets and to maintain or improve their status, course guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=COMPLAIN
+correct_answer=COMPLAINTS
+accepted_answers=COMPLAINTS
+max_points=1
+error_category=word_formation
+explanation=The base word COMPLAIN must be changed to COMPLAINTS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q05
+set_id=BOOSTER_W1_P3
+number=5
+prompt=AAs higher education (5) 'come under increasing pressure PROVIDE to meet established targets and to maintain or improve their status, course guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=PROVIDE
+correct_answer=PROVIDERS
+accepted_answers=PROVIDERS
+max_points=1
+error_category=word_formation
+explanation=The base word PROVIDE must be changed to PROVIDERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q06
+set_id=BOOSTER_W1_P3
+number=6
+prompt=guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=CLEAR
+correct_answer=CLARIFY
+accepted_answers=CLARIFY
+max_points=1
+error_category=word_formation
+explanation=The base word CLEAR must be changed to CLARIFY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q07
+set_id=BOOSTER_W1_P3
+number=7
+prompt=(7) a reduction in student drop-out rates.
+base_word=SURE
+correct_answer=ENSURE
+accepted_answers=ENSURE
+max_points=1
+error_category=word_formation
+explanation=The base word SURE must be changed to ENSURE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q08
+set_id=BOOSTER_W1_P3
+number=8
+prompt=up with (8) 'expectations that can never be met.
+base_word=REAL
+correct_answer=UNREALISTIC
+accepted_answers=UNREALISTIC | UNREAL
+max_points=1
+error_category=word_formation
+explanation=The base word REAL must be changed to UNREALISTIC/UNREAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Addressing health concerns
+source_pdf_pages=26
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in " capitals at the end of some of the lines to form a word that F ee nN } fits in the gap in the same line. There is an example at the Soa! beginning (0). AP iy ae |
+
+Healthy eating and keeping physically active are (0) important PARTICULAR
+for children and adolescents. Their nutrition and lifestyle have a direct impact
+on their (1) and development. Moreover, worldwide trends GROW
+in obesity in children and teenagers are becoming (2) INCREASE
+worrying. Being overweight or obese has been linked to a greater
+(3) of various health complaints later in lf. occur
+One way to improve the dietary habits of schoolchildren is to make
+(4) ww to the food served for lunch. Several leading UK chefs 'ADJUST
+have launched campaigns to improve the nutritional quality of the food on school
+menus. Despite (5) publicity, the improvements to school CONSIDER
+dinners have not realy (6) - Attention has now turned to MATERIAL
+reducing excess sugar in foods and beverages.
+Some local authorities are introducing a tax on drinks with more than a permitted
+amount of sugar. (7) have already begun decreasing the MANUFACTURE
+'quantity of sugar in their drinks. Health campaigners are delighted with this
+reduction and also with the news that (8) raised from the tax COME
+will go towards school sports.
+* Look at the words before and after each gap and decide what kind of word you need to write
+~ for example, a noun, a verb or an adjective. IIf you need a noun, check whether it should be
+singular or plural.
++ As well as adding prefixes or suffixes, check iIf you need to make any internal spelling changes.
+* You may only need to make one change to the word given in capital letters, but most often you
+will have to make two or more changes.
+26 ADVANCED READING AND USE OF ENGLISH I PART 3 I 2 'C Cambridge University Press and UCLES 2018
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q01
+set_id=BOOSTER_W2_P3
+number=1
+prompt=on their (1) and development.
+base_word=GROW
+correct_answer=GROWTH
+accepted_answers=GROWTH
+max_points=1
+error_category=word_formation
+explanation=The base word GROW must be changed to GROWTH, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q02
+set_id=BOOSTER_W2_P3
+number=2
+prompt=in obesity in children and teenagers are becoming (2) INCREASE worrying.
+base_word=INCREASE
+correct_answer=INCREASINGLY
+accepted_answers=INCREASINGLY
+max_points=1
+error_category=word_formation
+explanation=The base word INCREASE must be changed to INCREASINGLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q03
+set_id=BOOSTER_W2_P3
+number=3
+prompt=(3) of various health complaints later in lf.
+base_word=OCCUR
+correct_answer=OCCURRENCE
+accepted_answers=OCCURRENCE
+max_points=1
+error_category=word_formation
+explanation=The base word OCCUR must be changed to OCCURRENCE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q04
+set_id=BOOSTER_W2_P3
+number=4
+prompt=(4) ww to the food served for lunch.
+base_word=ADJUST
+correct_answer=ADJUSTMENTS
+accepted_answers=ADJUSTMENTS
+max_points=1
+error_category=word_formation
+explanation=The base word ADJUST must be changed to ADJUSTMENTS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q05
+set_id=BOOSTER_W2_P3
+number=5
+prompt=Despite (5) publicity, the improvements to school CONSIDER dinners have not realy (6) - Attention has now turned to MATERIAL reducing excess sugar in foods and beverages.
+base_word=CONSIDER
+correct_answer=CONSIDERABLE
+accepted_answers=CONSIDERABLE
+max_points=1
+error_category=word_formation
+explanation=The base word CONSIDER must be changed to CONSIDERABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q06
+set_id=BOOSTER_W2_P3
+number=6
+prompt=dinners have not realy (6) - Attention has now turned to MATERIAL reducing excess sugar in foods and beverages.
+base_word=MATERIAL
+correct_answer=MATERIALISED
+accepted_answers=MATERIALISED | MATERIALIZED
+max_points=1
+error_category=word_formation
+explanation=The base word MATERIAL must be changed to MATERIALISED/MATERIALIZED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q07
+set_id=BOOSTER_W2_P3
+number=7
+prompt=(7) have already begun decreasing the MANUFACTURE 'quantity of sugar in their drinks.
+base_word=MANUFACTURE
+correct_answer=MANUFACTURERS
+accepted_answers=MANUFACTURERS
+max_points=1
+error_category=word_formation
+explanation=The base word MANUFACTURE must be changed to MANUFACTURERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q08
+set_id=BOOSTER_W2_P3
+number=8
+prompt=reduction and also with the news that (8) raised from the tax COME will go towards school sports.
+base_word=COME
+correct_answer=INCOME
+accepted_answers=INCOME
+max_points=1
+error_category=word_formation
+explanation=The base word COME must be changed to INCOME, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=How travel inspired my life
+source_pdf_pages=29
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in — capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) CHILDHOOD Se
+
+Today, I travel all around the world as a jewellery designer, but travel was also
+central to my (0) childhood My parents encouraged my sister CHILD
+and me to keep records of our (1) in journals and to put REFLECT
+together scrapbooks with souvenirs of our adventures. Before departure, a
+private tutor was hired to equip us with the (2) of our BASE
+destination's native tongue. My poor sister was not a (3) vnnnnnmsnnn PARTICULAR
+brilliant linguist and found the whole process a considerable strain. My
+experience was very different. My wanderlust was (4) FORCE
+when, straight out of school, I had the opportunity to spend periods in India,
+Eastern Europe, Africa and Asia. I travel like a (5) explorer, REST
+absorbing the details of art and architecture, going into the local history and
+traditions in (6) ooo wow» bring this approach to my work today. DEEP
+1I am constantly reading, researching and (7) my knowledge. BROAD
+Not (8) , every jewellery collection I work on is an utterly SURPRISE
+'unique representation of a part of my life's voyage.
+ee
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q01
+set_id=BOOSTER_W3_P3
+number=1
+prompt=and me to keep records of our (1) in journals and to put REFLECT together scrapbooks with souvenirs of our adventures.
+base_word=REFLECT
+correct_answer=REFLECTIONS
+accepted_answers=REFLECTIONS
+max_points=1
+error_category=word_formation
+explanation=The base word REFLECT must be changed to REFLECTIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q02
+set_id=BOOSTER_W3_P3
+number=2
+prompt=private tutor was hired to equip us with the (2) of our BASE destination's native tongue.
+base_word=BASE
+correct_answer=BASICS
+accepted_answers=BASICS
+max_points=1
+error_category=word_formation
+explanation=The base word BASE must be changed to BASICS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q03
+set_id=BOOSTER_W3_P3
+number=3
+prompt=My poor sister was not a (3) vnnnnnmsnnn PARTICULAR brilliant linguist and found the whole process a considerable strain.
+base_word=PARTICULAR
+correct_answer=PARTICULARLY
+accepted_answers=PARTICULARLY
+max_points=1
+error_category=word_formation
+explanation=The base word PARTICULAR must be changed to PARTICULARLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q04
+set_id=BOOSTER_W3_P3
+number=4
+prompt=My wanderlust was (4) FORCE when, straight out of school, I had the opportunity to spend periods in India, Eastern Europe, Africa and Asia.
+base_word=FORCE
+correct_answer=REINFORCED
+accepted_answers=REINFORCED
+max_points=1
+error_category=word_formation
+explanation=The base word FORCE must be changed to REINFORCED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q05
+set_id=BOOSTER_W3_P3
+number=5
+prompt=I travel like a (5) explorer, REST absorbing the details of art and architecture, going into the local history and traditions in (6) ooo wow» bring this approach to my work today.
+base_word=REST
+correct_answer=RESTLESS
+accepted_answers=RESTLESS
+max_points=1
+error_category=word_formation
+explanation=The base word REST must be changed to RESTLESS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q06
+set_id=BOOSTER_W3_P3
+number=6
+prompt=traditions in (6) ooo wow» bring this approach to my work today.
+base_word=DEEP
+correct_answer=DEPTH
+accepted_answers=DEPTH
+max_points=1
+error_category=word_formation
+explanation=The base word DEEP must be changed to DEPTH, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q07
+set_id=BOOSTER_W3_P3
+number=7
+prompt=1I am constantly reading, researching and (7) my knowledge.
+base_word=BROAD
+correct_answer=BROADENING
+accepted_answers=BROADENING
+max_points=1
+error_category=word_formation
+explanation=The base word BROAD must be changed to BROADENING, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q08
+set_id=BOOSTER_W3_P3
+number=8
+prompt=Not (8) , every jewellery collection I work on is an utterly SURPRISE 'unique representation of a part of my life's voyage.
+base_word=SURPRISE
+correct_answer=SURPRISINGLY
+accepted_answers=SURPRISINGLY
+max_points=1
+error_category=word_formation
+explanation=The base word SURPRISE must be changed to SURPRISINGLY, matching the required word class, meaning and form.
 [/ITEM]
