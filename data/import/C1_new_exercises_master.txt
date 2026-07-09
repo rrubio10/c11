@@ -1,0 +1,3526 @@
+[SET]
+set_id=CAE1_T1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The camera never lies
+source_pdf_pages=8,9
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a
+rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in
+a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures
+really existed. He published the photographs alongside an article he wrote, (2) ........
+fairies as supernatural wonders. It was not until 1939 that the two ladies who took the
+photos admitted these were (3) ......... They simply cut out pictures of fairies from a book
+and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity
+of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
+But it can, and always could. Today, we are used to computer software (7) ........ US
+to rework our digital images and it is a (8) ........ that photography ever had a true
+age of innocence. From the moment cameras began capturing reality, that reality was
+being altered.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P1_Q01
+set_id=CAE1_T1_P1
+number=1
+prompt=a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures really existed.
+options={"A": "venue", "B": "setting", "C": "background", "D": "surrounding"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (setting) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q02
+set_id=CAE1_T1_P1
+number=2
+prompt=He published the photographs alongside an article he wrote, (2) ........ fairies as supernatural wonders.
+options={"A": "calling", "B": "naming", "C": "attributing", "D": "acknowledging"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (acknowledging) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q03
+set_id=CAE1_T1_P1
+number=3
+prompt=photos admitted these were (3) ......... They simply cut out pictures of fairies from a book and (4) .
+options={"A": "false", "B": "faulty", "C": "fake", "D": "fictional"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (fake) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q04
+set_id=CAE1_T1_P1
+number=4
+prompt=and (4) ........ them among flowers.
+options={"A": "arranged", "B": "spaced", "C": "settled", "D": "distributed"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (arranged) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q05
+set_id=CAE1_T1_P1
+number=5
+prompt=The results are (5) ........ beautiful.
+options={"A": "categorically", "B": "unavoidably", "C": "substantially", "D": "undeniably"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (undeniably) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q06
+set_id=CAE1_T1_P1
+number=6
+prompt=of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
+options={"A": "weakens", "B": "undermines", "C": "demolishes", "D": "dismantles"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (undermines) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q07
+set_id=CAE1_T1_P1
+number=7
+prompt=Today, we are used to computer software (7) ........ US to rework our digital images and it is a (8) .
+options={"A": "letting", "B": "supporting", "C": "enabling", "D": "empowering"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (enabling) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P1_Q08
+set_id=CAE1_T1_P1
+number=8
+prompt=to rework our digital images and it is a (8) ........ that photography ever had a true age of innocence.
+options={"A": "fantasy", "B": "legend", "C": "dream", "D": "myth"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (myth) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Online passwords – what everyone should know
+source_pdf_pages=10
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. examole: [o][iTe] TT TTT TTT TTT ti ttt
+
+v"
+
+Part 2
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only
+'one word in each gap. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+examole: [o][iTe] TT TTT TTT TTT ti ttt
+Online passwords - what everyone should know
+
+'When (0) ........ comes to online security, we all know what we ought to do: choose a different,
+random set of letters and numbers for every email account, shopping site or bank account. But
+hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar
+words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally
+remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
+Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available
+
+| which can make a thousand guesses per second, enabling a hacker to get to your password in
+just under four hours.
+Interestingly, (13) ........ increasing your password to twenty random letters, you increase a
+hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........
+no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........
+with three or four short, unrelated words and work (16) ........ @ Way to remember them. Easy!
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P2_Q09
+set_id=CAE1_T1_P2
+number=9
+prompt=hardly (9) ........ does this, because memorising them all is impossible.
+correct_answer=ANYBODY/ANYONE
+accepted_answers=ANYBODY | ANYONE
+max_points=1
+error_category=open_cloze
+explanation=ANYBODY/ANYONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q10
+set_id=CAE1_T1_P2
+number=10
+prompt=words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally remembering to replace the letter 0 with a zero, or choosing to (11) .
+correct_answer=LIKE
+accepted_answers=LIKE
+max_points=1
+error_category=open_cloze
+explanation=LIKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q11
+set_id=CAE1_T1_P2
+number=11
+prompt=remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
+correct_answer=MAKE
+accepted_answers=MAKE
+max_points=1
+error_category=open_cloze
+explanation=MAKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q12
+set_id=CAE1_T1_P2
+number=12
+prompt=Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available | which can make a thousand guesses per second, enabling a hacker to get to your password in just under four hours.
+correct_answer=FOR
+accepted_answers=FOR
+max_points=1
+error_category=open_cloze
+explanation=FOR completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q13
+set_id=CAE1_T1_P2
+number=13
+prompt=Interestingly, (13) ........ increasing your password to twenty random letters, you increase a hacker's guessing time to 6.
+correct_answer=BY
+accepted_answers=BY
+max_points=1
+error_category=open_cloze
+explanation=BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q14
+set_id=CAE1_T1_P2
+number=14
+prompt=The problem is that you would (14) ........ no chance of ever remembering those 20 letters.
+correct_answer=HAVE/STAND
+accepted_answers=HAVE | STAND
+max_points=1
+error_category=open_cloze
+explanation=HAVE/STAND completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q15
+set_id=CAE1_T1_P2
+number=15
+prompt=The solution, apparently, is to come (15) ........ with three or four short, unrelated words and work (16) .
+correct_answer=UP
+accepted_answers=UP
+max_points=1
+error_category=open_cloze
+explanation=UP completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P2_Q16
+set_id=CAE1_T1_P2
+number=16
+prompt=with three or four short, unrelated words and work (16) ........ @ Way to remember them.
+correct_answer=OUT/ON
+accepted_answers=OUT | ON
+max_points=1
+error_category=open_cloze
+explanation=OUT/ON completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Too many climbers on Mount Everest
+source_pdf_pages=11
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exemple: [o][i[wle[ele[alsti[yfele]y] I TT TTT |
+
+Mount Everest in Nepal is becoming (0) ........ popular as a destination INCREASE
+for adventure tourism. During the month of May, (17) ........ weather FAVOUR
+presents a number of safe opportunities to make the climb. As a result, the
+sheer number of climbers has brought an (18) ........ problem, potentially EXPECT
+even more dangerous than low temperatures and changeable weather —
+overcrowded conditions. The fact that there are so many climbers, many
+of them complete (19) ........, means that at times people are queuing for BEGIN
+hours to reach the summit.
+This hazard has led to calls for stricter assessments of new learner climbers,
+as in their (20) ........ to reach the mountain's summit such inexperienced DESPERATE
+climbers are sometimes ignoring the advice of their Nepalese guides, which
+may (21) ........ everyone's lives. DANGER
+Perhaps one (22) ........ would be to make the charges for climbing SOLVE
+the mountain so high that only a few people could afford the climb. Or
+(23) ........ , one could ban the use of artificial oxygen and local guides, ALTERNATE
+leaving Everest to the very best (24) ......... Extreme, maybe, but it may just MOUNTAIN
+prove necessary.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P3_Q17
+set_id=CAE1_T1_P3
+number=17
+prompt=During the month of May, (17) ........ weather FAVOUR presents a number of safe opportunities to make the climb.
+base_word=FAVOUR
+correct_answer=FAVOURABLE/FAVORABLE
+accepted_answers=FAVOURABLE | FAVORABLE
+max_points=1
+error_category=word_formation
+explanation=The base word FAVOUR must be changed to FAVOURABLE/FAVORABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q18
+set_id=CAE1_T1_P3
+number=18
+prompt=sheer number of climbers has brought an (18) ........ problem, potentially EXPECT even more dangerous than low temperatures and changeable weather — overcrowded conditions.
+base_word=EXPECT
+correct_answer=UNEXPECTED
+accepted_answers=UNEXPECTED
+max_points=1
+error_category=word_formation
+explanation=The base word EXPECT must be changed to UNEXPECTED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q19
+set_id=CAE1_T1_P3
+number=19
+prompt=of them complete (19) ........, means that at times people are queuing for BEGIN hours to reach the summit.
+base_word=BEGIN
+correct_answer=BEGINNERS
+accepted_answers=BEGINNERS
+max_points=1
+error_category=word_formation
+explanation=The base word BEGIN must be changed to BEGINNERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q20
+set_id=CAE1_T1_P3
+number=20
+prompt=as in their (20) ........ to reach the mountain's summit such inexperienced DESPERATE climbers are sometimes ignoring the advice of their Nepalese guides, which may (21) .
+base_word=DESPERATE
+correct_answer=DESPERATION
+accepted_answers=DESPERATION
+max_points=1
+error_category=word_formation
+explanation=The base word DESPERATE must be changed to DESPERATION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q21
+set_id=CAE1_T1_P3
+number=21
+prompt=may (21) ........ everyone's lives.
+base_word=DANGER
+correct_answer=ENDANGER
+accepted_answers=ENDANGER
+max_points=1
+error_category=word_formation
+explanation=The base word DANGER must be changed to ENDANGER, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q22
+set_id=CAE1_T1_P3
+number=22
+prompt=Perhaps one (22) ........ would be to make the charges for climbing SOLVE the mountain so high that only a few people could afford the climb.
+base_word=SOLVE
+correct_answer=SOLUTION
+accepted_answers=SOLUTION
+max_points=1
+error_category=word_formation
+explanation=The base word SOLVE must be changed to SOLUTION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q23
+set_id=CAE1_T1_P3
+number=23
+prompt=(23) ........ , one could ban the use of artificial oxygen and local guides, ALTERNATE leaving Everest to the very best (24) .
+base_word=ALTERNATE
+correct_answer=ALTERNATIVELY
+accepted_answers=ALTERNATIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word ALTERNATE must be changed to ALTERNATIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P3_Q24
+set_id=CAE1_T1_P3
+number=24
+prompt=leaving Everest to the very best (24) ......... Extreme, maybe, but it may just MOUNTAIN prove necessary.
+base_word=MOUNTAIN
+correct_answer=MOUNTAINEER(S)
+accepted_answers=MOUNTAINEER(S)
+max_points=1
+error_category=word_formation
+explanation=The base word MOUNTAIN must be changed to MOUNTAINEER(S), matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=12,13
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T1_P4_Q25
+set_id=CAE1_T1_P4
+number=25
+prompt='You should stop your children watching so much television,' Mary's sister told her.
+keyword=LET
+second_sentence=Mary's sister advised her ______ so much television.
+correct_answer=NOT TO LET HER/THE CHILDREN/KIDS WATCH
+accepted_answers=NOT TO LET HER | THE CHILDREN | KIDS WATCH
+max_points=2
+error_category=key_word_transformations
+explanation=NOT TO LET HER/THE CHILDREN/KIDS WATCH preserves the original meaning, includes the unchanged key word LET, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q26
+set_id=CAE1_T1_P4
+number=26
+prompt=The local council wants to impose a ban on driving at more than 30 kilometres per hour anywhere in this area.
+keyword=ILLEGAL
+second_sentence=The local council wants to ______ at more than 30 kilometres per hour anywhere in this area.
+correct_answer=MAKE IT ILLEGAL TO DRIVE
+accepted_answers=MAKE IT ILLEGAL TO DRIVE
+max_points=2
+error_category=key_word_transformations
+explanation=MAKE IT ILLEGAL TO DRIVE preserves the original meaning, includes the unchanged key word ILLEGAL, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q27
+set_id=CAE1_T1_P4
+number=27
+prompt=Tom missed his plane because he was late leaving for the airport.
+keyword=TIME
+second_sentence=If only ______ for the airport, he wouldn't have missed his plane.
+correct_answer=TOM/HE HAD LEFT ON/IN TIME | TOM/HE HAD BEEN ON/IN TIME LEAVING
+accepted_answers=TOM | HE HAD LEFT ON | IN TIME | TOM | HE HAD BEEN ON | IN TIME LEAVING
+max_points=2
+error_category=key_word_transformations
+explanation=TOM/HE HAD LEFT ON/IN TIME | TOM/HE HAD BEEN ON/IN TIME LEAVING preserves the original meaning, includes the unchanged key word TIME, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q28
+set_id=CAE1_T1_P4
+number=28
+prompt=The guidelines for the appointment of new staff need to be thoroughly revised.
+keyword=THOROUGH
+second_sentence=There needs ______ the guidelines for the appointment of new staff.
+correct_answer=TO BE (A) THOROUGH REVISION TO/OF | TO BE (A) THOROUGH REVISING OF
+accepted_answers=TO BE (A) THOROUGH REVISION TO | OF | TO BE (A) THOROUGH REVISING OF
+max_points=2
+error_category=key_word_transformations
+explanation=TO BE (A) THOROUGH REVISION TO/OF | TO BE (A) THOROUGH REVISING OF preserves the original meaning, includes the unchanged key word THOROUGH, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q29
+set_id=CAE1_T1_P4
+number=29
+prompt=The employment rate rose gradually as the economy began to recover.
+keyword=GRADUAL
+second_sentence=There ______ the employment rate as the economy began to recover.
+correct_answer=WAS A GRADUAL RISE/INCREASE/IMPROVEMENT IN
+accepted_answers=WAS A GRADUAL RISE | INCREASE | IMPROVEMENT IN
+max_points=2
+error_category=key_word_transformations
+explanation=WAS A GRADUAL RISE/INCREASE/IMPROVEMENT IN preserves the original meaning, includes the unchanged key word GRADUAL, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T1_P4_Q30
+set_id=CAE1_T1_P4
+number=30
+prompt=The change in the company's logo didn't make any difference to the majority of its customers.
+keyword=CONSEQUENCE
+second_sentence=The change in the company's logo ______ to the majority of its customers.
+correct_answer=WAS OF NO CONSEQUENCE | WAS NOT/WASN’T OF (ANY) CONSEQUENCE
+accepted_answers=WAS OF NO CONSEQUENCE | WAS NOT | WASN’T OF (ANY) CONSEQUENCE
+max_points=2
+error_category=key_word_transformations
+explanation=WAS OF NO CONSEQUENCE | WAS NOT/WASN’T OF (ANY) CONSEQUENCE preserves the original meaning, includes the unchanged key word CONSEQUENCE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Promotion is good for your health
+source_pdf_pages=30,31
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+A recent study suggests that being promoted isn't just good for your bank (0) ........ ,
+it's also good for your health. Researchers found that those who work in jobs with better
+promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working
+in departments with double the average promotion (2) ........ had a twenty percent better
+chance of escaping serious illness.
+The researchers (3) ........ into account factors such as family background, pre-existing
+medical conditions and educational level. (4) ........, they could be confident that the lower
+occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
+The results seem to (6) ........ earlier studies showing that people who win prestigious
+awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive
+those who are less fortunate. As the author of the report says, 'When our findings are
+put together with the large body of other (7) ........ literature, there is little (8) ........ that
+achieving a higher position at work is good for the health.'
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P1_Q01
+set_id=CAE1_T2_P1
+number=1
+prompt=promotion (1) ........ are less likely to develop serious illnesses.
+options={"A": "forecasts", "B": "advances", "C": "predictions", "D": "prospects"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (prospects) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q02
+set_id=CAE1_T2_P1
+number=2
+prompt=in departments with double the average promotion (2) ........ had a twenty percent better chance of escaping serious illness.
+options={"A": "scale", "B": "rate", "C": "degree", "D": "ratio"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (rate) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q03
+set_id=CAE1_T2_P1
+number=3
+prompt=The researchers (3) ........ into account factors such as family background, pre-existing medical conditions and educational level.
+options={"A": "set", "B": "took", "C": "put", "D": "made"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (took) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q04
+set_id=CAE1_T2_P1
+number=4
+prompt=(4) ........, they could be confident that the lower occurrences of illness were not simply due to a healthier or more (6) .
+options={"A": "Anyway", "B": "Moreover", "C": "Consequently", "D": "Admittedly"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (Consequently) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q05
+set_id=CAE1_T2_P1
+number=5
+prompt=Gap 5
+options={"A": "privileged", "B": "preferred", "C": "entitled", "D": "honoured"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (privileged) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q06
+set_id=CAE1_T2_P1
+number=6
+prompt=occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
+options={"A": "call for", "B": "go over", "C": "back up", "D": "lead to"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (back up) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q07
+set_id=CAE1_T2_P1
+number=7
+prompt=put together with the large body of other (7) ........ literature, there is little (8) .
+options={"A": "related", "B": "combined", "C": "referred", "D": "incorporated"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (related) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P1_Q08
+set_id=CAE1_T2_P1
+number=8
+prompt=literature, there is little (8) ........ that achieving a higher position at work is good for the health.
+options={"A": "hesitation", "B": "question", "C": "reservation", "D": "opposition"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (question) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Handwriting
+source_pdf_pages=32
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][wJo] TT TTT TTT TTTITTITITT
+
+About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of
+mine looked like. We had always communicated by email and text but never by a handwritten
+letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish
+from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary
+and inevitable intermediary between people - a means by (12) ........ individuals communicate
+with each other, putting a little bit of their personality (13) ........ the form of the message as they
+press the ink-bearing point onto the paper. It has started to become just (14) ........ among many
+options, often considered unattractive and elaborate.
+For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can
+remember. Our handwriting, like ourselves, seems always to have been there. But now, given
+that most of us communicate via email and text, have we lost (16) ........ crucial to the human
+experience?
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P2_Q09
+set_id=CAE1_T2_P2
+number=9
+prompt=And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish from our lives altogether.
+correct_answer=WHEN/WHERE
+accepted_answers=WHEN | WHERE
+max_points=1
+error_category=open_cloze
+explanation=WHEN/WHERE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q10
+set_id=CAE1_T2_P2
+number=10
+prompt=(10) ........ some point in recent years, it stopped (11) .
+correct_answer=AT
+accepted_answers=AT
+max_points=1
+error_category=open_cloze
+explanation=AT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q11
+set_id=CAE1_T2_P2
+number=11
+prompt=some point in recent years, it stopped (11) ........ a necessary and inevitable intermediary between people - a means by (12) .
+correct_answer=BEING
+accepted_answers=BEING
+max_points=1
+error_category=open_cloze
+explanation=BEING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q12
+set_id=CAE1_T2_P2
+number=12
+prompt=and inevitable intermediary between people - a means by (12) ........ individuals communicate with each other, putting a little bit of their personality (13) .
+correct_answer=WHICH
+accepted_answers=WHICH
+max_points=1
+error_category=open_cloze
+explanation=WHICH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q13
+set_id=CAE1_T2_P2
+number=13
+prompt=with each other, putting a little bit of their personality (13) ........ the form of the message as they press the ink-bearing point onto the paper.
+correct_answer=IN/INTO
+accepted_answers=IN | INTO
+max_points=1
+error_category=open_cloze
+explanation=IN/INTO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q14
+set_id=CAE1_T2_P2
+number=14
+prompt=It has started to become just (14) ........ among many options, often considered unattractive and elaborate.
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=ONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q15
+set_id=CAE1_T2_P2
+number=15
+prompt=For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can remember.
+correct_answer=FAR
+accepted_answers=FAR
+max_points=1
+error_category=open_cloze
+explanation=FAR completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P2_Q16
+set_id=CAE1_T2_P2
+number=16
+prompt=that most of us communicate via email and text, have we lost (16) ........ crucial to the human experience?
+correct_answer=SOMETHING
+accepted_answers=SOMETHING
+max_points=1
+error_category=open_cloze
+explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Modernising a museum
+source_pdf_pages=33
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [0 ][t [el a[wlo[e[olelwlalr [i lol] [TTT |
+
+The Ashmolean Museum in Oxford, England — the world's oldest university
+museum — has recently gone through a major (0) ......... The architects TRANSFORM
+wanted to create a new space that would make the museum one of the
+world's most important and (17) ........ cultural showcases. INNOVATE
+The collections in the museum are absolutely (18) ........ and cover the STAND
+cultures of east and west, charting the aspirations of mankind from the
+Prehistoric era to the present day. The approach that was adopted was
+based on the idea that (19) ........ that have shaped our modern societies CIVILISE
+did not develop in isolation but were part of a complex interrelated world.
+Every object has a (20) ........ story to tell, and these are gradually uncovered SIGNIFY
+through tracing the journey of ideas and influences across time and
+continents.
+People who knew the old museum say it has (21) ........ an amazing GO
+makeover. The new layout (22) ........ people to appreciate the objects ABLE
+fully; it is (23) ........ to everyone, from school children to academic ACCESS
+scholars, so (24) ........ to all those involved in redesigning this wonderful C CONGRATULATE
+treasure house.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P3_Q17
+set_id=CAE1_T2_P3
+number=17
+prompt=world's most important and (17) ........ cultural showcases.
+base_word=INNOVATE
+correct_answer=INNOVATIVE
+accepted_answers=INNOVATIVE
+max_points=1
+error_category=word_formation
+explanation=The base word INNOVATE must be changed to INNOVATIVE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q18
+set_id=CAE1_T2_P3
+number=18
+prompt=The collections in the museum are absolutely (18) ........ and cover the STAND cultures of east and west, charting the aspirations of mankind from the Prehistoric era to the present day.
+base_word=STAND
+correct_answer=OUTSTANDING
+accepted_answers=OUTSTANDING
+max_points=1
+error_category=word_formation
+explanation=The base word STAND must be changed to OUTSTANDING, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q19
+set_id=CAE1_T2_P3
+number=19
+prompt=based on the idea that (19) ........ that have shaped our modern societies CIVILISE did not develop in isolation but were part of a complex interrelated world.
+base_word=CIVILISE
+correct_answer=CIVILISATIONS/CIVILIZATIONS
+accepted_answers=CIVILISATIONS | CIVILIZATIONS
+max_points=1
+error_category=word_formation
+explanation=The base word CIVILISE must be changed to CIVILISATIONS/CIVILIZATIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q20
+set_id=CAE1_T2_P3
+number=20
+prompt=Every object has a (20) ........ story to tell, and these are gradually uncovered SIGNIFY through tracing the journey of ideas and influences across time and continents.
+base_word=SIGNIFY
+correct_answer=SIGNIFICANT
+accepted_answers=SIGNIFICANT
+max_points=1
+error_category=word_formation
+explanation=The base word SIGNIFY must be changed to SIGNIFICANT, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q21
+set_id=CAE1_T2_P3
+number=21
+prompt=People who knew the old museum say it has (21) ........ an amazing GO makeover.
+base_word=GO
+correct_answer=UNDERGONE
+accepted_answers=UNDERGONE
+max_points=1
+error_category=word_formation
+explanation=The base word GO must be changed to UNDERGONE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q22
+set_id=CAE1_T2_P3
+number=22
+prompt=The new layout (22) ........ people to appreciate the objects ABLE fully; it is (23) .
+base_word=ABLE
+correct_answer=ENABLES
+accepted_answers=ENABLES
+max_points=1
+error_category=word_formation
+explanation=The base word ABLE must be changed to ENABLES, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q23
+set_id=CAE1_T2_P3
+number=23
+prompt=fully; it is (23) ........ to everyone, from school children to academic ACCESS scholars, so (24) .
+base_word=ACCESS
+correct_answer=ACCESSIBLE
+accepted_answers=ACCESSIBLE
+max_points=1
+error_category=word_formation
+explanation=The base word ACCESS must be changed to ACCESSIBLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P3_Q24
+set_id=CAE1_T2_P3
+number=24
+prompt=scholars, so (24) ........ to all those involved in redesigning this wonderful C CONGRATULATE treasure house.
+base_word=CONGRATULATE
+correct_answer=CONGRATULATIONS
+accepted_answers=CONGRATULATIONS
+max_points=1
+error_category=word_formation
+explanation=The base word CONGRATULATE must be changed to CONGRATULATIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=34,35
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given. Here is an example (0). Example: C James would only speak to the head of department alone.
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T2_P4_Q25
+set_id=CAE1_T2_P4
+number=25
+prompt=The other students don't mind whether you give your presentation on Thursday or Friday.
+keyword=DIFFERENCE
+second_sentence=It ______ the other students whether you give your presentation on Thursday or Friday.
+correct_answer=MAKES NO/LITTLE DIFFERENCE TO | DOES NOT/DOESN’T MAKE ANY/A/MUCH DIFFERENCE TO
+accepted_answers=MAKES NO | LITTLE DIFFERENCE TO | DOES NOT | DOESN’T MAKE ANY | A | MUCH DIFFERENCE TO
+max_points=2
+error_category=key_word_transformations
+explanation=MAKES NO/LITTLE DIFFERENCE TO | DOES NOT/DOESN’T MAKE ANY/A/MUCH DIFFERENCE TO preserves the original meaning, includes the unchanged key word DIFFERENCE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q26
+set_id=CAE1_T2_P4
+number=26
+prompt='What are you thinking of doing for the college's centenary celebration?' the tutor asked the students.
+keyword=MIND
+second_sentence=The tutor asked the students what ______ for the college's centenary celebration.
+correct_answer=THEY HAD (GOT) IN MIND
+accepted_answers=THEY HAD (GOT) IN MIND
+max_points=2
+error_category=key_word_transformations
+explanation=THEY HAD (GOT) IN MIND preserves the original meaning, includes the unchanged key word MIND, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q27
+set_id=CAE1_T2_P4
+number=27
+prompt=Dr Ramesh's colleagues regarded him so highly that they forgave his inability to remember people's names.
+keyword=HELD
+second_sentence=Dr Ramesh ______ by his colleagues that they forgave his inability to remember people's names.
+correct_answer=WAS HELD IN SUCH (HIGH) REGARD/ESTEEM
+accepted_answers=WAS HELD IN SUCH (HIGH) REGARD | ESTEEM
+max_points=2
+error_category=key_word_transformations
+explanation=WAS HELD IN SUCH (HIGH) REGARD/ESTEEM preserves the original meaning, includes the unchanged key word HELD, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q28
+set_id=CAE1_T2_P4
+number=28
+prompt=As learning new languages had never been a problem for her, Katy didn't expect to have any difficulties when she went to live abroad.
+keyword=COME
+second_sentence=Learning new languages had ______ her so Katy didn't expect to have any difficulties when she went to live abroad.
+correct_answer=ALWAYS COME EASILY/NATURALLY TO
+accepted_answers=ALWAYS COME EASILY | NATURALLY TO
+max_points=2
+error_category=key_word_transformations
+explanation=ALWAYS COME EASILY/NATURALLY TO preserves the original meaning, includes the unchanged key word COME, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q29
+set_id=CAE1_T2_P4
+number=29
+prompt=I think we owe this passenger an apology, as she was apparently given incorrect train times by our call centre staff.
+keyword=MISINFORMED
+second_sentence=I think we owe this passenger an apology, as she seems ______ train times by our call centre staff.
+correct_answer=TO HAVE BEEN MISINFORMED ABOUT/OVER/REGARDING/CONCERNING/ON
+accepted_answers=TO HAVE BEEN MISINFORMED ABOUT | OVER | REGARDING | CONCERNING | ON
+max_points=2
+error_category=key_word_transformations
+explanation=TO HAVE BEEN MISINFORMED ABOUT/OVER/REGARDING/CONCERNING/ON preserves the original meaning, includes the unchanged key word MISINFORMED, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T2_P4_Q30
+set_id=CAE1_T2_P4
+number=30
+prompt=If her party wins the election, which is unlikely, she'll become President.
+keyword=EVENT
+second_sentence=In the ______ the election, she'll become President.
+correct_answer=UNLIKELY EVENT OF HER PARTY WINNING | UNLIKELY EVENT (THAT) HER PARTY WINS
+accepted_answers=UNLIKELY EVENT OF HER PARTY WINNING | UNLIKELY EVENT (THAT) HER PARTY WINS
+max_points=2
+error_category=key_word_transformations
+explanation=UNLIKELY EVENT OF HER PARTY WINNING | UNLIKELY EVENT (THAT) HER PARTY WINS preserves the original meaning, includes the unchanged key word EVENT, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The Japanese Bobtail
+source_pdf_pages=52,53
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Cats have been (0) ........ of the lives of human beings for thousands of years. One
+interesting breed which fascinates scientists is the Japanese Bobtail - a domestic cat
+with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of
+other cats. The breed has been known in Japan for centuries, and it features (2) ........
+in folklore. in many traditions, cats are frequently (3) ........ of fear and mistrust but in
+Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) ........ . The image of
+a Bobtail seated with one paw raised is considered a lucky charm.
+But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose
+long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere.
+As a result, the then emperor declared that all cats should have their tails cut short as a
+(8)........ measure. Science, however, has a less 'romantic' explanation based on genetics.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P1_Q01
+set_id=CAE1_T3_P1
+number=1
+prompt=with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of other cats.
+options={"A": "nearly", "B": "similarly", "C": "accurately", "D": "closely"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (closely) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q02
+set_id=CAE1_T3_P1
+number=2
+prompt=The breed has been known in Japan for centuries, and it features (2) ........ in folklore.
+options={"A": "prominently", "B": "obviously", "C": "appreciably", "D": "significantly"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (prominently) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q03
+set_id=CAE1_T3_P1
+number=3
+prompt=in many traditions, cats are frequently (3) ........ of fear and mistrust but in Japanese stories the Bobtail tends to be (4) .
+options={"A": "products", "B": "articles", "C": "objects", "D": "elements"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (objects) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q04
+set_id=CAE1_T3_P1
+number=4
+prompt=Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) .
+options={"A": "assumed", "B": "portrayed", "C": "exposed", "D": "disclosed"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (portrayed) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q05
+set_id=CAE1_T3_P1
+number=5
+prompt=Gap 5
+options={"A": "tight", "B": "virtue", "C": "good", "D": "truth"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (good) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q06
+set_id=CAE1_T3_P1
+number=6
+prompt=a8 a force for (6) ........ .
+options={"A": "come by", "B": "get at", "C": "hit on", "D": "go for"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (come by) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q07
+set_id=CAE1_T3_P1
+number=7
+prompt=long tail (7) ........ fire.
+options={"A": "took", "B": "caught", "C": "set", "D": "seized"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (caught) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P1_Q08
+set_id=CAE1_T3_P1
+number=8
+prompt=(8)........ measure.
+options={"A": "defensive", "B": "restrictive", "C": "preventative", "D": "corrective"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (preventative) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Work experience abroad
+source_pdf_pages=54
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. emo (o)(o[A1 1111 TTITTIT TIT IT
+
+Every year thousands (0) ........ young people in various countries do short periods of work in
+other countries (9) ........ the time they leave school and start university. Typically these involve
+helping in schools or hospitals, or on conservation projects. The experience the young people gain
+will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of
+independence and confidence. It may also help them with their long-term career.
+There are many organisations that run work experience programmes. (11) ........ such company
+is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being
+an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
+Young people should push themselves out of their comfort zones and do (15) ........ productive.
+Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd
+in the job market. Some employers look favourably on students who have the initiative and drive
+to complete one."
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P2_Q09
+set_id=CAE1_T3_P2
+number=9
+prompt=other countries (9) ........ the time they leave school and start university.
+correct_answer=BETWEEN
+accepted_answers=BETWEEN
+max_points=1
+error_category=open_cloze
+explanation=BETWEEN completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q10
+set_id=CAE1_T3_P2
+number=10
+prompt=(10) ........ a personal point of view, it gives them a sense of independence and confidence.
+correct_answer=FROM
+accepted_answers=FROM
+max_points=1
+error_category=open_cloze
+explanation=FROM completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q11
+set_id=CAE1_T3_P2
+number=11
+prompt=(11) ........ such company is Global Volunteers, (12) .
+correct_answer=ONE
+accepted_answers=ONE
+max_points=1
+error_category=open_cloze
+explanation=ONE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q12
+set_id=CAE1_T3_P2
+number=12
+prompt=is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) .
+correct_answer=WHOSE
+accepted_answers=WHOSE
+max_points=1
+error_category=open_cloze
+explanation=WHOSE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q13
+set_id=CAE1_T3_P2
+number=13
+prompt=spokesperson Mary Cooper comments: '(13) ........ than being an extended holiday, our placements involve learning to (14) .
+correct_answer=RATHER
+accepted_answers=RATHER
+max_points=1
+error_category=open_cloze
+explanation=RATHER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q14
+set_id=CAE1_T3_P2
+number=14
+prompt=an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
+correct_answer=TAKE
+accepted_answers=TAKE
+max_points=1
+error_category=open_cloze
+explanation=TAKE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q15
+set_id=CAE1_T3_P2
+number=15
+prompt=Young people should push themselves out of their comfort zones and do (15) ........ productive.
+correct_answer=SOMETHING
+accepted_answers=SOMETHING
+max_points=1
+error_category=open_cloze
+explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P2_Q16
+set_id=CAE1_T3_P2
+number=16
+prompt=Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd in the job market.
+correct_answer=STAND
+accepted_answers=STAND
+max_points=1
+error_category=open_cloze
+explanation=STAND completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=The significance of hairstyles
+source_pdf_pages=55
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exampre: [o][A]oTaTe[t[aTe[t Te] TT TTT TTI
+
+Hair is the most easily (0) ........ part of the human body and also one of + ADAPT
+the most (17) ........ . The first barbers appeared in ancient Greece, when DISTINCT
+short hair became a sign of social status. Similarly, South American Inca
+chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ PROGRESS
+longer the further down the social chain they were. Barbers prospered in the
+days of the Roman Empire, until they were expelled from Rome, when it was
+discovered how much they earned.
+Women have always reflected fashion through their hairstyles, sometimes
+quite (19) ........ .In 15th-century Europe, women would pluck the hair from DRAMA
+the front of their heads in (20) ........ of beauty. Three centuries later, the C PURSUE
+fashion was for huge hairstyles that made it (21) ........ for the hairdresser NEED
+to climb a small ladder. The maintenance needed to (22) ........ these styles SURE
+looked good was enormous. Today, in our more liberal world, very little
+is socially (23) ........ with regard to hairstyles and technology has been C ACCEPT
+enormously (24) ........ in reducing the time we spend on our hair. BENEFIT
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P3_Q17
+set_id=CAE1_T3_P3
+number=17
+prompt=the most (17) ........ .
+base_word=DISTINCT
+correct_answer=DISTINCTIVE
+accepted_answers=DISTINCTIVE
+max_points=1
+error_category=word_formation
+explanation=The base word DISTINCT must be changed to DISTINCTIVE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q18
+set_id=CAE1_T3_P3
+number=18
+prompt=chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ PROGRESS longer the further down the social chain they were.
+base_word=PROGRESS
+correct_answer=PROGRESSIVELY
+accepted_answers=PROGRESSIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word PROGRESS must be changed to PROGRESSIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q19
+set_id=CAE1_T3_P3
+number=19
+prompt=quite (19) ........ .
+base_word=DRAMA
+correct_answer=DRAMATICALLY
+accepted_answers=DRAMATICALLY
+max_points=1
+error_category=word_formation
+explanation=The base word DRAMA must be changed to DRAMATICALLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q20
+set_id=CAE1_T3_P3
+number=20
+prompt=the front of their heads in (20) ........ of beauty.
+base_word=PURSUE
+correct_answer=PURSUIT
+accepted_answers=PURSUIT
+max_points=1
+error_category=word_formation
+explanation=The base word PURSUE must be changed to PURSUIT, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q21
+set_id=CAE1_T3_P3
+number=21
+prompt=fashion was for huge hairstyles that made it (21) ........ for the hairdresser NEED to climb a small ladder.
+base_word=NEED
+correct_answer=NECESSARY
+accepted_answers=NECESSARY
+max_points=1
+error_category=word_formation
+explanation=The base word NEED must be changed to NECESSARY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q22
+set_id=CAE1_T3_P3
+number=22
+prompt=The maintenance needed to (22) ........ these styles SURE looked good was enormous.
+base_word=SURE
+correct_answer=ENSURE
+accepted_answers=ENSURE
+max_points=1
+error_category=word_formation
+explanation=The base word SURE must be changed to ENSURE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q23
+set_id=CAE1_T3_P3
+number=23
+prompt=is socially (23) ........ with regard to hairstyles and technology has been C ACCEPT enormously (24) .
+base_word=ACCEPT
+correct_answer=UNACCEPTABLE
+accepted_answers=UNACCEPTABLE
+max_points=1
+error_category=word_formation
+explanation=The base word ACCEPT must be changed to UNACCEPTABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P3_Q24
+set_id=CAE1_T3_P3
+number=24
+prompt=enormously (24) ........ in reducing the time we spend on our hair.
+base_word=BENEFIT
+correct_answer=BENEFICIAL
+accepted_answers=BENEFICIAL
+max_points=1
+error_category=word_formation
+explanation=The base word BENEFIT must be changed to BENEFICIAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=56,57
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given. Here is an example (0). Example: 0 James would only speak to the head of department alone.
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T3_P4_Q25
+set_id=CAE1_T3_P4
+number=25
+prompt=Gemma is well known to the public because of her frequent appearances on television.
+keyword=EYE
+second_sentence=Gemma is well known as a result of ______.
+correct_answer=BEING/LIVING IN THE PUBLIC EYE
+accepted_answers=BEING | LIVING IN THE PUBLIC EYE
+max_points=2
+error_category=key_word_transformations
+explanation=BEING/LIVING IN THE PUBLIC EYE preserves the original meaning, includes the unchanged key word EYE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q26
+set_id=CAE1_T3_P4
+number=26
+prompt=The hotel was reasonably comfortable, but there was no air conditioning.
+keyword=ASIDE
+second_sentence=The hotel was reasonably comfortable ______ air conditioning.
+correct_answer=ASIDE/APART FROM THE LACK/ABSENCE
+accepted_answers=ASIDE | APART FROM THE LACK | ABSENCE
+max_points=2
+error_category=key_word_transformations
+explanation=ASIDE/APART FROM THE LACK/ABSENCE preserves the original meaning, includes the unchanged key word ASIDE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q27
+set_id=CAE1_T3_P4
+number=27
+prompt=The album is so good that it is worth listening to.
+keyword=MAKES
+second_sentence=The quality of the album ______ to.
+correct_answer=MAKES THE ALBUM WORTH LISTENING
+accepted_answers=MAKES THE ALBUM WORTH LISTENING
+max_points=2
+error_category=key_word_transformations
+explanation=MAKES THE ALBUM WORTH LISTENING preserves the original meaning, includes the unchanged key word MAKES, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q28
+set_id=CAE1_T3_P4
+number=28
+prompt=The hotel had only been open for a short time when it won an award.
+keyword=ONLY
+second_sentence=Not ______ time when it won an award.
+correct_answer=ONLY WAS THE HOTEL A LONG/SOME
+accepted_answers=ONLY WAS THE HOTEL A LONG | SOME
+max_points=2
+error_category=key_word_transformations
+explanation=ONLY WAS THE HOTEL A LONG/SOME preserves the original meaning, includes the unchanged key word ONLY, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q29
+set_id=CAE1_T3_P4
+number=29
+prompt=She should have left a long time ago.
+keyword=TIME
+second_sentence=It ______.
+correct_answer=WAS HIGH TIME (THAT) SHE LEFT
+accepted_answers=WAS HIGH TIME (THAT) SHE LEFT
+max_points=2
+error_category=key_word_transformations
+explanation=WAS HIGH TIME (THAT) SHE LEFT preserves the original meaning, includes the unchanged key word TIME, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T3_P4_Q30
+set_id=CAE1_T3_P4
+number=30
+prompt=He did not explain the main point sufficiently clearly.
+keyword=ENOUGH
+second_sentence=He failed ______.
+correct_answer=EXPLAIN THE MAIN POINT CLEARLY ENOUGH
+accepted_answers=EXPLAIN THE MAIN POINT CLEARLY ENOUGH
+max_points=2
+error_category=key_word_transformations
+explanation=EXPLAIN THE MAIN POINT CLEARLY ENOUGH preserves the original meaning, includes the unchanged key word ENOUGH, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Dressing for success
+source_pdf_pages=74,75
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Whether you like it or not, when you go for a job interview your personal appearance will
+be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start
+(1)........an opinion about your capabilities, your attitude to work and how well you might
+(2) ....... their organisation. The right image is one that helps the interviewer (3) ........ You
+as one of their team and (4) ........ them that you could represent their company. So, find
+'out about the company dress code prior to the interview, or see how people are dressed
+'on their corporate website.
+However, even iIf you (6) ........ the image right, it may not (6) ........ be remarked on. The
+interviewer will just sense that you 'look right', and feel (7) ........ to being convinced
+that you are the right person for the job. But iIf you get it wrong, it can be very difficult to
+(8) ........ the negative impression you may already have made.
+
+1A. shaping B_ making C creating D_ forming
+2 A putupwith B settledownto ¢_fitinwith D liveupto
+3 A visualise B reflect C observe D foresee
+4 A reassures B clarifies encourages D supports
+5 A put B got Cc hit D set
+6 A significantly B necessarily C appropriately strictly
+7 A open B free C alert D aware
+8 A overtake B_ overthrow C overdo D overcome
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P1_Q01
+set_id=CAE1_T4_P1
+number=1
+prompt=(1)........an opinion about your capabilities, your attitude to work and how well you might (2) .
+options={"A": "shaping", "B": "making", "C": "creating", "D": "forming"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (forming) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q02
+set_id=CAE1_T4_P1
+number=2
+prompt=(2) ....... their organisation.
+options={"A": "put up with", "B": "settle down to", "C": "fit in with", "D": "live up to"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (fit in with) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q03
+set_id=CAE1_T4_P1
+number=3
+prompt=The right image is one that helps the interviewer (3) ........ You as one of their team and (4) .
+options={"A": "visualise", "B": "reflect", "C": "observe", "D": "foresee"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (visualise) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q04
+set_id=CAE1_T4_P1
+number=4
+prompt=as one of their team and (4) ........ them that you could represent their company.
+options={"A": "reassures", "B": "clarifies", "C": "encourages", "D": "supports"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (reassures) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q05
+set_id=CAE1_T4_P1
+number=5
+prompt=Gap 5
+options={"A": "put", "B": "got", "C": "hit", "D": "set"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (got) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q06
+set_id=CAE1_T4_P1
+number=6
+prompt=However, even iIf you (6) ........ the image right, it may not (6) .
+options={"A": "significantly", "B": "necessarily", "C": "appropriately", "D": "strictly"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (necessarily) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q07
+set_id=CAE1_T4_P1
+number=7
+prompt=interviewer will just sense that you 'look right', and feel (7) ........ to being convinced that you are the right person for the job.
+options={"A": "open", "B": "free", "C": "alert", "D": "aware"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (open) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P1_Q08
+set_id=CAE1_T4_P1
+number=8
+prompt=(8) ........ the negative impression you may already have made.
+options={"A": "overtake", "B": "overthrow", "C": "overdo", "D": "overcome"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (overcome) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=How technology is helping people to talk
+source_pdf_pages=76
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. | exemple: [o](nfolr] I | I TTT TTT TTT TTT |
+
+The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be lifechanging for anyone suffering from a severe speech problem. (9) ........ been invited to try one
+such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a
+journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot
+which tracks the movement of my eyes.
+| start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to,
+select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced
+users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top
+of the screen, and slowly I build up my message. More speed would be good as this isn't a fast
+way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long
+time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back
+to me in a synthesised voice.
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P2_Q09
+set_id=CAE1_T4_P2
+number=9
+prompt=(9) ........ been invited to try one such hi-tech communication aid, I find (10) .
+correct_answer=HAVING
+accepted_answers=HAVING
+max_points=1
+error_category=open_cloze
+explanation=HAVING completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q10
+set_id=CAE1_T4_P2
+number=10
+prompt=such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen.
+correct_answer=MYSELF
+accepted_answers=MYSELF
+max_points=1
+error_category=open_cloze
+explanation=MYSELF completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q11
+set_id=CAE1_T4_P2
+number=11
+prompt=journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot which tracks the movement of my eyes.
+correct_answer=EXCEPT/BUT
+accepted_answers=EXCEPT | BUT
+max_points=1
+error_category=open_cloze
+explanation=EXCEPT/BUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q12
+set_id=CAE1_T4_P2
+number=12
+prompt=However, I could, (12) ........ I wanted to, select alternative screens (13) .
+correct_answer=IF/WHEN/WHENEVER
+accepted_answers=IF | WHEN | WHENEVER
+max_points=1
+error_category=open_cloze
+explanation=IF/WHEN/WHENEVER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q13
+set_id=CAE1_T4_P2
+number=13
+prompt=select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced users, would (14) .
+correct_answer=MADE
+accepted_answers=MADE
+max_points=1
+error_category=open_cloze
+explanation=MADE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q14
+set_id=CAE1_T4_P2
+number=14
+prompt=users, would (14) ........ doubt speed things up.
+correct_answer=NO/WITHOUT
+accepted_answers=NO | WITHOUT
+max_points=1
+error_category=open_cloze
+explanation=NO/WITHOUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q15
+set_id=CAE1_T4_P2
+number=15
+prompt=way to communicate, (15) ........ with the aid of predictive text.
+correct_answer=EVEN
+accepted_answers=EVEN
+max_points=1
+error_category=open_cloze
+explanation=EVEN completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P2_Q16
+set_id=CAE1_T4_P2
+number=16
+prompt=After (16) ........ seems like a long time, my phrase 'this is an amazing machine' is complete.
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Two sleeps per night
+source_pdf_pages=77
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][olelelrlelelairfeli[y] I | TT TTT |
+
+Sometimes we wake up in the middle of the night and try (0) ........ hard to DESPAIR
+get back to sleep, but instead we spend a really (17) ........ night tossing and COMFORT
+turning until morning. This situation could be (18) ........ of a stressful week, SYMPTOM
+but it could also be because of a sleep pattern we have inherited. Research
+shows that our ancestors, rather than enjoying an (19) ........ period of sleep INTERRUPT
+at night, had two sleeps broken up by some time awake.
+The eight-hours-a-night pattern that has become almost (20) ........ to ESSENCE
+modern humans has only been (21) ........ in industrialised countries since CUSTOM
+'the 19th century. Then (22) ........ electricity was introduced, which resulted AFFORD
+in a division between night and day that became (23) ......... blurred. What PROGRESS
+had until then been daytime activities could now be enjoyed after darkness,
+and as a result, we went to bed later. We were therefore more tired, and this
+(24) ........ us to sleep through the night. However, scientists believe that, ABLE
+subconsciously, some people may still follow the old patterns and have a
+lengthy period of wakefulness during the night.
+bg
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P3_Q17
+set_id=CAE1_T4_P3
+number=17
+prompt=get back to sleep, but instead we spend a really (17) ........ night tossing and COMFORT turning until morning.
+base_word=COMFORT
+correct_answer=UNCOMFORTABLE
+accepted_answers=UNCOMFORTABLE
+max_points=1
+error_category=word_formation
+explanation=The base word COMFORT must be changed to UNCOMFORTABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q18
+set_id=CAE1_T4_P3
+number=18
+prompt=This situation could be (18) ........ of a stressful week, SYMPTOM but it could also be because of a sleep pattern we have inherited.
+base_word=SYMPTOM
+correct_answer=SYMPTOMATIC
+accepted_answers=SYMPTOMATIC
+max_points=1
+error_category=word_formation
+explanation=The base word SYMPTOM must be changed to SYMPTOMATIC, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q19
+set_id=CAE1_T4_P3
+number=19
+prompt=shows that our ancestors, rather than enjoying an (19) ........ period of sleep INTERRUPT at night, had two sleeps broken up by some time awake.
+base_word=INTERRUPT
+correct_answer=UNINTERRUPTED
+accepted_answers=UNINTERRUPTED
+max_points=1
+error_category=word_formation
+explanation=The base word INTERRUPT must be changed to UNINTERRUPTED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q20
+set_id=CAE1_T4_P3
+number=20
+prompt=The eight-hours-a-night pattern that has become almost (20) ........ to ESSENCE modern humans has only been (21) .
+base_word=ESSENCE
+correct_answer=ESSENTIAL
+accepted_answers=ESSENTIAL
+max_points=1
+error_category=word_formation
+explanation=The base word ESSENCE must be changed to ESSENTIAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q21
+set_id=CAE1_T4_P3
+number=21
+prompt=modern humans has only been (21) ........ in industrialised countries since CUSTOM 'the 19th century.
+base_word=CUSTOM
+correct_answer=CUSTOMARY
+accepted_answers=CUSTOMARY
+max_points=1
+error_category=word_formation
+explanation=The base word CUSTOM must be changed to CUSTOMARY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q22
+set_id=CAE1_T4_P3
+number=22
+prompt=Then (22) ........ electricity was introduced, which resulted AFFORD in a division between night and day that became (23) .
+base_word=AFFORD
+correct_answer=AFFORDABLE
+accepted_answers=AFFORDABLE
+max_points=1
+error_category=word_formation
+explanation=The base word AFFORD must be changed to AFFORDABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q23
+set_id=CAE1_T4_P3
+number=23
+prompt=in a division between night and day that became (23) ......... blurred.
+base_word=PROGRESS
+correct_answer=PROGRESSIVELY
+accepted_answers=PROGRESSIVELY
+max_points=1
+error_category=word_formation
+explanation=The base word PROGRESS must be changed to PROGRESSIVELY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P3_Q24
+set_id=CAE1_T4_P3
+number=24
+prompt=(24) ........ us to sleep through the night.
+base_word=ABLE
+correct_answer=ENABLED
+accepted_answers=ENABLED
+max_points=1
+error_category=word_formation
+explanation=The base word ABLE must be changed to ENABLED, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=CAE1_T4_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=78,79
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three | and six words, including the word given. Here is an example (0). Example: 0 James would only speak to the head of department alone.
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=CAE1_T4_P4_Q25
+set_id=CAE1_T4_P4
+number=25
+prompt=We have no objection to John joining the company.
+keyword=OBJECT
+second_sentence=We do not ______ the company.
+correct_answer=ANY OBJECTION(S)/AN OBJECTION TO JOHN('S) JOINING
+accepted_answers=ANY OBJECTION(S) | AN OBJECTION TO JOHN('S) JOINING
+max_points=2
+error_category=key_word_transformations
+explanation=ANY OBJECTION(S)/AN OBJECTION TO JOHN('S) JOINING preserves the original meaning, includes the unchanged key word OBJECT, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q26
+set_id=CAE1_T4_P4
+number=26
+prompt=His illness meant that he had to abandon the expedition.
+keyword=RESULTED
+second_sentence=His illness ______ the expedition.
+correct_answer=ILLNESS/SICKNESS RESULTED IN HIM/HIS ABANDONING | THE ABANDONMENT OF
+accepted_answers=ILLNESS | SICKNESS RESULTED IN HIM | HIS ABANDONING | THE ABANDONMENT OF
+max_points=2
+error_category=key_word_transformations
+explanation=ILLNESS/SICKNESS RESULTED IN HIM/HIS ABANDONING | THE ABANDONMENT OF preserves the original meaning, includes the unchanged key word RESULTED, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q27
+set_id=CAE1_T4_P4
+number=27
+prompt=The tennis players had only just left the court when the rain started.
+keyword=SOONER
+second_sentence=No ______ the court than the rain started.
+correct_answer=SOONER HAD THE TENNIS PLAYERS GONE/GOT/COME
+accepted_answers=SOONER HAD THE TENNIS PLAYERS GONE | GOT | COME
+max_points=2
+error_category=key_word_transformations
+explanation=SOONER HAD THE TENNIS PLAYERS GONE/GOT/COME preserves the original meaning, includes the unchanged key word SOONER, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q28
+set_id=CAE1_T4_P4
+number=28
+prompt=It may be necessary to postpone the meeting.
+keyword=OFF
+second_sentence=The meeting ______.
+correct_answer=WOULD HAVE/NEED TO BE PUT/CALLED OFF | HAD TO BE PUT/CALLED OFF
+accepted_answers=WOULD HAVE | NEED TO BE PUT | CALLED OFF | HAD TO BE PUT | CALLED OFF
+max_points=2
+error_category=key_word_transformations
+explanation=WOULD HAVE/NEED TO BE PUT/CALLED OFF | HAD TO BE PUT/CALLED OFF preserves the original meaning, includes the unchanged key word OFF, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q29
+set_id=CAE1_T4_P4
+number=29
+prompt=I had no alternative but to accept the offer.
+keyword=CHOICE
+second_sentence=I had ______ accept the offer.
+correct_answer=NO (OTHER) CHOICE/ALTERNATIVE/OPTION BUT TO
+accepted_answers=NO (OTHER) CHOICE | ALTERNATIVE | OPTION BUT TO
+max_points=2
+error_category=key_word_transformations
+explanation=NO (OTHER) CHOICE/ALTERNATIVE/OPTION BUT TO preserves the original meaning, includes the unchanged key word CHOICE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=CAE1_T4_P4_Q30
+set_id=CAE1_T4_P4
+number=30
+prompt=I would prefer not to be involved in the project.
+keyword=RATHER
+second_sentence=I ______ involved in the project.
+correct_answer='D/WOULD RATHER NOT BE
+accepted_answers='D | WOULD RATHER NOT BE
+max_points=2
+error_category=key_word_transformations
+explanation='D/WOULD RATHER NOT BE preserves the original meaning, includes the unchanged key word RATHER, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Don't miss the event of the year!
+source_pdf_pages=13
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and $ : decide which answer (A, B, C or D) best , fits each gap. There is an example at the ' li a
+
+Now in its seventh (0) , this year, the Rogers Estate Festival starts a day earlier: on Thursday,
+which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in
+a(l) like no other, with the castle runs in the background. This year's lineup includes an array
+of talented actors alongside a very (2) selection of both local and international musicians and
+visual artists.
+Visitors can take (3) an impressive range of exhibits and experience both the permanent and
+(4) collections through their five senses. In addition to large-audience sessions, there will be
+more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors
+at work. Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of
+honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her
+famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q01
+set_id=BOOSTER_W1_P1
+number=1
+prompt=Gap 1
+options={"A": "scenery", "B": "set", "C": "setting", "D": "stage"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (setting) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q02
+set_id=BOOSTER_W1_P1
+number=2
+prompt=of talented actors alongside a very (2) selection of both local and international musicians and visual artists.
+options={"A": "supreme", "B": "high", "C": "luxury", "D": "elite"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (elite) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q03
+set_id=BOOSTER_W1_P1
+number=3
+prompt=Visitors can take (3) an impressive range of exhibits and experience both the permanent and (4) collections through their five senses.
+options={"A": "off", "B": "up", "C": "in", "D": "on"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (in) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q04
+set_id=BOOSTER_W1_P1
+number=4
+prompt=(4) collections through their five senses.
+options={"A": "provisional", "B": "temporary", "C": "casual", "D": "momentary"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (temporary) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q05
+set_id=BOOSTER_W1_P1
+number=5
+prompt=more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors at work.
+options={"A": "performances", "B": "productions", "C": "acts", "D": "presentations"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (performances) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q06
+set_id=BOOSTER_W1_P1
+number=6
+prompt=Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "joy", "B": "bliss", "C": "treat", "D": "treatment"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (treat) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q07
+set_id=BOOSTER_W1_P1
+number=7
+prompt=honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "giving", "B": "making", "C": "taking", "D": "doing"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (making) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P1_Q08
+set_id=BOOSTER_W1_P1
+number=8
+prompt=honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her famous symphony.
+options={"A": "constitution", "B": "distribution", "C": "organisation", "D": "arrangement"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (arrangement) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=We're all in this together
+source_pdf_pages=19
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below z
+
+Have you, or has someone you know, come up (0) an original idea for a briiant product or
+an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear
+not. Help is close (2) hand. You can crowafund it Crowafunding is the practice of financing a
+project by raising money through contributions (3) ....... individuals or groups of people with money
+to invest or the desire to (4) '200d. It has emerged as an accessible option for entrepreneurs
+and creatives around the world. Usually collected via online platforms, the sum generated allows them to
+both (5) their ideas to the test and gain exposure and funds for their product or invention. You
+might well wonder (6) crowdfunding realy is a modern-day practice. It would seem (7)
+Although the term and its definition were only recently added to dictionaries, throughout history, landmark
+expeditions, epic voyages and even national monuments have been completed (8) to the
+donations of ordinary people.
+(7)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q01
+set_id=BOOSTER_W1_P2
+number=1
+prompt=an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear not.
+correct_answer=YOURSELF/YOURSELVES
+accepted_answers=YOURSELF | YOURSELVES
+max_points=1
+error_category=open_cloze
+explanation=YOURSELF/YOURSELVES completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q02
+set_id=BOOSTER_W1_P2
+number=2
+prompt=Help is close (2) hand.
+correct_answer=AT
+accepted_answers=AT
+max_points=1
+error_category=open_cloze
+explanation=AT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q03
+set_id=BOOSTER_W1_P2
+number=3
+prompt=project by raising money through contributions (3) ....... individuals or groups of people with money to invest or the desire to (4) '200d.
+correct_answer=FROM/BY
+accepted_answers=FROM | BY
+max_points=1
+error_category=open_cloze
+explanation=FROM/BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q04
+set_id=BOOSTER_W1_P2
+number=4
+prompt=to invest or the desire to (4) '200d.
+correct_answer=DO
+accepted_answers=DO
+max_points=1
+error_category=open_cloze
+explanation=DO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q05
+set_id=BOOSTER_W1_P2
+number=5
+prompt=both (5) their ideas to the test and gain exposure and funds for their product or invention.
+correct_answer=PUT
+accepted_answers=PUT
+max_points=1
+error_category=open_cloze
+explanation=PUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q06
+set_id=BOOSTER_W1_P2
+number=6
+prompt=might well wonder (6) crowdfunding realy is a modern-day practice.
+correct_answer=IF/WHETHER
+accepted_answers=IF | WHETHER
+max_points=1
+error_category=open_cloze
+explanation=IF/WHETHER completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q07
+set_id=BOOSTER_W1_P2
+number=7
+prompt=It would seem (7) Although the term and its definition were only recently added to dictionaries, throughout history, landmark expeditions, epic voyages and even national monuments have been completed (8) to the donations of ordinary people.
+correct_answer=NOT
+accepted_answers=NOT
+max_points=1
+error_category=open_cloze
+explanation=NOT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P2_Q08
+set_id=BOOSTER_W1_P2
+number=8
+prompt=expeditions, epic voyages and even national monuments have been completed (8) to the donations of ordinary people.
+correct_answer=THANKS/DUE
+accepted_answers=THANKS | DUE
+max_points=1
+error_category=open_cloze
+explanation=THANKS/DUE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Making the right choice
+source_pdf_pages=25
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) DECISION
+
+The (0) as to which university to apply to is often DECIDE
+taken on the basis of a university's position on the world rankings table.
+Yet, other considerations, such as whether the course is
+a) or offers hands-on experience and the amount of time THEORY
+that students will need to work (2) should be taken into account. DEPEND
+The fact is that some undergraduates who express their (3) SATISFY
+with their university experience base their (4) 'on poor COMPLAIN
+organisation, the lack of support received and on having fewer contact hours
+than expected,
+AAs higher education (5) 'come under increasing pressure PROVIDE
+to meet established targets and to maintain or improve their status, course
+guidelines should (6) what participants can expect CLEAR
+from the course and what the course expects from them. This should
+(7) a reduction in student drop-out rates. Inevitably, though, SURE
+no matter how much the content and structure is spelt out, some students will turn
+up with (8) 'expectations that can never be met. REAL
+(a)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q01
+set_id=BOOSTER_W1_P3
+number=1
+prompt=Gap 1
+base_word=THEORY
+correct_answer=THEORETICAL
+accepted_answers=THEORETICAL
+max_points=1
+error_category=word_formation
+explanation=The base word THEORY must be changed to THEORETICAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q02
+set_id=BOOSTER_W1_P3
+number=2
+prompt=that students will need to work (2) should be taken into account.
+base_word=DEPEND
+correct_answer=INDEPENDENTLY
+accepted_answers=INDEPENDENTLY
+max_points=1
+error_category=word_formation
+explanation=The base word DEPEND must be changed to INDEPENDENTLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q03
+set_id=BOOSTER_W1_P3
+number=3
+prompt=The fact is that some undergraduates who express their (3) SATISFY with their university experience base their (4) 'on poor COMPLAIN organisation, the lack of support received and on having fewer contact hours than expected, AAs higher education (5) 'come under increasing pressure PROVIDE to meet established
+base_word=SATISFY
+correct_answer=DISSATISFACTION
+accepted_answers=DISSATISFACTION
+max_points=1
+error_category=word_formation
+explanation=The base word SATISFY must be changed to DISSATISFACTION, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q04
+set_id=BOOSTER_W1_P3
+number=4
+prompt=with their university experience base their (4) 'on poor COMPLAIN organisation, the lack of support received and on having fewer contact hours than expected, AAs higher education (5) 'come under increasing pressure PROVIDE to meet established targets and to maintain or improve their status, course guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=COMPLAIN
+correct_answer=COMPLAINTS
+accepted_answers=COMPLAINTS
+max_points=1
+error_category=word_formation
+explanation=The base word COMPLAIN must be changed to COMPLAINTS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q05
+set_id=BOOSTER_W1_P3
+number=5
+prompt=AAs higher education (5) 'come under increasing pressure PROVIDE to meet established targets and to maintain or improve their status, course guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=PROVIDE
+correct_answer=PROVIDERS
+accepted_answers=PROVIDERS
+max_points=1
+error_category=word_formation
+explanation=The base word PROVIDE must be changed to PROVIDERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q06
+set_id=BOOSTER_W1_P3
+number=6
+prompt=guidelines should (6) what participants can expect CLEAR from the course and what the course expects from them.
+base_word=CLEAR
+correct_answer=CLARIFY
+accepted_answers=CLARIFY
+max_points=1
+error_category=word_formation
+explanation=The base word CLEAR must be changed to CLARIFY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q07
+set_id=BOOSTER_W1_P3
+number=7
+prompt=(7) a reduction in student drop-out rates.
+base_word=SURE
+correct_answer=ENSURE
+accepted_answers=ENSURE
+max_points=1
+error_category=word_formation
+explanation=The base word SURE must be changed to ENSURE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P3_Q08
+set_id=BOOSTER_W1_P3
+number=8
+prompt=up with (8) 'expectations that can never be met.
+base_word=REAL
+correct_answer=UNREALISTIC/UNREAL
+accepted_answers=UNREALISTIC | UNREAL
+max_points=1
+error_category=word_formation
+explanation=The base word REAL must be changed to UNREALISTIC/UNREAL, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – Relationships
+source_pdf_pages=31
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q01
+set_id=BOOSTER_W1_P4
+number=1
+prompt=The changes to the club had no effect on its existing members.
+keyword=CONSEQUENCE
+second_sentence=The changes to the club ______ its existing members.
+correct_answer=WERE OF NO CONSEQUENCE TO
+accepted_answers=WERE OF NO CONSEQUENCE TO
+max_points=2
+error_category=key_word_transformations
+explanation=WERE OF NO CONSEQUENCE TO preserves the original meaning, includes the unchanged key word CONSEQUENCE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q02
+set_id=BOOSTER_W1_P4
+number=2
+prompt=We need to completely overhaul the terms for new users.
+keyword=THOROUGH
+second_sentence=There needs ______ the terms for new users.
+correct_answer=TO BE A THOROUGH OVERHAUL OF
+accepted_answers=TO BE A THOROUGH OVERHAUL OF
+max_points=2
+error_category=key_word_transformations
+explanation=TO BE A THOROUGH OVERHAUL OF preserves the original meaning, includes the unchanged key word THOROUGH, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q03
+set_id=BOOSTER_W1_P4
+number=3
+prompt=I'm absolutely certain that she was involved in the decision.
+keyword=WHATSOEVER
+second_sentence=There ______ that she was involved in the decision.
+correct_answer=IS/CAN BE NO DOUBT/QUESTION WHATSOEVER
+accepted_answers=IS | CAN BE NO DOUBT | QUESTION WHATSOEVER
+max_points=2
+error_category=key_word_transformations
+explanation=IS/CAN BE NO DOUBT/QUESTION WHATSOEVER preserves the original meaning, includes the unchanged key word WHATSOEVER, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q04
+set_id=BOOSTER_W1_P4
+number=4
+prompt=I was never consulted, so I couldn't offer any advice on the matter.
+keyword=ONCE
+second_sentence=Never ______ give my advice on the matter.
+correct_answer=ONCE WAS I (EVER) ASKED TO
+accepted_answers=ONCE WAS I (EVER) ASKED TO
+max_points=2
+error_category=key_word_transformations
+explanation=ONCE WAS I (EVER) ASKED TO preserves the original meaning, includes the unchanged key word ONCE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q05
+set_id=BOOSTER_W1_P4
+number=5
+prompt=It's a mystery to me how he found out about the surprise party.
+keyword=CLUE
+second_sentence=I ______ he found out about the surprise party.
+correct_answer=HAVEN'T A/THE SLIGHTEST CLUE HOW | HAVE NOT/HAVEN'T GOT A CLUE HOW | HAVE NO CLUE HOW
+accepted_answers=HAVEN'T A | THE SLIGHTEST CLUE HOW | HAVE NOT | HAVEN'T GOT A CLUE HOW | HAVE NO CLUE HOW
+max_points=2
+error_category=key_word_transformations
+explanation=HAVEN'T A/THE SLIGHTEST CLUE HOW | HAVE NOT/HAVEN'T GOT A CLUE HOW | HAVE NO CLUE HOW preserves the original meaning, includes the unchanged key word CLUE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W1_P4_Q06
+set_id=BOOSTER_W1_P4
+number=6
+prompt=The professor's reputation was such that he was nominated for the award.
+keyword=REGARD
+second_sentence=The professor was ______ that he was nominated for the award.
+correct_answer=HELD IN SUCH (HIGH) REGARD
+accepted_answers=HELD IN SUCH (HIGH) REGARD
+max_points=2
+error_category=key_word_transformations
+explanation=HELD IN SUCH (HIGH) REGARD preserves the original meaning, includes the unchanged key word REGARD, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Hobbyists around the world unite
+source_pdf_pages=14
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and decide which answer (A, B, C or D) best = ! fits each gap. There is an example at the
+
+No doubt you may be (0) to think that in this day and age, traditional pursuits are no longer 'in'
+and that we would have (1) away with oldfashioned hobbies that don't involve computers. Nothing
+of the (2) if anything, the internet has made it easier for people with specialist hobbies in
+diferent corners of the planet to (3) themselves to their passion and to support one another.
+With one quick press of a key, (4) car collectors are online, comparing notes and restoration
+(5) with enthusiasts in distant lands. if a part needs replacing, a vast electronic inventory is out
+there (6) and waiting. After a day in the field, birdwatchers can post sightings they consider
+worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
+Thankfully, face to face contact does still take place. Historic car rales and races have a large following.
+Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the
+cards missing from their collections.
+1A done B taken C put D sent
+2 Atype B sort C variety D brand
+3. A focus B present stick D devote
+4 Ancient —_B historical € classic D epic
+5 Ameans —B techniques crafts D systems
+6 A handy B wiling € ready D open
+7 A relate B share € connect —_D join
+8 Abid B purchase C invest D subscribe
+@ Exam tips
+'+ Read through the whole text first for overall meaning
+'+ Read again and look at the words before and after the gaps in the text and check for clues like
+determiners (that, this, etc.), verb forms, pronouns and prepositions. These words may be the
+reason why one particular option is the correct word for the gap.
+14 ADVANCED READING AND USE OF ENGLISH I PART 1 I 2 'C Cambridge University Press and UCLES 2018
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q01
+set_id=BOOSTER_W2_P1
+number=1
+prompt=and that we would have (1) away with oldfashioned hobbies that don't involve computers.
+options={"A": "done", "B": "taken", "C": "put", "D": "sent"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (done) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q02
+set_id=BOOSTER_W2_P1
+number=2
+prompt=of the (2) if anything, the internet has made it easier for people with specialist hobbies in diferent corners of the planet to (3) themselves to their passion and to support one another.
+options={"A": "type", "B": "sort", "C": "variety", "D": "brand"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (sort) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q03
+set_id=BOOSTER_W2_P1
+number=3
+prompt=diferent corners of the planet to (3) themselves to their passion and to support one another.
+options={"A": "focus", "B": "present", "C": "stick", "D": "devote"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (devote) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q04
+set_id=BOOSTER_W2_P1
+number=4
+prompt=With one quick press of a key, (4) car collectors are online, comparing notes and restoration (5) with enthusiasts in distant lands.
+options={"A": "ancient", "B": "historical", "C": "classic", "D": "epic"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (classic) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q05
+set_id=BOOSTER_W2_P1
+number=5
+prompt=(5) with enthusiasts in distant lands.
+options={"A": "means", "B": "techniques", "C": "crafts", "D": "systems"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (techniques) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q06
+set_id=BOOSTER_W2_P1
+number=6
+prompt=there (6) and waiting.
+options={"A": "handy", "B": "willing", "C": "ready", "D": "open"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (ready) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q07
+set_id=BOOSTER_W2_P1
+number=7
+prompt=worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
+options={"A": "relate", "B": "share", "C": "connect", "D": "join"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (relate) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P1_Q08
+set_id=BOOSTER_W2_P1
+number=8
+prompt=Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the cards missing from their collections.
+options={"A": "bid", "B": "purchase", "C": "invest", "D": "subscribe"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (purchase) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=What do you call a ...?
+source_pdf_pages=20
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS. Example: (0) iT
+
+only one word in each gap. There is an example at the beginning (0).
+Write your answers IN CAPITAL LETTERS.
+Example: (0) iT
+What do you call a... ?
+Lets face (0) , there are some pretty
+weird and wonderful entries on the list of names for 4
+living creatures. Some might give you a very clear 5
+picture of (1) to expect when you look at iii
+it! A blobfish has to be round, right? You won't find 7 Agi iy
+leafy sea dragons on land, (2) you? In the S</prge
+18" century, science took the important step of (a P
+giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y
+around the world to communicate unambiguously. a
+To (4) certain extent, the system, known
+(5) 'binomial nomenclature', has done its job. Names often give a clear indication of origin
+(japonica), colour (azurea ) or size (nana). On the other hand, it has produced some fun terms, to
+(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently
+7) of the singer's contribution to the arachnid world, The more you swot up (8) this
+fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a
+creature called, believe it or not, a 'ried egg jellyfish'
+(a)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q01
+set_id=BOOSTER_W2_P2
+number=1
+prompt=picture of (1) to expect when you look at iii it! A blobfish has to be round, right? You won't find 7 Agi iy leafy sea dragons on land, (2) you? In the S</prge 18" century, science took the important step of (a P giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WHAT
+accepted_answers=WHAT
+max_points=1
+error_category=open_cloze
+explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q02
+set_id=BOOSTER_W2_P2
+number=2
+prompt=leafy sea dragons on land, (2) you? In the S</prge 18" century, science took the important step of (a P giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WILL
+accepted_answers=WILL
+max_points=1
+error_category=open_cloze
+explanation=WILL completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q03
+set_id=BOOSTER_W2_P2
+number=3
+prompt=giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y around the world to communicate unambiguously.
+correct_answer=WITH
+accepted_answers=WITH
+max_points=1
+error_category=open_cloze
+explanation=WITH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q04
+set_id=BOOSTER_W2_P2
+number=4
+prompt=To (4) certain extent, the system, known (5) 'binomial nomenclature', has done its job.
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=open_cloze
+explanation=A completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q05
+set_id=BOOSTER_W2_P2
+number=5
+prompt=(5) 'binomial nomenclature', has done its job.
+correct_answer=AS
+accepted_answers=AS
+max_points=1
+error_category=open_cloze
+explanation=AS completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q06
+set_id=BOOSTER_W2_P2
+number=6
+prompt=(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently 7) of the singer's contribution to the arachnid world, The more you swot up (8) this fascinating subject, the more youll learn (and chuckle), believe me! Ive ju
+correct_answer=SAY
+accepted_answers=SAY
+max_points=1
+error_category=open_cloze
+explanation=SAY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q07
+set_id=BOOSTER_W2_P2
+number=7
+prompt=Gap 7
+correct_answer=BECAUSE
+accepted_answers=BECAUSE
+max_points=1
+error_category=open_cloze
+explanation=BECAUSE completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P2_Q08
+set_id=BOOSTER_W2_P2
+number=8
+prompt=7) of the singer's contribution to the arachnid world, The more you swot up (8) this fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a creature called, believe it or not, a 'ried egg jellyfish' (a)
+correct_answer=ON/ABOUT
+accepted_answers=ON | ABOUT
+max_points=1
+error_category=open_cloze
+explanation=ON/ABOUT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Addressing health concerns
+source_pdf_pages=26
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in " capitals at the end of some of the lines to form a word that F ee nN } fits in the gap in the same line. There is an example at the Soa! beginning (0). AP iy ae |
+
+Healthy eating and keeping physically active are (0) important PARTICULAR
+for children and adolescents. Their nutrition and lifestyle have a direct impact
+on their (1) and development. Moreover, worldwide trends GROW
+in obesity in children and teenagers are becoming (2) INCREASE
+worrying. Being overweight or obese has been linked to a greater
+(3) of various health complaints later in lf. occur
+One way to improve the dietary habits of schoolchildren is to make
+(4) ww to the food served for lunch. Several leading UK chefs 'ADJUST
+have launched campaigns to improve the nutritional quality of the food on school
+menus. Despite (5) publicity, the improvements to school CONSIDER
+dinners have not realy (6) - Attention has now turned to MATERIAL
+reducing excess sugar in foods and beverages.
+Some local authorities are introducing a tax on drinks with more than a permitted
+amount of sugar. (7) have already begun decreasing the MANUFACTURE
+'quantity of sugar in their drinks. Health campaigners are delighted with this
+reduction and also with the news that (8) raised from the tax COME
+will go towards school sports.
+* Look at the words before and after each gap and decide what kind of word you need to write
+~ for example, a noun, a verb or an adjective. IIf you need a noun, check whether it should be
+singular or plural.
++ As well as adding prefixes or suffixes, check iIf you need to make any internal spelling changes.
+* You may only need to make one change to the word given in capital letters, but most often you
+will have to make two or more changes.
+26 ADVANCED READING AND USE OF ENGLISH I PART 3 I 2 'C Cambridge University Press and UCLES 2018
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q01
+set_id=BOOSTER_W2_P3
+number=1
+prompt=on their (1) and development.
+base_word=GROW
+correct_answer=GROWTH
+accepted_answers=GROWTH
+max_points=1
+error_category=word_formation
+explanation=The base word GROW must be changed to GROWTH, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q02
+set_id=BOOSTER_W2_P3
+number=2
+prompt=in obesity in children and teenagers are becoming (2) INCREASE worrying.
+base_word=INCREASE
+correct_answer=INCREASINGLY
+accepted_answers=INCREASINGLY
+max_points=1
+error_category=word_formation
+explanation=The base word INCREASE must be changed to INCREASINGLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q03
+set_id=BOOSTER_W2_P3
+number=3
+prompt=(3) of various health complaints later in lf.
+base_word=OCCUR
+correct_answer=OCCURRENCE
+accepted_answers=OCCURRENCE
+max_points=1
+error_category=word_formation
+explanation=The base word OCCUR must be changed to OCCURRENCE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q04
+set_id=BOOSTER_W2_P3
+number=4
+prompt=(4) ww to the food served for lunch.
+base_word=ADJUST
+correct_answer=ADJUSTMENTS
+accepted_answers=ADJUSTMENTS
+max_points=1
+error_category=word_formation
+explanation=The base word ADJUST must be changed to ADJUSTMENTS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q05
+set_id=BOOSTER_W2_P3
+number=5
+prompt=Despite (5) publicity, the improvements to school CONSIDER dinners have not realy (6) - Attention has now turned to MATERIAL reducing excess sugar in foods and beverages.
+base_word=CONSIDER
+correct_answer=CONSIDERABLE
+accepted_answers=CONSIDERABLE
+max_points=1
+error_category=word_formation
+explanation=The base word CONSIDER must be changed to CONSIDERABLE, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q06
+set_id=BOOSTER_W2_P3
+number=6
+prompt=dinners have not realy (6) - Attention has now turned to MATERIAL reducing excess sugar in foods and beverages.
+base_word=MATERIAL
+correct_answer=MATERIALISED/MATERIALIZED
+accepted_answers=MATERIALISED | MATERIALIZED
+max_points=1
+error_category=word_formation
+explanation=The base word MATERIAL must be changed to MATERIALISED/MATERIALIZED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q07
+set_id=BOOSTER_W2_P3
+number=7
+prompt=(7) have already begun decreasing the MANUFACTURE 'quantity of sugar in their drinks.
+base_word=MANUFACTURE
+correct_answer=MANUFACTURERS
+accepted_answers=MANUFACTURERS
+max_points=1
+error_category=word_formation
+explanation=The base word MANUFACTURE must be changed to MANUFACTURERS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P3_Q08
+set_id=BOOSTER_W2_P3
+number=8
+prompt=reduction and also with the news that (8) raised from the tax COME will go towards school sports.
+base_word=COME
+correct_answer=INCOME
+accepted_answers=INCOME
+max_points=1
+error_category=word_formation
+explanation=The base word COME must be changed to INCOME, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The media
+source_pdf_pages=33
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence 0 that it has a similar meaning to the first sentence, ei using the word given. Do not change the word given. You must use between three and six words, including the word given, Here is an example (0).
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q01
+set_id=BOOSTER_W2_P4
+number=1
+prompt=John reads what's happening in the world on his commute to work.
+keyword=DATE
+second_sentence=John ______ the news on his commute to work.
+correct_answer=KEEPS (HIMSELF)/STAYS UP TO DATE WITH
+accepted_answers=KEEPS (HIMSELF) | STAYS UP TO DATE WITH
+max_points=2
+error_category=key_word_transformations
+explanation=KEEPS (HIMSELF)/STAYS UP TO DATE WITH preserves the original meaning, includes the unchanged key word DATE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q02
+set_id=BOOSTER_W2_P4
+number=2
+prompt=Without that promotional campaign, sales would never have been so high.
+keyword=FOR
+second_sentence=It ______ that promotional campaign, sales would have been lower.
+correct_answer=IT HADN'T/HAD NOT BEEN FOR | IT WERE/WAS NOT FOR
+accepted_answers=IT HADN'T | HAD NOT BEEN FOR | IT WERE | WAS NOT FOR
+max_points=2
+error_category=key_word_transformations
+explanation=IT HADN'T/HAD NOT BEEN FOR | IT WERE/WAS NOT FOR preserves the original meaning, includes the unchanged key word FOR, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q03
+set_id=BOOSTER_W2_P4
+number=3
+prompt=When it comes down to it, it's not worth the money.
+keyword=AMOUNTS
+second_sentence=What ______ it is too expensive.
+correct_answer=IT AMOUNTS TO | IS THAT IT
+accepted_answers=IT AMOUNTS TO | IS THAT IT
+max_points=2
+error_category=key_word_transformations
+explanation=IT AMOUNTS TO | IS THAT IT preserves the original meaning, includes the unchanged key word AMOUNTS, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q04
+set_id=BOOSTER_W2_P4
+number=4
+prompt=Suddenly, the novelist became successful.
+keyword=BLUE
+second_sentence=Success ______ for the novelist.
+correct_answer=CAME OUT OF THE BLUE
+accepted_answers=CAME OUT OF THE BLUE
+max_points=2
+error_category=key_word_transformations
+explanation=CAME OUT OF THE BLUE preserves the original meaning, includes the unchanged key word BLUE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q05
+set_id=BOOSTER_W2_P4
+number=5
+prompt=I think you may be right about the whole story being a hoax.
+keyword=INCLINED
+second_sentence=I'm ______ that the whole story is a hoax.
+correct_answer=INCLINED TO AGREE WITH YOU
+accepted_answers=INCLINED TO AGREE WITH YOU
+max_points=2
+error_category=key_word_transformations
+explanation=INCLINED TO AGREE WITH YOU preserves the original meaning, includes the unchanged key word INCLINED, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W2_P4_Q06
+set_id=BOOSTER_W2_P4
+number=6
+prompt=The organisers were not happy with the way the press covered the event.
+keyword=ISSUE
+second_sentence=The organisers ______ of the event.
+correct_answer=TOOK ISSUE WITH THE (PRESS) COVERAGE
+accepted_answers=TOOK ISSUE WITH THE (PRESS) COVERAGE
+max_points=2
+error_category=key_word_transformations
+explanation=TOOK ISSUE WITH THE (PRESS) COVERAGE preserves the original meaning, includes the unchanged key word ISSUE, and fits the three-to-six-word limit.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=News sharing
+source_pdf_pages=17
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and = decide which answer (A, B, C or D) best fits each gap. There is an example at the
+
+The way we obtain our news coverage is always (0) . The public can gain information on current
+events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth,
+With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of
+the local inn. With the (3) . of radio, whole families Could (4)... together in the living room to
+listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) in the most used
+rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact
+that many wil (6) in to them on their computer or tablet instead of turning their radio ial
+With the (7) use of social media, news travels faster than ever before. Minute-by-minute coverage
+of the news no longer relies on TV networks. Increased internet access enables individuals to share
+photos, opinions and even lve videos with one sharp (8) on the screen.
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q01
+set_id=BOOSTER_W3_P1
+number=1
+prompt=events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth, With town crierS (2) .
+options={"A": "opportunities", "B": "causes", "C": "ways", "D": "sources"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (sources) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q02
+set_id=BOOSTER_W3_P1
+number=2
+prompt=With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of the local inn.
+options={"A": "explaining", "B": "informing", "C": "noting", "D": "communicating"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (informing) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q03
+set_id=BOOSTER_W3_P1
+number=3
+prompt=With the (3) . of radio, whole families Could (4).
+options={"A": "arrival", "B": "entrance", "C": "starting", "D": "approach"}
+correct_answer=A
+accepted_answers=A
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option A (arrival) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q04
+set_id=BOOSTER_W3_P1
+number=4
+prompt=of radio, whole families Could (4)... together in the living room to listen to the daily news bulletin.
+options={"A": "team", "B": "gang", "C": "gather", "D": "unite"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (gather) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q05
+set_id=BOOSTER_W3_P1
+number=5
+prompt=Even today, when TV sets occupy a prime (5) in the most used rooms in our house, some listeners remain faithful to their radio stations.
+options={"A": "area", "B": "site", "C": "position", "D": "point"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (position) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q06
+set_id=BOOSTER_W3_P1
+number=6
+prompt=that many wil (6) in to them on their computer or tablet instead of turning their radio ial With the (7) use of social media, news travels faster than ever before.
+options={"A": "turn", "B": "switch", "C": "tune", "D": "start"}
+correct_answer=C
+accepted_answers=C
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option C (tune) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q07
+set_id=BOOSTER_W3_P1
+number=7
+prompt=With the (7) use of social media, news travels faster than ever before.
+options={"A": "sweeping", "B": "absolute", "C": "large", "D": "widespread"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option D (widespread) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P1_Q08
+set_id=BOOSTER_W3_P1
+number=8
+prompt=photos, opinions and even lve videos with one sharp (8) on the screen.
+options={"A": "stroke", "B": "tap", "C": "squeeze", "D": "nudge"}
+correct_answer=B
+accepted_answers=B
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Option B (tap) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=National parks
+source_pdf_pages=23
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below and think of the word which best fits each gap. Use
+
+You realise (0) truly incredible the natural environment is when you take a trip to one of the
+world's national parks. To be eligible for national park status, a place must possess a unique natural,
+cultural or recreational resource and be considered in need (1) protection. Fortunately, a
+considerable number of natural gems have been designated as national parks and (2) are also
+World Heritage sites.
+From hot springs (3) snowy peaks, these postcard.worthy destinations (4) definitely be
+'on your lst of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are
+extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking
+or rafting, surrounded (6) nature. The largest national park in the world isnt easily accessible,
+being in @ remote area of Greenland and boasting a permanent population of zero. It's al80 (7) omen
+used to receiving visitors (around 500 a year). Ths is a long way from the estimated 11 milion tourists
+(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+Bi ee
+(C)
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q01
+set_id=BOOSTER_W3_P2
+number=1
+prompt=cultural or recreational resource and be considered in need (1) protection.
+correct_answer=OF
+accepted_answers=OF
+max_points=1
+error_category=open_cloze
+explanation=OF completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q02
+set_id=BOOSTER_W3_P2
+number=2
+prompt=considerable number of natural gems have been designated as national parks and (2) are also World Heritage sites.
+correct_answer=SOME/MANY
+accepted_answers=SOME | MANY
+max_points=1
+error_category=open_cloze
+explanation=SOME/MANY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q03
+set_id=BOOSTER_W3_P2
+number=3
+prompt=From hot springs (3) snowy peaks, these postcard.
+correct_answer=TO
+accepted_answers=TO
+max_points=1
+error_category=open_cloze
+explanation=TO completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q04
+set_id=BOOSTER_W3_P2
+number=4
+prompt=worthy destinations (4) definitely be 'on your lst of places to visit.
+correct_answer=SHOULD/COULD
+accepted_answers=SHOULD | COULD
+max_points=1
+error_category=open_cloze
+explanation=SHOULD/COULD completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q05
+set_id=BOOSTER_W3_P2
+number=5
+prompt=extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking or rafting, surrounded (6) nature.
+correct_answer=WITH
+accepted_answers=WITH
+max_points=1
+error_category=open_cloze
+explanation=WITH completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q06
+set_id=BOOSTER_W3_P2
+number=6
+prompt=or rafting, surrounded (6) nature.
+correct_answer=BY
+accepted_answers=BY
+max_points=1
+error_category=open_cloze
+explanation=BY completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q07
+set_id=BOOSTER_W3_P2
+number=7
+prompt=It's al80 (7) omen used to receiving visitors (around 500 a year).
+correct_answer=NOT
+accepted_answers=NOT
+max_points=1
+error_category=open_cloze
+explanation=NOT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P2_Q08
+set_id=BOOSTER_W3_P2
+number=8
+prompt=(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+correct_answer=WHO/THAT
+accepted_answers=WHO | THAT
+max_points=1
+error_category=open_cloze
+explanation=WHO/THAT completes the one-word gap grammatically and coherently in the full context.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=How travel inspired my life
+source_pdf_pages=29
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1-8, read the text below. Use the word given in — capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) CHILDHOOD Se
+
+Today, I travel all around the world as a jewellery designer, but travel was also
+central to my (0) childhood My parents encouraged my sister CHILD
+and me to keep records of our (1) in journals and to put REFLECT
+together scrapbooks with souvenirs of our adventures. Before departure, a
+private tutor was hired to equip us with the (2) of our BASE
+destination's native tongue. My poor sister was not a (3) vnnnnnmsnnn PARTICULAR
+brilliant linguist and found the whole process a considerable strain. My
+experience was very different. My wanderlust was (4) FORCE
+when, straight out of school, I had the opportunity to spend periods in India,
+Eastern Europe, Africa and Asia. I travel like a (5) explorer, REST
+absorbing the details of art and architecture, going into the local history and
+traditions in (6) ooo wow» bring this approach to my work today. DEEP
+1I am constantly reading, researching and (7) my knowledge. BROAD
+Not (8) , every jewellery collection I work on is an utterly SURPRISE
+'unique representation of a part of my life's voyage.
+ee
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q01
+set_id=BOOSTER_W3_P3
+number=1
+prompt=and me to keep records of our (1) in journals and to put REFLECT together scrapbooks with souvenirs of our adventures.
+base_word=REFLECT
+correct_answer=REFLECTIONS
+accepted_answers=REFLECTIONS
+max_points=1
+error_category=word_formation
+explanation=The base word REFLECT must be changed to REFLECTIONS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q02
+set_id=BOOSTER_W3_P3
+number=2
+prompt=private tutor was hired to equip us with the (2) of our BASE destination's native tongue.
+base_word=BASE
+correct_answer=BASICS
+accepted_answers=BASICS
+max_points=1
+error_category=word_formation
+explanation=The base word BASE must be changed to BASICS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q03
+set_id=BOOSTER_W3_P3
+number=3
+prompt=My poor sister was not a (3) vnnnnnmsnnn PARTICULAR brilliant linguist and found the whole process a considerable strain.
+base_word=PARTICULAR
+correct_answer=PARTICULARLY
+accepted_answers=PARTICULARLY
+max_points=1
+error_category=word_formation
+explanation=The base word PARTICULAR must be changed to PARTICULARLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q04
+set_id=BOOSTER_W3_P3
+number=4
+prompt=My wanderlust was (4) FORCE when, straight out of school, I had the opportunity to spend periods in India, Eastern Europe, Africa and Asia.
+base_word=FORCE
+correct_answer=REINFORCED
+accepted_answers=REINFORCED
+max_points=1
+error_category=word_formation
+explanation=The base word FORCE must be changed to REINFORCED, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q05
+set_id=BOOSTER_W3_P3
+number=5
+prompt=I travel like a (5) explorer, REST absorbing the details of art and architecture, going into the local history and traditions in (6) ooo wow» bring this approach to my work today.
+base_word=REST
+correct_answer=RESTLESS
+accepted_answers=RESTLESS
+max_points=1
+error_category=word_formation
+explanation=The base word REST must be changed to RESTLESS, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q06
+set_id=BOOSTER_W3_P3
+number=6
+prompt=traditions in (6) ooo wow» bring this approach to my work today.
+base_word=DEEP
+correct_answer=DEPTH
+accepted_answers=DEPTH
+max_points=1
+error_category=word_formation
+explanation=The base word DEEP must be changed to DEPTH, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q07
+set_id=BOOSTER_W3_P3
+number=7
+prompt=1I am constantly reading, researching and (7) my knowledge.
+base_word=BROAD
+correct_answer=BROADENING
+accepted_answers=BROADENING
+max_points=1
+error_category=word_formation
+explanation=The base word BROAD must be changed to BROADENING, matching the required word class, meaning and form.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P3_Q08
+set_id=BOOSTER_W3_P3
+number=8
+prompt=Not (8) , every jewellery collection I work on is an utterly SURPRISE 'unique representation of a part of my life's voyage.
+base_word=SURPRISE
+correct_answer=SURPRISINGLY
+accepted_answers=SURPRISINGLY
+max_points=1
+error_category=word_formation
+explanation=The base word SURPRISE must be changed to SURPRISINGLY, matching the required word class, meaning and form.
+[/ITEM]
+
+[SET]
+set_id=BOOSTER_W3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The environment
+source_pdf_pages=35
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first
+
+
+text_end
+[/SET]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q01
+set_id=BOOSTER_W3_P4
+number=1
+prompt=Before last Friday, representatives had not been able to reach an agreement.
+keyword=UNTIL
+second_sentence=It wasn't ______ able to reach an agreement.
+correct_answer=UNTIL LAST FRIDAY THAT REPRESENTATIVES WERE
+accepted_answers=UNTIL LAST FRIDAY THAT REPRESENTATIVES WERE
+max_points=2
+error_category=key_word_transformations
+explanation=UNTIL LAST FRIDAY THAT REPRESENTATIVES WERE preserves the original meaning, includes the unchanged key word UNTIL, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q02
+set_id=BOOSTER_W3_P4
+number=2
+prompt=The environmentalist supported his claims with scientific evidence.
+keyword=BACKED
+second_sentence=The environmentalist's ______ with scientific evidence.
+correct_answer=CLAIMS WERE BACKED UP
+accepted_answers=CLAIMS WERE BACKED UP
+max_points=2
+error_category=key_word_transformations
+explanation=CLAIMS WERE BACKED UP preserves the original meaning, includes the unchanged key word BACKED, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q03
+set_id=BOOSTER_W3_P4
+number=3
+prompt=If nothing is done to combat climate change, one tenth of the area will soon be under water.
+keyword=STEPS
+second_sentence=One tenth of the area will soon be under water ______ counteract climate change.
+correct_answer=UNLESS/IF NO STEPS ARE TAKEN TO | UNLESS WE TAKE STEPS TO
+accepted_answers=UNLESS | IF NO STEPS ARE TAKEN TO | UNLESS WE TAKE STEPS TO
+max_points=2
+error_category=key_word_transformations
+explanation=UNLESS/IF NO STEPS ARE TAKEN TO | UNLESS WE TAKE STEPS TO preserves the original meaning, includes the unchanged key word STEPS, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q04
+set_id=BOOSTER_W3_P4
+number=4
+prompt=I was totally amazed at how spectacularly beautiful the coastline was.
+keyword=UTTERLY
+second_sentence=What I found ______ beauty of the coastline.
+correct_answer=UTTERLY AMAZING WAS THE (SPECTACULAR)
+accepted_answers=UTTERLY AMAZING WAS THE (SPECTACULAR)
+max_points=2
+error_category=key_word_transformations
+explanation=UTTERLY AMAZING WAS THE (SPECTACULAR) preserves the original meaning, includes the unchanged key word UTTERLY, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q05
+set_id=BOOSTER_W3_P4
+number=5
+prompt=As long as you explain your proposal clearly, they will agree.
+keyword=ACROSS
+second_sentence=If ______, they will agree.
+correct_answer=YOU PUT/GET YOUR PROPOSAL ACROSS CLEARLY
+accepted_answers=YOU PUT | GET YOUR PROPOSAL ACROSS CLEARLY
+max_points=2
+error_category=key_word_transformations
+explanation=YOU PUT/GET YOUR PROPOSAL ACROSS CLEARLY preserves the original meaning, includes the unchanged key word ACROSS, and fits the three-to-six-word limit.
+[/ITEM]
+
+[ITEM]
+id=BOOSTER_W3_P4_Q06
+set_id=BOOSTER_W3_P4
+number=6
+prompt=Solar panels and wind turbines are far more commonplace now.
+keyword=SIGHT
+second_sentence=Solar panels and wind turbines used to ______ before.
+correct_answer=BE A MUCH/FAR LESS COMMON SIGHT
+accepted_answers=BE A MUCH | FAR LESS COMMON SIGHT
+max_points=2
+error_category=key_word_transformations
+explanation=BE A MUCH/FAR LESS COMMON SIGHT preserves the original meaning, includes the unchanged key word SIGHT, and fits the three-to-six-word limit.
+[/ITEM]
