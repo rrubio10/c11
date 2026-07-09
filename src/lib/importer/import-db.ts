@@ -27,23 +27,30 @@ export async function importMasterText(content: string, sourceName = "C1_exercis
       const importedExternalIds: string[] = [];
       for (const item of set.items) {
         importedExternalIds.push(item.id);
+        const uniqueAcceptedAnswers = Array.from(
+          new Map(
+            item.acceptedAnswers
+              .filter((answer) => answer.trim().length > 0)
+              .map((answer) => [normalizeAnswer(answer), answer.trim()]),
+          ).values(),
+        );
         const row = await tx.exerciseItem.upsert({
           where: { externalId: item.id },
           create: {
             externalId: item.id, exerciseSetId: exerciseSet.id, number: item.number, prompt: item.prompt,
             optionsJson: JSON.stringify(item.options), keyword: item.keyword, baseWord: item.baseWord,
-            correctAnswer: item.correctAnswer, acceptedJson: JSON.stringify(item.acceptedAnswers), maximumPoints: item.maxPoints,
+            correctAnswer: item.correctAnswer, acceptedJson: JSON.stringify(uniqueAcceptedAnswers), maximumPoints: item.maxPoints,
             errorCategory: item.errorCategory, explanation: item.explanation, displayOrder: item.number,
           },
           update: {
             exerciseSetId: exerciseSet.id, number: item.number, prompt: item.prompt, optionsJson: JSON.stringify(item.options),
             keyword: item.keyword, baseWord: item.baseWord, correctAnswer: item.correctAnswer,
-            acceptedJson: JSON.stringify(item.acceptedAnswers), maximumPoints: item.maxPoints, errorCategory: item.errorCategory,
+            acceptedJson: JSON.stringify(uniqueAcceptedAnswers), maximumPoints: item.maxPoints, errorCategory: item.errorCategory,
             explanation: item.explanation, displayOrder: item.number, active: true,
           },
         });
         await tx.answerVariant.deleteMany({ where: { exerciseItemId: row.id, source: "IMPORT" } });
-        for (const answer of item.acceptedAnswers) {
+        for (const answer of uniqueAcceptedAnswers) {
           await tx.answerVariant.create({ data: { exerciseItemId: row.id, answer, normalized: normalizeAnswer(answer), points: item.maxPoints, source: "IMPORT" } });
         }
       }

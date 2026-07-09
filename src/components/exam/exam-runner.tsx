@@ -342,7 +342,7 @@ function buildInlineChunks({
   const itemByNumber = new Map(set.items.map((item) => [item.number, item]));
   const chunks: ReactNode[] = [];
   let last = 0;
-  const gapPattern = /\((\d{1,3})\)\s*\.{2,}/g;
+  const gapPattern = /\((\d{1,3})\)\s*(?:\.{2,}|_{2,}|…+)/g;
   let match: RegExpExecArray | null;
   while ((match = gapPattern.exec(text))) {
     chunks.push(text.slice(last, match.index));

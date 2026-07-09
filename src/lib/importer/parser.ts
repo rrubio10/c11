@@ -25,6 +25,32 @@ function splitInstructions(fullText: string, title: string) {
   return fullText.slice(0, index).trim();
 }
 
+
+function parseExplicitOptions(value?: string) {
+  if (!value?.trim()) return [] as Array<{ key: string; label: string }>;
+  try {
+    const parsed = JSON.parse(value) as unknown;
+    if (Array.isArray(parsed)) {
+      return parsed
+        .map((entry) => {
+          if (!entry || typeof entry !== "object") return null;
+          const candidate = entry as { key?: unknown; label?: unknown };
+          if (typeof candidate.key !== "string" || typeof candidate.label !== "string") return null;
+          return { key: candidate.key.trim().toUpperCase(), label: candidate.label.trim() };
+        })
+        .filter((entry): entry is { key: string; label: string } => Boolean(entry));
+    }
+    if (parsed && typeof parsed === "object") {
+      return Object.entries(parsed as Record<string, unknown>)
+        .filter(([, label]) => typeof label === "string")
+        .map(([key, label]) => ({ key: key.trim().toUpperCase(), label: String(label).trim() }));
+    }
+  } catch {
+    return [];
+  }
+  return [];
+}
+
 function findOptions(fullText: string, number: number) {
   const lines = fullText.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
   const start = lines.findIndex((line) => new RegExp(`^${number}\\s+A\\s+`, "i").test(line));
@@ -175,17 +201,18 @@ export function parseMaster(content: string): ParseReport {
       const trailingQuestion = [6, 8].includes(part) ? findTrailingNumberQuestion(fullText, number) : "";
       const segment = trailingQuestion || findQuestionSegment(fullText, number, nextNumber);
       const accepted = (raw.accepted_answers || raw.correct_answer || "").split(/\s*\|\s*/).filter(Boolean);
-      let prompt = segment;
-      let keyword: string | undefined;
-      let baseWord: string | undefined;
-      let options = findOptions(fullText, number);
+      let prompt = raw.prompt?.trim() || segment;
+      let keyword: string | undefined = raw.keyword?.trim() || undefined;
+      let baseWord: string | undefined = raw.base_word?.trim() || undefined;
+      let options = parseExplicitOptions(raw.options);
+      if (options.length === 0) options = findOptions(fullText, number);
       if (options.length === 0) options = findOptionsInSegment(segment);
-      if (part === 4) {
+      if (part === 4 && (!raw.prompt?.trim() || !keyword)) {
         const kwt = parseKwt(segment);
-        prompt = kwt.prompt;
-        keyword = kwt.keyword;
+        if (!raw.prompt?.trim()) prompt = kwt.prompt;
+        if (!keyword) keyword = kwt.keyword;
       }
-      if (part === 3) baseWord = findBaseWord(segment);
+      if (part === 3 && !baseWord) baseWord = findBaseWord(segment);
       if (part === 7 && options.length === 0) options = findGlobalOptionParagraphs(fullText, "G");
       if ([6, 7, 8].includes(part) && options.length === 0) {
         options = choiceOptionsForMatching(fullText, part);

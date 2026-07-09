@@ -63,6 +63,47 @@ describe("master TXT parser", () => {
     expect(result.sets[0].items[0].acceptedAnswers).toEqual(["AN", "ONE"]);
   });
 
+  it("uses explicit prompt, options, keyword and base_word fields", () => {
+    const source = `[SET]
+set_id=EXPLICIT_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Explicit options
+source_pdf_pages=1
+transcription_status=verified
+notes=
+item_count=1
+text_begin
+For questions 1-1, choose A, B, C or D.
+Text with (1) ______ gap.
+text_end
+[/SET]
+
+[ITEM]
+id=EXPLICIT_P1_Q01
+set_id=EXPLICIT_P1
+number=1
+prompt=Text with (1) ______ gap.
+options={"A":"alpha","B":"beta","C":"gamma","D":"delta"}
+correct_answer=D
+accepted_answers=D
+max_points=1
+error_category=multiple_choice_cloze
+explanation=Test.
+[/ITEM]`;
+    const result = parseMaster(source);
+    expect(result.errors).toEqual([]);
+    expect(result.sets[0].items[0].prompt).toContain("Text with");
+    expect(result.sets[0].items[0].options).toEqual([
+      { key: "A", label: "alpha" },
+      { key: "B", label: "beta" },
+      { key: "C", label: "gamma" },
+      { key: "D", label: "delta" },
+    ]);
+  });
+
   it("detects mismatched item_count", () => {
     const result = parseMaster(fixture.replace("item_count=2", "item_count=3"));
     expect(result.errors.some((error) => error.includes("item_count=3"))).toBe(true);
