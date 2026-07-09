@@ -89,3 +89,28 @@ describe("master TXT parser", () => {
     expect(await db.exerciseSet.count({ where: { externalId: "TEST_FIXTURE_P2" } })).toBe(1);
   });
 });
+
+it("replaces the damaged Test 1 Reading OCR with structured verified content", async () => {
+  const source = await readFile(path.join(process.cwd(), "data/import/C1_exercises_master.txt"), "utf8");
+  const result = parseMaster(source);
+  const part5 = result.sets.find((set) => set.setId === "ADV5_T1_P5");
+  const part6 = result.sets.find((set) => set.setId === "ADV5_T1_P6");
+  const part7 = result.sets.find((set) => set.setId === "ADV5_T1_P7");
+  const part8 = result.sets.find((set) => set.setId === "ADV5_T1_P8");
+
+  expect(part5?.transcriptionStatus).toBe("verified_from_source_scan");
+  expect(part5?.fullText).toContain("an octopus named Inky");
+  expect(part5?.items[0].prompt).toContain("octopuses");
+  expect(part5?.items[0].options).toHaveLength(4);
+
+  expect(part6?.fullText).toContain("A\nWhat I love about architecture");
+  expect(part6?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
+
+  expect(part7?.fullText).toContain("[[41]]");
+  expect(part7?.items[0].options).toHaveLength(7);
+  expect(part7?.items[0].options[0].label.length).toBeGreaterThan(100);
+
+  expect(part8?.fullText).toContain("A\nA student is researching scholarly material");
+  expect(part8?.items[0].prompt).toContain("rule change");
+  expect(part8?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
+});

@@ -1,5 +1,6 @@
 import { createHash } from "node:crypto";
 import type { ParseReport, ParsedItem, ParsedSet } from "./types";
+import { applyContentOverride } from "./content-overrides";
 
 function fields(block: string) {
   const out: Record<string, string> = {};
@@ -94,6 +95,40 @@ function findGlobalOptionParagraphs(fullText: string, maxLetter = "G") {
   return out.filter((o, i, arr) => arr.findIndex((x) => x.key === o.key) === i);
 }
 
+
+function findTrailingNumberQuestion(fullText: string, number: number) {
+  const lines = fullText.split(/\r?\n/);
+  const numberPattern = new RegExp(`(?:^|\\s)${number}\\s*$`);
+  const index = lines.findIndex((line) => numberPattern.test(line.trim()));
+  if (index < 0) return "";
+  let start = index;
+  let end = index;
+  while (start > 0 && lines[start - 1].trim()) start -= 1;
+  while (end + 1 < lines.length && lines[end + 1].trim() && !/^([A-G])$/.test(lines[end + 1].trim())) end += 1;
+  return lines
+    .slice(start, end + 1)
+    .join(" ")
+    .replace(new RegExp(`\\s*${number}\\s*`), " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function choiceOptionsForMatching(fullText: string, part: number) {
+  if (part === 7) return ["A", "B", "C", "D", "E", "F", "G"].map((key) => ({ key, label: `Paragraph ${key}` }));
+  const range = fullText.match(/(?:reviews|reviewers|architects|consultants|sections|texts)\s*\(A\s*[–-]\s*([A-G])\)/i);
+  const last = range?.[1] ?? "D";
+  const letters = "ABCDEFG".slice(0, "ABCDEFG".indexOf(last) + 1).split("");
+  const lower = fullText.toLowerCase();
+  const noun = lower.includes("consultant")
+    ? "Consultant"
+    : lower.includes("review")
+      ? "Reviewer"
+      : lower.includes("architect")
+        ? "Architect"
+        : "Section";
+  return letters.map((key) => ({ key, label: `${noun} ${key}` }));
+}
+
 function parseKwt(segment: string) {
   const lines = segment.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
   const keywordIndex = lines.findIndex((l, i) => i > 0 && /^[A-Z][A-Z'-]{1,20}$/.test(l));
@@ -136,9 +171,10 @@ export function parseMaster(content: string): ParseReport {
     const items: ParsedItem[] = rawItems.map((raw, index) => {
       const number = Number(raw.number);
       const nextNumber = rawItems[index + 1] ? Number(rawItems[index + 1].number) : undefined;
-      const segment = findQuestionSegment(fullText, number, nextNumber);
-      const accepted = (raw.accepted_answers || raw.correct_answer || "").split(/\s*\|\s*/).filter(Boolean);
       const part = Number(f.part);
+      const trailingQuestion = [6, 8].includes(part) ? findTrailingNumberQuestion(fullText, number) : "";
+      const segment = trailingQuestion || findQuestionSegment(fullText, number, nextNumber);
+      const accepted = (raw.accepted_answers || raw.correct_answer || "").split(/\s*\|\s*/).filter(Boolean);
       let prompt = segment;
       let keyword: string | undefined;
       let baseWord: string | undefined;
@@ -152,8 +188,7 @@ export function parseMaster(content: string): ParseReport {
       if (part === 3) baseWord = findBaseWord(segment);
       if (part === 7 && options.length === 0) options = findGlobalOptionParagraphs(fullText, "G");
       if ([6, 7, 8].includes(part) && options.length === 0) {
-        const letters = part === 7 ? ["A", "B", "C", "D", "E", "F", "G"] : part === 8 ? ["A", "B", "C", "D", "E"] : ["A", "B", "C", "D"];
-        options = letters.map((key) => ({ key, label: key }));
+        options = choiceOptionsForMatching(fullText, part);
       }
       return {
         id: raw.id,
@@ -172,7 +207,7 @@ export function parseMaster(content: string): ParseReport {
     });
     const itemCount = Number(f.item_count ?? 0);
     if (itemCount !== items.length) errors.push(`${f.set_id}: item_count=${itemCount}, imported=${items.length}`);
-    sets.push({
+    sets.push(applyContentOverride({
       setId: f.set_id,
       section: f.section ?? "",
       part: Number(f.part ?? 0),
@@ -187,7 +222,7 @@ export function parseMaster(content: string): ParseReport {
       fullText,
       testGroup: deriveTestGroup(f.set_id),
       items,
-    });
+    }));
   }
   for (const item of parsedRawItems) if (!setIds.has(item.set_id)) errors.push(`Orphan item ${item.id}: set ${item.set_id} not found`);
   if (!sets.length) errors.push("No SET blocks found");
