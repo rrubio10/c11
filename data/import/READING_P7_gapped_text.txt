@@ -137,65 +137,13 @@ part=7
 type=gapped_text
 level=C1
 title=Using our sense of smell
+instructions=You are going to read an article about the sense of smell. Six paragraphs have been removed. Choose from paragraphs A–G the one which fits each gap (41–46). There is one extra paragraph which you do not need to use.
 source_pdf_pages=18
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article, gaps and paragraphs checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 18 ---
-Part7
-
-epout the eee Of smell. Six Paragraphs
-ich fits ean hve
-
-920 (41-46) poet
-is
-One
-
-I we're suffering fr
-
-less acutely and i 'OM tiredness
-
-we
-ess accurately. '© tend to smey
-
-# Led a very different ki
-oe alder colour. Working with sme;
-working with the colour spectrin, Ct
-
-ind of com,
-
-you devote
-periods of time
-
-feeling certain of your
-ability to spot the difference between a natural
-and a synthetic aroma. However, when tested on
-this, people are generally deceived. For example,
-lime essential oil is identified by 90% of people as
-smelling 'chemical'. Yet synthetic but pleasantly
-smooth lime oxide is almost always identified as
-natural. Research in neuroscience backs up my
-observations of this, and it also shows that our
-
-'once it's decided _ ability to smell accurately is affected by stress.
-
-'is still picking up
-
-Aside from following sensible advice like th
-
-to
-it
-i 'ense of smell, make
-continue developing your = oe everythin
-
-a habit to smell the roses, ice. stop an
-you eat. ell something ni etter ati
-
-identify the source.
-than you can imagine ~ am
-
-good as a dog!
+[[SCAN:/reading-scans/adv5-t2-p7.webp]]
 text_end
 [/SET]
 
@@ -203,6 +151,8 @@ text_end
 id=ADV5_T2_P7_Q41
 set_id=ADV5_T2_P7
 number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -214,6 +164,8 @@ explanation=Verified option.
 id=ADV5_T2_P7_Q42
 set_id=ADV5_T2_P7
 number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=F
 accepted_answers=F
 max_points=2
@@ -225,6 +177,8 @@ explanation=Verified option.
 id=ADV5_T2_P7_Q43
 set_id=ADV5_T2_P7
 number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=G
 accepted_answers=G
 max_points=2
@@ -236,6 +190,8 @@ explanation=Verified option.
 id=ADV5_T2_P7_Q44
 set_id=ADV5_T2_P7
 number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -247,6 +203,8 @@ explanation=Verified option.
 id=ADV5_T2_P7_Q45
 set_id=ADV5_T2_P7
 number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -258,6 +216,8 @@ explanation=Verified option.
 id=ADV5_T2_P7_Q46
 set_id=ADV5_T2_P7
 number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"Our aroma vocabulary tends to be restricted. In the modern world we struggle to describe scents. Last year I made several futile attempts at creating a perfume for a client who'd requested something deep and heavy. It turned out she had in mind a particular brand that was light and fluffy, but, due to the brand's slightly misleading name, she'd described it as the opposite of what she was seeking.","B":"One way of dealing with such an issue is for people at my perfume studio who are being taught the art of fragrance recognition to take regular nose breaks, particularly if they're novices, to avoid 'nose blindness'. So, if they can't identify what's on a paper strip, they 'turn off' and then 'turn on' again, as if rebooting a computer.","C":"In other words, this lack of skill causes a feeling of anxiety instead, which can undermine the ability to detect the odours. Perfume is like any other smell in this respect.","D":"Despite what many believe, that of humans has the capacity to be on a par with that of dogs and rodents. In fact, we can develop comparable abilities pretty quickly.","E":"An example of this is when people coming to my studio to learn to create fragrances sometimes put themselves under pressure to produce a masterpiece at their first attempt, and suddenly go frantic, unable to smell anything at all. I tell them to sit down and rest to restore it.","F":"Perfumers do something similar when we train at specialist colleges. We focus on thousands of odourants sprayed on paper strips until our ability to identify materials by smell alone, as well as detect subtle nuances in quality, has been cultivated. With somewhat less dedication, most people can gain expertise in recognising the finest perfumes.","G":"This is why the smell of our favourite perfume seems to wear off quickly. Usually it's still there, but we don't need to be reminded about it as it's become familiar. Then, when we step into another environment, our sense of smell checks for danger or food and reports in again, and the seemingly worn-off fragrance briefly returns."}
 correct_answer=E
 accepted_answers=E
 max_points=2
@@ -272,74 +232,13 @@ part=7
 type=gapped_text
 level=C1
 title=In dialogue with Mozart
+instructions=You are going to read an article about a musician playing a unique violin. Six paragraphs have been removed. Choose from paragraphs A–G the one which fits each gap (41–46). There is one extra paragraph which you do not need to use.
 source_pdf_pages=22
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article, gaps and paragraphs checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 22 ---
-Test 3
-Part 7 Readin
-However there Is eo ob eus explanation: 'p, and Use Of Eng
-' tt a musician playing a uni i A ts association with him it was recount; Mo: ee
-You are going to read an article abou! Bivang 8 Unique violin: Six paragrapy, to Me on how precious this instrumest ss becant, "OUld have
-'ved from the article. Choose from the paragraphs A-G the one which fits o S have ey dared to actually change it is and Hone Concert me On it wh
-been rem ror ra paragraph which you do not need to use. Pach ga, panez, who has Carried out extensive fener VT77 hen' at the age of 13, Site 'Sateburs
-ape Wet arate answer sheet. toits history. Concerta ot 2 him about pie = OW ROU i
-Mark your answers on the SeP in beautiful, th Violin, every Nes seca
-+ Pure tone Seas
-—————— SSSC—C—S~S<("SS 5 Doing 0 required a great deal of time and F ae 'Pralsed may)
-= H Se ri. 'As it was very rarely played, at fi Was blissf
-In dialogue with Mozart ee) was stiff, it lacked resonance and ie convinced no an awakening. tm pre a
-sound had fallen asleep. I played it for hours oe time on ity Kones peek bare
-Musician Christoph Konez has used Mozart's notin when recording the 18th-centun Se pened uo and the woot ge that day. he fetg Se the vt a
-e ; vas in irectly catiiee ae =
-paras! = 1108: VION CONCENOS z Ws mony again. The time it took to get it into directly with Mozart ice communteaties
-shape each day became shorter the more often @w i
-The house where Wolfgang Amadeus Mozart a iplayed it' ete " not leave behind ki
-i i , Austria, a bre for the ¢ Zs » Rowever, yy;
-i; now a museum in Salzburg, Austr : cadenzas, th aS
-i Ae Mozarteum. When the musician —————————— ¢ Despite those reservations, they knew there meen Shon gach plese 'allow
-called U dared to ask Koncz plays the violin with Sen ever bea better opportunity. For K nO Show off their ski be
-Christoph Konez went there aididared to hi ; ; out a shoulder req might n pores 'oncz clue that Mozart lls. This is another
-i f Mozart's violin if he might be ich requires a different style of playing . and those behind the project, it therefore feit himself, Kones eee ormes the violin pieces
-the keepers of d no idea where the that commonly used nowadays. And. uss n" ike a fitting moment to bring an instrument improvi <Z Says, and that he probabi
-allowed to try it out, he had no iolin itself JS. anc, unusually had been mainly confined t sed these cadenzas ty
-seul lead. Astonishingly, they left him the violin itself has not been modernised. Konc> that fora wider audie 0 a glass
-; es 'na room, and closed the door. He S2¥S it is extraordinary that the main ae display case to BSS.
-alone y Mozart's violin are all in their ori hci
-played non-stop for several hours. | << onion > Over tie following years, the violin changed
-hands several more es. en, in 1956, it !
-___ |S gegutred by the Mozarteum, the leading |
-The violin passed from Mozart to his sister Nanner me cated to preserving the
-Eight years later, after hundreds of hours = a piano teacher, when he moved to Vienna at the abet se SIeaECY:
-practice on the gut-stringed Baroque cence ¢ age of 25. After Mozart's untimely death at 35, one
-Koncz a the = Soe oer ing Of of Nanner!'s star pupils purchased the instrument |
-Mozart's five violin concertos on the very same fia Wake wee
-violin on which the musical genius composed a
-them between 1773 and 1775. Mozart also almost
-certainly performed them on the instrument. 'The five concertos Koncz has recorded are 4
-'It's a museum instrument, says Koncz, 'but we mainstay of any classical violinist's repertoire |
-musicians believe an instrument only has one They progress in complexity and Sopa
-purpose: to be played. I have been allowed to. and, says Koncz, are a record of the speed wit!
-bring it to life again." which Mozart developed asa musician.
-SS ]
-_ aaa
-: eS =
-Konez says that the recordings he has now made jy, one of the most challenging pao Ne ae oh
-are vital for sharing something very close to Koncz set about composing oes surviving
-what Mozart would have heard. 'They take this yemain true to Mozart by stu Lee -oncerto8
-sound, which only a few people would otherwise ones he had written for nis rein nes like bend
-get to hear, beyond the concert hall. | draw composing them for others to Pear trying t@
-huge inspiration from the fact that the sound! jn dialogue with him, over Ease at this point, ¢
-produce on the violin is probably very similar imagine what he would SE ge responsibility ©
-to something that Mozart heard in his own ear.' the same time as feeling a hug
-Hered the first full-sized violin to be owned —_ kept me awake at times.
-lozart, it was built in the mid 18th century in
-Mittenwald in Bavaria, a town stil] famous for its
-ze making. It is believed to have been given to |
-by his father, Leopold, his sole violin tutor.
-= _ :
+[[SCAN:/reading-scans/adv5-t3-p7.webp]]
 text_end
 [/SET]
 
@@ -347,6 +246,8 @@ text_end
 id=ADV5_T3_P7_Q41
 set_id=ADV5_T3_P7
 number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=F
 accepted_answers=F
 max_points=2
@@ -358,6 +259,8 @@ explanation=Verified option.
 id=ADV5_T3_P7_Q42
 set_id=ADV5_T3_P7
 number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -369,6 +272,8 @@ explanation=Verified option.
 id=ADV5_T3_P7_Q43
 set_id=ADV5_T3_P7
 number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=E
 accepted_answers=E
 max_points=2
@@ -380,6 +285,8 @@ explanation=Verified option.
 id=ADV5_T3_P7_Q44
 set_id=ADV5_T3_P7
 number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -391,6 +298,8 @@ explanation=Verified option.
 id=ADV5_T3_P7_Q45
 set_id=ADV5_T3_P7
 number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -402,6 +311,8 @@ explanation=Verified option.
 id=ADV5_T3_P7_Q46
 set_id=ADV5_T3_P7
 number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"However, there is an obvious explanation: 'Due to its association with him it was recognised early on how precious this instrument is and nobody dared to actually change it,' says Koncz, who has carried out extensive research into its history.","B":"Doing so required a great deal of time and effort. 'As it was very rarely played, at first its wood was stiff, it lacked resonance and its sound had fallen asleep. I played it for hours and days at a time and each time I played it, its sound opened up and the wood was warm in harmony again. The time it took to get it into shape each day became shorter the more often I played it.'","C":"Despite those reservations, they knew there might never be a better opportunity. For Koncz and those behind the project, it therefore felt like a fitting moment to bring an instrument that had been mainly confined to a glass display case to a wider audience.","D":"Over the following years, the violin changed hands several more times. Then, in 1956, it was acquired by the Mozarteum, the leading foundation dedicated to preserving the musician's legacy.","E":"Mozart would have played on it when he became concert master at the Salzburg Hofkapelle at the age of 13. While on tour in 1771, he wrote to him about playing his second concerto on the violin; 'everyone praised my beautiful, pure tone'.","F":"'It was blissful, an awakening. I'm pretty convinced no one since Mozart had spent so much time on it,' Koncz says. He adds that every time he has picked the violin up since that day, he feels as if he is communicating directly with Mozart himself.","G":"What he did not leave behind, however, was a score for the cadenzas, the ornamental passages within each piece allowing solo players to show off their skills. This is another clue that Mozart performed the violin pieces himself, Koncz says, and that he probably improvised these cadenzas."}
 correct_answer=G
 accepted_answers=G
 max_points=2
@@ -416,170 +327,13 @@ part=7
 type=gapped_text
 level=C1
 title=What chocolate and Nobel Prizes reveal about our trust in scientists
+instructions=You are going to read an article about how science is reported in the media. Six paragraphs have been removed. Choose from paragraphs A–G the one which fits each gap (41–46). There is one extra paragraph which you do not need to use.
 source_pdf_pages=32
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article, gaps and paragraphs checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 32 ---
-You are going to read an article about how science is
-reported in
-removed from the article. Choose from the paragraphs A-G the one eae :
-
-extra paragraph which you do not need to use.
-Mark your answers on the separate answer sheet.
-
-Part 7
-
-a. Six para
-'Sfaphs f,
-ach gap (4149) ce
-
-What chocolate and Nobel Priz
-
-es revea; ~~
-
-about our trust in Scientists
-
-Wouldn't it be great if chocolate were good for
-you? It's no wonder many news outlets leap on
-research that appears to show potential benefits
-to eating it. But the history of such coverage
-provides a cautionary tale about why we should be
-wary of scientists' claims that are reported in the
-media, as well as the way the stories are framed by
-journalists. In 2012, for example, Dr Franz Messerli
-published a short article in the prestigious New
-Engiand Journal of Medicine that looked at a
-range of recent studies into the cognitive impact of
-chocolate consumption.
-(«|
-In his article, Messerli suggested there was a clear
-link between the average amount of chocolate eaten
-in a country and the number of Nobel Prize winners
-it produced, relative to population size. He proposed
-that to enhance cognitive abilities (and consequently
-
-its number of Nobel Prizes), each country should
-radically increase its chocolate intake.
-
-[2]
-As a result, news reports about the intellectual
-benefits of eating chocolate flooded screens and
-newspapers. Journalists had taken the fact that
-the article was published in a respected journal
-as a guarantee of quality, little realising that it
-had been placed in a section called 'Occasional
-Notes', earmarked for jovial contributions such
-as Messerli's. Meanwhile, fellow scientists were
-outraged. Why would the New England Journal of
-Medicine disseminate such a thing?
-
-fs]
-
-Despite the apparent ease with which Messerli's
-assertions were thus disproved, since the release
-of his article many serious papers and earnest
-letters have been published on the subject
-What's more, traditional and social media have
-continuously covered the story, mostly without
-critical reflection, perpetuating the idea that there
-
-84
-
-might be a link ve
-brainpower Between choe
-
-44 i
-When claim:
-
-S Made in artic}
-Public are subsequently digo
-
-the public loses trust in
-journalists. Because research
-
-have dedicated journalists with the skis
-and experience to cast a sufficiently crit
-dubious or difficult-to-interpret results.
-
-exper
-
-But is the media totally to blame for the att
-grabbing yet flawed reporting that this exempli
-Though some journalists need to better
-research, scientists too play a role in tra
-the information, and unfortunately, they 0
-do not try to correct misunderstandings. For
-example, in the case of the chocolateNobel story
-the scientists involved did little to address 1
-confusion engulfing the mass media.
-
-46 | =
-
-scientists
-
-In contrast, when
-wholeheartedly in publicising their fi
-have real impact. For instance, in 2015 .
-reported that over 80% of pupils at ae
-in one area were not vaccinated against
-including polio and measles. Scienti
-these vaccine refusals, and an inform ine
-was mounted. By involving the com oe
-rebuilding trust, immunisater hake
-radically. The chocolate-No! Ghee
-taught us that all scientific eran
-misinterpreted. Scientists must
-their responsibility towards pro
-understanding of scene No 0!
-e their opinions
-paandbites no matter how tasty
-
-ty am
-
-e SI
-
-ation campaign
-
-has
-
-ions can be
-enise
-
-about scientists' latest failure tg
-
-pene tanation for why antimatter didn
-emp universe at its creation led to the
-headline: "It should NOT Exists
-
-fear universe could DIE at any
-ecientists
-
-roposition, however, was mea,
-eee han a droll story, a friendly
-8, nothing colleagues that over-interpreting
-geminder © can lead to incorrect claims
-correlatiot™ jy, few people understood that the
-
-ort was actually a joke.
-
-chow, this study was sensationaliseg
-gutsomenr, as ground-breaking research
-on th a popular foodstul would protect
-proving disease. Once again, th
-goinst 3 Sction was not corrected, iz
-
-this amusing anecdote is far from
-
-o Fe incident. Much coverage of science
-<i and downright wrong at
-important because scientific
-can have adverse effects on
-
-5 \
-
-and Nobel Prize laureates
+[[SCAN:/reading-scans/adv5-t4-p7.webp]]
 text_end
 [/SET]
 
@@ -587,6 +341,8 @@ text_end
 id=ADV5_T4_P7_Q41
 set_id=ADV5_T4_P7
 number=41
+prompt=Choose the paragraph which fits gap 41.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=E
 accepted_answers=E
 max_points=2
@@ -598,6 +354,8 @@ explanation=Verified option.
 id=ADV5_T4_P7_Q42
 set_id=ADV5_T4_P7
 number=42
+prompt=Choose the paragraph which fits gap 42.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -609,6 +367,8 @@ explanation=Verified option.
 id=ADV5_T4_P7_Q43
 set_id=ADV5_T4_P7
 number=43
+prompt=Choose the paragraph which fits gap 43.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=G
 accepted_answers=G
 max_points=2
@@ -620,6 +380,8 @@ explanation=Verified option.
 id=ADV5_T4_P7_Q44
 set_id=ADV5_T4_P7
 number=44
+prompt=Choose the paragraph which fits gap 44.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -631,6 +393,8 @@ explanation=Verified option.
 id=ADV5_T4_P7_Q45
 set_id=ADV5_T4_P7
 number=45
+prompt=Choose the paragraph which fits gap 45.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -642,6 +406,8 @@ explanation=Verified option.
 id=ADV5_T4_P7_Q46
 set_id=ADV5_T4_P7
 number=46
+prompt=Choose the paragraph which fits gap 46.
+options={"A":"Hence a story about scientists' latest failure to find an explanation for why antimatter didn't destroy the universe at its creation led to the misleading headline: 'It should NOT EXIST ... scientists fear universe could DIE at any moment.'","B":"This unusual proposition, however, was meant as nothing more than a droll story, a friendly reminder to colleagues that over-interpreting correlations can lead to incorrect claims. Unfortunately, few people understood that the research was actually a joke.","C":"But somehow, this study was sensationalised in the media as ground-breaking research proving that a popular foodstuff would protect against a serious disease. Once again, the misinterpretation was not corrected.","D":"Regrettably, this amusing anecdote is far from an isolated incident. Much coverage of science is flawed at best and downright wrong at worst. This is important because scientific misinformation can have adverse effects on individual and societal behaviour.","E":"Undertaking this type of research seemed to make sense, superficially at least. After all, flavanols, one of the many compounds present in this ever-popular treat, are thought to facilitate brain cell connections and thereby boost thinking skills.","F":"In fact, studies have shown that a similar lack of communication by researchers, and their reluctance to engage with the public, both contribute to this kind of inaccurate reporting on research. This inevitably leaves the wider population more open to half-truths and misinformation.","G":"Several scientists immediately and aggressively countered the notion that binge-eating chocolate would increase the number of Nobel laureates. They highlighted the absurdity of the claim by pointing out that there was also an astonishingly high correlation between the number of IKEA furniture stores in a country and Nobel Prize laureates."}
 correct_answer=F
 accepted_answers=F
 max_points=2

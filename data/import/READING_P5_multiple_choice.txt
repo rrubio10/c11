@@ -266,207 +266,13 @@ part=5
 type=multiple_choice_reading
 level=C1
 title=Skip Lievsay – the sound master
+instructions=You are going to read an article about Skip Lievsay, a sound editor and mixer. For questions 31–36, choose the answer (A, B, C or D) which you think fits best according to the text.
 source_pdf_pages=14
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article and questions checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 14 ---
-ad-an
-
-choose the answer
-Mark youranswers on the separa'
-
-Rart 5)
-
-You are going to re: article about Skip Lievsay, a sound editor and mixer. For questi
-(A, B, G or D) which you think fits best according to the text. ONS 343
-
-te answer sheet.
-
-Skip Lievsay - the sound master
-Lievsay is a supervising sound editor and mixer for film-and television
-
-When I went to interview Skip Lievsay, | found
-an ordinary-looking man standing before the
-stacks of speakers and the'giant movie screen in
-his office. You might imagine that a preeminent
-sound engineer in the film Industry would have a
-dominating presence, but Lievsay doesn't fitthat
-mold. Whatever he does — whether it's operating
-the sound console or giving instructions to the
-employees in his New York offices — his demeanor
-is calm and his voice low. Underlying Lievsay's
-manner is his bellef, firmly held, that his work is
-about patience and craftsmanship, not novelty
-and sudden flashes of creativity. That's why he
-and the team he supervises spend days trying to
-get the right effect for a few seconds of film.
-Most film-goers take the audioscape of a
-movie for granted, and assume visual continuity is
-tnckier to achieve. But after amovie goes through
-picture editing, its handed off to the sound
-supervisor, who oversees the various elements of
-souni i design, editing and mixing. The distinction
-between these three processes is subtle: design
-and editing have more to do with the development
-
-and:
-
-integrating them inte each scene so everything
-
-sounds natural' — in other words, ensuring the
-
-Sound of a butterfly landing on a car hood isn't
-the Car backfiring.
-
-tral principle of sound editing that
-
-inva chas See 'partly engines, but what
-Shere eral, gut-level grist is lions' roars
-
-To be excellent, a sound edit
-net just a perceptive, trained ear Sa.
-gift for imagining what a sound could do, what
-sauce else might hear.
-espite Lievsay's contribution to
-hit films, you've probably never heard af hee
-
-He and his team are o
-legions involved in film ona ae the
-their painstaking, essential work far f ae
-limelight. But while he might not be 4 h ee
-name, he's famous among people sik usehold
-the public eye. Whereas some sound a nae
-might go for a layered effect, Lievsay is Tae
-finding the one, precise sound that eae
-everything we néed to know. He omy =
-that sound helps us orient ourselves in Sune
-a space and to ae other, and that our ears
-iow, precognitively, w
-sonieone farenein fc ew Sderot
-: s observed Lievsay as he Was reviewing
-cene of a man dropping in on his wife's
-dance rehearsal. The director had wanted a
-'matter-of-fact' sound to suggest the couple
-were carving a special moment out of something
-not special, but the scene felt 'dreamy'. Lievsay
-fiddied with a few dials fora moment, and then
-replayed the scene. It was then that ! realized
-something fundamental about film-making, and
-about sound editing in particular. 'd watched
-it before but now something extraordinary
-happened. | noticed a receptionist passing
-behind the wife. Lievsay had given her footsteps.
-Without the footsteps, I'd somehow never seen
-her; now, I saw her, and her presence — along
-with a few other Lievsay tweaks — suggested
-people at work, things happening outside the
-€ye contact between husband and wife. | saw
-the entire scene differently.
-
-There is something unnerving about
-spending time around individuals whose
-powers of perception suggest the existence of
-another layer of reality you are missing. The
-way Lieysay and his colleagues work requires a
-completely different — almost unnatural — way of
-experiencing sound. 'Our process reflects that
-each sound is important enough to deserve its
-own consideration,' Lievsay says.
-
-41 What do
-A He expects
-p Hesed!
-Gc Heist
-p He is re
-
-32
-A
-B
-Cc
-D
-33
-
-Th
-A
-
-B
-c
-D
-
-34 When talking about Lievsay's contri
-
-A is frustrated by the fact that so few people know who heis.
-s that his contemporaries share his range of skills.
-
-B doubt
-CG appreciates his determination to find
-
-what is the writer doing in the sect
-aspect of film making is most controversial
-
-explaining which
-hy a particular belief has become widespread
-
-e kind of errors W
-
-pointing out th ' :
-ion to how complex 2a sound supervisors work is
-
-drawing attenti
-
-@ writer mentions rain am
-riain sounds.can be replicated.
-
-Fn sounds stimulate certain emotions,
-ples of sounds that are common in'films.
-
-illustrate some of the hardest challenges for sound engineers:
-
-Reading and Use of English
-
-es the writer suggest about Skip Lievsay in the first paragraph?
-
-others to be equally committed to the job:
-nassuming for 2. person in his line of work.
-odest about the importance of his artistic output.
-juctant to project an authoritarian image-
-
-ond paragraph?
-
-hich affect a film's credibility
-
-id car engines in order to
-
-bution to film, the writer
-
-the perfect sound.
-
-D impliesthat he makes best use of sound in dramatic:scenes.
-
-35 What point is the writer making when he talks about the dance
-he most experienced sound editors have to follow instructions.
-
-36 From the text as a whole, we understand thi
-
-B Asmall aural cue can affect our underst
-C Sound and vision have an equal role to play in holdin
-D The wrong sound will cause distraction in a scene rather
-
-rehearsal scene?
-
-anding of narrative.
-
-at the writer
-
-A respects Lievsay for his professionalism.
-
-B_ is anxious to defend Lievsay from his 'critics.
-© intends to emulate Lievsay as a sound editor.
-D suspects that Lievsay may be har
-
-'d to impress. 4
+[[SCAN:/reading-scans/adv5-t2-p5.webp]]
 text_end
 [/SET]
 
@@ -474,6 +280,8 @@ text_end
 id=ADV5_T2_P5_Q31
 set_id=ADV5_T2_P5
 number=31
+prompt=What does the writer suggest about Skip Lievsay in the first paragraph?
+options={"A":"He expects others to be equally committed to the job.","B":"He seems unassuming for a person in his line of work.","C":"He is modest about the importance of his own role.","D":"He is reluctant to project an authoritarian image."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -485,6 +293,8 @@ explanation=Verified option.
 id=ADV5_T2_P5_Q32
 set_id=ADV5_T2_P5
 number=32
+prompt=What is the writer doing in the second paragraph?
+options={"A":"explaining which aspect of film-making is most controversial","B":"pointing out how a particular sound has become widely repeated","C":"describing the kind of errors which affect a film's credibility","D":"drawing attention to how complex a sound supervisor's work is"}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -496,6 +306,8 @@ explanation=Verified option.
 id=ADV5_T2_P5_Q33
 set_id=ADV5_T2_P5
 number=33
+prompt=The writer mentions rain and car engines in order to
+options={"A":"show what sounds can be replicated indoors.","B":"suggest which sounds stimulate certain emotions.","C":"provide examples of sounds made in old films.","D":"illustrate some of the hardest challenges for sound engineers."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -507,6 +319,8 @@ explanation=Verified option.
 id=ADV5_T2_P5_Q34
 set_id=ADV5_T2_P5
 number=34
+prompt=When talking about Lievsay's contribution to film, the writer
+options={"A":"is frustrated by the fact that so few people know who he is.","B":"doubts that his contemporaries share his high regard for him.","C":"appreciates his determination to find the perfect sound.","D":"implies that he makes best use of sound in dramatic scenes."}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -518,6 +332,8 @@ explanation=Verified option.
 id=ADV5_T2_P5_Q35
 set_id=ADV5_T2_P5
 number=35
+prompt=What point is the writer making when he talks about the dance rehearsal scene?
+options={"A":"Even the most experienced sound editor has to follow instructions.","B":"It is amazing that sound can affect our understanding of narrative.","C":"Sound and vision have an equal role to play in holding our attention.","D":"The wrong sound will cause distraction in a scene rather than enhance it."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -529,6 +345,8 @@ explanation=Verified option.
 id=ADV5_T2_P5_Q36
 set_id=ADV5_T2_P5
 number=36
+prompt=From the text as a whole, we understand that the writer
+options={"A":"respects Lievsay for his professionalism.","B":"is anxious to defend Lievsay from his critics.","C":"intends to emulate Lievsay as a sound editor.","D":"suspects that Lievsay may be hard to impress."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -543,68 +361,13 @@ part=5
 type=multiple_choice_reading
 level=C1
 title=Depot
+instructions=You are going to read an article about a museum. For questions 31–36, choose the answer (A, B, C or D) which you think fits best according to the text.
 source_pdf_pages=24
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article and questions checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 24 ---
-Test 3 .
-Part 5
-You are going to read an article about a museum. For questions 31-36, choose th Et what does the writer suggest about Sees Reading and Use
-which you think fits best according te the text. e answer (A BC here has been some lo: Pot in the first aH
-Mark your answers on the separate answer sheet. B/D £ There is a mismatch bas poe to its co) Paragraph?
-=e #8 oe nits appea: struction, -
-¢ its modern style is inappropria France and j es
-Depo t = Dp Itlooks better when viewed fonda its function,
-e.
-Rotterdam's major art museum has just completed an additional building, called Bite 2 inthe second paragraph, the writer points deltas
-In the centre of Rotterdam, there's a building 'climate zones' for diff Be cspacity ono the chance to re-evaluat ee
-called Depot which, from a block away, looks like | While some pieces ar. erent kinds of artey B has the capacity to house the museum's ent; @ its policies. .
-something from a more advanced civilisation. Its display cabinets, light< on movable racks facts ial is aconfus ing place to find your way ar Ntire Collection,
-futuristic, mirrored glass walls curve UP 40metres, in sealed cabinets Bape Objects mee in 5 jeworth the money that was spent y around. :
-reflecting the iron-grey clouds and fractured city by appointment. Ex did: can only be ae et Sins onit. i
-skyline. This city's residents are used to cutting- security, but assured idn't go into detail es . at es sieatficant '
-edge architecture, but it's not, as a rule, seen in more than a match fc me that the building Pout 33 Forsie rel EX, asiun factor in the decision to by} -
-storage facilities which is, after all, what the word 'or art thieves, Swas By nl eee © build Depot was a desi
-'depot' implies. When | went to visit it, a couple of However, most museums don't h Roe Se of water damage in part of th nae j
-Rotterdammers were debating whether they liked to build such new facilities, Sone on™ 1 en the length of time the museum need le Museum.
-lity, it. They decided not, but snapped selfies in front suspect that, eye-catching ee People also ff € toincrease public awareness of how the ed to close for. s
-of it anyway. Eiebaetots they're more of a eens ge BY d ov ercro\ vding in the main cc, aah Operates,
-es was Sue as a home for artefacts does ae Mise the ap es Facthenice -. f uilding.
-longing to the Boijmans Van Beuningen museum million a fo see the 23 34 Inthe tou aragraph, the wri ;
-net ey displayed in its main building. To call Albert ae pes ene Visors au ee : & ¥ col writer explains how Depot
-a warehouse is, however, to do it aconsiderable across 19 insti pee nee eee ane so mielion m easant atmosphere os
-injustice. This isn't just a storage facility, but an even See eas nate LOS "2 artefacts in an en ng tigre
-attempt to let the public have some access to all raise these points with Ex hea pees lon wel € ensures that nothing « ni mares
-the artworks the A h Ex, nods. 'Sure. Projects = thing can be stolen.
-museum possesses. Instead of like ours are an experiment. Will anyone ? EES S from deteri
-locking a large proportion of its prized artefacts _ will they come to Depot, and not to the eantie - : ; — rating.
-away behind closed doors, the Boijmans has curated exhibitions in the museum?' He ae 35 What point is the w _
-ploughed €55 million into this project. AsTmet him 'We'll see.' REL ia | What point is the writer making about
-at the entrance, Sjarel Ex, the museum's director, ANGER ee ¥ open storage in the fifth paragraph?
-gestured towards the network of glass stairwells Atrain ride across the Netherlands from Rotterdam pues mS want to see whether it works
-above our heads and proudly explained that Amsterdam's Rijksmuseum is attempting its own ~ The expense means it can't ever be w before trying it.
-every single item the museum owned could be version of radical transparency: The museum's | © Itis unlikely to be as. 2 More than a publicity stunt:
-accommodated there. most famous painting, Rembrandt's The Night | D Itcould |e ve 'beneficial as it sounds in Ee
-Watch, is currently encased in a giant glass box. } "could lead to museum employees losi es ry.
-Seven years ago, the Boijmans' basement vaults Conservators work inside while members of the 6 Why does ing their jobs.
-= the old storage area — flooded. Though damage public watch. Rijksmuseum's director, Taco Dibbits, / does the writer ae "
-was minimal, it was obvious the museum needed —_ concedes that locking it in the conservation Boijmans? ion the Rijksmuseum in Amsterdam in this arti
-to upgrade, particularly as 90% of Rotterdam is studio for years wasn't realistic — it's the — Ric is article about the
-below sea level. But instead of erecting something most people visit the museum. Ree ae B Public opinion on the
-anonymous far from the city centre, Ex optedfora display has benefits, too. 'For museums, the OT 3 Ithas a simitar tole of museums is similar in both cities
-high-profile location. 'So much of what museums forward is how you share research, Lee the © Public react objective but with a different type of a
-do happens in the dark. We wanted to bring some of 'We sometimes underestimate bow ee g uP b) The changes it to its latest proposals has 2 'project.
-fit He eU i Julewe Ver already plans to close public is. For both Dene = iS ae their role. ~nanges it is Making are zi been similar.
-the main building for seven years for renovation, _ marks @ shift in the way museums transparene) ' occurring in a similar time frame.
-so the new building also helped bridge this gap. 'We have to think muc ae ee pibbits on
-Despite being open to the public, the conditions in ne aga Oy the same,' He a has t© [ #
-Depot are as good if not better than in a regular ie about "and show them — ae ys
-storage facility: high-grade air conditioning keeps ee changing." 's
-the environment dust-free, and there are five
-58 d
-59
+[[SCAN:/reading-scans/adv5-t3-p5.webp]]
 text_end
 [/SET]
 
@@ -612,6 +375,8 @@ text_end
 id=ADV5_T3_P5_Q31
 set_id=ADV5_T3_P5
 number=31
+prompt=What does the writer suggest about Depot in the first paragraph?
+options={"A":"There has been some local resistance to its construction.","B":"There is a mismatch between its appearance and its function.","C":"Its modern style is inappropriate for the city.","D":"It looks better when viewed from a distance."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -623,6 +388,8 @@ explanation=Verified option.
 id=ADV5_T3_P5_Q32
 set_id=ADV5_T3_P5
 number=32
+prompt=In the second paragraph, the writer points out that Depot
+options={"A":"has given the museum the chance to re-evaluate its policies.","B":"has the capacity to house the museum's entire collection.","C":"is a confusing place to find your way around.","D":"is worth the money that was spent on it."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -634,6 +401,8 @@ explanation=Verified option.
 id=ADV5_T3_P5_Q33
 set_id=ADV5_T3_P5
 number=33
+prompt=For Sjarel Ex, a significant factor in the decision to build Depot was a desire
+options={"A":"to reduce the effects of water damage in part of the museum.","B":"to shorten the length of time the museum needed to close for.","C":"to increase public awareness of how the museum operates.","D":"to avoid overcrowding in the main museum building."}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -645,6 +414,8 @@ explanation=Verified option.
 id=ADV5_T3_P5_Q34
 set_id=ADV5_T3_P5
 number=34
+prompt=In the fourth paragraph, the writer explains how Depot
+options={"A":"creates a pleasant atmosphere for staff and visitors.","B":"displays its artefacts in an innovative way.","C":"ensures that nothing can be stolen.","D":"prevents items from deteriorating."}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -656,6 +427,8 @@ explanation=Verified option.
 id=ADV5_T3_P5_Q35
 set_id=ADV5_T3_P5
 number=35
+prompt=What point is the writer making about open storage in the fifth paragraph?
+options={"A":"Other museums want to see whether it works before trying it.","B":"The expense means it can't ever be more than a publicity stunt.","C":"It is unlikely to be as beneficial as it sounds in theory.","D":"It could lead to museum employees losing their jobs."}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -667,6 +440,8 @@ explanation=Verified option.
 id=ADV5_T3_P5_Q36
 set_id=ADV5_T3_P5
 number=36
+prompt=Why does the writer mention the Rijksmuseum in Amsterdam in this article about the Boijmans?
+options={"A":"Public opinion on the role of museums is similar in both cities.","B":"It has a similar objective but with a different type of project.","C":"Public reaction to its latest proposals has been similar.","D":"The changes it is making are occurring in a similar time frame."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -681,200 +456,13 @@ part=5
 type=multiple_choice_reading
 level=C1
 title=The importance of financial literacy
+instructions=You are going to read an article about financial literacy. For questions 31–36, choose the answer (A, B, C or D) which you think fits best according to the text.
 source_pdf_pages=28
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Article and questions checked against the original photographed source page.
 item_count=6
 text_begin
---- SOURCE PDF PAGE 28 ---
-You are going to read an article about financi
-
-Part 5
-al literacy. For questions 31-36, choose the 2,,
-SWer
-
-(A, B, C or D) which you think fits best according to the text.
-Mark your answers on the separate answer sheet.
-
-The importance of financial literacy
-
-Everybody needs to have a grasp of basic finance in today's society
-
-Growing up in an unremarkable small town in
-industrial South Wales, with a music teacher dad
-and a psychologist mum, there weren't many
-signs to suggest that I'd take up a career in finance.
-Then, for my 16th birthday, my father gave me a
-present: £100-worth of shares in a large national
-utility company that had just been privatised. I'm
-still in the dark as to what prompted that gesture.
-I was hardly a star pupil when it came to maths,
-but for me it marked a turning point. For months
-afterwards, I'd check the share-price pages of the
-daily newspaper. If the stock was up a % pence, I'd
-rejoice that I was much better off. Primitive stuff.
-And yet that early interest has taken me to my
-current job as a financial consultant, and financial
-literacy has been the cornerstone of my career.
-
-The contrast between my professional life and
-the realities of everyday life in northeast London
-where I now live, with its stark gap between the
-haves and have-nots, is among the factors that
-have led me to try to make a difference. In the
-coming months, I'm going to have a role in the
-establishment of a charitable foundation aimed
-at improving financial literacy. We no longer live
-in a world where the approachable staff at the
-local bank represent the average person's only
-point of contact with the world of finance. The
-shift towards a bewildering choice of financial
-products, self-determined retirement planning
-and easy credit for impulse buys on the internet
-all combine to make a firm grasp of basic finance
-a fundamental necessity of life, and it affects
-people of all generations: your mobile phone
-contract might be great value or a horrible
-rip-off. Needless to say, there's no shortage
-of unscrupulous operators out there ready
-to exploit the unwary. All of these are reasons
-enough to be launching this initiative, and what
-better time than the present to do so.
-
-To my shame, | hadn't been back to my old school
-in the years since I left. But I was determined to
-find out what the current generation of students
-
-80
-
-felt about their financial futures, and it
-like the right place to start. In a brief «
-and-answer session, 1 was predictably
-about topics like student loans, and for advie
-how to break into the job market. The que,
-from the final-year students were sm,
-revealed a genuine level of concern regardi
-economic state of the country, but few tous
-on the realm of personal finance. Where they is
-the questions struck me as fairly basic given
-financial literacy is being promoted in schow.
-across the country nowadays. In practic
-provision is patchy — as in much of the world.
-and this could well be the reason ns
-
-It seems there is even less to engage
-generation in the practicalities of basic pe
-finance than was the case in my day. Teenager:
-make up one of the groups in society w
-financial literacy foundation plans to focus
-People in each of the groups identified h
-been shown by academic research to fall belo
-average levels of understanding in basic finance
-increasing the likelihood that they will be unab)
-to budget efficiently, will get into unsustainable
-debt or will be open to exploitation.
-
-w
-
-The charitable foundation aims to create a
-series of educational videos and other material,
-and will be collaborating with existing charities
-to distribute them at national level. Industry
-professionals will be invited to contribute both
-financially and as volunteers to help promote the
-cause. Andy Haldane, the former Bank of England
-chief economist and vice-chair of the National
-Numeracy Campaign, which promotes everyday
-maths skills, is hoping that the charity will be
-able to channel financial expertise, particularly
-that of the major financial institutions in the
-capital, for the greater good. 'What a shame it
-is that we have a huge repository of financial
-literacy in one tiny part of the country and huge
-need for it everywhere else,' he says. 'We want to
-
-spread some of that knowledge.'
-
-jers father bought her shares
-TPE encourage her unexpectag ree Ot,
-re terest in gi
-feeroasons that remain unciear te he itange,
-a SVEN noy
-
-Om,
-
-A
-2g ang ta
-Of
-
-Be itreflected the subjects she y, i
-g pcause he Could See that che jag Mngt
-
-al talent tite
-EN for
-dures,
-
-'ancial
-
-pe writer Nas chosen to participate in the fin
-
-2 voluntary activities she's been i,
-Ps ing some Social inequalities ee in
-B that she's been doing in her jocay «2nd
-awish to help young people who certs Pa
-ag fOr adem
-inthe second paragraph, the writer makes 'he
-oe Pint that peop
-
-cted to take greater Fesponsibility for
-
-\ from a wider range of financia) Prody se
-8 re more likely than ever to fall victim to citi
-ip arebecoming vulnerable to financial problems 9
-
-litera
-
-CY Project
-
-yas,
-regu of
-
-cial deci
-io
-tee
-
-Ket,
-Ctivities,
-ata Younger age
-3 i made an impression on the writer when she Visited st
-A how concerned they were about certain key issties
-B pow littie things had changed since her own 'time they
-¢ how uninformed they were about current Affairs in ee
-D how ineffective one educational initiative Seemed to a been,
-
-ludents in her olg school?
-
-9§ Thewriter mentions academic research in the fourth paragraph to Support he
-fe point that
-
-A aspects of financial planning should be taught in all Schools,
-
-B adults will probably benefit most from help with financial planning
-
-© help with financial planning should target specific sectors of society,
-
-D 'Practical help with financial planning is more useful than formal instruction,
-
-% From the final paragraph, we understand that the charitable foundation
-
-A fas already gained broad support across the financial sector,
-
-B has plans to set up parallel schemes in a range of communities.
-
-© has secured sufficient funding to produce some audio-visual resources.
-D has agreed to work with partner organisations that have compatible aims.
-
-Bt
+[[SCAN:/reading-scans/adv5-t4-p5.webp]]
 text_end
 [/SET]
 
@@ -882,6 +470,8 @@ text_end
 id=ADV5_T4_P5_Q31
 set_id=ADV5_T4_P5
 number=31
+prompt=The writer's father bought her shares in a company
+options={"A":"to encourage her unexpected interest in finance.","B":"for reasons that remain unclear to her even now.","C":"as it reflected the subjects she was studying at the time.","D":"because he could see that she had a real talent for figures."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -893,6 +483,8 @@ explanation=Verified option.
 id=ADV5_T4_P5_Q32
 set_id=ADV5_T4_P5
 number=32
+prompt=The writer has chosen to participate in the financial literacy project partly as a result of
+options={"A":"other voluntary activities she's been involved in.","B":"witnessing some social inequalities at first hand.","C":"work that she's been doing in her local community.","D":"a wish to help young people who come to her for advice."}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -904,6 +496,8 @@ explanation=Verified option.
 id=ADV5_T4_P5_Q33
 set_id=ADV5_T4_P5
 number=33
+prompt=In the second paragraph, the writer makes the point that people today
+options={"A":"are expected to take greater responsibility for financial decisions.","B":"benefit from a wider range of financial products on the market.","C":"are more likely than ever to fall victim to criminal activities.","D":"are becoming vulnerable to financial problems at a younger age."}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -915,6 +509,8 @@ explanation=Verified option.
 id=ADV5_T4_P5_Q34
 set_id=ADV5_T4_P5
 number=34
+prompt=What made an impression on the writer when she visited students in her old school?
+options={"A":"how concerned they were about certain key issues","B":"how little things had changed since her own time there","C":"how uninformed they were about current affairs in general","D":"how ineffective one educational initiative seemed to have been"}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -926,6 +522,8 @@ explanation=Verified option.
 id=ADV5_T4_P5_Q35
 set_id=ADV5_T4_P5
 number=35
+prompt=The writer mentions academic research in the fourth paragraph to support her point that
+options={"A":"aspects of financial planning should be taught in all schools.","B":"adults will probably benefit most from help with financial planning.","C":"help with financial planning should target specific sectors of society.","D":"practical help with financial planning is more useful than formal instruction."}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -937,6 +535,8 @@ explanation=Verified option.
 id=ADV5_T4_P5_Q36
 set_id=ADV5_T4_P5
 number=36
+prompt=From the final paragraph, we understand that the charitable foundation
+options={"A":"has already gained broad support across the financial sector.","B":"has plans to set up parallel schemes in a range of communities.","C":"has secured sufficient funding to produce some audio-visual resources.","D":"has agreed to work with partner organisations that have compatible aims."}
 correct_answer=D
 accepted_answers=D
 max_points=2

@@ -101,50 +101,13 @@ part=6
 type=cross_text_multiple_matching
 level=C1
 title=Rewilding
+instructions=You are going to read four extracts in which experts give their views on rewilding. For questions 37–40, choose from experts A–D. The experts may be chosen more than once.
 source_pdf_pages=13
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Texts and questions checked against the original photographed source page.
 item_count=4
 text_begin
---- SOURCE PDF PAGE 13 ---
-A experts give.
-5 ss S give their vis,
-none ginal habitats, a 'Ws on Tewi
-May be chosen More than Gas T ques
-
-te Tegenerate will be net
-
-, While government aici
-
-often < ~Pecially with other aspen
-aren Carries enthusiastic Stories about
-Wess nd t seuualy adapted. This risk the
-= 10 n't the time to decelerate. and
-
-as Teceived, it should come
-fe number and diversity of poe
-the: fact that the brakes need to be
-gases by, for instance, converting
-iral forested state are so great that perhaps the
-rcefully, citing potential profits, but itis
-dation — financial gain shouldn't enter into
-tural forests and stocking them with their
-
-Pecivard step to slow this down.
-
-ide, to
-turning to our countrysice:
-eee of this is that alongside
-
-utmost
-
-5 ig a danget
-there is 2
-
-atible schemes:
-
-enlig ed and receptive, 00
-indom ae Sere and potentially incomp
+[[SCAN:/reading-scans/adv5-t2-p6.webp]]
 text_end
 [/SET]
 
@@ -152,6 +115,8 @@ text_end
 id=ADV5_T2_P6_Q37
 set_id=ADV5_T2_P6
 number=37
+prompt=Which expert expresses a different opinion from the others regarding whether rewilding can help to limit global warming?
+options={"A":"Expert A","B":"Expert B","C":"Expert C","D":"Expert D"}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -163,6 +128,8 @@ explanation=Verified option.
 id=ADV5_T2_P6_Q38
 set_id=ADV5_T2_P6
 number=38
+prompt=Which expert has a similar opinion to C about the pace at which rewilding should occur?
+options={"A":"Expert A","B":"Expert B","C":"Expert C","D":"Expert D"}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -174,6 +141,8 @@ explanation=Verified option.
 id=ADV5_T2_P6_Q39
 set_id=ADV5_T2_P6
 number=39
+prompt=Which expert has a similar view to B on how well-informed the general population are about rewilding?
+options={"A":"Expert A","B":"Expert B","C":"Expert C","D":"Expert D"}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -185,6 +154,8 @@ explanation=Verified option.
 id=ADV5_T2_P6_Q40
 set_id=ADV5_T2_P6
 number=40
+prompt=Which expert has a different view from the others about the economic benefits of rewilding?
+options={"A":"Expert A","B":"Expert B","C":"Expert C","D":"Expert D"}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -199,67 +170,13 @@ part=6
 type=cross_text_multiple_matching
 level=C1
 title=Authors self-publishing their work
+instructions=You are going to read four extracts from articles in which literary critics give their views on authors self-publishing their work. For questions 37–40, choose from critics A–D. The critics may be chosen more than once.
 source_pdf_pages=23
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Texts and questions checked against the original photographed source page.
 item_count=4
 text_begin
---- SOURCE PDF PAGE 23 ---
-Test 3 '
-Part 6 fas Readin
-: " nae which eric 9 and Use Of Engtish
-You are going to read four extracts from articles in which literary critics give their view: view with D about the current
-self-publishing their work. For questions 37-40, choose from the literary critics rie ON author. ares? Feputation of self.
-critics may be chosen more than once. The literan, : Published books
-Mark your answers on the separate answer sheet. ie adifferent view to the others about the finan, (a ]
-eos ighing a book? Cial implications for wr ai
-2 5 : = ae self pu Writers :
-Authors self-publishing their work = gn opinion with C about the effective
-A Constantin Dinu erg pubished books? NESS of the editing process f
-It's never been easier to self-publish a book you've written. The fact that self-publis lor
-ever, makes the bestseller lists, however, is testament to the widespread sceptic ished work rarely, : &,
-Without experienced publishing-house professionals to beat mediocre work into 'sm about its quality rasadifferent view to the others about how well marketi
-a readable book, it stays mediocre despite the best efforts of its author. Self. ee resembling set published books is typically done? sting of
-means for anyone who has more interest in seeing their name on the cover cE ene is the perfect
-critically respected literature to achieve their dream, but no one I'm aware of } ook than in creating a
-sustain a living through self-publishing alone. I suspect this is not simply a Spe ever been able to
-also of the author's lack of promotional know-how. Sticking some information SBouE: of the quality, but |
-which is apparently what the majority do, will never turn you into a household Eines it on social media
-B Hideko Tamura
-Long gone are the days when the only people who would ever consider self-publishing were thos | |
-main aim was to boast about being a published author. Many established writers who have ali ty et 2a Ma
-work through the traditional route are now turning to it. They have realised that they can et sf ey caaue
-more without publishing houses taking a cut, which is also surely true for new and a ae Soe
-if they are sufficiently talented and their work is meticulously checked and corrected which SE ca J
-always the case. Public cynicism at the merit of much self-published work has largely anered "thanks
-to several extremely well-written, high-profile novels. Self-published writers may not share the Goats of
-traditional publishers when it comes to generating sales through advertising and so on, but access pias
-best to do it is becoming increasingly available online, so this situation is rapidly changing .
-C Helena Silveira |
-Self-publishing is inevitably on the rise, thanks largely to the internet. It now makes up around 10% of |
-published work, and people are cottoning onto the fact that a reasonable proportion of it is actually :
-of an increasingly high standard. One major reason for this is that authors have realised that writing |
-something then immediately publishing it without getting others to read it and suggest improvements | L
-is not the way to go. They have therefore enlisted trusted friends or family to take on this essential |
-role, leading to a higher-quality end product. I'm sure sales figures for self-published titles would 8 }
-higher were it not for authors' lack of expertise when it comes to publicising their work. This genes | y
-disappointing performance has meant that many dreams of being able to afford to become 2 full-time
-writer as a result of self-publishing have largely been shattered, which is a shame. |
-1
-D Richard French }
-e with muci q
-The standard of a significant quantity of self-published writing these days !S compart ned ae is }
-traditionally published work. Despite this, reader confidence in how good ee "jeal of work J
-remains frighteningly low. Most self-published writers now understand that @ ee They have |
-must go into getting a book from first-draft stage to something worthy of being Pails are generally |
-invested more time into this and sought help from others to bring it about. The quires considerable q
-impressive. However, creating publicity for their work continues to be an area Se generate insula oe J
-improvement and until this issue is addressed, self-publishing will continu j.-publication mig ed
-income for many authors to survive without also taking on other work wale. fact that it! today us '
-once been purely a means for bad writers to get their name in print, perhaps
-by many serious writers will help increase sales.
-60
-= 8
+[[SCAN:/reading-scans/adv5-t3-p6.webp]]
 text_end
 [/SET]
 
@@ -267,6 +184,8 @@ text_end
 id=ADV5_T3_P6_Q37
 set_id=ADV5_T3_P6
 number=37
+prompt=Which critic shares a view with D about the current reputation of self-published books?
+options={"A":"Critic A","B":"Critic B","C":"Critic C","D":"Critic D"}
 correct_answer=A
 accepted_answers=A
 max_points=2
@@ -278,6 +197,8 @@ explanation=Verified option.
 id=ADV5_T3_P6_Q38
 set_id=ADV5_T3_P6
 number=38
+prompt=Which critic has a different view to the others about the financial implications for writers self-publishing a book?
+options={"A":"Critic A","B":"Critic B","C":"Critic C","D":"Critic D"}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -289,6 +210,8 @@ explanation=Verified option.
 id=ADV5_T3_P6_Q39
 set_id=ADV5_T3_P6
 number=39
+prompt=Which critic shares an opinion with C about the effectiveness of the editing process for self-published books?
+options={"A":"Critic A","B":"Critic B","C":"Critic C","D":"Critic D"}
 correct_answer=D
 accepted_answers=D
 max_points=2
@@ -300,6 +223,8 @@ explanation=Verified option.
 id=ADV5_T3_P6_Q40
 set_id=ADV5_T3_P6
 number=40
+prompt=Which critic has a different view to the others about how well marketing of self-published books is typically done?
+options={"A":"Critic A","B":"Critic B","C":"Critic C","D":"Critic D"}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -314,95 +239,13 @@ part=6
 type=cross_text_multiple_matching
 level=C1
 title=Why We Swim
+instructions=You are going to read four reviews of a book about swimming. For questions 37–40, choose from reviewers A–D. The reviewers may be chosen more than once.
 source_pdf_pages=33
-transcription_status=ocr_cleaned_from_scan
-notes=
+transcription_status=verified_from_source_scan
+notes=Reviews and questions checked against the original photographed source page.
 item_count=4
 text_begin
---- SOURCE PDF PAGE 33 ---
-D In Why We Swim, Bonnie Tsui describes the deep bonds she's fo! ged affordable est) ies
-
-82
-
-Part 6
-
-You are going to read four reviews of a book about Swimmin,
-the reviewers A-D. The reviewers may be chosen more thar "°F Question
-Mark your answers on the separate answer sheet. aice $ 3749
-
-ae with D regarding the opportunities to swim that
-have?
-
-jon from the others on whether Tsui explored
-gson's ordeal in an original way?
-
-We Swi : =
-Why We Swim by Bonnie Tsui ae
-
-A Bonnie Tsui is a passionate advocate of swimming Jes,
-the myriad ways humans have interacted with water ate for all. tn Wh
-book are extraordinary tales of long-distance swimmec', MOUSands of? M@ Su
-Fridthorsson, who in 1984 swam for six hours through, 52" Wha e
-His adventure was widely reported by the media wh freezing nor '
-Tsui, however, takes a refreshingly different approach the focus larg ts is fishi,
-by his Icelandic upbringing, that kept him alive. Her jae g it was ly
-swimming's transformative effects on the mind, son Cot 'S al e
-attest to, But it's the elements of memoir that make wnt!
-lifelong connection with the ocean and all that swi
-
-'0 a Dersua,
-nething resqa PetSUasive
-fe ths book stand out TS like
-ing has taught her"? Tsuid
-B Bonnie Tsui is hooked on swimming and bell *
-in Why We Swim in which Tsui claims that sini oC
-way they perceive the world left me unconvinced, periayat® People's emotiar, MH
-descriptions of intimate moments such as how a love ara because I'm a nonecy tea
-father are memorable and endearing. Also behind the bon ois helped her ren
-swimmers like Gudlaugur Fridthorsson. Through her coos, SUCC°Ss are the in
-realise that his being an Icelander was key to his survival nooo" With. him,
-narrative previously overlooked, and which readers will we eo C04 ocean,
-palaeontologist about Neolithic paintings of swimmers ig fren" Us discus
-paintings themselves say little about our ancestors' attitude to ss
-practised out of necessity or pleasure. © swimming yy
-
-one has the right ¢,
-
-ether it wa
-
-C The first-known depictions of swimming are on the walls of a Saharan cave. drawn wa
-
-when there were lakes in the area — evidence that humans have always enjoyed this
-But according to Bonnie Tsui in Why We Swim, swimming promotes well-being too, a
-her, has even helped resolve personal issues, though whether this is the case for all swimme
-is debatable. Swimming is also essential to survival, as with Icelandic fisherman Gudiau
-Fridthorsson, who endured six hours in the 5°C sea. Considering that this remarkable story
-already received extensive coverage, and that Tsui adds little to it, she should perhaps ha
-opted for a lower-profile subject. Readers will, however, be taken aback by the shameful hist
-of public pools in the US, which could only be used by the privileged few. Still today, itis 0%
-discredit that socio-economics dictates whether a pool is accessible to a community or
-swimming is on the curriculum.
-
-eth
-
-rged with other swimmers, @
-
-ming. She is also aware t
-ren, and adults even, wi |
-his situation. She praises
-
-why people become obsessed with swim:
-swimming facilities mean that some child.
-
-in the water, and she rightly condemns this ti iene ne
-subsidized public pools, and actually interviews Gudiaugu Oe aeait that instead ome .
-Icelander that survived the frigid North Aten ee ee hig cultural erase Re
-ry, she chooses to emphasize the 3 ig book too. TSUl EXP ay
-pribenaieahadiete oan back to land. There is a ing ae millennia 'As true as M2
-re. le
-primitive drawings provide proof Oe ak motivation people had for
-
-be, we still cannot infer from these
+[[SCAN:/reading-scans/adv5-t4-p6.webp]]
 text_end
 [/SET]
 
@@ -410,6 +253,8 @@ text_end
 id=ADV5_T4_P6_Q37
 set_id=ADV5_T4_P6
 number=37
+prompt=Which reviewer shares an opinion with D regarding the opportunities to swim that ordinary people have?
+options={"A":"Reviewer A","B":"Reviewer B","C":"Reviewer C","D":"Reviewer D"}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -421,6 +266,8 @@ explanation=Verified option.
 id=ADV5_T4_P6_Q38
 set_id=ADV5_T4_P6
 number=38
+prompt=Which reviewer has a different opinion from the others on whether Tsui explored Gudlaugur Fridthorsson's ordeal in an original way?
+options={"A":"Reviewer A","B":"Reviewer B","C":"Reviewer C","D":"Reviewer D"}
 correct_answer=C
 accepted_answers=C
 max_points=2
@@ -432,6 +279,8 @@ explanation=Verified option.
 id=ADV5_T4_P6_Q39
 set_id=ADV5_T4_P6
 number=39
+prompt=Which reviewer shares an opinion with D on what prehistoric images of swimmers are able to reveal?
+options={"A":"Reviewer A","B":"Reviewer B","C":"Reviewer C","D":"Reviewer D"}
 correct_answer=B
 accepted_answers=B
 max_points=2
@@ -443,6 +292,8 @@ explanation=Verified option.
 id=ADV5_T4_P6_Q40
 set_id=ADV5_T4_P6
 number=40
+prompt=Which reviewer expresses a different opinion from B on the psychological effects of swimming?
+options={"A":"Reviewer A","B":"Reviewer B","C":"Reviewer C","D":"Reviewer D"}
 correct_answer=A
 accepted_answers=A
 max_points=2

@@ -601,13 +601,19 @@ function Part7Exercise({
     }
   }
 
+  const scanPaths = extractScanPaths(set.fullText);
+
   return (
     <ReadingShell
       left={
-        <article>
-          <h2 className="mb-2 text-2xl font-bold">{set.title}</h2>
-          <div className="whitespace-pre-wrap text-[15px] leading-7">{chunks}</div>
-        </article>
+        scanPaths.length ? (
+          <ScannedPassage title={set.title} paths={scanPaths} />
+        ) : (
+          <article>
+            <h2 className="mb-2 text-2xl font-bold">{set.title}</h2>
+            <div className="whitespace-pre-wrap text-[15px] leading-7">{chunks}</div>
+          </article>
+        )
       }
       right={
         <div>
