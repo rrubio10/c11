@@ -56,3 +56,24 @@ describe("runtime exercise content overrides", () => {
     expect(part8?.items["47"].options).toHaveLength(4);
   });
 });
+
+it("repairs all newly imported Part 1 and Part 2 passages and answer controls", () => {
+  const part1 = getExerciseContentOverride("BOOSTER_W1_P1");
+  expect(part1?.fullText).toContain("a (1) ........ like no other");
+  expect(part1?.fullText).toContain("a new (8) ........ of her famous symphony");
+  expect(part1?.items["1"].options).toHaveLength(4);
+  expect(part1?.items["8"].options[3]).toEqual({ key: "D", label: "arrangement" });
+
+  const part2 = getExerciseContentOverride("BOOSTER_W1_P2");
+  expect(part2?.fullText).toContain("do you find (1) ........ without sufficient cash");
+  expect(part2?.fullText).toContain("completed (8) ........ to the donations");
+
+  const test4Part1 = getExerciseContentOverride("CAE1_T4_P1");
+  expect(test4Part1?.fullText).toContain("even if you (5) ........ the image right");
+  expect(test4Part1?.fullText).toContain("may not (6) ........ be remarked on");
+  expect(test4Part1?.items["5"].options).toHaveLength(4);
+
+  const test4Part2 = getExerciseContentOverride("CAE1_T4_P2");
+  expect(test4Part2?.fullText).toContain("(9) ........ been invited");
+  expect(test4Part2?.fullText).toContain("After (16) ........ seems like a long time");
+});

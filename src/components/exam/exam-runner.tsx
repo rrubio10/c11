@@ -342,14 +342,19 @@ function buildInlineChunks({
   update: (item: Item, value: string, immediate?: boolean) => void;
 }) {
   const itemByNumber = new Map(set.items.map((item) => [item.number, item]));
+  const matchedItemIds = new Set<string>();
   const chunks: ReactNode[] = [];
   let last = 0;
-  const gapPattern = /\((\d{1,3})\)\s*(?:\.{2,}|_{2,}|…+)/g;
+  // Some scanned sources retain only the numbered marker, e.g. “(9)”,
+  // while others use dots, underscores or an ellipsis.  The item-number map
+  // prevents ordinary parenthetical numbers from becoming answer fields.
+  const gapPattern = /\((\d{1,3})\)(?:\s*(?:\.{2,}|_{2,}|…+))?/g;
   let match: RegExpExecArray | null;
   while ((match = gapPattern.exec(text))) {
     chunks.push(text.slice(last, match.index));
     const item = itemByNumber.get(Number(match[1]));
     if (item) {
+      matchedItemIds.add(item.id);
       chunks.push(
         <InlineControl
           key={item.id}
@@ -364,7 +369,7 @@ function buildInlineChunks({
     last = gapPattern.lastIndex;
   }
   chunks.push(text.slice(last));
-  return chunks;
+  return { chunks, matchedItemIds };
 }
 
 function InlineExercise({
@@ -378,10 +383,32 @@ function InlineExercise({
   update: (item: Item, value: string, immediate?: boolean) => void;
   currentId: string;
 }) {
-  const chunks = buildInlineChunks({ text: preparePassage(set), set, answers, currentId, update });
+  const { chunks, matchedItemIds } = buildInlineChunks({ text: preparePassage(set), set, answers, currentId, update });
+  const missingItems = set.items.filter((candidate) => !matchedItemIds.has(candidate.id));
   return (
     <section className="rounded-lg border border-slate-200 bg-white px-5 py-7 shadow-sm sm:px-8">
       <div className="max-w-[1200px] whitespace-pre-wrap text-[16px] leading-10 sm:text-[17px]">{chunks}</div>
+      {missingItems.length > 0 && (
+        <div className="mt-7 border-t border-slate-200 pt-5">
+          <p className="mb-3 text-sm font-semibold text-slate-600">
+            Answer fields not positioned in the source text
+          </p>
+          <div className="flex flex-wrap gap-3">
+            {missingItems.map((candidate) => (
+              <label key={candidate.id} className="flex items-center gap-2 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2">
+                <b className="text-sm">{candidate.number}</b>
+                <InlineControl
+                  part={set.part}
+                  item={candidate}
+                  value={answers[candidate.id] ?? ""}
+                  active={candidate.id === currentId}
+                  onChange={(value) => update(candidate, value, set.part === 1)}
+                />
+              </label>
+            ))}
+          </div>
+        </div>
+      )}
     </section>
   );
 }
@@ -410,7 +437,7 @@ function WordFormationExercise({
   currentId: string;
 }) {
   const passage = stripBaseWords(preparePassage(set), set);
-  const chunks = buildInlineChunks({ text: passage, set, answers, currentId, update });
+  const { chunks } = buildInlineChunks({ text: passage, set, answers, currentId, update });
   return (
     <section className="grid overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm xl:grid-cols-[minmax(0,1fr)_250px]">
       <article className="px-5 py-7 sm:px-8 lg:px-10">
@@ -462,7 +489,7 @@ function InlineControl({
             active ? "border-[#007f86] ring-2 ring-teal-100" : "border-slate-400",
           )}
         >
-          <option value="">{item.number}</option>
+          <option value="">{item.options.length ? item.number : `${item.number} · options unavailable`}</option>
           {item.options.map((option) => (
             <option key={option.key} value={option.key}>
               {option.key} · {option.label}

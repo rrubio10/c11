@@ -47,6 +47,294 @@ Reading and Use of English
 text_end
 [/SET]
 
+[SET]
+set_id=ADV5_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Stepping into the boss's shoes
+source_pdf_pages=11
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Stepping into the boss's shoes
+For questions 9–16, use one word in each gap.
+
+Your manager is away and you've been asked to stand (0) in for them. Regardless of (9) ______ it's only for a few days or a whole month, such responsibility is simultaneously exciting and terrifying. Most of us, (10) ______ we're honest, want our boss's job, so (11) ______ on the role temporarily is an opportunity worth seizing. In the future, you might want to apply for their job, so (12) ______ the most of any chance to prove you have what it takes.
+
+Is your boss (13) ______ of those people who checks emails on holiday and never quite turns off? Then it's probably tempting to contact them about your decisions. This is bad for just about (14) ______ concerned: your boss won't have a restful break and you, (15) ______ you may not realise it, are unconsciously proving you're not ready for more responsibility. So be brave. There's no need to make drastic changes, just take a deep breath and go (16) ______ your instincts.
+text_end
+[/SET]
+
+[SET]
+set_id=ADV5_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Finding fossilized dinosaur bones
+source_pdf_pages=21
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Finding fossilized dinosaur bones
+For questions 9–16, use one word in each gap.
+
+Thanks (0) to advances in technology, researchers can analyze fossilized dinosaur bones in great detail. However, technology is of much less use when it comes to finding fossils. This is largely (9) ______ many fossil hunting sites are in remote locations, a fact which (10) ______ it impossible for researchers to transport ground-penetrating radar machinery there. Even in areas where machinery could eventually be transported, the costs in time and money usually rule this (11) ______ as an option.
+
+Supposing radar did detect (12) ______ might be an interesting object, researchers may end up deciding not to proceed with any excavations anyway. They would have to consider (13) ______ the object was likely to be interesting (14) ______ to be worth the effort. After all, there are often plenty of fossils visible at the surface.
+
+Therefore, it is keen eyesight scientists rely on, (15) ______ opposed to high-tech equipment. The best fossil hunters can even spot tiny bits of fossilized bone in rock, in (16) ______ of the fact that rock and fossil are often similar in color and texture.
+text_end
+[/SET]
+
+[SET]
+set_id=ADV5_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=ABEN online platform
+source_pdf_pages=25
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — ABEN online platform
+For questions 9–16, use one word in each gap.
+
+The inspiration for his online platform called ABEN (0) came to David Harrigan when he was decorating his own home. Browsing the internet (9) ______ search of work by Scandinavian interior designers, he could find (10) ______ single site able to meet his needs. His frustration was (11) ______ sparked the idea for the platform, which puts Scandinavian designers in touch with consumers who are on the lookout for custom-made furniture, glassware or ceramics. On the (12) ______ hand, ABEN helps consumers find products that aren't mass-produced, whilst giving budding designers a shop window on the other.
+
+ABEN's platform works (13) ______ any other e-shop, but with a personal twist. Once a customer has purchased an item through the website, David gives the designer a call to ascertain how long production will take. In order to make a unique piece (14) ______ scratch, the designer needs time, (15) ______ keen customers are to get a delivery. As long as David makes the customer (16) ______ of this in advance, everything works out fine.
+text_end
+[/SET]
+
+[SET]
+set_id=SAMPLE1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=The origin of language
+source_pdf_pages=53
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2
+
+For questions 9 – 16, read the text below and think of the word which best fits each gap. Use only
+one word in each gap. There is an example at the beginning (0).
+
+Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Example: 0 I S
+
+The origin of language
+The truth (0) ........ nobody really knows how language first began. Did we all start talking at around
+
+the same time (9) .......... of the manner in which our brains had begun to develop?
+
+Although there is a lack of clear evidence, people have come up with various theories about the
+
+origins of language. One recent theory is that human beings have evolved in (10) ............... a way that
+
+we are programmed for language from the moment of birth. In (11) ........ words, language came
+
+about as a result of an evolutionary change in our brains at some stage.
+
+Language (12) ........ well be programmed into the brain but, (13) ........ this, people still need
+
+stimulus from others around them. From studies, we know that (14) ............ children are isolated from
+
+human contact and have not learnt to construct sentences before they are ten, it is doubtful they will
+
+ever do so. This research shows, if (15) ............ else, that language is a social activity, not something
+
+invented (16) .......... isolation.
+text_end
+[/SET]
+
+[SET]
+set_id=SAMPLE2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Managing change
+source_pdf_pages=45
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 2 — Managing change
+For questions 9–16, use one word in each gap.
+
+Most people find change unsettling and difficult to adapt (0) to. Many societies have experienced (9) ______ rapid change in the early years of the 21st century that life can feel very daunting (10) ______ times. Various commentators have (11) ______ forward suggestions for coping with change on a personal level.
+
+One suggestion involves thinking of three solutions to a problem, rather (12) ______ two. Apparently, many people faced (13) ______ change respond by considering two possible courses of action, but invariably tend to reject both of these. However, thinking instead of three potential solutions is a strategy which, according to research, provides a reliable way of finding a solution to the initial problem.
+
+Another strategy advocates learning to avoid set patterns of routine behaviour. Something simple, (14) ______ taking another route to work at (15) ______ once a week, is seen as encouraging confidence in the face of uncertainty. (16) ______ the simplicity of these ideas, they nevertheless help prepare people mentally to manage major change if necessary.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Online passwords – what everyone should know
+source_pdf_pages=10
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Online passwords – what everyone should know
+
+When (0) ........ comes to online security, we all know what we ought to do: choose a different, random set of letters and numbers for every email account, shopping site or bank account. But hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally remembering to replace the letter O with a zero, or choosing to (11) ........ use of a capital letter.
+
+Even if we opt (12) ........ a random group of letters such as 'fpqzy', there is now software available which can make a thousand guesses per second, enabling a hacker to get to your password in just under four hours.
+
+Interestingly, (13) ........ increasing your password to twenty random letters, you increase a hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........ no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........ with three or four short, unrelated words and work (16) ........ a way to remember them. Easy!
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Handwriting
+source_pdf_pages=32
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Handwriting
+
+About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of mine looked like. We had always communicated by email and text but never by a handwritten letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary and inevitable intermediary between people – a means by (12) ........ individuals communicate with each other, putting a little bit of their personality (13) ........ the form of the message as they press the ink-bearing point onto the paper. It has started to become just (14) ........ among many options, often considered unattractive and elaborate.
+
+For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can remember. Our handwriting, like ourselves, seems always to have been there. But now, given that most of us communicate via email and text, have we lost (16) ........ crucial to the human experience?
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Work experience abroad
+source_pdf_pages=54
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Work experience abroad
+
+Every year thousands (0) ........ young people in various countries do short periods of work in other countries (9) ........ the time they leave school and start university. Typically these involve helping in schools or hospitals, or on conservation projects. The experience the young people gain will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of independence and confidence. It may also help them with their long-term career.
+
+There are many organisations that run work experience programmes. (11) ........ such company is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being an extended holiday, our placements involve learning to (14) ........ responsibility for themselves. Young people should push themselves out of their comfort zones and do (15) ........ productive. Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd in the job market. Some employers look favourably on students who have the initiative and drive to complete one.'
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=How technology is helping people to talk
+source_pdf_pages=76
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+How technology is helping people to talk
+
+The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be life-changing for anyone suffering from a severe speech problem. (9) ........ been invited to try one such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot which tracks the movement of my eyes.
+
+I start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to, select alternative screens (13) ........ up of vocabulary and expressions, which, for experienced users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top of the screen, and slowly I build up my message. More speed would be good as this isn't a fast way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back to me in a synthesised voice.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=We're all in this together
+source_pdf_pages=19
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+We're all in this together
+
+Have you, or has someone you know, come up (0) ........ an original idea for a brilliant product or an original invention? But do you find (1) ........ without sufficient cash to develop or promote it? Fear not. Help is close (2) ........ hand. You can crowdfund it! Crowdfunding is the practice of financing a project by raising money through contributions (3) ........ individuals or groups of people with money to invest or the desire to (4) ........ good. It has emerged as an accessible option for entrepreneurs and creatives around the world. Usually collected via online platforms, the sum generated allows them to both (5) ........ their ideas to the test and gain exposure and funds for their product or invention. You might well wonder (6) ........ crowdfunding really is a modern-day practice. It would seem (7) ........ . Although the term and its definition were only recently added to dictionaries, throughout history, landmark expeditions, epic voyages and even national monuments have been completed (8) ........ to the donations of ordinary people.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=What do you call a ...?
+source_pdf_pages=20
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+What do you call a ...?
+
+Let's face (0) ........, there are some pretty weird and wonderful entries on the list of names for living creatures. Some might give you a very clear picture of (1) ........ to expect when you look at it! A blobfish has to be round, right? You won't find leafy sea dragons on land, (2) ........ you? In the 18th century, science took the important step of giving species two-part Latin names, such as Homo sapiens, (3) ........ a view to allowing people around the world to communicate unambiguously.
+
+To (4) ........ certain extent, the system, known (5) ........ 'binomial nomenclature', has done its job. Names often give a clear indication of origin (japonica), colour (azurea) or size (nana). On the other hand, it has produced some fun terms, to (6) ........ the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently (7) ........ of the singer's contribution to the arachnid world. The more you swot up (8) ........ this fascinating subject, the more you'll learn (and chuckle), believe me! I've just discovered that there's a creature called, believe it or not, a 'fried egg jellyfish'!
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=National parks
+source_pdf_pages=23
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+National parks
+
+You realise (0) ........ truly incredible the natural environment is when you take a trip to one of the world's national parks. To be eligible for national park status, a place must possess a unique natural, cultural or recreational resource and be considered in need (1) ........ protection. Fortunately, a considerable number of natural gems have been designated as national parks and (2) ........ are also World Heritage sites.
+
+From hot springs (3) ........ snowy peaks, these postcard-worthy destinations (4) ........ definitely be on your list of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are extremely popular (5) ........ outdoor enthusiasts, who can indulge in their favourite activities like hiking or rafting, surrounded (6) ........ nature. The largest national park in the world isn't easily accessible, being in a remote area of Greenland and boasting a permanent population of zero. It's also (7) ........ used to receiving visitors (around 500 a year). This is a long way from the estimated 11 million tourists (8) ........ flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+text_end
+[/SET]
+
 [ITEM]
 id=ADV5_T1_P2_Q09
 set_id=ADV5_T1_P2
@@ -134,27 +422,6 @@ max_points=1
 error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
-
-[SET]
-set_id=ADV5_T2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Stepping into the boss's shoes
-source_pdf_pages=11
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 2 — Stepping into the boss's shoes
-For questions 9–16, use one word in each gap.
-
-Your manager is away and you've been asked to stand (0) in for them. Regardless of (9) ______ it's only for a few days or a whole month, such responsibility is simultaneously exciting and terrifying. Most of us, (10) ______ we're honest, want our boss's job, so (11) ______ on the role temporarily is an opportunity worth seizing. In the future, you might want to apply for their job, so (12) ______ the most of any chance to prove you have what it takes.
-
-Is your boss (13) ______ of those people who checks emails on holiday and never quite turns off? Then it's probably tempting to contact them about your decisions. This is bad for just about (14) ______ concerned: your boss won't have a restful break and you, (15) ______ you may not realise it, are unconsciously proving you're not ready for more responsibility. So be brave. There's no need to make drastic changes, just take a deep breath and go (16) ______ your instincts.
-text_end
-[/SET]
 
 [ITEM]
 id=ADV5_T2_P2_Q09
@@ -244,29 +511,6 @@ error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
 
-[SET]
-set_id=ADV5_T3_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Finding fossilized dinosaur bones
-source_pdf_pages=21
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 2 — Finding fossilized dinosaur bones
-For questions 9–16, use one word in each gap.
-
-Thanks (0) to advances in technology, researchers can analyze fossilized dinosaur bones in great detail. However, technology is of much less use when it comes to finding fossils. This is largely (9) ______ many fossil hunting sites are in remote locations, a fact which (10) ______ it impossible for researchers to transport ground-penetrating radar machinery there. Even in areas where machinery could eventually be transported, the costs in time and money usually rule this (11) ______ as an option.
-
-Supposing radar did detect (12) ______ might be an interesting object, researchers may end up deciding not to proceed with any excavations anyway. They would have to consider (13) ______ the object was likely to be interesting (14) ______ to be worth the effort. After all, there are often plenty of fossils visible at the surface.
-
-Therefore, it is keen eyesight scientists rely on, (15) ______ opposed to high-tech equipment. The best fossil hunters can even spot tiny bits of fossilized bone in rock, in (16) ______ of the fact that rock and fossil are often similar in color and texture.
-text_end
-[/SET]
-
 [ITEM]
 id=ADV5_T3_P2_Q09
 set_id=ADV5_T3_P2
@@ -354,27 +598,6 @@ max_points=1
 error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
-
-[SET]
-set_id=ADV5_T4_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=ABEN online platform
-source_pdf_pages=25
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 2 — ABEN online platform
-For questions 9–16, use one word in each gap.
-
-The inspiration for his online platform called ABEN (0) came to David Harrigan when he was decorating his own home. Browsing the internet (9) ______ search of work by Scandinavian interior designers, he could find (10) ______ single site able to meet his needs. His frustration was (11) ______ sparked the idea for the platform, which puts Scandinavian designers in touch with consumers who are on the lookout for custom-made furniture, glassware or ceramics. On the (12) ______ hand, ABEN helps consumers find products that aren't mass-produced, whilst giving budding designers a shop window on the other.
-
-ABEN's platform works (13) ______ any other e-shop, but with a personal twist. Once a customer has purchased an item through the website, David gives the designer a call to ascertain how long production will take. In order to make a unique piece (14) ______ scratch, the designer needs time, (15) ______ keen customers are to get a delivery. As long as David makes the customer (16) ______ of this in advance, everything works out fine.
-text_end
-[/SET]
 
 [ITEM]
 id=ADV5_T4_P2_Q09
@@ -464,52 +687,6 @@ error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
 
-[SET]
-set_id=SAMPLE1_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=The origin of language
-source_pdf_pages=53
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 2
-
-For questions 9 – 16, read the text below and think of the word which best fits each gap. Use only
-one word in each gap. There is an example at the beginning (0).
-
-Write your answers IN CAPITAL LETTERS on the separate answer sheet.
-
-Example: 0 I S
-
-The origin of language
-The truth (0) ........ nobody really knows how language first began. Did we all start talking at around
-
-the same time (9) .......... of the manner in which our brains had begun to develop?
-
-Although there is a lack of clear evidence, people have come up with various theories about the
-
-origins of language. One recent theory is that human beings have evolved in (10) ............... a way that
-
-we are programmed for language from the moment of birth. In (11) ........ words, language came
-
-about as a result of an evolutionary change in our brains at some stage.
-
-Language (12) ........ well be programmed into the brain but, (13) ........ this, people still need
-
-stimulus from others around them. From studies, we know that (14) ............ children are isolated from
-
-human contact and have not learnt to construct sentences before they are ten, it is doubtful they will
-
-ever do so. This research shows, if (15) ............ else, that language is a social activity, not something
-
-invented (16) .......... isolation.
-text_end
-[/SET]
-
 [ITEM]
 id=SAMPLE1_P2_Q09
 set_id=SAMPLE1_P2
@@ -598,29 +775,6 @@ error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
 
-[SET]
-set_id=SAMPLE2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Managing change
-source_pdf_pages=45
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 2 — Managing change
-For questions 9–16, use one word in each gap.
-
-Most people find change unsettling and difficult to adapt (0) to. Many societies have experienced (9) ______ rapid change in the early years of the 21st century that life can feel very daunting (10) ______ times. Various commentators have (11) ______ forward suggestions for coping with change on a personal level.
-
-One suggestion involves thinking of three solutions to a problem, rather (12) ______ two. Apparently, many people faced (13) ______ change respond by considering two possible courses of action, but invariably tend to reject both of these. However, thinking instead of three potential solutions is a strategy which, according to research, provides a reliable way of finding a solution to the initial problem.
-
-Another strategy advocates learning to avoid set patterns of routine behaviour. Something simple, (14) ______ taking another route to work at (15) ______ once a week, is seen as encouraging confidence in the face of uncertainty. (16) ______ the simplicity of these ideas, they nevertheless help prepare people mentally to manage major change if necessary.
-text_end
-[/SET]
-
 [ITEM]
 id=SAMPLE2_P2_Q09
 set_id=SAMPLE2_P2
@@ -708,45 +862,6 @@ max_points=1
 error_category=open_cloze
 explanation=Verified answer; comparison is case-insensitive. For multiword answers, spacing and punctuation may be normalised.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T1_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Online passwords – what everyone should know
-source_pdf_pages=10
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. examole: [o][iTe] TT TTT TTT TTT ti ttt
-
-v"
-
-Part 2
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only
-'one word in each gap. There is an example at the beginning (0).
-Write your answers IN CAPITAL LETTERS on the separate answer sheet.
-examole: [o][iTe] TT TTT TTT TTT ti ttt
-Online passwords - what everyone should know
-
-'When (0) ........ comes to online security, we all know what we ought to do: choose a different,
-random set of letters and numbers for every email account, shopping site or bank account. But
-hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar
-words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally
-remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
-Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available
-
-| which can make a thousand guesses per second, enabling a hacker to get to your password in
-just under four hours.
-Interestingly, (13) ........ increasing your password to twenty random letters, you increase a
-hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........
-no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........
-with three or four short, unrelated words and work (16) ........ @ Way to remember them. Easy!
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T1_P2_Q09
@@ -844,35 +959,6 @@ error_category=open_cloze
 explanation=OUT/ON completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Handwriting
-source_pdf_pages=32
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][wJo] TT TTT TTT TTTITTITITT
-
-About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of
-mine looked like. We had always communicated by email and text but never by a handwritten
-letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish
-from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary
-and inevitable intermediary between people - a means by (12) ........ individuals communicate
-with each other, putting a little bit of their personality (13) ........ the form of the message as they
-press the ink-bearing point onto the paper. It has started to become just (14) ........ among many
-options, often considered unattractive and elaborate.
-For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can
-remember. Our handwriting, like ourselves, seems always to have been there. But now, given
-that most of us communicate via email and text, have we lost (16) ........ crucial to the human
-experience?
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P2_Q09
 set_id=CAE1_T2_P2
@@ -968,35 +1054,6 @@ max_points=1
 error_category=open_cloze
 explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Work experience abroad
-source_pdf_pages=54
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. emo (o)(o[A1 1111 TTITTIT TIT IT
-
-Every year thousands (0) ........ young people in various countries do short periods of work in
-other countries (9) ........ the time they leave school and start university. Typically these involve
-helping in schools or hospitals, or on conservation projects. The experience the young people gain
-will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of
-independence and confidence. It may also help them with their long-term career.
-There are many organisations that run work experience programmes. (11) ........ such company
-is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being
-an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
-Young people should push themselves out of their comfort zones and do (15) ........ productive.
-Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd
-in the job market. Some employers look favourably on students who have the initiative and drive
-to complete one."
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P2_Q09
@@ -1094,34 +1151,6 @@ error_category=open_cloze
 explanation=STAND completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=How technology is helping people to talk
-source_pdf_pages=76
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. | exemple: [o](nfolr] I | I TTT TTT TTT TTT |
-
-The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be lifechanging for anyone suffering from a severe speech problem. (9) ........ been invited to try one
-such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a
-journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot
-which tracks the movement of my eyes.
-| start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to,
-select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced
-users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top
-of the screen, and slowly I build up my message. More speed would be good as this isn't a fast
-way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long
-time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back
-to me in a synthesised voice.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P2_Q09
 set_id=CAE1_T4_P2
@@ -1217,35 +1246,6 @@ max_points=1
 error_category=open_cloze
 explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=We're all in this together
-source_pdf_pages=19
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below z
-
-Have you, or has someone you know, come up (0) an original idea for a briiant product or
-an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear
-not. Help is close (2) hand. You can crowafund it Crowafunding is the practice of financing a
-project by raising money through contributions (3) ....... individuals or groups of people with money
-to invest or the desire to (4) '200d. It has emerged as an accessible option for entrepreneurs
-and creatives around the world. Usually collected via online platforms, the sum generated allows them to
-both (5) their ideas to the test and gain exposure and funds for their product or invention. You
-might well wonder (6) crowdfunding realy is a modern-day practice. It would seem (7)
-Although the term and its definition were only recently added to dictionaries, throughout history, landmark
-expeditions, epic voyages and even national monuments have been completed (8) to the
-donations of ordinary people.
-(7)
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P2_Q01
@@ -1343,44 +1343,6 @@ error_category=open_cloze
 explanation=THANKS/DUE completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=What do you call a ...?
-source_pdf_pages=20
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS. Example: (0) iT
-
-only one word in each gap. There is an example at the beginning (0).
-Write your answers IN CAPITAL LETTERS.
-Example: (0) iT
-What do you call a... ?
-Lets face (0) , there are some pretty
-weird and wonderful entries on the list of names for 4
-living creatures. Some might give you a very clear 5
-picture of (1) to expect when you look at iii
-it! A blobfish has to be round, right? You won't find 7 Agi iy
-leafy sea dragons on land, (2) you? In the S</prge
-18" century, science took the important step of (a P
-giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y
-around the world to communicate unambiguously. a
-To (4) certain extent, the system, known
-(5) 'binomial nomenclature', has done its job. Names often give a clear indication of origin
-(japonica), colour (azurea ) or size (nana). On the other hand, it has produced some fun terms, to
-(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently
-7) of the singer's contribution to the arachnid world, The more you swot up (8) this
-fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a
-creature called, believe it or not, a 'ried egg jellyfish'
-(a)
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P2_Q01
 set_id=BOOSTER_W2_P2
@@ -1476,37 +1438,6 @@ max_points=1
 error_category=open_cloze
 explanation=ON/ABOUT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=National parks
-source_pdf_pages=23
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and think of the word which best fits each gap. Use
-
-You realise (0) truly incredible the natural environment is when you take a trip to one of the
-world's national parks. To be eligible for national park status, a place must possess a unique natural,
-cultural or recreational resource and be considered in need (1) protection. Fortunately, a
-considerable number of natural gems have been designated as national parks and (2) are also
-World Heritage sites.
-From hot springs (3) snowy peaks, these postcard.worthy destinations (4) definitely be
-'on your lst of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are
-extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking
-or rafting, surrounded (6) nature. The largest national park in the world isnt easily accessible,
-being in @ remote area of Greenland and boasting a permanent population of zero. It's al80 (7) omen
-used to receiving visitors (around 500 a year). Ths is a long way from the estimated 11 milion tourists
-(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
-Bi ee
-(C)
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P2_Q01

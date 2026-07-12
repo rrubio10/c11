@@ -234,6 +234,16 @@ export function parseMaster(content: string): ParseReport {
     });
     const itemCount = Number(f.item_count ?? 0);
     if (itemCount !== items.length) errors.push(`${f.set_id}: item_count=${itemCount}, imported=${items.length}`);
+    if (Number(f.part) === 1) {
+      for (const item of items) {
+        if (item.options.length !== 4) warnings.push(`${f.set_id}: question ${item.number} does not have four Part 1 options`);
+      }
+    }
+    if ([1, 2].includes(Number(f.part))) {
+      for (const item of items) {
+        if (!new RegExp(`\\(${item.number}\\)`).test(fullText)) warnings.push(`${f.set_id}: gap marker (${item.number}) is absent from the passage`);
+      }
+    }
     sets.push(applyContentOverride({
       setId: f.set_id,
       section: f.section ?? "",

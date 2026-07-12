@@ -6,24 +6,1556 @@ type=multiple_choice_cloze
 level=C1
 title=The camera never lies
 source_pdf_pages=8,9
-transcription_status=verified_from_scan
+transcription_status=verified_from_source_scan
 notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
 item_count=8
 text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
 
-Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a
-rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in
-a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures
-really existed. He published the photographs alongside an article he wrote, (2) ........
-fairies as supernatural wonders. It was not until 1939 that the two ladies who took the
-photos admitted these were (3) ......... They simply cut out pictures of fairies from a book
-and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity
-of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
-But it can, and always could. Today, we are used to computer software (7) ........ US
-to rework our digital images and it is a (8) ........ that photography ever had a true
-age of innocence. From the moment cameras began capturing reality, that reality was
-being altered.
+The camera never lies
+
+Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in a garden (1) ........, he thought he was seeing scientific proof that these tiny creatures really existed. He published the photographs alongside an article he wrote, (2) ........ fairies as supernatural wonders. It was not until 1939 that the two ladies who took the photos admitted these were (3) ........ . They simply cut out pictures of fairies from a book and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity of the trick (6) ........ a basic principle of photography: that the camera cannot lie.
+
+But it can, and always could. Today, we are used to computer software (7) ........ us to rework our digital images, and it is a (8) ........ that photography ever had a true age of innocence. From the moment cameras began capturing reality, that reality was being altered.
+
+1 A venue B setting C background D surrounding
+2 A calling B naming C attributing D acknowledging
+3 A false B faulty C fake D fictional
+4 A arranged B spaced C settled D distributed
+5 A categorically B unavoidably C substantially D undeniably
+6 A weakens B undermines C demolishes D dismantles
+7 A letting B supporting C enabling D empowering
+8 A fantasy B legend C dream D myth
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Online passwords – what everyone should know
+source_pdf_pages=10
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Online passwords – what everyone should know
+
+When (0) ........ comes to online security, we all know what we ought to do: choose a different, random set of letters and numbers for every email account, shopping site or bank account. But hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally remembering to replace the letter O with a zero, or choosing to (11) ........ use of a capital letter.
+
+Even if we opt (12) ........ a random group of letters such as 'fpqzy', there is now software available which can make a thousand guesses per second, enabling a hacker to get to your password in just under four hours.
+
+Interestingly, (13) ........ increasing your password to twenty random letters, you increase a hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........ no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........ with three or four short, unrelated words and work (16) ........ a way to remember them. Easy!
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Too many climbers on Mount Everest
+source_pdf_pages=11
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+text_begin
+Mount Everest in Nepal is becoming (0) increasingly popular as a destination for adventure tourism. During the month of May, (17) ........ weather presents a number of safe opportunities to make the climb. As a result, the sheer number of climbers has brought an (18) ........ problem, potentially even more dangerous than low temperatures and changeable weather — overcrowded conditions. The fact that there are so many climbers, many of them complete (19) ........, means that at times people are queuing for hours to reach the summit.
+
+This hazard has led to calls for stricter assessments of new learner climbers, as in their (20) ........ to reach the mountain's summit such inexperienced climbers are sometimes ignoring the advice of their Nepalese guides, which may (21) ........ everyone's lives.
+
+Perhaps one (22) ........ would be to make the charges for climbing the mountain so high that only a few people could afford the climb. Or (23) ........, one could ban the use of artificial oxygen and local guides, leaving Everest to the very best (24) ........ . Extreme, maybe, but it may just prove necessary.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=12,13
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 'You should stop your children watching so much television,' Mary's sister told her.
+
+LET
+
+Mary's sister advised her ........ so much television.
+
+26 The local council wants to impose a ban on driving at more than 30 kilometres per hour anywhere in this area.
+
+ILLEGAL
+
+The local council wants to ........ at more than 30 kilometres per hour anywhere in this area.
+
+27 Tom missed his plane because he was late leaving for the airport.
+
+TIME
+
+If only ........ for the airport, he wouldn't have missed his plane.
+
+28 The guidelines for the appointment of new staff need to be thoroughly revised.
+
+THOROUGH
+
+There needs ........ the guidelines for the appointment of new staff.
+
+29 The employment rate rose gradually as the economy began to recover.
+
+GRADUAL
+
+There ........ the employment rate as the economy began to recover.
+
+30 The change in the company's logo didn't make any difference to the majority of its customers.
+
+CONSEQUENCE
+
+The change in the company's logo ........ to the majority of its customers.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Promotion is good for your health
+source_pdf_pages=30,31
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Promotion is good for your health
+
+A recent study suggests that being promoted isn't just good for your bank (0) ........, it's also good for your health. Researchers found that those who work in jobs with better promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working in departments with double the average promotion (2) ........ had a twenty percent better chance of escaping serious illness.
+
+The researchers (3) ........ into account factors such as family background, pre-existing medical conditions and educational level. (4) ........, they could be confident that the lower occurrences of illness were not simply due to a healthier or more (5) ........ upbringing.
+
+The results seem to (6) ........ earlier studies showing that people who win prestigious awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive those who are less fortunate. As the author of the report says, 'When our findings are put together with the large body of other (7) ........ literature, there is little (8) ........ that achieving a higher position at work is good for the health.'
+
+1 A forecasts B advances C predictions D prospects
+2 A scale B rate C degree D ratio
+3 A set B took C put D made
+4 A Anyway B Moreover C Consequently D Admittedly
+5 A privileged B preferred C entitled D honoured
+6 A call for B go over C back up D lead to
+7 A related B combined C referred D incorporated
+8 A hesitation B question C reservation D opposition
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Handwriting
+source_pdf_pages=32
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Handwriting
+
+About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of mine looked like. We had always communicated by email and text but never by a handwritten letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary and inevitable intermediary between people – a means by (12) ........ individuals communicate with each other, putting a little bit of their personality (13) ........ the form of the message as they press the ink-bearing point onto the paper. It has started to become just (14) ........ among many options, often considered unattractive and elaborate.
+
+For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can remember. Our handwriting, like ourselves, seems always to have been there. But now, given that most of us communicate via email and text, have we lost (16) ........ crucial to the human experience?
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Modernising a museum
+source_pdf_pages=33
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [0 ][t [el a[wlo[e[olelwlalr [i lol] [TTT |
+text_begin
+The Ashmolean Museum in Oxford, England — the world's oldest university museum — has recently gone through a major (0) transformation. The architects wanted to create a new space that would make the museum one of the world's most important and (17) ........ cultural showcases.
+
+The collections in the museum are absolutely (18) ........ and cover the cultures of east and west, charting the aspirations of mankind from the prehistoric era to the present day. The approach that was adopted was based on the idea that (19) ........ that have shaped our modern societies did not develop in isolation but were part of a complex interrelated world. Every object has a (20) ........ story to tell, and these are gradually uncovered through tracing the journey of ideas and influences across time and continents.
+
+People who knew the old museum say it has (21) ........ an amazing makeover. The new layout (22) ........ people to appreciate the objects fully; it is (23) ........ to everyone, from school children to academic scholars, so (24) ........ to all those involved in redesigning this wonderful treasure house.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=34,35
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 The other students don't mind whether you give your presentation on Thursday or Friday.
+
+DIFFERENCE
+
+It ........ the other students whether you give your presentation on Thursday or Friday.
+
+26 'What are you thinking of doing for the college's centenary celebration?' the tutor asked the students.
+
+MIND
+
+The tutor asked the students what ........ for the college's centenary celebration.
+
+27 Dr Ramesh's colleagues regarded him so highly that they forgave his inability to remember people's names.
+
+HELD
+
+Dr Ramesh ........ by his colleagues that they forgave his inability to remember people's names.
+
+28 As learning new languages had never been a problem for her, Katy didn't expect to have any difficulties when she went to live abroad.
+
+COME
+
+Learning new languages had ........ her so Katy didn't expect to have any difficulties when she went to live abroad.
+
+29 I think we owe this passenger an apology, as she was apparently given incorrect train times by our call centre staff.
+
+MISINFORMED
+
+I think we owe this passenger an apology, as she seems ........ train times by our call centre staff.
+
+30 If her party wins the election, which is unlikely, she'll become President.
+
+EVENT
+
+In the ........ the election, she'll become President.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The Japanese Bobtail
+source_pdf_pages=52,53
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+The Japanese Bobtail
+
+Cats have been (0) ........ of the lives of human beings for thousands of years. One interesting breed which fascinates scientists is the Japanese Bobtail – a domestic cat with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of other cats. The breed has been known in Japan for centuries, and it features (2) ........ in folklore. In many traditions, cats are frequently (3) ........ of fear and mistrust, but in Japanese stories the Bobtail tends to be (4) ........ as a force for (5) ........ . The image of a Bobtail seated with one paw raised is considered a lucky charm.
+
+But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere. As a result, the then emperor declared that all cats should have their tails cut short as a (8) ........ measure. Science, however, has a less 'romantic' explanation based on genetics.
+
+1 A nearly B similarly C accurately D closely
+2 A prominently B obviously C appreciably D significantly
+3 A products B articles C objects D elements
+4 A assumed B portrayed C exposed D disclosed
+5 A tight B virtue C good D truth
+6 A come by B get at C hit on D go for
+7 A took B caught C set D seized
+8 A defensive B restrictive C preventative D corrective
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=Work experience abroad
+source_pdf_pages=54
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+Work experience abroad
+
+Every year thousands (0) ........ young people in various countries do short periods of work in other countries (9) ........ the time they leave school and start university. Typically these involve helping in schools or hospitals, or on conservation projects. The experience the young people gain will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of independence and confidence. It may also help them with their long-term career.
+
+There are many organisations that run work experience programmes. (11) ........ such company is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being an extended holiday, our placements involve learning to (14) ........ responsibility for themselves. Young people should push themselves out of their comfort zones and do (15) ........ productive. Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd in the job market. Some employers look favourably on students who have the initiative and drive to complete one.'
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=The significance of hairstyles
+source_pdf_pages=55
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exampre: [o][A]oTaTe[t[aTe[t Te] TT TTT TTI
+text_begin
+Hair is the most easily (0) adaptable part of the human body and also one of the most (17) ........ . The first barbers appeared in ancient Greece, when short hair became a sign of social status. Similarly, South American Inca chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ longer the further down the social chain they were. Barbers prospered in the days of the Roman Empire, until they were expelled from Rome, when it was discovered how much they earned.
+
+Women have always reflected fashion through their hairstyles, sometimes quite (19) ........ . In 15th-century Europe, women would pluck the hair from the front of their heads in (20) ........ of beauty. Three centuries later, the fashion was for huge hairstyles that made it (21) ........ for the hairdresser to climb a small ladder. The maintenance needed to (22) ........ these styles looked good was enormous. Today, in our more liberal world, very little is socially (23) ........ with regard to hairstyles and technology has been enormously (24) ........ in reducing the time we spend on our hair.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=56,57
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 The constant public attention on famous people must have an effect on them.
+
+EYE
+
+Constantly ........ must have an effect on famous people.
+
+26 This building would be ideal for our new office except that there are no parking facilities nearby.
+
+FROM
+
+This building would be ideal for our new office ........ of parking facilities nearby.
+
+27 It’s only because of the quality of the lead singer’s voice that people listen to the album.
+
+WORTH
+
+It’s the quality of the lead singer’s voice that ........ to.
+
+28 The hotel wasn’t just far from the sea, it was expensive too.
+
+ONLY
+
+Not ........ way from the sea, it was expensive too.
+
+29 Jenny felt she had stayed too long at the party.
+
+HIGH
+
+Jenny felt it ........ the party.
+
+30 Hannah’s essay doesn’t have a clear enough explanation of the main point to be awarded top marks.
+
+CLEARLY
+
+Hannah’s essay doesn’t ........ to be awarded top marks.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Dressing for success
+source_pdf_pages=74,75
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Dressing for success
+
+Whether you like it or not, when you go for a job interview your personal appearance will be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start (1) ........ an opinion about your capabilities, your attitude to work and how well you might (2) ........ their organisation. The right image is one that helps the interviewer (3) ........ you as one of their team and (4) ........ them that you could represent their company. So, find out about the company dress code prior to the interview, or see how people are dressed on their corporate website.
+
+However, even if you (5) ........ the image right, it may not (6) ........ be remarked on. The interviewer will just sense that you 'look right', and feel (7) ........ to being convinced that you are the right person for the job. But if you get it wrong, it can be very difficult to (8) ........ the negative impression you may already have made.
+
+1 A shaping B making C creating D forming
+2 A put up with B settle down to C fit in with D live up to
+3 A visualise B reflect C observe D foresee
+4 A reassures B clarifies C encourages D supports
+5 A put B got C hit D set
+6 A significantly B necessarily C appropriately D strictly
+7 A open B free C alert D aware
+8 A overtake B overthrow C overdo D overcome
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=How technology is helping people to talk
+source_pdf_pages=76
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 9–16, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
+
+How technology is helping people to talk
+
+The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be life-changing for anyone suffering from a severe speech problem. (9) ........ been invited to try one such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot which tracks the movement of my eyes.
+
+I start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to, select alternative screens (13) ........ up of vocabulary and expressions, which, for experienced users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top of the screen, and slowly I build up my message. More speed would be good as this isn't a fast way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back to me in a synthesised voice.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Two sleeps per night
+source_pdf_pages=77
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][olelelrlelelairfeli[y] I | TT TTT |
+text_begin
+Sometimes we wake up in the middle of the night and try (0) desperately hard to get back to sleep, but instead we spend a really (17) ........ night tossing and turning until morning. This situation could be (18) ........ of a stressful week, but it could also be because of a sleep pattern we have inherited. Research shows that our ancestors, rather than enjoying an (19) ........ period of sleep at night, had two sleeps broken up by some time awake.
+
+The eight-hours-a-night pattern that has become almost (20) ........ to modern humans has only been (21) ........ in industrialised countries since the 19th century. Then (22) ........ electricity was introduced, which resulted in a division between night and day that became (23) ........ blurred. What had until then been daytime activities could now be enjoyed after darkness, and as a result, we went to bed later. We were therefore more tired, and this (24) ........ us to sleep through the night. However, scientists believe that, subconsciously, some people may still follow the old patterns and have a lengthy period of wakefulness during the night.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations
+source_pdf_pages=78,79
+transcription_status=verified_from_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations
+
+25 Do you mind if John joins us for the meeting?
+
+TO
+
+Do you have ........ us for the meeting?
+
+26 Dan abandoned his studies at university because he was ill.
+
+RESULTED
+
+Dan’s ........ his studies at university.
+
+27 As soon as the tennis players went onto the court, it started raining.
+
+HAD
+
+No ........ onto the court than it started raining.
+
+28 ‘We’ll have to postpone the meeting until next week, as a lot of people are on leave,’ the manager said.
+
+OFF
+
+The manager said the meeting ........ until the following week, as a lot of people were on leave.
+
+29 As visibility was getting worse and worse, Bob and Jane had to cut short their sailing trip.
+
+BUT
+
+As visibility was getting worse and worse, Bob and Jane had ........ cut short their sailing trip.
+
+30 Please tick this box if you don’t want us to inform you about future events.
+
+RATHER
+
+Please tick this box if you ........ sent any information about future events.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Don't miss the event of the year!
+source_pdf_pages=13
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+Don't miss the event of the year!
+
+Now in its seventh (0) ........, this year, the Rogers Estate Festival starts a day earlier: on Thursday, which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in a (1) ........ like no other, with the castle ruins in the background. This year's line-up includes an array of talented actors alongside a very (2) ........ selection of both local and international musicians and visual artists.
+
+Visitors can take (3) ........ an impressive range of exhibits and experience both the permanent and (4) ........ collections through their five senses. In addition to large-audience sessions, there will be more intimate moments, including poetry recitals, (5) ........ by soloists plus painters and sculptors at work. Last but not least, on Friday, we are in for a special (6) ........ . Belinda Wilde, our guest of honour this year, is (7) ........ her debut at the festival, giving us a preview of a new (8) ........ of her famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
+
+1 A scenery B set C setting D stage
+2 A supreme B high C luxury D elite
+3 A off B up C in D on
+4 A provisional B temporary C casual D momentary
+5 A performances B productions C acts D presentations
+6 A joy B bliss C treat D treatment
+7 A giving B making C taking D doing
+8 A constitution B distribution C organisation D arrangement
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=We're all in this together
+source_pdf_pages=19
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+We're all in this together
+
+Have you, or has someone you know, come up (0) ........ an original idea for a brilliant product or an original invention? But do you find (1) ........ without sufficient cash to develop or promote it? Fear not. Help is close (2) ........ hand. You can crowdfund it! Crowdfunding is the practice of financing a project by raising money through contributions (3) ........ individuals or groups of people with money to invest or the desire to (4) ........ good. It has emerged as an accessible option for entrepreneurs and creatives around the world. Usually collected via online platforms, the sum generated allows them to both (5) ........ their ideas to the test and gain exposure and funds for their product or invention. You might well wonder (6) ........ crowdfunding really is a modern-day practice. It would seem (7) ........ . Although the term and its definition were only recently added to dictionaries, throughout history, landmark expeditions, epic voyages and even national monuments have been completed (8) ........ to the donations of ordinary people.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Making the right choice
+source_pdf_pages=25
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 1-8, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) DECISION
+text_begin
+The (0) decision as to which university to apply to is often taken on the basis of a university's position on the world rankings table. Yet other considerations, such as whether the course is (1) ........ or offers hands-on experience and the amount of time that students will need to work (2) ........, should be taken into account.
+
+The fact is that some undergraduates who express their (3) ........ with their university experience base their (4) ........ on poor organisation, the lack of support received and on having fewer contact hours than expected.
+
+As higher education (5) ........ come under increasing pressure to meet established targets and to maintain or improve their status, course guidelines should (6) ........ what participants can expect from the course and what the course expects from them. This should (7) ........ a reduction in student drop-out rates. Inevitably, though, no matter how much the content and structure is spelt out, some students will turn up with (8) ........ expectations that can never be met.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – Relationships
+source_pdf_pages=31
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – Relationships
+
+1 The changes to the club had no effect on its existing members.
+
+CONSEQUENCE
+
+The changes to the club ........ its existing members.
+
+2 We need to completely overhaul the terms for new users.
+
+THOROUGH
+
+There needs ........ the terms for new users.
+
+3 I'm absolutely certain that she was involved in the decision.
+
+WHATSOEVER
+
+There ........ that she was involved in the decision.
+
+4 I was never consulted, so I couldn't offer any advice on the matter.
+
+ONCE
+
+Never ........ give my advice on the matter.
+
+5 It's a mystery to me how he found out about the surprise party.
+
+CLUE
+
+I ........ he found out about the surprise party.
+
+6 The professor's reputation was such that he was nominated for the award.
+
+REGARD
+
+The professor was ........ that he was nominated for the award.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Hobbyists around the world unite
+source_pdf_pages=14
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+Hobbyists around the world unite
+
+No doubt you may be (0) ........ to think that in this day and age, traditional pursuits are no longer 'in' and that we would have (1) ........ away with old-fashioned hobbies that don't involve computers. Nothing of the (2) ........ . If anything, the internet has made it easier for people with specialist hobbies in different corners of the planet to (3) ........ themselves to their passion and to support one another. With one quick press of a key, (4) ........ car collectors are online, comparing notes and restoration (5) ........ with enthusiasts in distant lands. If a part needs replacing, a vast electronic inventory is out there (6) ........ and waiting. After a day in the field, birdwatchers can post sightings they consider worth sharing with like-minded enthusiasts who will immediately (7) ........ to their passion.
+
+Thankfully, face-to-face contact does still take place. Historic car rallies and races have a large following. Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) ........, the cards missing from their collections.
+
+1 A done B taken C put D sent
+2 A type B sort C variety D brand
+3 A focus B present C stick D devote
+4 A ancient B historical C classic D epic
+5 A means B techniques C crafts D systems
+6 A handy B willing C ready D open
+7 A relate B share C connect D join
+8 A bid B purchase C invest D subscribe
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=What do you call a ...?
+source_pdf_pages=20
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+What do you call a ...?
+
+Let's face (0) ........, there are some pretty weird and wonderful entries on the list of names for living creatures. Some might give you a very clear picture of (1) ........ to expect when you look at it! A blobfish has to be round, right? You won't find leafy sea dragons on land, (2) ........ you? In the 18th century, science took the important step of giving species two-part Latin names, such as Homo sapiens, (3) ........ a view to allowing people around the world to communicate unambiguously.
+
+To (4) ........ certain extent, the system, known (5) ........ 'binomial nomenclature', has done its job. Names often give a clear indication of origin (japonica), colour (azurea) or size (nana). On the other hand, it has produced some fun terms, to (6) ........ the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently (7) ........ of the singer's contribution to the arachnid world. The more you swot up (8) ........ this fascinating subject, the more you'll learn (and chuckle), believe me! I've just discovered that there's a creature called, believe it or not, a 'fried egg jellyfish'!
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=Addressing health concerns
+source_pdf_pages=26
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 1-8, read the text below. Use the word given in " capitals at the end of some of the lines to form a word that F ee nN } fits in the gap in the same line. There is an example at the Soa! beginning (0). AP iy ae |
+text_begin
+Healthy eating and keeping physically active are (0) particularly important for children and adolescents. Their nutrition and lifestyle have a direct impact on their (1) ........ and development. Moreover, worldwide trends in obesity in children and teenagers are becoming (2) ........ worrying. Being overweight or obese has been linked to a greater (3) ........ of various health complaints later in life.
+
+One way to improve the dietary habits of schoolchildren is to make (4) ........ to the food served for lunch. Several leading UK chefs have launched campaigns to improve the nutritional quality of the food on school menus. Despite (5) ........ publicity, the improvements to school dinners have not really (6) ........ . Attention has now turned to reducing excess sugar in foods and beverages.
+
+Some local authorities are introducing a tax on drinks with more than a permitted amount of sugar. (7) ........ have already begun decreasing the quantity of sugar in their drinks. Health campaigners are delighted with this reduction and also with the news that (8) ........ raised from the tax will go towards school sports.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The media
+source_pdf_pages=33
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – The media
+
+1 John reads what's happening in the world on his commute to work.
+
+DATE
+
+John ........ the news on his commute to work.
+
+2 Without that promotional campaign, sales would never have been so high.
+
+FOR
+
+If ........ that promotional campaign, sales would have been lower.
+
+3 When it comes down to it, it's not worth the money.
+
+AMOUNTS
+
+What ........ it is too expensive.
+
+4 Suddenly, the novelist became successful.
+
+BLUE
+
+Success ........ for the novelist.
+
+5 I think you may be right about the whole story being a hoax.
+
+INCLINED
+
+I'm ........ that the whole story is a hoax.
+
+6 The organisers were not happy with the way the press covered the event.
+
+ISSUE
+
+The organisers ........ of the event.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=News sharing
+source_pdf_pages=17
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+News sharing
+
+The way we obtain our news coverage is always (0) ........ . The public can gain information on current events from a wide variety of (1) ........ . Centuries ago, news was obtained either by word of mouth, with town criers (2) ........ citizens of news and by-laws, or from print, with notices posted on doors of the local inn. With the (3) ........ of radio, whole families could (4) ........ together in the living room to listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) ........ in the most used rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact that many will (6) ........ in to them on their computer or tablet instead of turning their radio dial.
+
+With the (7) ........ use of social media, news travels faster than ever before. Minute-by-minute coverage of the news no longer relies on TV networks. Increased internet access enables individuals to share photos, opinions and even live videos with one sharp (8) ........ on the screen.
+
+1 A opportunities B causes C ways D sources
+2 A explaining B informing C noting D communicating
+3 A arrival B entrance C starting D approach
+4 A team B gang C gather D unite
+5 A area B site C position D point
+6 A turn B switch C tune D start
+7 A sweeping B absolute C large D widespread
+8 A stroke B tap C squeeze D nudge
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P2
+section=UOE
+part=2
+type=open_cloze
+level=C1
+title=National parks
+source_pdf_pages=23
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS.
+
+National parks
+
+You realise (0) ........ truly incredible the natural environment is when you take a trip to one of the world's national parks. To be eligible for national park status, a place must possess a unique natural, cultural or recreational resource and be considered in need (1) ........ protection. Fortunately, a considerable number of natural gems have been designated as national parks and (2) ........ are also World Heritage sites.
+
+From hot springs (3) ........ snowy peaks, these postcard-worthy destinations (4) ........ definitely be on your list of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are extremely popular (5) ........ outdoor enthusiasts, who can indulge in their favourite activities like hiking or rafting, surrounded (6) ........ nature. The largest national park in the world isn't easily accessible, being in a remote area of Greenland and boasting a permanent population of zero. It's also (7) ........ used to receiving visitors (around 500 a year). This is a long way from the estimated 11 million tourists (8) ........ flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P3
+section=UOE
+part=3
+type=word_formation
+level=C1
+title=How travel inspired my life
+source_pdf_pages=29
+transcription_status=verified_from_source_scan
+notes=Proofread against the uploaded source scan; gaps and base words verified.
+item_count=8
+instructions=For questions 1-8, read the text below. Use the word given in — capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) CHILDHOOD Se
+text_begin
+Today, I travel all around the world as a jewellery designer, but travel was also central to my (0) childhood. My parents encouraged my sister and me to keep records of our (1) ........ in journals and to put together scrapbooks with souvenirs of our adventures. Before departure, a private tutor was hired to equip us with the (2) ........ of our destination's native tongue. My poor sister was not a (3) ........ brilliant linguist and found the whole process a considerable strain.
+
+My experience was very different. My wanderlust was (4) ........ when, straight out of school, I had the opportunity to spend periods in India, Eastern Europe, Africa and Asia. I travel like a (5) ........ explorer, absorbing the details of art and architecture, going into the local history and traditions in (6) ........ . I bring this approach to my work today. I am constantly reading, researching and (7) ........ my knowledge. Not (8) ........, every jewellery collection I work on is an utterly unique representation of a part of my life's voyage.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P4
+section=UOE
+part=4
+type=key_word_transformations
+level=C1
+title=Key word transformations – The environment
+source_pdf_pages=35
+transcription_status=verified_from_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
+item_count=6
+text_begin
+For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
+
+Key word transformations – The environment
+
+1 Before last Friday, representatives had not been able to reach an agreement.
+
+UNTIL
+
+It wasn't ........ able to reach an agreement.
+
+2 The environmentalist supported his claims with scientific evidence.
+
+BACKED
+
+The environmentalist's ........ with scientific evidence.
+
+3 If nothing is done to combat climate change, one tenth of the area will soon be under water.
+
+STEPS
+
+One tenth of the area will soon be under water ........ counteract climate change.
+
+4 I was totally amazed at how spectacularly beautiful the coastline was.
+
+UTTERLY
+
+What I found ........ beauty of the coastline.
+
+5 As long as you explain your proposal clearly, they will agree.
+
+ACROSS
+
+If ........, they will agree.
+
+6 Solar panels and wind turbines are far more commonplace now.
+
+SIGHT
+
+Solar panels and wind turbines used to ........ before.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Jean Piaget
+instructions=You are going to read an article about a famous psychologist. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=14,15
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p5-p014.webp]]
+[[SCAN:/reading-scans/cae1-t1-p5-p015.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The role of advertising in society today
+instructions=You are going to read four contributions to an online debate about advertising. For questions 37-40, choose from the contributions A-D. The contributions may be chosen more than once. Mark your answers on the separate answer sheet.
+source_pdf_pages=16,17
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p6-p016.webp]]
+[[SCAN:/reading-scans/cae1-t1-p6-p017.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Secrets of the deep
+instructions=You are going to read a magazine article about whale sharks. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-48). There is 'one extra paragraph which you do not need to use. Mark your answers on the separate answer sheet.
+source_pdf_pages=18,19
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+When an animal the size of a very large double-decker bus — the largest fish in the ocean — makes a sudden 90° turn, it has to be for a good reason. As the satellite tracks started to come in from whale sharks which we had tagged off the Galapagos Islands, they clearly showed that as the sharks were swimming away from the islands, they were all reaching a certain point and then making a very abrupt change in direction.
+
+[[41]]
+
+That, among other things, was what The Galapagos Whale Shark Project was attempting to find out. Established to study the population of sharks that visits the islands each year, the primary aim of the research was to find out more about whale shark movements on a local scale.
+
+[[42]]
+
+This involved two main processes. To begin with, we had to be able to identify individual sharks. We used a modified version of photo software initially developed for the mapping of stars and deep-space objects. This worked because the characteristic white spots of the whale shark resemble the human fingerprint in that each pattern is individually unique. By running photographs of the sharks' sides through the software, we could characterise the patterns of spots, and figure out which shark was which.
+
+[[43]]
+
+We also attached tags to the sharks to track their movements. This was done by inserting a small dart through the thick skin into a fatty layer beneath using a pneumatic spear gun and then tethering the tags with a piece of steel cable. They were intended to be towed alongside or above the dorsal fin in order to break the surface and transmit data by satellite. But getting the tags to stay on was easier said than done. For reasons unknown, some came off in less than 24 hours.
+
+[[44]]
+
+The sharks used common departure routes soon after we had tagged them. They headed due north, following a series of sea fissures until they reached the Galapagos Rift Valley system. This zone is where the divergence of two oceanic plates has created a rift system similar to that which runs through eastern Africa. Many reached the margin between the two plates and most then turned west.
+
+[[45]]
+
+Conversely, one juvenile female's track was astounding, overlaying almost perfectly the rift system as it runs west. It is clear that she and the other whale sharks are using geological features as route indicators, just as motorists use, say, familiar buildings. But how the sharks perceive such features thousands of metres below on the ocean floor is as yet unresolved.
+
+[[46]]
+
+The theory we are working on is that the Earth's magnetic field reverses its polarity intermittently over the course of time, thus supplying a source of directional information. Fault systems, rift valleys, ocean trenches and plate margins all emit a distinct magnetic signature that can be used by whale sharks and other species as a virtual map.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The Rise of Home Working
+instructions=You are going to read an article about employees who do some or all of their work from home. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
+source_pdf_pages=20,21
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t1-p8-p020.webp]]
+[[SCAN:/reading-scans/cae1-t1-p8-p021.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Howard's Career as a Palaeontologist
+instructions=You are going to read an extract from a novel. For questions 31-36, choose the answer
+source_pdf_pages=36,37
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p5-p036.webp]]
+[[SCAN:/reading-scans/cae1-t2-p5-p037.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Sports psychology: a valid discipline?
+instructions=You are going to read four extracts from online articles about sports psychology. For questions
+source_pdf_pages=38,39
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p6-p038.webp]]
+[[SCAN:/reading-scans/cae1-t2-p6-p039.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Stargazing in East Africa
+instructions=You are going to read a newspaper article about a new trend in the travel and tourism industry. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=40,41
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+We are gathered about a campfire on the dusty edge of the Serengeti National Park. After a long day scanning the savannah for creatures with jaws, claws and tusks, the flames are comforting. Normally on one of these trips, this is the moment at which the day starts to wind down, when tourists compare the animals they have had the chance of seeing and capturing on film.
+
+[[41]]
+
+Amateur astronomy is enjoying a surge of popularity and remote hotels around the world are installing telescopes and hiring expert star guides. Nevertheless, when I first heard about the idea of an 'astro-safari', I was sceptical. Wasn't the whole point of going to Africa to look around at hyenas and gazelles, say, rather than up at constellations that have scarcely changed since our ancestors first struggled to stand upright?
+
+[[42]]
+
+So it was with certain qualms that I found myself in Tanzania, on one of the first such safaris in Africa. The plan was simple. We would spend four days travelling through the spectacular Ngorongoro crater and the highlands, before dropping down on to the plain, animal watching by day and stargazing by night. We would hit the Serengeti plains just as 1.5 million wildebeest were making their way across, accompanied by zebras and gazelles, one of east Africa's most thrilling sights.
+
+[[43]]
+
+We were in luck: Nick Howes, a science writer for the European Space Agency, learnt to love astronomy at an early age. A natural communicator, Howes promptly reassured us that degrees in astrophysics are all very well, but cutting-edge astronomy relies on the work of thousands of amateurs. They are just like us, but with better lenses and more patience.
+
+[[44]]
+
+The vocabulary, however, was alluringly alien: not just nebulae and supernovae, but globular clusters and Magellanic Clouds. Howes continued the astral tour even in daylight hours. To do so, he had brought with him a solar scope that you screw into a telescope. This allows you to look directly into the sun, and, if you are lucky, see the huge 'coronal mass injections' that spurt from the surface of our very own star.
+
+[[45]]
+
+In fact, 'seeing' here in the Serengeti — astronomer-speak for clarity — is among the best in the world. But it was the unexpected spectacles that caused the greatest delight: one evening, a great fireball streaked across the sky, seeming to plunge to earth some way to the south.
+
+[[46]]
+
+Appropriate perhaps, considering that this is the part of the world where mankind first lived and looked at the night sky. Within 24 hours of arriving, the raw tourist finds himself asking all the big questions — the origins of the universe, why life started here of all places ... and the relative scariness of hyenas and asteroids. It was completely different to sitting in front of a TV screen where everything seemed more certain.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=A scientific view of modern art
+instructions=You are going to read an article about scientific interpretations of modern art. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
+source_pdf_pages=42,43
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t2-p8-p042.webp]]
+[[SCAN:/reading-scans/cae1-t2-p8-p043.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Oxytocin
+instructions=You are going to read a newspaper article about research into a chemical. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=58,59
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p5-p058.webp]]
+[[SCAN:/reading-scans/cae1-t3-p5-p059.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The Changing Face of Childhood in the USA
+instructions=You are going to read four extracts from online articles about childhood. For questions 37-40, choose from the extracts A-D. The extracts may be chosen more than once.
+source_pdf_pages=60,61
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p6-p060.webp]]
+[[SCAN:/reading-scans/cae1-t3-p6-p061.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Before Google ... the alternative travel guide to Poland
+instructions=You are going to read an extract from a newspaper article about travelling in Poland. Six paragraphs have been removed from the extract. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=62,63
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+"I am going to take you to my friend's studio. It's quite unusual," says Jarek, my unofficial guide to Krakow, in one of the biggest understatements of the trip. He leads me to an old cottage. It looks abandoned, but then we are greeted by a man who, with his grey beard and sheepskin waistcoat, looks like an ageing pop star. Outside there's a two-metre-high carved totem pole and the remains of a bonfire are still burning.
+
+[[41]]
+
+As a couch surfer I am used to finding golden opportunities through strangers, but the unusual thing about this connection is that it came about after I tried to reconstruct a tourism project that was, in many ways, the precursor to modern social networking. Back in the 1980s, US-born Jim Haynes, a renowned supporter of alternative arts, had an idea. Convinced that the best travel experiences come from the people you meet, he set himself a goal: he would match inquisitive travellers with gracious hosts by creating an alternative guidebook, in a country he loved. Poland: People to People finally hit the bookshelves in 1991.
+
+[[42]]
+
+Eventually enough people came forward with their contact details and a willingness to participate in the scheme. Jim assembled all the names in what read like a personal address book. The cover price of £6 bought you the contact details of 1,000 strangers.
+
+[[43]]
+
+Intrigued by the idea of taking modern networking back to its roots, I wondered whether, many years later, Jim's hosts would still be willing to greet an unknown visitor from overseas. But first I would have to track them down.
+
+[[44]]
+
+At first I planned to communicate only by post and sent several letters before realising I lacked the patience. Feeling a little guilty, I opted for the 21st-century solution: searching for the names on the Internet. Many were dead ends; others simply never responded. But gradually people did come forward and I received various slightly stunned replies. Before long I had meetings arranged in Krakow and Gdansk.
+
+[[45]]
+
+I skip the organised tours, though, and head off to meet Wladek, a 50-year-old academic. We meet in a 19th-century café, where an ultra-polite waitress sets down a massive plate of Polish dumplings before us. It is too much for any tourist to eat.
+
+[[46]]
+
+I'm charmed by Krakow and reluctant to leave Wladek, who proves to be excellent company, and the café, but I already have my next meeting arranged a 10-hour train ride away. Gdansk, with its immaculately renovated buildings and little boutiques, is clearly a world away from the city it was in the 1990s. I have arranged to meet kite-surfing enthusiast Mariusz at a restaurant there. Poland: People to People lives on, it seems. I know Jim will be delighted.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Nature books
+instructions=You are going to read four book reviews. For questions 47-56, choose from the sections (A-D).
+source_pdf_pages=64,65
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t3-p8-p064.webp]]
+[[SCAN:/reading-scans/cae1-t3-p8-p065.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Seeing the world
+instructions=You are going to read an article about travel. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
+source_pdf_pages=80,81
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p5-p080.webp]]
+[[SCAN:/reading-scans/cae1-t4-p5-p081.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Why Translation Matters
+instructions=You are going to read four reviews of a book entitled Why Translation Matters. For questions 37-40, choose from the reviews A-D. The reviews may be chosen more than once. Mark your answers on the separate answer sheet.
+source_pdf_pages=82,83
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p6-p082.webp]]
+[[SCAN:/reading-scans/cae1-t4-p6-p083.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=The Story of Grass
+instructions=You are going to read part of a review of a book about grass. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41~46). There is one extra paragraph which you do not need to use.
+source_pdf_pages=84,85
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+There is no doubting the radical importance of Graham Harvey's message. His case is that grass is unique among the world's plants not just in its arctic-to-equator adaptability and species diversity, but in the power of its elaborate root system to enrich soil with useful carbon compounds. The method of land management that turns this to advantage is mixed crop and cattle farming using crop rotation.
+
+[[41]]
+
+This traditional, nature-based farming practice received a boost in the 17th century, when it was discovered that fertility was enormously increased if the pasture incorporated clover flowers, since clover has the ability to convert nitrogen from the atmosphere into soluble soil nitrates. In the century and a half to 1850, grain yields and animal products doubled because of the clover revolution, and British farming was able to feed an extra seven million people as the industrial revolution spurred population growth.
+
+[[42]]
+
+When these incentives were introduced in the last quarter of the 20th century, farmers scrambled to get rid of their cattle, plough up their pastures, and turn their farms into various kinds of cereal monoculture, with fields full of single crops. These need heavy applications of chemicals to maintain yields. The high levels of artificial nitrogen that result make the crops susceptible to disease, particularly mildew, which have to be countered with yet more chemicals in the form of fungicides.
+
+[[43]]
+
+Intensive agriculture has had a similar effect on hay meadows. These used to flourish in Britain, and their mix of grasses supported the evolution of a rich diversity of animals and birds. Covering grassland with artificial fertiliser reverses this process. It allows one or two fast-growing varieties to eliminate the others, together with the wildlife they supported, producing monotonous acres of rye-grass.
+
+[[44]]
+
+In Harvey's view, British agriculture seems little more than an elaborate means of transferring money from the taxpayer to the pockets of the agrochemical industry, and laying waste the countryside in the process. The more intensive the farm, the more its owner can claim public subsidy. The European Union's common agricultural policy does not escape his attention. It has, in his opinion, outlawed the traditional mixed farm, since it requires farmers to choose between intensive crop or intensive cattle production.
+
+[[45]]
+
+Harvey runs the story of British agriculture alongside the story of the American prairies — flat grasslands without trees. Again the hero is grass, and the villains are well-meaning farmers with no understanding of ecology. The earliest American settlers, in the 17th century, saw no use for the prairies and labelled them desert. In fact, although arid, they were a rich and delicate ecosystem, supporting vast herds of bison which, at their peak, equalled in weight the entire current human population of North America. In three generations, all this was wiped out. The bison were slaughtered, and the prairies ploughed up for wheat and maize.
+
+[[46]]
+
+Now the prairies have to be dosed with artificial fertiliser and pesticides, and the government spends millions of dollars on irrigation. It is a depressing picture.
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Careers in archaeology
+instructions=You are going to read an article in which five people talk about careers in archaeology. For questions 47-56, choose from the books (A-E). Mark your answers on the separate answer sheet.
+source_pdf_pages=86,87
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/cae1-t4-p8-p086.webp]]
+[[SCAN:/reading-scans/cae1-t4-p8-p087.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Knowing the score
+instructions=You are going to read a review of a book about sport and philosophy. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.
+source_pdf_pages=36,37
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w1-p5-p036.webp]]
+[[SCAN:/reading-scans/booster-w1-p5-p037.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=The world we live in is changing fast – but is this a good thing?
+instructions=You are going to read four extracts from articles in which experts give their views on progress and tradition. For questions 1-4, choose from the experts A-D. The experts may be chosen more than once.
+source_pdf_pages=42,43
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w1-p6-p042.webp]]
+[[SCAN:/reading-scans/booster-w1-p6-p043.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Making profits from sustainable industry
+instructions=You are going to read a magazine article about green businesses. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
+source_pdf_pages=48,49
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+Green companies have succeeded in doing what few thought possible — making sustainability profitable. Over the nine years I've spent trying to persuade business leaders to embrace sustainability, the question I've most often been asked is, "What's the business case for sustainability?" This question is always delivered in a sceptical tone, carrying the unspoken suggestion that there is no business case, or at least not a very compelling one. And, for those nine years, I'd always wished I had a better answer.
+
+[[1]]
+
+These so-called green giants — which include electric car maker Tesla — manufacture a stunning array of goods, including burritos and beauty cream, sports shoes and organic baby food. In the process, they have succeeded in doing what the market long thought impossible: they've made sustainability profitable.
+
+[[2]]
+
+Despite this, it's not hard to see why so many people are surprised by the idea that a sustainable business could be profitable. In his 1970 essay, "The Social Responsibility of Business is to Increase its Profits", American economist Milton Friedman dismissed any business with a "social conscience" as "unadulterated socialism". In the following years, the notion that sustainability, or social good generally, and profit are fundamentally opposing forces hardened into fact in the minds of most business leaders.
+
+[[3]]
+
+For years, the conventional wisdom had been that sustainability is likely to lose a company money. Many still think that, at best, it's a strategy to reduce costs, through things like energy and water efficiency.
+
+[[4]]
+
+This phenomenon is also evident in companies which have diversified to produce sustainable as well as conventional brands. Many businesses, perhaps sensing a change in people's attitudes, now market environmentally-friendly products alongside their more well-established cousins. The greener products are outselling their more traditional equivalents.
+
+[[5]]
+
+Such a demonstration of acceptance by the capitalist establishment is profoundly important. It represents a fundamental shift and evidence that this sector of the market has long-term viability. For the green giants, sustainability is not about how they save money, but about how they make it. No longer are sustainability and profit at odds; on the contrary, rather than being a drag on profit, sustainability can drive it.
+
+In many companies, sustainability is a department, but for the green giants, it's a value that is fully integrated into how their business is organised.
+
+[[6]]
+
+Together, the green giants have proven that businesses based on sustainability and social good are an extremely viable alternative to business as usual. With global climate change being taken increasingly seriously in many places around the world, close your eyes, and the pace of change will have only accelerated by the time you open them again. Ignore the green giants' example at your peril.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=Training course reviews
+instructions=You are going to read four reviews of training courses from a training company website. For questions 1-10, choose from the reviews (A-D). The reviews may be chosen more than once.
+source_pdf_pages=54,55
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w1-p8-p054.webp]]
+[[SCAN:/reading-scans/booster-w1-p8-p055.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Reclaiming our city streets
+instructions=You are going to read an article about solving traffic problems in cities. For questions 1-6 k fits best according to the text.
+source_pdf_pages=38,39
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w2-p5-p038.webp]]
+[[SCAN:/reading-scans/booster-w2-p5-p039.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Banning single-use plastic products
+instructions=You are going to read four extracts from articles in which experts give their views on banning
+source_pdf_pages=44,45
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w2-p6-p044.webp]]
+[[SCAN:/reading-scans/booster-w2-p6-p045.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=How the microwave oven was invented
+instructions=You are going to read a magazine article about microwave ovens. Six paragraphs have been
+source_pdf_pages=50,51
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+The microwave is, these days, a common sight in many kitchens around the world and cherished for the speed at which it heats up food and drink. However, it is a little-known fact that its creation came about almost completely by accident, when a self-taught US engineer named Percy Spencer, who was working on improvements to military hardware, realised a snack he had in his pocket had melted.
+
+[[1]]
+
+But Spencer's experience and intelligence led him to the realisation that there were domestic applications for this discovery. He had grown up in a poor family in the backwoods of Maine, in the eastern United States, and had minimal formal education. He had also had little or no direct exposure to emerging technologies of the time, such as cars and electrical power.
+
+[[2]]
+
+On joining the Navy at the age of 18, he gained a fascination for the radio and taught himself everything he could about the new technology, amongst other things. This was to stand Spencer in good stead after leaving the Navy. He gained employment at the American Appliance Company, which was later renamed the Raytheon Manufacturing Company. He rapidly gained renown as one of their most accomplished engineers.
+
+[[3]]
+
+As he did so, he happened to put his hands into his pockets, where he habitually kept his snack. That day, it happened to be a candy bar made from peanuts and caramel. To his surprise, he found that it had turned into a warm, melted mess in his pocket whilst he had been at work. Had it been a chocolate bar, this would not have been so remarkable, as chocolate becomes liquid at a relatively low temperature. Melting a peanut and caramel bar, however, requires substantially larger amounts of energy.
+
+[[4]]
+
+Recognising that it was microwaves produced by the magnetron that had heated it to such a degree, his employer immediately patented the invention. The launch of the first commercial microwave oven came just two years later. Costing around $5,000 (which equates to well over $50,000 these days), it weighed about 340 kg and was almost two metres tall.
+
+[[5]]
+
+Eventually, the company worked hard to bring down the price and to create models of a more convenient size, and sales of the microwave oven mushroomed. According to US government figures, in excess of 90% of American homes had microwaves by 1997. Although not all countries have been so quick in embracing this appliance, its acceptance is growing day by day and it has rapidly become the quickest method of heating up food and drink across the planet.
+
+[[6]]
+
+And all of this progress stems from Spencer's realisation that a melting candy bar in his pocket had far greater significance than a trip to the dry cleaners! In 1999, Percy Spencer was finally given his rightful place alongside great inventors such as Thomas Edison and the Wright Brothers in the National Inventors Hall of Fame.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The rise and fall of the newspaper
+instructions=You are going to read an article about the rise and fall in popularity of newspapers. For questions 1-10, choose from the sections (A-D). The sections may be chosen more than once. In which section does the author
+source_pdf_pages=56,57
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w2-p8-p056.webp]]
+[[SCAN:/reading-scans/booster-w2-p8-p057.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P5
+section=Reading
+part=5
+type=multiple_choice_reading
+level=C1
+title=Using video gaming in education
+instructions=You are going to read an article about using video games in education. For questions 1-6 k fits best according to the text.
+source_pdf_pages=40,41
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+[[SCAN:/reading-scans/booster-w3-p5-p040.webp]]
+[[SCAN:/reading-scans/booster-w3-p5-p041.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P6
+section=Reading
+part=6
+type=cross_text_multiple_matching
+level=C1
+title=Behaviour in schools
+instructions=You are going to read four extracts from articles in which academics give their views on behaviour in schools. For questions 1-4, choose from the academic A-D. The academics may be chosen more than once.
+source_pdf_pages=46,47
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=4
+text_begin
+[[SCAN:/reading-scans/booster-w3-p6-p046.webp]]
+[[SCAN:/reading-scans/booster-w3-p6-p047.webp]]
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P7
+section=Reading
+part=7
+type=gapped_text
+level=C1
+title=Replacing arts subjects in schools
+instructions=You are going to read a newspaper article about the arts. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
+source_pdf_pages=52,53
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=6
+text_begin
+Despite a lack of resources, we need a commitment to creativity in schools.
+
+In 2006, 84-year-old American novelist Kurt Vonnegut wrote a letter to a class of schoolchildren who had asked him to visit. He was too ill to travel, but offered them instead the following lesson for life: "Practise any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow."
+
+[[1]]
+
+Middle-class parents have long known this; it's why they get their children signed up for music groups before they can walk. Being "cultured" opens doors even if you don't pursue a career in the arts. Private schools know this too, and usually offer a rich and varied extracurricular programme of artistic activities. But Vonnegut's advice is not so easy to follow for those who have little opportunity or guidance when it comes to the arts.
+
+[[2]]
+
+Perhaps an even greater worry is that creative writing, art, drama and music, once an integral part of the curriculum, are having their status reduced in favour of more obviously "commercially useful" subjects. In the UK, for example, there has recently been a huge decline in the number of pupils taking qualifications in arts subjects. In a challenging global economy, the arts are increasingly seen as "soft subjects".
+
+[[3]]
+
+This observation was reinforced when my 14-year-old son recently chose subject options for the two subsequent academic years. The fact that his school decided to send an accompanying letter assuring parents that the "soft subjects" would not be considered inferior to maths and sciences by the top universities was telling in itself.
+
+[[4]]
+
+So, if schools and government are unable or unwilling to stem the tide in favour of more "commercially useful" subjects at the expense of artistic ones, where do those whose career aims do not neatly fall into the commercially useful category turn? Charitable institutions which provide grants and bursaries for talented young people are springing up in many countries, or finding themselves in greater demand. Students who were unable to develop their skills for want of the most basic provision — the cost of a musical instrument or the train fare to attend a drama school audition — are getting their financial needs met, and are also helped in other ways.
+
+[[5]]
+
+But the obvious problem with charities is that, by definition, they can't be everywhere and such an approach is no substitute for a nationwide educational commitment to the arts that reflects the value of the creative sector to the economy and to personal wellbeing. The performing arts should not become luxuries for well-off children, because talent doesn't go with money.
+
+[[6]]
+
+To achieve this worthy aim, governments should consider not only the inclusion of the expressive arts in all state school curricula, but also investment in teachers who can provide art, drama and music outside the timetable, for the less tangible — but no less valuable — purpose of expanding minds and, yes, growing souls.
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P8
+section=Reading
+part=8
+type=multiple_matching
+level=C1
+title=The pros and cons of ecotourism
+instructions=Read the sections and choose the section which contains the information. Sections may be chosen more than once.
+source_pdf_pages=58,59
+transcription_status=verified_from_source_scan
+notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
+item_count=10
+text_begin
+[[SCAN:/reading-scans/booster-w3-p8-p058.webp]]
+[[SCAN:/reading-scans/booster-w3-p8-p059.webp]]
 text_end
 [/SET]
 
@@ -131,45 +1663,6 @@ error_category=multiple_choice_cloze
 explanation=Option D (myth) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T1_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Online passwords – what everyone should know
-source_pdf_pages=10
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. examole: [o][iTe] TT TTT TTT TTT ti ttt
-
-v"
-
-Part 2
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only
-'one word in each gap. There is an example at the beginning (0).
-Write your answers IN CAPITAL LETTERS on the separate answer sheet.
-examole: [o][iTe] TT TTT TTT TTT ti ttt
-Online passwords - what everyone should know
-
-'When (0) ........ comes to online security, we all know what we ought to do: choose a different,
-random set of letters and numbers for every email account, shopping site or bank account. But
-hardly (9) ........ does this, because memorising them all is impossible. So we use the same familiar
-words for every site, (10) ........ a pet's name or, even worse, the word 'password', occasionally
-remembering to replace the letter 0 with a zero, or choosing to (11) ........ use of a capital letter.
-Even if we opt (12) ........ arandom group of letters such as 'fpqzy', there is now software available
-
-| which can make a thousand guesses per second, enabling a hacker to get to your password in
-just under four hours.
-Interestingly, (13) ........ increasing your password to twenty random letters, you increase a
-hacker's guessing time to 6.5 thousand trillion centuries. The problem is that you would (14) ........
-no chance of ever remembering those 20 letters. The solution, apparently, is to come (15) ........
-with three or four short, unrelated words and work (16) ........ @ Way to remember them. Easy!
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T1_P2_Q09
 set_id=CAE1_T1_P2
@@ -265,27 +1758,6 @@ max_points=1
 error_category=open_cloze
 explanation=OUT/ON completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T1_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=Too many climbers on Mount Everest
-source_pdf_pages=11
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet.
-text_begin
-Mount Everest in Nepal is becoming (0) increasingly popular as a destination for adventure tourism. During the month of May, (17) ........ weather presents a number of safe opportunities to make the climb. As a result, the sheer number of climbers has brought an (18) ........ problem, potentially even more dangerous than low temperatures and changeable weather — overcrowded conditions. The fact that there are so many climbers, many of them complete (19) ........, means that at times people are queuing for hours to reach the summit.
-
-This hazard has led to calls for stricter assessments of new learner climbers, as in their (20) ........ to reach the mountain's summit such inexperienced climbers are sometimes ignoring the advice of their Nepalese guides, which may (21) ........ everyone's lives.
-
-Perhaps one (22) ........ would be to make the charges for climbing the mountain so high that only a few people could afford the climb. Or (23) ........, one could ban the use of artificial oxygen and local guides, leaving Everest to the very best (24) ........ . Extreme, maybe, but it may just prove necessary.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T1_P3_Q17
@@ -391,60 +1863,6 @@ error_category=word_formation
 explanation=The base word MOUNTAIN must be changed to MOUNTAINEER(S), matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T1_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations
-source_pdf_pages=12,13
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations
-
-25 'You should stop your children watching so much television,' Mary's sister told her.
-
-LET
-
-Mary's sister advised her ........ so much television.
-
-26 The local council wants to impose a ban on driving at more than 30 kilometres per hour anywhere in this area.
-
-ILLEGAL
-
-The local council wants to ........ at more than 30 kilometres per hour anywhere in this area.
-
-27 Tom missed his plane because he was late leaving for the airport.
-
-TIME
-
-If only ........ for the airport, he wouldn't have missed his plane.
-
-28 The guidelines for the appointment of new staff need to be thoroughly revised.
-
-THOROUGH
-
-There needs ........ the guidelines for the appointment of new staff.
-
-29 The employment rate rose gradually as the economy began to recover.
-
-GRADUAL
-
-There ........ the employment rate as the economy began to recover.
-
-30 The change in the company's logo didn't make any difference to the majority of its customers.
-
-CONSEQUENCE
-
-The change in the company's logo ........ to the majority of its customers.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T1_P4_Q25
 set_id=CAE1_T1_P4
@@ -528,36 +1946,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses CONSEQUENCE unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Promotion is good for your health
-source_pdf_pages=30,31
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-A recent study suggests that being promoted isn't just good for your bank (0) ........ ,
-it's also good for your health. Researchers found that those who work in jobs with better
-promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working
-in departments with double the average promotion (2) ........ had a twenty percent better
-chance of escaping serious illness.
-The researchers (3) ........ into account factors such as family background, pre-existing
-medical conditions and educational level. (4) ........, they could be confident that the lower
-occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
-The results seem to (6) ........ earlier studies showing that people who win prestigious
-awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive
-those who are less fortunate. As the author of the report says, 'When our findings are
-put together with the large body of other (7) ........ literature, there is little (8) ........ that
-achieving a higher position at work is good for the health.'
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T2_P1_Q01
@@ -663,35 +2051,6 @@ error_category=multiple_choice_cloze
 explanation=Option B (question) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Handwriting
-source_pdf_pages=32
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][wJo] TT TTT TTT TTTITTITITT
-
-About six months ago, I realised I had (0) ........ idea what the handwriting of a good friend of
-mine looked like. We had always communicated by email and text but never by a handwritten
-letter. And it struck me that we are at a moment (9) ........ handwriting seems to be about to vanish
-from our lives altogether. (10) ........ some point in recent years, it stopped (11) ........ a necessary
-and inevitable intermediary between people - a means by (12) ........ individuals communicate
-with each other, putting a little bit of their personality (13) ........ the form of the message as they
-press the ink-bearing point onto the paper. It has started to become just (14) ........ among many
-options, often considered unattractive and elaborate.
-For each of us, the act of putting marks on paper with ink goes back as (15) ........ as we can
-remember. Our handwriting, like ourselves, seems always to have been there. But now, given
-that most of us communicate via email and text, have we lost (16) ........ crucial to the human
-experience?
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P2_Q09
 set_id=CAE1_T2_P2
@@ -787,27 +2146,6 @@ max_points=1
 error_category=open_cloze
 explanation=SOMETHING completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T2_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=Modernising a museum
-source_pdf_pages=33
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [0 ][t [el a[wlo[e[olelwlalr [i lol] [TTT |
-text_begin
-The Ashmolean Museum in Oxford, England — the world's oldest university museum — has recently gone through a major (0) transformation. The architects wanted to create a new space that would make the museum one of the world's most important and (17) ........ cultural showcases.
-
-The collections in the museum are absolutely (18) ........ and cover the cultures of east and west, charting the aspirations of mankind from the prehistoric era to the present day. The approach that was adopted was based on the idea that (19) ........ that have shaped our modern societies did not develop in isolation but were part of a complex interrelated world. Every object has a (20) ........ story to tell, and these are gradually uncovered through tracing the journey of ideas and influences across time and continents.
-
-People who knew the old museum say it has (21) ........ an amazing makeover. The new layout (22) ........ people to appreciate the objects fully; it is (23) ........ to everyone, from school children to academic scholars, so (24) ........ to all those involved in redesigning this wonderful treasure house.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T2_P3_Q17
@@ -913,60 +2251,6 @@ error_category=word_formation
 explanation=The base word CONGRATULATE must be changed to CONGRATULATIONS, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations
-source_pdf_pages=34,35
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations
-
-25 The other students don't mind whether you give your presentation on Thursday or Friday.
-
-DIFFERENCE
-
-It ........ the other students whether you give your presentation on Thursday or Friday.
-
-26 'What are you thinking of doing for the college's centenary celebration?' the tutor asked the students.
-
-MIND
-
-The tutor asked the students what ........ for the college's centenary celebration.
-
-27 Dr Ramesh's colleagues regarded him so highly that they forgave his inability to remember people's names.
-
-HELD
-
-Dr Ramesh ........ by his colleagues that they forgave his inability to remember people's names.
-
-28 As learning new languages had never been a problem for her, Katy didn't expect to have any difficulties when she went to live abroad.
-
-COME
-
-Learning new languages had ........ her so Katy didn't expect to have any difficulties when she went to live abroad.
-
-29 I think we owe this passenger an apology, as she was apparently given incorrect train times by our call centre staff.
-
-MISINFORMED
-
-I think we owe this passenger an apology, as she seems ........ train times by our call centre staff.
-
-30 If her party wins the election, which is unlikely, she'll become President.
-
-EVENT
-
-In the ........ the election, she'll become President.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P4_Q25
 set_id=CAE1_T2_P4
@@ -1050,34 +2334,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses EVENT unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=The Japanese Bobtail
-source_pdf_pages=52,53
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-Cats have been (0) ........ of the lives of human beings for thousands of years. One
-interesting breed which fascinates scientists is the Japanese Bobtail - a domestic cat
-with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of
-other cats. The breed has been known in Japan for centuries, and it features (2) ........
-in folklore. in many traditions, cats are frequently (3) ........ of fear and mistrust but in
-Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) ........ . The image of
-a Bobtail seated with one paw raised is considered a lucky charm.
-But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose
-long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere.
-As a result, the then emperor declared that all cats should have their tails cut short as a
-(8)........ measure. Science, however, has a less 'romantic' explanation based on genetics.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P1_Q01
@@ -1183,35 +2439,6 @@ error_category=multiple_choice_cloze
 explanation=Option C (preventative) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T3_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=Work experience abroad
-source_pdf_pages=54
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. emo (o)(o[A1 1111 TTITTIT TIT IT
-
-Every year thousands (0) ........ young people in various countries do short periods of work in
-other countries (9) ........ the time they leave school and start university. Typically these involve
-helping in schools or hospitals, or on conservation projects. The experience the young people gain
-will be of great benefit in their lives. (10) ........ a personal point of view, it gives them a sense of
-independence and confidence. It may also help them with their long-term career.
-There are many organisations that run work experience programmes. (11) ........ such company
-is Global Volunteers, (12) ........ spokesperson Mary Cooper comments: '(13) ........ than being
-an extended holiday, our placements involve learning to (14) ........ responsibility for themselves.
-Young people should push themselves out of their comfort zones and do (15) ........ productive.
-Doing a placement will add value to a CV, helping young people to (16) ........ out from the crowd
-in the job market. Some employers look favourably on students who have the initiative and drive
-to complete one."
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T3_P2_Q09
 set_id=CAE1_T3_P2
@@ -1307,25 +2534,6 @@ max_points=1
 error_category=open_cloze
 explanation=STAND completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=The significance of hairstyles
-source_pdf_pages=55
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. exampre: [o][A]oTaTe[t[aTe[t Te] TT TTT TTI
-text_begin
-Hair is the most easily (0) adaptable part of the human body and also one of the most (17) ........ . The first barbers appeared in ancient Greece, when short hair became a sign of social status. Similarly, South American Inca chiefs had their hair short; in contrast, the hair of their citizens got (18) ........ longer the further down the social chain they were. Barbers prospered in the days of the Roman Empire, until they were expelled from Rome, when it was discovered how much they earned.
-
-Women have always reflected fashion through their hairstyles, sometimes quite (19) ........ . In 15th-century Europe, women would pluck the hair from the front of their heads in (20) ........ of beauty. Three centuries later, the fashion was for huge hairstyles that made it (21) ........ for the hairdresser to climb a small ladder. The maintenance needed to (22) ........ these styles looked good was enormous. Today, in our more liberal world, very little is socially (23) ........ with regard to hairstyles and technology has been enormously (24) ........ in reducing the time we spend on our hair.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P3_Q17
@@ -1431,60 +2639,6 @@ error_category=word_formation
 explanation=The base word BENEFIT must be changed to BENEFICIAL, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T3_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations
-source_pdf_pages=56,57
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations
-
-25 The constant public attention on famous people must have an effect on them.
-
-EYE
-
-Constantly ........ must have an effect on famous people.
-
-26 This building would be ideal for our new office except that there are no parking facilities nearby.
-
-FROM
-
-This building would be ideal for our new office ........ of parking facilities nearby.
-
-27 It’s only because of the quality of the lead singer’s voice that people listen to the album.
-
-WORTH
-
-It’s the quality of the lead singer’s voice that ........ to.
-
-28 The hotel wasn’t just far from the sea, it was expensive too.
-
-ONLY
-
-Not ........ way from the sea, it was expensive too.
-
-29 Jenny felt she had stayed too long at the party.
-
-HIGH
-
-Jenny felt it ........ the party.
-
-30 Hannah’s essay doesn’t have a clear enough explanation of the main point to be awarded top marks.
-
-CLEARLY
-
-Hannah’s essay doesn’t ........ to be awarded top marks.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T3_P4_Q25
 set_id=CAE1_T3_P4
@@ -1568,43 +2722,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses CLEARLY unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T4_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Dressing for success
-source_pdf_pages=74,75
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-Whether you like it or not, when you go for a job interview your personal appearance will
-be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start
-(1)........an opinion about your capabilities, your attitude to work and how well you might
-(2) ....... their organisation. The right image is one that helps the interviewer (3) ........ You
-as one of their team and (4) ........ them that you could represent their company. So, find
-'out about the company dress code prior to the interview, or see how people are dressed
-'on their corporate website.
-However, even iIf you (6) ........ the image right, it may not (6) ........ be remarked on. The
-interviewer will just sense that you 'look right', and feel (7) ........ to being convinced
-that you are the right person for the job. But iIf you get it wrong, it can be very difficult to
-(8) ........ the negative impression you may already have made.
-
-1A. shaping B_ making C creating D_ forming
-2 A putupwith B settledownto ¢_fitinwith D liveupto
-3 A visualise B reflect C observe D foresee
-4 A reassures B clarifies encourages D supports
-5 A put B got Cc hit D set
-6 A significantly B necessarily C appropriately strictly
-7 A open B free C alert D aware
-8 A overtake B_ overthrow C overdo D overcome
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T4_P1_Q01
@@ -1710,34 +2827,6 @@ error_category=multiple_choice_cloze
 explanation=Option D (overcome) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=How technology is helping people to talk
-source_pdf_pages=76
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 9-16, read the text below and think of the word which best fits each gap. Use only 'one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. | exemple: [o](nfolr] I | I TTT TTT TTT TTT |
-
-The term 'eye-gaze technology' may (0) ........ mean much to most people, but it can be lifechanging for anyone suffering from a severe speech problem. (9) ........ been invited to try one
-such hi-tech communication aid, I find (10) ........ sitting staring at a computer screen. As a
-journalist, this is nothing new for me (11) ........ for the fact that this screen features a red dot
-which tracks the movement of my eyes.
-| start by looking at a letter from an on-screen keyboard. However, I could, (12) ........ I wanted to,
-select alternative screens (13) ........ Up Of vocabulary and expressions, which, for experienced
-users, would (14) ........ doubt speed things up. The letter or word I've selected pops up at the top
-of the screen, and slowly I build up my message. More speed would be good as this isn't a fast
-way to communicate, (15) ........ with the aid of predictive text. After (16) ........ seems like a long
-time, my phrase 'this is an amazing machine' is complete. I stare at the phrase and it comes back
-to me in a synthesised voice.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P2_Q09
 set_id=CAE1_T4_P2
@@ -1833,25 +2922,6 @@ max_points=1
 error_category=open_cloze
 explanation=WHAT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T4_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=Two sleeps per night
-source_pdf_pages=77
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 17-24, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS on the separate answer sheet. example: [o][olelelrlelelairfeli[y] I | TT TTT |
-text_begin
-Sometimes we wake up in the middle of the night and try (0) desperately hard to get back to sleep, but instead we spend a really (17) ........ night tossing and turning until morning. This situation could be (18) ........ of a stressful week, but it could also be because of a sleep pattern we have inherited. Research shows that our ancestors, rather than enjoying an (19) ........ period of sleep at night, had two sleeps broken up by some time awake.
-
-The eight-hours-a-night pattern that has become almost (20) ........ to modern humans has only been (21) ........ in industrialised countries since the 19th century. Then (22) ........ electricity was introduced, which resulted in a division between night and day that became (23) ........ blurred. What had until then been daytime activities could now be enjoyed after darkness, and as a result, we went to bed later. We were therefore more tired, and this (24) ........ us to sleep through the night. However, scientists believe that, subconsciously, some people may still follow the old patterns and have a lengthy period of wakefulness during the night.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T4_P3_Q17
@@ -1957,60 +3027,6 @@ error_category=word_formation
 explanation=The base word ABLE must be changed to ENABLED, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations
-source_pdf_pages=78,79
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 25-30, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations
-
-25 Do you mind if John joins us for the meeting?
-
-TO
-
-Do you have ........ us for the meeting?
-
-26 Dan abandoned his studies at university because he was ill.
-
-RESULTED
-
-Dan’s ........ his studies at university.
-
-27 As soon as the tennis players went onto the court, it started raining.
-
-HAD
-
-No ........ onto the court than it started raining.
-
-28 ‘We’ll have to postpone the meeting until next week, as a lot of people are on leave,’ the manager said.
-
-OFF
-
-The manager said the meeting ........ until the following week, as a lot of people were on leave.
-
-29 As visibility was getting worse and worse, Bob and Jane had to cut short their sailing trip.
-
-BUT
-
-As visibility was getting worse and worse, Bob and Jane had ........ cut short their sailing trip.
-
-30 Please tick this box if you don’t want us to inform you about future events.
-
-RATHER
-
-Please tick this box if you ........ sent any information about future events.
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P4_Q25
 set_id=CAE1_T4_P4
@@ -2094,34 +3110,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses RATHER unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Don't miss the event of the year!
-source_pdf_pages=13
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and $ : decide which answer (A, B, C or D) best , fits each gap. There is an example at the ' li a
-
-Now in its seventh (0) , this year, the Rogers Estate Festival starts a day earlier: on Thursday,
-which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in
-a(l) like no other, with the castle runs in the background. This year's lineup includes an array
-of talented actors alongside a very (2) selection of both local and international musicians and
-visual artists.
-Visitors can take (3) an impressive range of exhibits and experience both the permanent and
-(4) collections through their five senses. In addition to large-audience sessions, there will be
-more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors
-at work. Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of
-honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her
-famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P1_Q01
@@ -2227,35 +3215,6 @@ error_category=multiple_choice_cloze
 explanation=Option D (arrangement) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W1_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=We're all in this together
-source_pdf_pages=19
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below z
-
-Have you, or has someone you know, come up (0) an original idea for a briiant product or
-an original invention? But do you find (1) without sufficient cash to develop or promote it? Fear
-not. Help is close (2) hand. You can crowafund it Crowafunding is the practice of financing a
-project by raising money through contributions (3) ....... individuals or groups of people with money
-to invest or the desire to (4) '200d. It has emerged as an accessible option for entrepreneurs
-and creatives around the world. Usually collected via online platforms, the sum generated allows them to
-both (5) their ideas to the test and gain exposure and funds for their product or invention. You
-might well wonder (6) crowdfunding realy is a modern-day practice. It would seem (7)
-Although the term and its definition were only recently added to dictionaries, throughout history, landmark
-expeditions, epic voyages and even national monuments have been completed (8) to the
-donations of ordinary people.
-(7)
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W1_P2_Q01
 set_id=BOOSTER_W1_P2
@@ -2351,27 +3310,6 @@ max_points=1
 error_category=open_cloze
 explanation=THANKS/DUE completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=Making the right choice
-source_pdf_pages=25
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 1-8, read the text below. Use the word given in capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) DECISION
-text_begin
-The (0) decision as to which university to apply to is often taken on the basis of a university's position on the world rankings table. Yet other considerations, such as whether the course is (1) ........ or offers hands-on experience and the amount of time that students will need to work (2) ........, should be taken into account.
-
-The fact is that some undergraduates who express their (3) ........ with their university experience base their (4) ........ on poor organisation, the lack of support received and on having fewer contact hours than expected.
-
-As higher education (5) ........ come under increasing pressure to meet established targets and to maintain or improve their status, course guidelines should (6) ........ what participants can expect from the course and what the course expects from them. This should (7) ........ a reduction in student drop-out rates. Inevitably, though, no matter how much the content and structure is spelt out, some students will turn up with (8) ........ expectations that can never be met.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P3_Q01
@@ -2477,60 +3415,6 @@ error_category=word_formation
 explanation=The base word REAL must be changed to UNREALISTIC/UNREAL, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W1_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations – Relationships
-source_pdf_pages=31
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations – Relationships
-
-1 The changes to the club had no effect on its existing members.
-
-CONSEQUENCE
-
-The changes to the club ........ its existing members.
-
-2 We need to completely overhaul the terms for new users.
-
-THOROUGH
-
-There needs ........ the terms for new users.
-
-3 I'm absolutely certain that she was involved in the decision.
-
-WHATSOEVER
-
-There ........ that she was involved in the decision.
-
-4 I was never consulted, so I couldn't offer any advice on the matter.
-
-ONCE
-
-Never ........ give my advice on the matter.
-
-5 It's a mystery to me how he found out about the surprise party.
-
-CLUE
-
-I ........ he found out about the surprise party.
-
-6 The professor's reputation was such that he was nominated for the award.
-
-REGARD
-
-The professor was ........ that he was nominated for the award.
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W1_P4_Q01
 set_id=BOOSTER_W1_P4
@@ -2614,48 +3498,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses REGARD unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Hobbyists around the world unite
-source_pdf_pages=14
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best = ! fits each gap. There is an example at the
-
-No doubt you may be (0) to think that in this day and age, traditional pursuits are no longer 'in'
-and that we would have (1) away with oldfashioned hobbies that don't involve computers. Nothing
-of the (2) if anything, the internet has made it easier for people with specialist hobbies in
-diferent corners of the planet to (3) themselves to their passion and to support one another.
-With one quick press of a key, (4) car collectors are online, comparing notes and restoration
-(5) with enthusiasts in distant lands. if a part needs replacing, a vast electronic inventory is out
-there (6) and waiting. After a day in the field, birdwatchers can post sightings they consider
-worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
-Thankfully, face to face contact does still take place. Historic car rales and races have a large following.
-Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the
-cards missing from their collections.
-1A done B taken C put D sent
-2 Atype B sort C variety D brand
-3. A focus B present stick D devote
-4 Ancient —_B historical € classic D epic
-5 Ameans —B techniques crafts D systems
-6 A handy B wiling € ready D open
-7 A relate B share € connect —_D join
-8 Abid B purchase C invest D subscribe
-@ Exam tips
-'+ Read through the whole text first for overall meaning
-'+ Read again and look at the words before and after the gaps in the text and check for clues like
-determiners (that, this, etc.), verb forms, pronouns and prepositions. These words may be the
-reason why one particular option is the correct word for the gap.
-14 ADVANCED READING AND USE OF ENGLISH I PART 1 I 2 'C Cambridge University Press and UCLES 2018
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W2_P1_Q01
@@ -2761,44 +3603,6 @@ error_category=multiple_choice_cloze
 explanation=Option B (purchase) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=What do you call a ...?
-source_pdf_pages=20
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and think of the word which best fits each gap. Use only one word in each gap. There is an example at the beginning (0). Write your answers IN CAPITAL LETTERS. Example: (0) iT
-
-only one word in each gap. There is an example at the beginning (0).
-Write your answers IN CAPITAL LETTERS.
-Example: (0) iT
-What do you call a... ?
-Lets face (0) , there are some pretty
-weird and wonderful entries on the list of names for 4
-living creatures. Some might give you a very clear 5
-picture of (1) to expect when you look at iii
-it! A blobfish has to be round, right? You won't find 7 Agi iy
-leafy sea dragons on land, (2) you? In the S</prge
-18" century, science took the important step of (a P
-giving species two-part Latin names, such as Homo sapiens, (3) a view to allowing people y
-around the world to communicate unambiguously. a
-To (4) certain extent, the system, known
-(5) 'binomial nomenclature', has done its job. Names often give a clear indication of origin
-(japonica), colour (azurea ) or size (nana). On the other hand, it has produced some fun terms, to
-(6) the least, like Wunderpus photogenicus or more recently, Heteropoda davidbowie, apparently
-7) of the singer's contribution to the arachnid world, The more you swot up (8) this
-fascinating subject, the more youll learn (and chuckle), believe me! Ive just discovered that there's a
-creature called, believe it or not, a 'ried egg jellyfish'
-(a)
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P2_Q01
 set_id=BOOSTER_W2_P2
@@ -2894,27 +3698,6 @@ max_points=1
 error_category=open_cloze
 explanation=ON/ABOUT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W2_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=Addressing health concerns
-source_pdf_pages=26
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 1-8, read the text below. Use the word given in " capitals at the end of some of the lines to form a word that F ee nN } fits in the gap in the same line. There is an example at the Soa! beginning (0). AP iy ae |
-text_begin
-Healthy eating and keeping physically active are (0) particularly important for children and adolescents. Their nutrition and lifestyle have a direct impact on their (1) ........ and development. Moreover, worldwide trends in obesity in children and teenagers are becoming (2) ........ worrying. Being overweight or obese has been linked to a greater (3) ........ of various health complaints later in life.
-
-One way to improve the dietary habits of schoolchildren is to make (4) ........ to the food served for lunch. Several leading UK chefs have launched campaigns to improve the nutritional quality of the food on school menus. Despite (5) ........ publicity, the improvements to school dinners have not really (6) ........ . Attention has now turned to reducing excess sugar in foods and beverages.
-
-Some local authorities are introducing a tax on drinks with more than a permitted amount of sugar. (7) ........ have already begun decreasing the quantity of sugar in their drinks. Health campaigners are delighted with this reduction and also with the news that (8) ........ raised from the tax will go towards school sports.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W2_P3_Q01
@@ -3020,60 +3803,6 @@ error_category=word_formation
 explanation=The base word COME must be changed to INCOME, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations – The media
-source_pdf_pages=33
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations – The media
-
-1 John reads what's happening in the world on his commute to work.
-
-DATE
-
-John ........ the news on his commute to work.
-
-2 Without that promotional campaign, sales would never have been so high.
-
-FOR
-
-If ........ that promotional campaign, sales would have been lower.
-
-3 When it comes down to it, it's not worth the money.
-
-AMOUNTS
-
-What ........ it is too expensive.
-
-4 Suddenly, the novelist became successful.
-
-BLUE
-
-Success ........ for the novelist.
-
-5 I think you may be right about the whole story being a hoax.
-
-INCLINED
-
-I'm ........ that the whole story is a hoax.
-
-6 The organisers were not happy with the way the press covered the event.
-
-ISSUE
-
-The organisers ........ of the event.
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P4_Q01
 set_id=BOOSTER_W2_P4
@@ -3157,33 +3886,6 @@ max_points=2
 error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses ISSUE unchanged and stays within the three-to-six-word limit.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=News sharing
-source_pdf_pages=17
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and = decide which answer (A, B, C or D) best fits each gap. There is an example at the
-
-The way we obtain our news coverage is always (0) . The public can gain information on current
-events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth,
-With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of
-the local inn. With the (3) . of radio, whole families Could (4)... together in the living room to
-listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) in the most used
-rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact
-that many wil (6) in to them on their computer or tablet instead of turning their radio ial
-With the (7) use of social media, news travels faster than ever before. Minute-by-minute coverage
-of the news no longer relies on TV networks. Increased internet access enables individuals to share
-photos, opinions and even lve videos with one sharp (8) on the screen.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P1_Q01
@@ -3289,37 +3991,6 @@ error_category=multiple_choice_cloze
 explanation=Option B (tap) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W3_P2
-section=UOE
-part=2
-type=open_cloze
-level=C1
-title=National parks
-source_pdf_pages=23
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and think of the word which best fits each gap. Use
-
-You realise (0) truly incredible the natural environment is when you take a trip to one of the
-world's national parks. To be eligible for national park status, a place must possess a unique natural,
-cultural or recreational resource and be considered in need (1) protection. Fortunately, a
-considerable number of natural gems have been designated as national parks and (2) are also
-World Heritage sites.
-From hot springs (3) snowy peaks, these postcard.worthy destinations (4) definitely be
-'on your lst of places to visit. Many are also home to some pretty amazing flora and fauna. The parks are
-extremely popular (5) 'outdoor enthusiasts, who can indulge in their favourite activities like hiking
-or rafting, surrounded (6) nature. The largest national park in the world isnt easily accessible,
-being in @ remote area of Greenland and boasting a permanent population of zero. It's al80 (7) omen
-used to receiving visitors (around 500 a year). Ths is a long way from the estimated 11 milion tourists
-(8) flock to the Great Smoky Mountains of North Carolina and Tennessee in the United States.
-Bi ee
-(C)
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W3_P2_Q01
 set_id=BOOSTER_W3_P2
@@ -3415,25 +4086,6 @@ max_points=1
 error_category=open_cloze
 explanation=WHO/THAT completes the one-word gap grammatically and coherently in the full context.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P3
-section=UOE
-part=3
-type=word_formation
-level=C1
-title=How travel inspired my life
-source_pdf_pages=29
-transcription_status=verified_from_source_scan
-notes=Proofread against the uploaded source scan; gaps and base words verified.
-item_count=8
-instructions=For questions 1-8, read the text below. Use the word given in — capitals at the end of some of the lines to form a word that fits in the gap in the same line. There is an example at the beginning (0). Example: (0) CHILDHOOD Se
-text_begin
-Today, I travel all around the world as a jewellery designer, but travel was also central to my (0) childhood. My parents encouraged my sister and me to keep records of our (1) ........ in journals and to put together scrapbooks with souvenirs of our adventures. Before departure, a private tutor was hired to equip us with the (2) ........ of our destination's native tongue. My poor sister was not a (3) ........ brilliant linguist and found the whole process a considerable strain.
-
-My experience was very different. My wanderlust was (4) ........ when, straight out of school, I had the opportunity to spend periods in India, Eastern Europe, Africa and Asia. I travel like a (5) ........ explorer, absorbing the details of art and architecture, going into the local history and traditions in (6) ........ . I bring this approach to my work today. I am constantly reading, researching and (7) ........ my knowledge. Not (8) ........, every jewellery collection I work on is an utterly unique representation of a part of my life's voyage.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P3_Q01
@@ -3539,60 +4191,6 @@ error_category=word_formation
 explanation=The base word SURPRISE must be changed to SURPRISINGLY, matching the required word class, meaning and form.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W3_P4
-section=UOE
-part=4
-type=key_word_transformations
-level=C1
-title=Key word transformations – The environment
-source_pdf_pages=35
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included. Part 4 text and accepted answers checked against the official scan and answer key.
-item_count=6
-text_begin
-For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.
-
-Key word transformations – The environment
-
-1 Before last Friday, representatives had not been able to reach an agreement.
-
-UNTIL
-
-It wasn't ........ able to reach an agreement.
-
-2 The environmentalist supported his claims with scientific evidence.
-
-BACKED
-
-The environmentalist's ........ with scientific evidence.
-
-3 If nothing is done to combat climate change, one tenth of the area will soon be under water.
-
-STEPS
-
-One tenth of the area will soon be under water ........ counteract climate change.
-
-4 I was totally amazed at how spectacularly beautiful the coastline was.
-
-UTTERLY
-
-What I found ........ beauty of the coastline.
-
-5 As long as you explain your proposal clearly, they will agree.
-
-ACROSS
-
-If ........, they will agree.
-
-6 Solar panels and wind turbines are far more commonplace now.
-
-SIGHT
-
-Solar panels and wind turbines used to ........ before.
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W3_P4_Q01
 set_id=BOOSTER_W3_P4
@@ -3677,24 +4275,6 @@ error_category=key_word_transformations
 explanation=The transformation preserves the original meaning, uses SIGHT unchanged and stays within the three-to-six-word limit.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T1_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Jean Piaget
-instructions=You are going to read an article about a famous psychologist. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
-source_pdf_pages=14,15
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/cae1-t1-p5-p014.webp]]
-[[SCAN:/reading-scans/cae1-t1-p5-p015.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T1_P5_Q31
 set_id=CAE1_T1_P5
@@ -3773,24 +4353,6 @@ error_category=multiple_choice_reading
 explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T1_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=The role of advertising in society today
-instructions=You are going to read four contributions to an online debate about advertising. For questions 37-40, choose from the contributions A-D. The contributions may be chosen more than once. Mark your answers on the separate answer sheet.
-source_pdf_pages=16,17
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/cae1-t1-p6-p016.webp]]
-[[SCAN:/reading-scans/cae1-t1-p6-p017.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T1_P6_Q37
 set_id=CAE1_T1_P6
@@ -3842,47 +4404,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text C expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T1_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=Secrets of the deep
-instructions=You are going to read a magazine article about whale sharks. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-48). There is 'one extra paragraph which you do not need to use. Mark your answers on the separate answer sheet.
-source_pdf_pages=18,19
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-When an animal the size of a very large double-decker bus — the largest fish in the ocean — makes a sudden 90° turn, it has to be for a good reason. As the satellite tracks started to come in from whale sharks which we had tagged off the Galapagos Islands, they clearly showed that as the sharks were swimming away from the islands, they were all reaching a certain point and then making a very abrupt change in direction.
-
-[[41]]
-
-That, among other things, was what The Galapagos Whale Shark Project was attempting to find out. Established to study the population of sharks that visits the islands each year, the primary aim of the research was to find out more about whale shark movements on a local scale.
-
-[[42]]
-
-This involved two main processes. To begin with, we had to be able to identify individual sharks. We used a modified version of photo software initially developed for the mapping of stars and deep-space objects. This worked because the characteristic white spots of the whale shark resemble the human fingerprint in that each pattern is individually unique. By running photographs of the sharks' sides through the software, we could characterise the patterns of spots, and figure out which shark was which.
-
-[[43]]
-
-We also attached tags to the sharks to track their movements. This was done by inserting a small dart through the thick skin into a fatty layer beneath using a pneumatic spear gun and then tethering the tags with a piece of steel cable. They were intended to be towed alongside or above the dorsal fin in order to break the surface and transmit data by satellite. But getting the tags to stay on was easier said than done. For reasons unknown, some came off in less than 24 hours.
-
-[[44]]
-
-The sharks used common departure routes soon after we had tagged them. They headed due north, following a series of sea fissures until they reached the Galapagos Rift Valley system. This zone is where the divergence of two oceanic plates has created a rift system similar to that which runs through eastern Africa. Many reached the margin between the two plates and most then turned west.
-
-[[45]]
-
-Conversely, one juvenile female's track was astounding, overlaying almost perfectly the rift system as it runs west. It is clear that she and the other whale sharks are using geological features as route indicators, just as motorists use, say, familiar buildings. But how the sharks perceive such features thousands of metres below on the ocean floor is as yet unresolved.
-
-[[46]]
-
-The theory we are working on is that the Earth's magnetic field reverses its polarity intermittently over the course of time, thus supplying a source of directional information. Fault systems, rift valleys, ocean trenches and plate margins all emit a distinct magnetic signature that can be used by whale sharks and other species as a virtual map.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T1_P7_Q41
@@ -3961,24 +4482,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T1_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=The Rise of Home Working
-instructions=You are going to read an article about employees who do some or all of their work from home. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
-source_pdf_pages=20,21
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/cae1-t1-p8-p020.webp]]
-[[SCAN:/reading-scans/cae1-t1-p8-p021.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T1_P8_Q47
@@ -4110,24 +4613,6 @@ error_category=multiple_matching
 explanation=Section B contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Howard's Career as a Palaeontologist
-instructions=You are going to read an extract from a novel. For questions 31-36, choose the answer
-source_pdf_pages=36,37
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/cae1-t2-p5-p036.webp]]
-[[SCAN:/reading-scans/cae1-t2-p5-p037.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P5_Q31
 set_id=CAE1_T2_P5
@@ -4206,24 +4691,6 @@ error_category=multiple_choice_reading
 explanation=Option A is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=Sports psychology: a valid discipline?
-instructions=You are going to read four extracts from online articles about sports psychology. For questions
-source_pdf_pages=38,39
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/cae1-t2-p6-p038.webp]]
-[[SCAN:/reading-scans/cae1-t2-p6-p039.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P6_Q37
 set_id=CAE1_T2_P6
@@ -4275,47 +4742,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T2_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=Stargazing in East Africa
-instructions=You are going to read a newspaper article about a new trend in the travel and tourism industry. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
-source_pdf_pages=40,41
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-We are gathered about a campfire on the dusty edge of the Serengeti National Park. After a long day scanning the savannah for creatures with jaws, claws and tusks, the flames are comforting. Normally on one of these trips, this is the moment at which the day starts to wind down, when tourists compare the animals they have had the chance of seeing and capturing on film.
-
-[[41]]
-
-Amateur astronomy is enjoying a surge of popularity and remote hotels around the world are installing telescopes and hiring expert star guides. Nevertheless, when I first heard about the idea of an 'astro-safari', I was sceptical. Wasn't the whole point of going to Africa to look around at hyenas and gazelles, say, rather than up at constellations that have scarcely changed since our ancestors first struggled to stand upright?
-
-[[42]]
-
-So it was with certain qualms that I found myself in Tanzania, on one of the first such safaris in Africa. The plan was simple. We would spend four days travelling through the spectacular Ngorongoro crater and the highlands, before dropping down on to the plain, animal watching by day and stargazing by night. We would hit the Serengeti plains just as 1.5 million wildebeest were making their way across, accompanied by zebras and gazelles, one of east Africa's most thrilling sights.
-
-[[43]]
-
-We were in luck: Nick Howes, a science writer for the European Space Agency, learnt to love astronomy at an early age. A natural communicator, Howes promptly reassured us that degrees in astrophysics are all very well, but cutting-edge astronomy relies on the work of thousands of amateurs. They are just like us, but with better lenses and more patience.
-
-[[44]]
-
-The vocabulary, however, was alluringly alien: not just nebulae and supernovae, but globular clusters and Magellanic Clouds. Howes continued the astral tour even in daylight hours. To do so, he had brought with him a solar scope that you screw into a telescope. This allows you to look directly into the sun, and, if you are lucky, see the huge 'coronal mass injections' that spurt from the surface of our very own star.
-
-[[45]]
-
-In fact, 'seeing' here in the Serengeti — astronomer-speak for clarity — is among the best in the world. But it was the unexpected spectacles that caused the greatest delight: one evening, a great fireball streaked across the sky, seeming to plunge to earth some way to the south.
-
-[[46]]
-
-Appropriate perhaps, considering that this is the part of the world where mankind first lived and looked at the night sky. Within 24 hours of arriving, the raw tourist finds himself asking all the big questions — the origins of the universe, why life started here of all places ... and the relative scariness of hyenas and asteroids. It was completely different to sitting in front of a TV screen where everything seemed more certain.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T2_P7_Q41
@@ -4394,24 +4820,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T2_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=A scientific view of modern art
-instructions=You are going to read an article about scientific interpretations of modern art. For questions 47-56, choose from the sections (A-D). The sections may be chosen more than once.
-source_pdf_pages=42,43
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/cae1-t2-p8-p042.webp]]
-[[SCAN:/reading-scans/cae1-t2-p8-p043.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T2_P8_Q47
@@ -4543,24 +4951,6 @@ error_category=multiple_matching
 explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T3_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Oxytocin
-instructions=You are going to read a newspaper article about research into a chemical. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
-source_pdf_pages=58,59
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/cae1-t3-p5-p058.webp]]
-[[SCAN:/reading-scans/cae1-t3-p5-p059.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T3_P5_Q31
 set_id=CAE1_T3_P5
@@ -4639,24 +5029,6 @@ error_category=multiple_choice_reading
 explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T3_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=The Changing Face of Childhood in the USA
-instructions=You are going to read four extracts from online articles about childhood. For questions 37-40, choose from the extracts A-D. The extracts may be chosen more than once.
-source_pdf_pages=60,61
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/cae1-t3-p6-p060.webp]]
-[[SCAN:/reading-scans/cae1-t3-p6-p061.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T3_P6_Q37
 set_id=CAE1_T3_P6
@@ -4708,47 +5080,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text A expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=Before Google ... the alternative travel guide to Poland
-instructions=You are going to read an extract from a newspaper article about travelling in Poland. Six paragraphs have been removed from the extract. Choose from the paragraphs A-G the one which fits each gap (41-46). There is one extra paragraph which you do not need to use.
-source_pdf_pages=62,63
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-"I am going to take you to my friend's studio. It's quite unusual," says Jarek, my unofficial guide to Krakow, in one of the biggest understatements of the trip. He leads me to an old cottage. It looks abandoned, but then we are greeted by a man who, with his grey beard and sheepskin waistcoat, looks like an ageing pop star. Outside there's a two-metre-high carved totem pole and the remains of a bonfire are still burning.
-
-[[41]]
-
-As a couch surfer I am used to finding golden opportunities through strangers, but the unusual thing about this connection is that it came about after I tried to reconstruct a tourism project that was, in many ways, the precursor to modern social networking. Back in the 1980s, US-born Jim Haynes, a renowned supporter of alternative arts, had an idea. Convinced that the best travel experiences come from the people you meet, he set himself a goal: he would match inquisitive travellers with gracious hosts by creating an alternative guidebook, in a country he loved. Poland: People to People finally hit the bookshelves in 1991.
-
-[[42]]
-
-Eventually enough people came forward with their contact details and a willingness to participate in the scheme. Jim assembled all the names in what read like a personal address book. The cover price of £6 bought you the contact details of 1,000 strangers.
-
-[[43]]
-
-Intrigued by the idea of taking modern networking back to its roots, I wondered whether, many years later, Jim's hosts would still be willing to greet an unknown visitor from overseas. But first I would have to track them down.
-
-[[44]]
-
-At first I planned to communicate only by post and sent several letters before realising I lacked the patience. Feeling a little guilty, I opted for the 21st-century solution: searching for the names on the Internet. Many were dead ends; others simply never responded. But gradually people did come forward and I received various slightly stunned replies. Before long I had meetings arranged in Krakow and Gdansk.
-
-[[45]]
-
-I skip the organised tours, though, and head off to meet Wladek, a 50-year-old academic. We meet in a 19th-century café, where an ultra-polite waitress sets down a massive plate of Polish dumplings before us. It is too much for any tourist to eat.
-
-[[46]]
-
-I'm charmed by Krakow and reluctant to leave Wladek, who proves to be excellent company, and the café, but I already have my next meeting arranged a 10-hour train ride away. Gdansk, with its immaculately renovated buildings and little boutiques, is clearly a world away from the city it was in the 1990s. I have arranged to meet kite-surfing enthusiast Mariusz at a restaurant there. Poland: People to People lives on, it seems. I know Jim will be delighted.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P7_Q41
@@ -4827,24 +5158,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=Nature books
-instructions=You are going to read four book reviews. For questions 47-56, choose from the sections (A-D).
-source_pdf_pages=64,65
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/cae1-t3-p8-p064.webp]]
-[[SCAN:/reading-scans/cae1-t3-p8-p065.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P8_Q47
@@ -4976,24 +5289,6 @@ error_category=multiple_matching
 explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Seeing the world
-instructions=You are going to read an article about travel. For questions 31-36, choose the answer (A, B, C or D) which you think fits best according to the text. Mark your answers on the separate answer sheet.
-source_pdf_pages=80,81
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/cae1-t4-p5-p080.webp]]
-[[SCAN:/reading-scans/cae1-t4-p5-p081.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P5_Q31
 set_id=CAE1_T4_P5
@@ -5072,24 +5367,6 @@ error_category=multiple_choice_reading
 explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=Why Translation Matters
-instructions=You are going to read four reviews of a book entitled Why Translation Matters. For questions 37-40, choose from the reviews A-D. The reviews may be chosen more than once. Mark your answers on the separate answer sheet.
-source_pdf_pages=82,83
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/cae1-t4-p6-p082.webp]]
-[[SCAN:/reading-scans/cae1-t4-p6-p083.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P6_Q37
 set_id=CAE1_T4_P6
@@ -5141,47 +5418,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T4_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=The Story of Grass
-instructions=You are going to read part of a review of a book about grass. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (41~46). There is one extra paragraph which you do not need to use.
-source_pdf_pages=84,85
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-There is no doubting the radical importance of Graham Harvey's message. His case is that grass is unique among the world's plants not just in its arctic-to-equator adaptability and species diversity, but in the power of its elaborate root system to enrich soil with useful carbon compounds. The method of land management that turns this to advantage is mixed crop and cattle farming using crop rotation.
-
-[[41]]
-
-This traditional, nature-based farming practice received a boost in the 17th century, when it was discovered that fertility was enormously increased if the pasture incorporated clover flowers, since clover has the ability to convert nitrogen from the atmosphere into soluble soil nitrates. In the century and a half to 1850, grain yields and animal products doubled because of the clover revolution, and British farming was able to feed an extra seven million people as the industrial revolution spurred population growth.
-
-[[42]]
-
-When these incentives were introduced in the last quarter of the 20th century, farmers scrambled to get rid of their cattle, plough up their pastures, and turn their farms into various kinds of cereal monoculture, with fields full of single crops. These need heavy applications of chemicals to maintain yields. The high levels of artificial nitrogen that result make the crops susceptible to disease, particularly mildew, which have to be countered with yet more chemicals in the form of fungicides.
-
-[[43]]
-
-Intensive agriculture has had a similar effect on hay meadows. These used to flourish in Britain, and their mix of grasses supported the evolution of a rich diversity of animals and birds. Covering grassland with artificial fertiliser reverses this process. It allows one or two fast-growing varieties to eliminate the others, together with the wildlife they supported, producing monotonous acres of rye-grass.
-
-[[44]]
-
-In Harvey's view, British agriculture seems little more than an elaborate means of transferring money from the taxpayer to the pockets of the agrochemical industry, and laying waste the countryside in the process. The more intensive the farm, the more its owner can claim public subsidy. The European Union's common agricultural policy does not escape his attention. It has, in his opinion, outlawed the traditional mixed farm, since it requires farmers to choose between intensive crop or intensive cattle production.
-
-[[45]]
-
-Harvey runs the story of British agriculture alongside the story of the American prairies — flat grasslands without trees. Again the hero is grass, and the villains are well-meaning farmers with no understanding of ecology. The earliest American settlers, in the 17th century, saw no use for the prairies and labelled them desert. In fact, although arid, they were a rich and delicate ecosystem, supporting vast herds of bison which, at their peak, equalled in weight the entire current human population of North America. In three generations, all this was wiped out. The bison were slaughtered, and the prairies ploughed up for wheat and maize.
-
-[[46]]
-
-Now the prairies have to be dosed with artificial fertiliser and pesticides, and the government spends millions of dollars on irrigation. It is a depressing picture.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T4_P7_Q41
@@ -5260,24 +5496,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph F is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T4_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=Careers in archaeology
-instructions=You are going to read an article in which five people talk about careers in archaeology. For questions 47-56, choose from the books (A-E). Mark your answers on the separate answer sheet.
-source_pdf_pages=86,87
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/cae1-t4-p8-p086.webp]]
-[[SCAN:/reading-scans/cae1-t4-p8-p087.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T4_P8_Q47
@@ -5409,24 +5627,6 @@ error_category=multiple_matching
 explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W1_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Knowing the score
-instructions=You are going to read a review of a book about sport and philosophy. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.
-source_pdf_pages=36,37
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/booster-w1-p5-p036.webp]]
-[[SCAN:/reading-scans/booster-w1-p5-p037.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W1_P5_Q01
 set_id=BOOSTER_W1_P5
@@ -5505,24 +5705,6 @@ error_category=multiple_choice_reading
 explanation=Option C is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W1_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=The world we live in is changing fast – but is this a good thing?
-instructions=You are going to read four extracts from articles in which experts give their views on progress and tradition. For questions 1-4, choose from the experts A-D. The experts may be chosen more than once.
-source_pdf_pages=42,43
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/booster-w1-p6-p042.webp]]
-[[SCAN:/reading-scans/booster-w1-p6-p043.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W1_P6_Q01
 set_id=BOOSTER_W1_P6
@@ -5574,49 +5756,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=Making profits from sustainable industry
-instructions=You are going to read a magazine article about green businesses. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
-source_pdf_pages=48,49
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-Green companies have succeeded in doing what few thought possible — making sustainability profitable. Over the nine years I've spent trying to persuade business leaders to embrace sustainability, the question I've most often been asked is, "What's the business case for sustainability?" This question is always delivered in a sceptical tone, carrying the unspoken suggestion that there is no business case, or at least not a very compelling one. And, for those nine years, I'd always wished I had a better answer.
-
-[[1]]
-
-These so-called green giants — which include electric car maker Tesla — manufacture a stunning array of goods, including burritos and beauty cream, sports shoes and organic baby food. In the process, they have succeeded in doing what the market long thought impossible: they've made sustainability profitable.
-
-[[2]]
-
-Despite this, it's not hard to see why so many people are surprised by the idea that a sustainable business could be profitable. In his 1970 essay, "The Social Responsibility of Business is to Increase its Profits", American economist Milton Friedman dismissed any business with a "social conscience" as "unadulterated socialism". In the following years, the notion that sustainability, or social good generally, and profit are fundamentally opposing forces hardened into fact in the minds of most business leaders.
-
-[[3]]
-
-For years, the conventional wisdom had been that sustainability is likely to lose a company money. Many still think that, at best, it's a strategy to reduce costs, through things like energy and water efficiency.
-
-[[4]]
-
-This phenomenon is also evident in companies which have diversified to produce sustainable as well as conventional brands. Many businesses, perhaps sensing a change in people's attitudes, now market environmentally-friendly products alongside their more well-established cousins. The greener products are outselling their more traditional equivalents.
-
-[[5]]
-
-Such a demonstration of acceptance by the capitalist establishment is profoundly important. It represents a fundamental shift and evidence that this sector of the market has long-term viability. For the green giants, sustainability is not about how they save money, but about how they make it. No longer are sustainability and profit at odds; on the contrary, rather than being a drag on profit, sustainability can drive it.
-
-In many companies, sustainability is a department, but for the green giants, it's a value that is fully integrated into how their business is organised.
-
-[[6]]
-
-Together, the green giants have proven that businesses based on sustainability and social good are an extremely viable alternative to business as usual. With global climate change being taken increasingly seriously in many places around the world, close your eyes, and the pace of change will have only accelerated by the time you open them again. Ignore the green giants' example at your peril.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P7_Q01
@@ -5695,24 +5834,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph C is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=Training course reviews
-instructions=You are going to read four reviews of training courses from a training company website. For questions 1-10, choose from the reviews (A-D). The reviews may be chosen more than once.
-source_pdf_pages=54,55
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/booster-w1-p8-p054.webp]]
-[[SCAN:/reading-scans/booster-w1-p8-p055.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P8_Q01
@@ -5844,24 +5965,6 @@ error_category=multiple_matching
 explanation=Section A contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Reclaiming our city streets
-instructions=You are going to read an article about solving traffic problems in cities. For questions 1-6 k fits best according to the text.
-source_pdf_pages=38,39
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/booster-w2-p5-p038.webp]]
-[[SCAN:/reading-scans/booster-w2-p5-p039.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P5_Q01
 set_id=BOOSTER_W2_P5
@@ -5940,24 +6043,6 @@ error_category=multiple_choice_reading
 explanation=Option B is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=Banning single-use plastic products
-instructions=You are going to read four extracts from articles in which experts give their views on banning
-source_pdf_pages=44,45
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/booster-w2-p6-p044.webp]]
-[[SCAN:/reading-scans/booster-w2-p6-p045.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P6_Q01
 set_id=BOOSTER_W2_P6
@@ -6009,47 +6094,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text B expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W2_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=How the microwave oven was invented
-instructions=You are going to read a magazine article about microwave ovens. Six paragraphs have been
-source_pdf_pages=50,51
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-The microwave is, these days, a common sight in many kitchens around the world and cherished for the speed at which it heats up food and drink. However, it is a little-known fact that its creation came about almost completely by accident, when a self-taught US engineer named Percy Spencer, who was working on improvements to military hardware, realised a snack he had in his pocket had melted.
-
-[[1]]
-
-But Spencer's experience and intelligence led him to the realisation that there were domestic applications for this discovery. He had grown up in a poor family in the backwoods of Maine, in the eastern United States, and had minimal formal education. He had also had little or no direct exposure to emerging technologies of the time, such as cars and electrical power.
-
-[[2]]
-
-On joining the Navy at the age of 18, he gained a fascination for the radio and taught himself everything he could about the new technology, amongst other things. This was to stand Spencer in good stead after leaving the Navy. He gained employment at the American Appliance Company, which was later renamed the Raytheon Manufacturing Company. He rapidly gained renown as one of their most accomplished engineers.
-
-[[3]]
-
-As he did so, he happened to put his hands into his pockets, where he habitually kept his snack. That day, it happened to be a candy bar made from peanuts and caramel. To his surprise, he found that it had turned into a warm, melted mess in his pocket whilst he had been at work. Had it been a chocolate bar, this would not have been so remarkable, as chocolate becomes liquid at a relatively low temperature. Melting a peanut and caramel bar, however, requires substantially larger amounts of energy.
-
-[[4]]
-
-Recognising that it was microwaves produced by the magnetron that had heated it to such a degree, his employer immediately patented the invention. The launch of the first commercial microwave oven came just two years later. Costing around $5,000 (which equates to well over $50,000 these days), it weighed about 340 kg and was almost two metres tall.
-
-[[5]]
-
-Eventually, the company worked hard to bring down the price and to create models of a more convenient size, and sales of the microwave oven mushroomed. According to US government figures, in excess of 90% of American homes had microwaves by 1997. Although not all countries have been so quick in embracing this appliance, its acceptance is growing day by day and it has rapidly become the quickest method of heating up food and drink across the planet.
-
-[[6]]
-
-And all of this progress stems from Spencer's realisation that a melting candy bar in his pocket had far greater significance than a trip to the dry cleaners! In 1999, Percy Spencer was finally given his rightful place alongside great inventors such as Thomas Edison and the Wright Brothers in the National Inventors Hall of Fame.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W2_P7_Q01
@@ -6128,24 +6172,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph B is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W2_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=The rise and fall of the newspaper
-instructions=You are going to read an article about the rise and fall in popularity of newspapers. For questions 1-10, choose from the sections (A-D). The sections may be chosen more than once. In which section does the author
-source_pdf_pages=56,57
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/booster-w2-p8-p056.webp]]
-[[SCAN:/reading-scans/booster-w2-p8-p057.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W2_P8_Q01
@@ -6277,24 +6303,6 @@ error_category=multiple_matching
 explanation=Section C contains or paraphrases the information in the statement, as confirmed by the official key.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W3_P5
-section=Reading
-part=5
-type=multiple_choice_reading
-level=C1
-title=Using video gaming in education
-instructions=You are going to read an article about using video games in education. For questions 1-6 k fits best according to the text.
-source_pdf_pages=40,41
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-[[SCAN:/reading-scans/booster-w3-p5-p040.webp]]
-[[SCAN:/reading-scans/booster-w3-p5-p041.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W3_P5_Q01
 set_id=BOOSTER_W3_P5
@@ -6373,24 +6381,6 @@ error_category=multiple_choice_reading
 explanation=Option D is the answer given in the official key and is supported by the corresponding statement or inference in the passage.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W3_P6
-section=Reading
-part=6
-type=cross_text_multiple_matching
-level=C1
-title=Behaviour in schools
-instructions=You are going to read four extracts from articles in which academics give their views on behaviour in schools. For questions 1-4, choose from the academic A-D. The academics may be chosen more than once.
-source_pdf_pages=46,47
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=4
-text_begin
-[[SCAN:/reading-scans/booster-w3-p6-p046.webp]]
-[[SCAN:/reading-scans/booster-w3-p6-p047.webp]]
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W3_P6_Q01
 set_id=BOOSTER_W3_P6
@@ -6442,49 +6432,6 @@ max_points=2
 error_category=cross_text_multiple_matching
 explanation=Text D expresses the view described in the statement; this is confirmed by the official answer key.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P7
-section=Reading
-part=7
-type=gapped_text
-level=C1
-title=Replacing arts subjects in schools
-instructions=You are going to read a newspaper article about the arts. Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.
-source_pdf_pages=52,53
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=6
-text_begin
-Despite a lack of resources, we need a commitment to creativity in schools.
-
-In 2006, 84-year-old American novelist Kurt Vonnegut wrote a letter to a class of schoolchildren who had asked him to visit. He was too ill to travel, but offered them instead the following lesson for life: "Practise any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow."
-
-[[1]]
-
-Middle-class parents have long known this; it's why they get their children signed up for music groups before they can walk. Being "cultured" opens doors even if you don't pursue a career in the arts. Private schools know this too, and usually offer a rich and varied extracurricular programme of artistic activities. But Vonnegut's advice is not so easy to follow for those who have little opportunity or guidance when it comes to the arts.
-
-[[2]]
-
-Perhaps an even greater worry is that creative writing, art, drama and music, once an integral part of the curriculum, are having their status reduced in favour of more obviously "commercially useful" subjects. In the UK, for example, there has recently been a huge decline in the number of pupils taking qualifications in arts subjects. In a challenging global economy, the arts are increasingly seen as "soft subjects".
-
-[[3]]
-
-This observation was reinforced when my 14-year-old son recently chose subject options for the two subsequent academic years. The fact that his school decided to send an accompanying letter assuring parents that the "soft subjects" would not be considered inferior to maths and sciences by the top universities was telling in itself.
-
-[[4]]
-
-So, if schools and government are unable or unwilling to stem the tide in favour of more "commercially useful" subjects at the expense of artistic ones, where do those whose career aims do not neatly fall into the commercially useful category turn? Charitable institutions which provide grants and bursaries for talented young people are springing up in many countries, or finding themselves in greater demand. Students who were unable to develop their skills for want of the most basic provision — the cost of a musical instrument or the train fare to attend a drama school audition — are getting their financial needs met, and are also helped in other ways.
-
-[[5]]
-
-But the obvious problem with charities is that, by definition, they can't be everywhere and such an approach is no substitute for a nationwide educational commitment to the arts that reflects the value of the creative sector to the economy and to personal wellbeing. The performing arts should not become luxuries for well-off children, because talent doesn't go with money.
-
-[[6]]
-
-To achieve this worthy aim, governments should consider not only the inclusion of the expressive arts in all state school curricula, but also investment in teachers who can provide art, drama and music outside the timetable, for the less tangible — but no less valuable — purpose of expanding minds and, yes, growing souls.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P7_Q01
@@ -6563,24 +6510,6 @@ max_points=2
 error_category=gapped_text
 explanation=Paragraph D is the official-key match. The exact paragraph boundaries and gap placement require a final visual check before publication.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P8
-section=Reading
-part=8
-type=multiple_matching
-level=C1
-title=The pros and cons of ecotourism
-instructions=Read the sections and choose the section which contains the information. Sections may be chosen more than once.
-source_pdf_pages=58,59
-transcription_status=verified_from_source_scan
-notes=Source pages are displayed directly from the uploaded PDF scan; questions, options and official answer key were verified.
-item_count=10
-text_begin
-[[SCAN:/reading-scans/booster-w3-p8-p058.webp]]
-[[SCAN:/reading-scans/booster-w3-p8-p059.webp]]
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P8_Q01

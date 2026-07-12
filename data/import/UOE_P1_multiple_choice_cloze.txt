@@ -81,6 +81,442 @@ Test 1
 text_end
 [/SET]
 
+[SET]
+set_id=ADV5_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=How do frogs jump such long distances?
+source_pdf_pages=12
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — How do frogs jump such long distances?
+For questions 1–8, choose A, B, C or D.
+
+When (0) reviewing whether it is muscle strength that produces the powerful movements of certain animals, it is important to remember frogs. A mistaken (1) ______ many of us make is that animals which produce powerful movements attain this power through having large muscles. But the abilities of frogs (2) ______ to the fact that this is not always the (3) ______. They lack huge muscles, yet are capable of leaping very long distances. Researchers Thomas Roberts and Henry Astley have shown that, in fact, the secret of frogs' abilities (4) ______ in elastic mechanisms in their legs.
+
+They used 3D X-ray video and scanning technology to keep (5) ______ of changes in a frog's legs before, during and after a leap. The images supply (6) ______ of how the leg tendons act like springs, releasing stored-up energy to propel the frog forward. This is what accounts for the truly exceptional jumping abilities of frogs. According to Roberts, while frogs are interesting in their own (7) ______, their study also provides (8) ______ into how elastic mechanisms in tendons may work in animal movement generally.
+
+1 A outlook | B reasoning | C assumption | D logic
+2 A point | B indicate | C refer | D illustrate
+3 A condition | B matter | C case | D model
+4 A holds | B lies | C stems | D stays
+5 A pace | B touch | C place | D track
+6 A data | B material | C evidence | D backing
+7 A right | B concern | C style | D aspect
+8 A understanding | B vision | C perception | D insight
+text_end
+[/SET]
+
+[SET]
+set_id=ADV5_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Ancient flying reptiles
+source_pdf_pages=16
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — Ancient flying reptiles
+For questions 1–8, choose A, B, C or D.
+
+Pterosaurs, a (0) set of flying reptiles, evolved from land-based animals. They first (1) ______ as flying creatures around 245 million years ago, and became extinct 150 million years later, around the same time as dinosaurs. In a new study, scientists have shown how they steadily evolved and became twice as good at flying over the (2) ______ of their existence.
+
+Fossil records, combined with a new (3) ______ of flight based on modern birds, were used to measure the reptiles' flight efficiency and to (4) ______ how they evolved over time. The findings showed their evolution was caused by consistent small improvements over a long period rather than the sudden evolutionary (5) ______ which had previously been suggested.
+
+Over their 150-million-year history, pterosaurs' body shape and size (6) ______ to use 50% less energy when flying. They increased in mass by 10 times, with some (7) ______ weighing more than 300 kg. However, according to the study, there is one group of pterosaurs — azhdarchids — whose flying ability is (8) ______ to have remained rudimentary in comparison with other pterosaurs.
+
+1 A arrived | B emerged | C encountered | D revealed
+2 A course | B term | C passage | D path
+3 A version | B model | C design | D imitation
+4 A enlighten | B determine | C instruct | D dictate
+5 A leap | B blast | C spring | D flash
+6 A amended | B converted | C adapted | D conformed
+7 A conclusively | B fundamentally | C lastly | D ultimately
+8 A fabled | B narrated | C famed | D reputed
+text_end
+[/SET]
+
+[SET]
+set_id=ADV5_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Tiger sculpture sparks armed police response
+source_pdf_pages=26
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1 — Tiger sculpture sparks armed police response
+For questions 1–8, choose A, B, C or D.
+
+Police in Kent, UK, recently (0) sprang into action in response to reports of a large wild cat spotted in the area. Armed officers, and even a helicopter, were (1) ______ following a call from a member of the public, who had caught sight of a tiger while walking near the village of Underriver. However, the animal (2) ______ out to be a life-size sculpture created by artist Juliet Simpson.
+
+On hearing that police were investigating a tiger on the (3) ______, Ms Simpson set off towards her statue. 'Out of the field opposite came a whole crowd of armed police, who by then knew that it was all a false alarm.' The artwork, which had (4) ______ the same spot close to a footpath for over 20 years, was designed to look realistic. (5) ______, it had never previously been reported as (6) ______ a threat to the public.
+
+Police confirmed that armed officers had attended the scene as a (7) ______ and, following a search of the area, had (8) ______ that there was no risk to the public.
+
+1 A taken up | B came loose | C remained | D brought in
+2 A turned | B ended | C got | D grew
+3 A clear | B open | C loose | D wild
+4 A occupied | B stood | C remained | D stayed
+5 A Therefore | B Otherwise | C Hence | D Nonetheless
+6 A staging | B offering | C posing | D triggering
+7 A security | B defence | C precaution | D protection
+8 A settled | B exposed | C authorised | D established
+text_end
+[/SET]
+
+[SET]
+set_id=SAMPLE1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Studying black bears
+source_pdf_pages=49,54
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1
+
+For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
+There is an example at the beginning (0).
+
+Mark your answers on the separate answer sheet.
+
+Example:
+
+0 A straight B common C everyday D conventional
+
+0 A B C D
+
+Studying black bears
+After years studying North America's black bears in the (0) ........ way, wildlife biologist Luke
+
+Robertson felt no closer to understanding the creatures. He realised that he had to (1) ............ their
+
+trust. Abandoning scientific detachment, he took the daring step of forming relationships with the
+
+animals, bringing them food to gain their acceptance.
+
+The (2) ........ this has given him into their behaviour has allowed him to dispel certain myths about
+
+bears. (3) ........ to popular belief, he contends that bears do not (4) ........ as much for fruit as
+
+previously supposed. He also (5) ........ claims that they are ferocious. He says that people should
+
+not be (6) by behaviour such as swatting paws on the ground, as this is a defensive, rather than
+
+an aggressive, act.
+
+However, Robertson is no sentimentalist. After devoting years of his life to the bears, he is under no
+
+(7) ........ about their feelings for him. It is clear that their interest in him does not (8) ........... beyond the
+
+food he brings.
+
+1 A catch B win C achieve D receive
+
+2 A perception B awareness C insight D vision
+
+3 A Opposite B Opposed C Contrary D Contradictory
+
+4 A care B bother C desire D hope
+
+5 A concludes B disputes C reasons D argues
+
+6 A misguided B misled C misdirected D misinformed
+
+7 A error B doubt C illusion D impression
+
+8 A expand B spread C widen D extend
+text_end
+[/SET]
+
+[SET]
+set_id=SAMPLE2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=New uses for salt mines
+source_pdf_pages=41
+transcription_status=verified
+notes=
+item_count=8
+text_begin
+Part 1
+
+For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
+There is an example at the beginning (0). 1 A provision B utility C material D commodity
+
+Mark your answers on the separate answer sheet. 2 A match B similarity C parallel D equivalent
+
+Example: critical demanding extreme straining
+3 A B C D
+0 A deposits B piles C stores D stocks
+4 A regarded B admired C approved D honoured
+0 A B C D
+5 A exploited B extracted C exposed D extended
+
+6 A profitable B agreeable C beneficial D popular
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+
+New uses for salt mines
+7 A put down B turned over C made out D set about
+Geological (0) ........ of salt were formed millions of years ago, when what is now land, lay under the
+
+sea. It is hard to believe that salt is now such a cheap (1) ........ , because centuries ago it was the 8 A enable B retain C ensure D support
+
+commercial (2) ........ of today's oil. The men who mined salt became wealthy and, although the work
+
+was (3) ........ and frequently dangerous, a job in a salt mine was highly (4) ........ .
+
+CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
+Nowadays, the specific microclimates in disused mines have been (5) ........ for the treatment of
+
+respiratory illnesses such as asthma, and the silent, dark surroundings in a mine are considered
+
+(6) ........ in encouraging patients to relax.
+
+In addition, some disused mines have been (7) ........ to different commercial enterprises, although
+
+keeping up-to-date with the technology of mining is essential to (8) ........ visitors' safety. Some of the
+
+largest underground chambers even host concerts, conferences and business meetings.
+READING AND USE OF ENGLISH | SAMPLE PAPER 2
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The camera never lies
+source_pdf_pages=8,9
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+The camera never lies
+
+Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in a garden (1) ........, he thought he was seeing scientific proof that these tiny creatures really existed. He published the photographs alongside an article he wrote, (2) ........ fairies as supernatural wonders. It was not until 1939 that the two ladies who took the photos admitted these were (3) ........ . They simply cut out pictures of fairies from a book and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity of the trick (6) ........ a basic principle of photography: that the camera cannot lie.
+
+But it can, and always could. Today, we are used to computer software (7) ........ us to rework our digital images, and it is a (8) ........ that photography ever had a true age of innocence. From the moment cameras began capturing reality, that reality was being altered.
+
+1 A venue B setting C background D surrounding
+2 A calling B naming C attributing D acknowledging
+3 A false B faulty C fake D fictional
+4 A arranged B spaced C settled D distributed
+5 A categorically B unavoidably C substantially D undeniably
+6 A weakens B undermines C demolishes D dismantles
+7 A letting B supporting C enabling D empowering
+8 A fantasy B legend C dream D myth
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Promotion is good for your health
+source_pdf_pages=30,31
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Promotion is good for your health
+
+A recent study suggests that being promoted isn't just good for your bank (0) ........, it's also good for your health. Researchers found that those who work in jobs with better promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working in departments with double the average promotion (2) ........ had a twenty percent better chance of escaping serious illness.
+
+The researchers (3) ........ into account factors such as family background, pre-existing medical conditions and educational level. (4) ........, they could be confident that the lower occurrences of illness were not simply due to a healthier or more (5) ........ upbringing.
+
+The results seem to (6) ........ earlier studies showing that people who win prestigious awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive those who are less fortunate. As the author of the report says, 'When our findings are put together with the large body of other (7) ........ literature, there is little (8) ........ that achieving a higher position at work is good for the health.'
+
+1 A forecasts B advances C predictions D prospects
+2 A scale B rate C degree D ratio
+3 A set B took C put D made
+4 A Anyway B Moreover C Consequently D Admittedly
+5 A privileged B preferred C entitled D honoured
+6 A call for B go over C back up D lead to
+7 A related B combined C referred D incorporated
+8 A hesitation B question C reservation D opposition
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=The Japanese Bobtail
+source_pdf_pages=52,53
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+The Japanese Bobtail
+
+Cats have been (0) ........ of the lives of human beings for thousands of years. One interesting breed which fascinates scientists is the Japanese Bobtail – a domestic cat with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of other cats. The breed has been known in Japan for centuries, and it features (2) ........ in folklore. In many traditions, cats are frequently (3) ........ of fear and mistrust, but in Japanese stories the Bobtail tends to be (4) ........ as a force for (5) ........ . The image of a Bobtail seated with one paw raised is considered a lucky charm.
+
+But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere. As a result, the then emperor declared that all cats should have their tails cut short as a (8) ........ measure. Science, however, has a less 'romantic' explanation based on genetics.
+
+1 A nearly B similarly C accurately D closely
+2 A prominently B obviously C appreciably D significantly
+3 A products B articles C objects D elements
+4 A assumed B portrayed C exposed D disclosed
+5 A tight B virtue C good D truth
+6 A come by B get at C hit on D go for
+7 A took B caught C set D seized
+8 A defensive B restrictive C preventative D corrective
+text_end
+[/SET]
+
+[SET]
+set_id=CAE1_T4_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Dressing for success
+source_pdf_pages=74,75
+transcription_status=verified_from_source_scan
+notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
+
+Dressing for success
+
+Whether you like it or not, when you go for a job interview your personal appearance will be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start (1) ........ an opinion about your capabilities, your attitude to work and how well you might (2) ........ their organisation. The right image is one that helps the interviewer (3) ........ you as one of their team and (4) ........ them that you could represent their company. So, find out about the company dress code prior to the interview, or see how people are dressed on their corporate website.
+
+However, even if you (5) ........ the image right, it may not (6) ........ be remarked on. The interviewer will just sense that you 'look right', and feel (7) ........ to being convinced that you are the right person for the job. But if you get it wrong, it can be very difficult to (8) ........ the negative impression you may already have made.
+
+1 A shaping B making C creating D forming
+2 A put up with B settle down to C fit in with D live up to
+3 A visualise B reflect C observe D foresee
+4 A reassures B clarifies C encourages D supports
+5 A put B got C hit D set
+6 A significantly B necessarily C appropriately D strictly
+7 A open B free C alert D aware
+8 A overtake B overthrow C overdo D overcome
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W1_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Don't miss the event of the year!
+source_pdf_pages=13
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+Don't miss the event of the year!
+
+Now in its seventh (0) ........, this year, the Rogers Estate Festival starts a day earlier: on Thursday, which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in a (1) ........ like no other, with the castle ruins in the background. This year's line-up includes an array of talented actors alongside a very (2) ........ selection of both local and international musicians and visual artists.
+
+Visitors can take (3) ........ an impressive range of exhibits and experience both the permanent and (4) ........ collections through their five senses. In addition to large-audience sessions, there will be more intimate moments, including poetry recitals, (5) ........ by soloists plus painters and sculptors at work. Last but not least, on Friday, we are in for a special (6) ........ . Belinda Wilde, our guest of honour this year, is (7) ........ her debut at the festival, giving us a preview of a new (8) ........ of her famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
+
+1 A scenery B set C setting D stage
+2 A supreme B high C luxury D elite
+3 A off B up C in D on
+4 A provisional B temporary C casual D momentary
+5 A performances B productions C acts D presentations
+6 A joy B bliss C treat D treatment
+7 A giving B making C taking D doing
+8 A constitution B distribution C organisation D arrangement
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W2_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=Hobbyists around the world unite
+source_pdf_pages=14
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+Hobbyists around the world unite
+
+No doubt you may be (0) ........ to think that in this day and age, traditional pursuits are no longer 'in' and that we would have (1) ........ away with old-fashioned hobbies that don't involve computers. Nothing of the (2) ........ . If anything, the internet has made it easier for people with specialist hobbies in different corners of the planet to (3) ........ themselves to their passion and to support one another. With one quick press of a key, (4) ........ car collectors are online, comparing notes and restoration (5) ........ with enthusiasts in distant lands. If a part needs replacing, a vast electronic inventory is out there (6) ........ and waiting. After a day in the field, birdwatchers can post sightings they consider worth sharing with like-minded enthusiasts who will immediately (7) ........ to their passion.
+
+Thankfully, face-to-face contact does still take place. Historic car rallies and races have a large following. Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) ........, the cards missing from their collections.
+
+1 A done B taken C put D sent
+2 A type B sort C variety D brand
+3 A focus B present C stick D devote
+4 A ancient B historical C classic D epic
+5 A means B techniques C crafts D systems
+6 A handy B willing C ready D open
+7 A relate B share C connect D join
+8 A bid B purchase C invest D subscribe
+text_end
+[/SET]
+
+[SET]
+set_id=BOOSTER_W3_P1
+section=UOE
+part=1
+type=multiple_choice_cloze
+level=C1
+title=News sharing
+source_pdf_pages=17
+transcription_status=verified_from_source_scan
+notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
+item_count=8
+text_begin
+For questions 1–8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0).
+
+News sharing
+
+The way we obtain our news coverage is always (0) ........ . The public can gain information on current events from a wide variety of (1) ........ . Centuries ago, news was obtained either by word of mouth, with town criers (2) ........ citizens of news and by-laws, or from print, with notices posted on doors of the local inn. With the (3) ........ of radio, whole families could (4) ........ together in the living room to listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) ........ in the most used rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact that many will (6) ........ in to them on their computer or tablet instead of turning their radio dial.
+
+With the (7) ........ use of social media, news travels faster than ever before. Minute-by-minute coverage of the news no longer relies on TV networks. Increased internet access enables individuals to share photos, opinions and even live videos with one sharp (8) ........ on the screen.
+
+1 A opportunities B causes C ways D sources
+2 A explaining B informing C noting D communicating
+3 A arrival B entrance C starting D approach
+4 A team B gang C gather D unite
+5 A area B site C position D point
+6 A turn B switch C tune D start
+7 A sweeping B absolute C large D widespread
+8 A stroke B tap C squeeze D nudge
+text_end
+[/SET]
+
 [ITEM]
 id=ADV5_T1_P1_Q01
 set_id=ADV5_T1_P1
@@ -168,36 +604,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
-
-[SET]
-set_id=ADV5_T2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=How do frogs jump such long distances?
-source_pdf_pages=12
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 1 — How do frogs jump such long distances?
-For questions 1–8, choose A, B, C or D.
-
-When (0) reviewing whether it is muscle strength that produces the powerful movements of certain animals, it is important to remember frogs. A mistaken (1) ______ many of us make is that animals which produce powerful movements attain this power through having large muscles. But the abilities of frogs (2) ______ to the fact that this is not always the (3) ______. They lack huge muscles, yet are capable of leaping very long distances. Researchers Thomas Roberts and Henry Astley have shown that, in fact, the secret of frogs' abilities (4) ______ in elastic mechanisms in their legs.
-
-They used 3D X-ray video and scanning technology to keep (5) ______ of changes in a frog's legs before, during and after a leap. The images supply (6) ______ of how the leg tendons act like springs, releasing stored-up energy to propel the frog forward. This is what accounts for the truly exceptional jumping abilities of frogs. According to Roberts, while frogs are interesting in their own (7) ______, their study also provides (8) ______ into how elastic mechanisms in tendons may work in animal movement generally.
-
-1 A outlook | B reasoning | C assumption | D logic
-2 A point | B indicate | C refer | D illustrate
-3 A condition | B matter | C case | D model
-4 A holds | B lies | C stems | D stays
-5 A pace | B touch | C place | D track
-6 A data | B material | C evidence | D backing
-7 A right | B concern | C style | D aspect
-8 A understanding | B vision | C perception | D insight
-text_end
-[/SET]
 
 [ITEM]
 id=ADV5_T2_P1_Q01
@@ -287,38 +693,6 @@ error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
 
-[SET]
-set_id=ADV5_T3_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Ancient flying reptiles
-source_pdf_pages=16
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 1 — Ancient flying reptiles
-For questions 1–8, choose A, B, C or D.
-
-Pterosaurs, a (0) set of flying reptiles, evolved from land-based animals. They first (1) ______ as flying creatures around 245 million years ago, and became extinct 150 million years later, around the same time as dinosaurs. In a new study, scientists have shown how they steadily evolved and became twice as good at flying over the (2) ______ of their existence.
-
-Fossil records, combined with a new (3) ______ of flight based on modern birds, were used to measure the reptiles' flight efficiency and to (4) ______ how they evolved over time. The findings showed their evolution was caused by consistent small improvements over a long period rather than the sudden evolutionary (5) ______ which had previously been suggested.
-
-Over their 150-million-year history, pterosaurs' body shape and size (6) ______ to use 50% less energy when flying. They increased in mass by 10 times, with some (7) ______ weighing more than 300 kg. However, according to the study, there is one group of pterosaurs — azhdarchids — whose flying ability is (8) ______ to have remained rudimentary in comparison with other pterosaurs.
-
-1 A arrived | B emerged | C encountered | D revealed
-2 A course | B term | C passage | D path
-3 A version | B model | C design | D imitation
-4 A enlighten | B determine | C instruct | D dictate
-5 A leap | B blast | C spring | D flash
-6 A amended | B converted | C adapted | D conformed
-7 A conclusively | B fundamentally | C lastly | D ultimately
-8 A fabled | B narrated | C famed | D reputed
-text_end
-[/SET]
-
 [ITEM]
 id=ADV5_T3_P1_Q01
 set_id=ADV5_T3_P1
@@ -406,38 +780,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
-
-[SET]
-set_id=ADV5_T4_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Tiger sculpture sparks armed police response
-source_pdf_pages=26
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 1 — Tiger sculpture sparks armed police response
-For questions 1–8, choose A, B, C or D.
-
-Police in Kent, UK, recently (0) sprang into action in response to reports of a large wild cat spotted in the area. Armed officers, and even a helicopter, were (1) ______ following a call from a member of the public, who had caught sight of a tiger while walking near the village of Underriver. However, the animal (2) ______ out to be a life-size sculpture created by artist Juliet Simpson.
-
-On hearing that police were investigating a tiger on the (3) ______, Ms Simpson set off towards her statue. 'Out of the field opposite came a whole crowd of armed police, who by then knew that it was all a false alarm.' The artwork, which had (4) ______ the same spot close to a footpath for over 20 years, was designed to look realistic. (5) ______, it had never previously been reported as (6) ______ a threat to the public.
-
-Police confirmed that armed officers had attended the scene as a (7) ______ and, following a search of the area, had (8) ______ that there was no risk to the public.
-
-1 A taken up | B came loose | C remained | D brought in
-2 A turned | B ended | C got | D grew
-3 A clear | B open | C loose | D wild
-4 A occupied | B stood | C remained | D stayed
-5 A Therefore | B Otherwise | C Hence | D Nonetheless
-6 A staging | B offering | C posing | D triggering
-7 A security | B defence | C precaution | D protection
-8 A settled | B exposed | C authorised | D established
-text_end
-[/SET]
 
 [ITEM]
 id=ADV5_T4_P1_Q01
@@ -527,74 +869,6 @@ error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
 
-[SET]
-set_id=SAMPLE1_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Studying black bears
-source_pdf_pages=49,54
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 1
-
-For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
-There is an example at the beginning (0).
-
-Mark your answers on the separate answer sheet.
-
-Example:
-
-0 A straight B common C everyday D conventional
-
-0 A B C D
-
-Studying black bears
-After years studying North America's black bears in the (0) ........ way, wildlife biologist Luke
-
-Robertson felt no closer to understanding the creatures. He realised that he had to (1) ............ their
-
-trust. Abandoning scientific detachment, he took the daring step of forming relationships with the
-
-animals, bringing them food to gain their acceptance.
-
-The (2) ........ this has given him into their behaviour has allowed him to dispel certain myths about
-
-bears. (3) ........ to popular belief, he contends that bears do not (4) ........ as much for fruit as
-
-previously supposed. He also (5) ........ claims that they are ferocious. He says that people should
-
-not be (6) by behaviour such as swatting paws on the ground, as this is a defensive, rather than
-
-an aggressive, act.
-
-However, Robertson is no sentimentalist. After devoting years of his life to the bears, he is under no
-
-(7) ........ about their feelings for him. It is clear that their interest in him does not (8) ........... beyond the
-
-food he brings.
-
-1 A catch B win C achieve D receive
-
-2 A perception B awareness C insight D vision
-
-3 A Opposite B Opposed C Contrary D Contradictory
-
-4 A care B bother C desire D hope
-
-5 A concludes B disputes C reasons D argues
-
-6 A misguided B misled C misdirected D misinformed
-
-7 A error B doubt C illusion D impression
-
-8 A expand B spread C widen D extend
-text_end
-[/SET]
-
 [ITEM]
 id=SAMPLE1_P1_Q01
 set_id=SAMPLE1_P1
@@ -683,61 +957,6 @@ error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
 
-[SET]
-set_id=SAMPLE2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=New uses for salt mines
-source_pdf_pages=41
-transcription_status=verified
-notes=
-item_count=8
-text_begin
-Part 1
-
-For questions 1 – 8, read the text below and decide which answer (A, B, C or D) best fits each gap.
-There is an example at the beginning (0). 1 A provision B utility C material D commodity
-
-Mark your answers on the separate answer sheet. 2 A match B similarity C parallel D equivalent
-
-Example: critical demanding extreme straining
-3 A B C D
-0 A deposits B piles C stores D stocks
-4 A regarded B admired C approved D honoured
-0 A B C D
-5 A exploited B extracted C exposed D extended
-
-6 A profitable B agreeable C beneficial D popular
-READING AND USE OF ENGLISH | SAMPLE PAPER 2
-
-New uses for salt mines
-7 A put down B turned over C made out D set about
-Geological (0) ........ of salt were formed millions of years ago, when what is now land, lay under the
-
-sea. It is hard to believe that salt is now such a cheap (1) ........ , because centuries ago it was the 8 A enable B retain C ensure D support
-
-commercial (2) ........ of today's oil. The men who mined salt became wealthy and, although the work
-
-was (3) ........ and frequently dangerous, a job in a salt mine was highly (4) ........ .
-
-CAMBRIDGE ENGLISH: ADVANCED HANDBOOK FOR TEACHERS
-Nowadays, the specific microclimates in disused mines have been (5) ........ for the treatment of
-
-respiratory illnesses such as asthma, and the silent, dark surroundings in a mine are considered
-
-(6) ........ in encouraging patients to relax.
-
-In addition, some disused mines have been (7) ........ to different commercial enterprises, although
-
-keeping up-to-date with the technology of mining is essential to (8) ........ visitors' safety. Some of the
-
-largest underground chambers even host concerts, conferences and business meetings.
-READING AND USE OF ENGLISH | SAMPLE PAPER 2
-text_end
-[/SET]
-
 [ITEM]
 id=SAMPLE2_P1_Q01
 set_id=SAMPLE2_P1
@@ -825,35 +1044,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Verified option.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T1_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=The camera never lies
-source_pdf_pages=8,9
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-Arthur Conan Doyle, creator of the Sherlock Holmes stories, (0) ........ himself to be a
-rational man, a scientist even. But in 1920, when he saw photographs of fairies taken in
-a garden (1) ........ , he thought he was seeing scientific proof that these tiny creatures
-really existed. He published the photographs alongside an article he wrote, (2) ........
-fairies as supernatural wonders. It was not until 1939 that the two ladies who took the
-photos admitted these were (3) ......... They simply cut out pictures of fairies from a book
-and (4) ........ them among flowers. The results are (5) ........ beautiful. But the simplicity
-of the trick (6) ........ a basic principle of photography, that the camera cannot lie.
-But it can, and always could. Today, we are used to computer software (7) ........ US
-to rework our digital images and it is a (8) ........ that photography ever had a true
-age of innocence. From the moment cameras began capturing reality, that reality was
-being altered.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T1_P1_Q01
@@ -959,36 +1149,6 @@ error_category=multiple_choice_cloze
 explanation=Option D (myth) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Promotion is good for your health
-source_pdf_pages=30,31
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-A recent study suggests that being promoted isn't just good for your bank (0) ........ ,
-it's also good for your health. Researchers found that those who work in jobs with better
-promotion (1) ........ are less likely to develop serious illnesses. Specifically, those working
-in departments with double the average promotion (2) ........ had a twenty percent better
-chance of escaping serious illness.
-The researchers (3) ........ into account factors such as family background, pre-existing
-medical conditions and educational level. (4) ........, they could be confident that the lower
-occurrences of illness were not simply due to a healthier or more (6) ........ upbringing.
-The results seem to (6) ........ earlier studies showing that people who win prestigious
-awards, such as an Oscar or Nobel Prize during their career, have a tendency to outlive
-those who are less fortunate. As the author of the report says, 'When our findings are
-put together with the large body of other (7) ........ literature, there is little (8) ........ that
-achieving a higher position at work is good for the health.'
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T2_P1_Q01
 set_id=CAE1_T2_P1
@@ -1092,34 +1252,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Option B (question) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
-
-[SET]
-set_id=CAE1_T3_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=The Japanese Bobtail
-source_pdf_pages=52,53
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-Cats have been (0) ........ of the lives of human beings for thousands of years. One
-interesting breed which fascinates scientists is the Japanese Bobtail - a domestic cat
-with an unusual 'bobbed' tail more (1) ........ resembling the tail of a rabbit than that of
-other cats. The breed has been known in Japan for centuries, and it features (2) ........
-in folklore. in many traditions, cats are frequently (3) ........ of fear and mistrust but in
-Japanese stories the Bobtail tends to be (4) ........ a8 a force for (6) ........ . The image of
-a Bobtail seated with one paw raised is considered a lucky charm.
-But how did the Bobtail (6) ........ its short tail? One legend tells of a sleeping cat whose
-long tail (7) ........ fire. In a panic, it tore through the town, spreading flames everywhere.
-As a result, the then emperor declared that all cats should have their tails cut short as a
-(8)........ measure. Science, however, has a less 'romantic' explanation based on genetics.
-text_end
-[/SET]
 
 [ITEM]
 id=CAE1_T3_P1_Q01
@@ -1225,43 +1357,6 @@ error_category=multiple_choice_cloze
 explanation=Option C (preventative) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=CAE1_T4_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Dressing for success
-source_pdf_pages=74,75
-transcription_status=verified_from_scan
-notes=Imported from Cae_1_-_4_examination_papers.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap. There is an example at the beginning (0). Mark your answers on the separate answer sheet.
-
-Whether you like it or not, when you go for a job interview your personal appearance will
-be judged as an (0) ........ of who you are. Just from looking at you, the interviewer will start
-(1)........an opinion about your capabilities, your attitude to work and how well you might
-(2) ....... their organisation. The right image is one that helps the interviewer (3) ........ You
-as one of their team and (4) ........ them that you could represent their company. So, find
-'out about the company dress code prior to the interview, or see how people are dressed
-'on their corporate website.
-However, even iIf you (6) ........ the image right, it may not (6) ........ be remarked on. The
-interviewer will just sense that you 'look right', and feel (7) ........ to being convinced
-that you are the right person for the job. But iIf you get it wrong, it can be very difficult to
-(8) ........ the negative impression you may already have made.
-
-1A. shaping B_ making C creating D_ forming
-2 A putupwith B settledownto ¢_fitinwith D liveupto
-3 A visualise B reflect C observe D foresee
-4 A reassures B clarifies encourages D supports
-5 A put B got Cc hit D set
-6 A significantly B necessarily C appropriately strictly
-7 A open B free C alert D aware
-8 A overtake B_ overthrow C overdo D overcome
-text_end
-[/SET]
-
 [ITEM]
 id=CAE1_T4_P1_Q01
 set_id=CAE1_T4_P1
@@ -1365,34 +1460,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Option D (overcome) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W1_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Don't miss the event of the year!
-source_pdf_pages=13
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and $ : decide which answer (A, B, C or D) best , fits each gap. There is an example at the ' li a
-
-Now in its seventh (0) , this year, the Rogers Estate Festival starts a day earlier: on Thursday,
-which means visitors have a whole extra day to enjoy it. This showcase of art and music takes place in
-a(l) like no other, with the castle runs in the background. This year's lineup includes an array
-of talented actors alongside a very (2) selection of both local and international musicians and
-visual artists.
-Visitors can take (3) an impressive range of exhibits and experience both the permanent and
-(4) collections through their five senses. In addition to large-audience sessions, there will be
-more intimate moments, including poetry recitals, (5) by soloists plus painters and sculptors
-at work. Last but not least, on Friday, we are in for a special (6) Belinda Wilde, our guest of
-honour this year, is (7) her debut at the festival, giving us a preview of a new (8) of her
-famous symphony. If you still haven't bought your pass to the festival, what are you waiting for?
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W1_P1_Q01
@@ -1498,48 +1565,6 @@ error_category=multiple_choice_cloze
 explanation=Option D (arrangement) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
 
-[SET]
-set_id=BOOSTER_W2_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=Hobbyists around the world unite
-source_pdf_pages=14
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and decide which answer (A, B, C or D) best = ! fits each gap. There is an example at the
-
-No doubt you may be (0) to think that in this day and age, traditional pursuits are no longer 'in'
-and that we would have (1) away with oldfashioned hobbies that don't involve computers. Nothing
-of the (2) if anything, the internet has made it easier for people with specialist hobbies in
-diferent corners of the planet to (3) themselves to their passion and to support one another.
-With one quick press of a key, (4) car collectors are online, comparing notes and restoration
-(5) with enthusiasts in distant lands. if a part needs replacing, a vast electronic inventory is out
-there (6) and waiting. After a day in the field, birdwatchers can post sightings they consider
-worth sharing with likeminded enthusiasts who will immediately (7) to their passion.
-Thankfully, face to face contact does still take place. Historic car rales and races have a large following.
-Come Sunday morning, children and adults alike still meet to swap, or perhaps even (8) the
-cards missing from their collections.
-1A done B taken C put D sent
-2 Atype B sort C variety D brand
-3. A focus B present stick D devote
-4 Ancient —_B historical € classic D epic
-5 Ameans —B techniques crafts D systems
-6 A handy B wiling € ready D open
-7 A relate B share € connect —_D join
-8 Abid B purchase C invest D subscribe
-@ Exam tips
-'+ Read through the whole text first for overall meaning
-'+ Read again and look at the words before and after the gaps in the text and check for clues like
-determiners (that, this, etc.), verb forms, pronouns and prepositions. These words may be the
-reason why one particular option is the correct word for the gap.
-14 ADVANCED READING AND USE OF ENGLISH I PART 1 I 2 'C Cambridge University Press and UCLES 2018
-text_end
-[/SET]
-
 [ITEM]
 id=BOOSTER_W2_P1_Q01
 set_id=BOOSTER_W2_P1
@@ -1643,33 +1668,6 @@ max_points=1
 error_category=multiple_choice_cloze
 explanation=Option B (purchase) is the only choice that fits the meaning, grammar and collocation of the complete sentence.
 [/ITEM]
-
-[SET]
-set_id=BOOSTER_W3_P1
-section=UOE
-part=1
-type=multiple_choice_cloze
-level=C1
-title=News sharing
-source_pdf_pages=17
-transcription_status=verified_from_scan
-notes=Imported from Exam_Booster_Advancedpdf.pdf; official key included.
-item_count=8
-text_begin
-For questions 1-8, read the text below and = decide which answer (A, B, C or D) best fits each gap. There is an example at the
-
-The way we obtain our news coverage is always (0) . The public can gain information on current
-events from a wide variety of (1) - Centuries ago, news was obtained either by word of mouth,
-With town crierS (2) ...mm Citizens of news and bylaws, or from print, with notices posted on doors of
-the local inn. With the (3) . of radio, whole families Could (4)... together in the living room to
-listen to the daily news bulletin. Even today, when TV sets occupy a prime (5) in the most used
-rooms in our house, some listeners remain faithful to their radio stations. Except, of course, for the fact
-that many wil (6) in to them on their computer or tablet instead of turning their radio ial
-With the (7) use of social media, news travels faster than ever before. Minute-by-minute coverage
-of the news no longer relies on TV networks. Increased internet access enables individuals to share
-photos, opinions and even lve videos with one sharp (8) on the screen.
-text_end
-[/SET]
 
 [ITEM]
 id=BOOSTER_W3_P1_Q01

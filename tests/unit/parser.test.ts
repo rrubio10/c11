@@ -187,3 +187,22 @@ it("loads repaired new Part 3 and all new Reading sets without OCR fallbacks", a
   expect(part8?.items[0].prompt.length).toBeGreaterThan(20);
   expect(part8?.items[0].options.map((option) => option.key)).toEqual(["A", "B", "C", "D"]);
 });
+
+it("keeps every new Part 1 option set and every new Part 2 gap usable", async () => {
+  const source = await readFile(path.join(process.cwd(), "data/import/C1_exercises_master.txt"), "utf8");
+  const result = parseMaster(source);
+  const ids = [
+    ...[1, 2, 3, 4].flatMap((test) => [`CAE1_T${test}_P1`, `CAE1_T${test}_P2`]),
+    ...[1, 2, 3].flatMap((worksheet) => [`BOOSTER_W${worksheet}_P1`, `BOOSTER_W${worksheet}_P2`]),
+  ];
+
+  for (const id of ids) {
+    const set = result.sets.find((candidate) => candidate.setId === id);
+    expect(set, id).toBeDefined();
+    expect(set?.transcriptionStatus).toContain("verified");
+    for (const item of set?.items ?? []) {
+      expect(set?.fullText.match(new RegExp(`\\(${item.number}\\)`, "g")), `${id} gap ${item.number}`).toHaveLength(1);
+      if (set?.part === 1) expect(item.options, `${id} options ${item.number}`).toHaveLength(4);
+    }
+  }
+});
